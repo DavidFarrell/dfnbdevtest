@@ -5,8 +5,10 @@ __all__ = ['DatabaseManager']
 
 # %% ../nbs/database_manager.ipynb 2
 import json
+from bs4 import BeautifulSoup
+import re
 
-# %% ../nbs/database_manager.ipynb 3
+# %% ../nbs/database_manager.ipynb 4
 class DatabaseManager:
     def __init__(self, config):
         """
