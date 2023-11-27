@@ -149,3 +149,5 @@ checklink/cookies.txt
 
 # Quarto
 .quarto
+
+nbs/chunk_json_format.json
