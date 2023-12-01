@@ -1,0 +1,1139 @@
+{
+    "Country Slug": "switzerland",
+    "Country Name": "Switzerland",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/switzerland",
+        "content_id": "3985ac9b-d0c0-423b-9936-94a3ac3bed62",
+        "description": "FCDO travel advice for Switzerland. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Health section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:29:32.230Z"
+                },
+                {
+                    "note": "Latest update: Summary - there may be increased security in place over the Christmas and New Year period, including at Christmas markets and other major events that might attract large crowds; you should remain vigilant and follow the advice of local authorities",
+                    "public_timestamp": "2018-12-03T14:28:05.126Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about possible increased security over the Christmas and New Year period",
+                    "public_timestamp": "2019-01-04T14:51:52.257Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T17:13:06.305Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:43:54.178Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T18:39:29.879Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T14:19:07.659Z"
+                },
+                {
+                    "note": "Summary section - addition of link to guidance on doing business in Switzerland",
+                    "public_timestamp": "2019-03-25T18:50:21.822Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section and summary - updated information and advice on the threat from terrorism in Switzerland, reflecting a reduced threat",
+                    "public_timestamp": "2019-04-05T09:33:14.507Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Outdoor activities and adventure tourism) - updated safety information ",
+                    "public_timestamp": "2019-06-19T11:47:45.057Z"
+                },
+                {
+                    "note": "Latest update: Summary - extreme temperatures are forecast across most of Switzerland in the last week of June, with daytime temperatures over 35\u00baC and overnight temperatures over 20\u00baC in parts of the country; Swiss authorities have issued advice on sensible precautions to take",
+                    "public_timestamp": "2019-06-26T16:34:48.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - Updated information on heatwave across some parts of Switzerland in the first week of July",
+                    "public_timestamp": "2019-07-01T08:41:45.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on extreme temperatures in the first week of July",
+                    "public_timestamp": "2019-07-03T07:45:05.000Z"
+                },
+                {
+                    "note": "Safety and security (Rail travel) - updated link for information about rail services",
+                    "public_timestamp": "2019-10-31T11:19:45.000Z"
+                },
+                {
+                    "note": "Summary \u2013 addition of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2019-11-12T18:10:52.000Z"
+                },
+                {
+                    "note": "Summary \u2013 removal of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2020-01-06T13:27:34.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T19:26:04.000Z"
+                },
+                {
+                    "note": "Addition of information about coronavirus (COVID-19) following a confirmed case in Switzerland ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-02-26T19:21:56.000Z"
+                },
+                {
+                    "note": "Addition of information about the government of Switzerland ban of events involving more than 1000 people until 15 March 2020 ('Health' page)",
+                    "public_timestamp": "2020-03-02T12:48:14.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following announcement that Flybe has ceased operations ",
+                    "public_timestamp": "2020-03-05T04:17:18.000Z"
+                },
+                {
+                    "note": "Addition of information on travel restrictions in place in response to coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-12T19:40:07.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following announcement of travel and border restrictions.",
+                    "public_timestamp": "2020-03-12T19:57:49.000Z"
+                },
+                {
+                    "note": "Update on information regarding restrictions on entry ('Summary', 'Safety and Security', 'Entry requirements' and 'Health')",
+                    "public_timestamp": "2020-03-13T22:30:34.000Z"
+                },
+                {
+                    "note": "Addition of information on ''extraordinary measures'' and further travel restrictions implemented by the Swiss government from 17 March ('Summary', 'Entry Requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-17T15:46:59.000Z"
+                },
+                {
+                    "note": "Addition of information on ''extraordinary measures'' and further travel restrictions implemented by the Swiss government from 17 March ('Summary', 'Entry Requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-18T23:02:26.000Z"
+                },
+                {
+                    "note": "Update on further travel restrictions implemented by the Swiss government ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-03-19T17:07:34.000Z"
+                },
+                {
+                    "note": "The Swiss Government have implemented \u201cextraordinary measures\u201d in response to coronavirus (COVID-19). Gatherings of more than 5 people are banned. All shops, restaurants, bars, leisure and entertainment facilities will be closed until at least 19 April 2020 with exemptions for essential outlets such as grocery stores, pharmacies, health facilities and public transport. The public are strongly advised to stay at home and employers urged to allow staff to work from home. (Summary and Health)",
+                    "public_timestamp": "2020-03-20T23:23:32.000Z"
+                },
+                {
+                    "note": "Updated information on travel restrictions ('Coronavirus' Return to the UK' 'Entry requirements')",
+                    "public_timestamp": "2020-03-25T20:14:49.000Z"
+                },
+                {
+                    "note": "Updated information on travel restrictions ('Return to the UK' page)",
+                    "public_timestamp": "2020-03-31T21:39:55.000Z"
+                },
+                {
+                    "note": "Updated advice for people wishing to return to the UK from Switzerland (\u2019Return to the UK\u2019  pages)",
+                    "public_timestamp": "2020-04-03T15:13:28.000Z"
+                },
+                {
+                    "note": "Updated advice for people wishing to return to the UK from Switzerland (\u2019Return to the UK\u2019  pages)",
+                    "public_timestamp": "2020-04-07T10:27:23.000Z"
+                },
+                {
+                    "note": "Updated information on travel via France ('return to the UK')",
+                    "public_timestamp": "2020-04-10T12:10:43.000Z"
+                },
+                {
+                    "note": "Updated information that local measures to combat the spread of coronavirus (COVID-19), will remain in place until at least 26 April ('Coronavirus' pages)",
+                    "public_timestamp": "2020-04-14T16:33:22.000Z"
+                },
+                {
+                    "note": "Additional information added on local measures, returning to the UK and staying safe in country. ('All sections')",
+                    "public_timestamp": "2020-04-24T20:28:14.000Z"
+                },
+                {
+                    "note": "Additional information added on local measures ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-01T14:11:13.000Z"
+                },
+                {
+                    "note": "Updated information on local measures and travel restrictions in relation to coronavirus. ('Coronavirus', 'Return to the UK' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-05-07T17:36:20.000Z"
+                },
+                {
+                    "note": "Updated information on local measures and travel restrictions in relation to coronavirus. ('Coronavirus', 'Return to the UK' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-05-12T17:04:07.000Z"
+                },
+                {
+                    "note": "Update to information about KLM flights via Schiphol ('Return to the UK' page) and to information on family reunification and intention to relax border restrictions from 15 June ('Entry requirements' page) ",
+                    "public_timestamp": "2020-05-19T16:13:14.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T12:29:00.000Z"
+                },
+                {
+                    "note": "Update on relaxed border restrictions for travel between Switzerland and Germany, Austria and France from 15 June ('Entry requirements' page), flights to Manchester and Dublin ('Return to the UK' page) and changes to rules on gatherings from 30 May ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-29T17:54:03.000Z"
+                },
+                {
+                    "note": "Update to information on operation of commercial flights from Switzerland ('Return to the UK' page) and phased relaxation of coronavirus (COVID-19) \"extraordinary measures\" including gatherings ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-03T11:46:17.000Z"
+                },
+                {
+                    "note": "Updated information about relaxing social distancing measures ('Staying during coronavirus' page) and relaxing of border restrictions from 15 June ('Entry requirements' page) ",
+                    "public_timestamp": "2020-06-05T14:44:08.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:34:14.000Z"
+                },
+                {
+                    "note": "Update to information on the rules for gatherings ('Staying during coronavirus' page) ",
+                    "public_timestamp": "2020-06-09T09:22:02.000Z"
+                },
+                {
+                    "note": "Updated information on flight options and coronavirus related travel restrictions ('Return to the UK' and 'Entry Requirements' pages) ",
+                    "public_timestamp": "2020-06-12T16:14:22.000Z"
+                },
+                {
+                    "note": "Updated information on travel and entry restrictions in relation to coronavirus ('Summary', 'Return to the UK' and 'Entry Requirements' pages) ",
+                    "public_timestamp": "2020-06-15T16:37:13.000Z"
+                },
+                {
+                    "note": "Update to information and advice on Swiss Government ending of \"extraordinary situation\", commercial flights from Zurich and social distance and face mask restrictions ('Summary', 'Return to the UK' and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-06-23T10:09:58.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-01T11:39:47.000Z"
+                },
+                {
+                    "note": "From 4 July, Switzerland is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:44:29.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) measures including the use of face masks, third country entry restrictions, quarantine and transit requirements ('Coronavirus', 'Local laws and customs' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-07T08:55:10.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures including the use of face masks ('Coronavirus' page). Update to information on alcohol driving limits ('Safety and security'page)",
+                    "public_timestamp": "2020-07-09T11:41:39.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures, including rules on hygiene, social distancing, face masks and contact tracing ('Coronavirus' page), on road conditions ('Safety and security' page) and entry requirement information links ('Entry requirements' page). Also editorial changes made to most pages.",
+                    "public_timestamp": "2020-08-14T12:46:24.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures, including travel from Basel-Mulhouse-Freiburg airport ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-14T22:16:59.000Z"
+                },
+                {
+                    "note": "Update to information and advice on wearing of face masks on all flights and quarantine requirements for UK travellers ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-19T16:36:05.000Z"
+                },
+                {
+                    "note": "Updated information on self-isolation requirements; if you are returning to Scotland from Switzerland, you may need to self-isolate on your return; FCO travel advice for Switzerland remains unchanged at this time (\u2018Summary\u2019 page) ",
+                    "public_timestamp": "2020-08-20T16:22:00.000Z"
+                },
+                {
+                    "note": "The FCO advise against all but essential travel to Switzerland, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-08-27T16:23:44.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T13:59:04.000Z"
+                },
+                {
+                    "note": "From 14 September, travellers from the British Virgin Islands will also be subject to quarantine. ('Summary' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-09-11T17:20:01.000Z"
+                },
+                {
+                    "note": "Update to information on the wearing of face masks at airports and quarantine measures from 28 September ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-25T14:00:00.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine on entry to Switzerland for travellers who have visited Gibraltar or the British Virgin Islands within the past 10 days ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-09-25T15:48:35.000Z"
+                },
+                {
+                    "note": "Update to information on entry restrictions and quarantine requirements for travel to Switzerland ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-02T11:50:15.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Switzerland in 2019 (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2020-10-05T11:19:33.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions on public gatherings and compulsory wearing of face masks in certain settings ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-19T17:56:09.000Z"
+                },
+                {
+                    "note": "Advice that UK travellers will no longer be required to quarantine on arrival; restrictions on public gatherings and compulsory wearing of face masks in certain settings (Summary, Coronavirus and Entry requirements)",
+                    "public_timestamp": "2020-10-28T20:03:07.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T11:05:43.000Z"
+                },
+                {
+                    "note": "Addition information on terrorist attacks in Switzerland ('Terrorism' page)",
+                    "public_timestamp": "2020-11-06T20:48:11.000Z"
+                },
+                {
+                    "note": "Update to information on entry restrictions for travellers arriving from the UK and some third countries ('Entry requirements' page). Update on restrictions in place in bars and restaurants ('Coronavirus' page). ",
+                    "public_timestamp": "2020-11-16T16:59:14.000Z"
+                },
+                {
+                    "note": "Update to information on public spaces and services ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-11T19:38:48.000Z"
+                },
+                {
+                    "note": "Suspension of air travel to and from the United Kingdom",
+                    "public_timestamp": "2020-12-20T22:58:54.000Z"
+                },
+                {
+                    "note": "Additional information on a general entry ban for travellers from the UK, and flight suspension until further notice (\"Summary\" and \"Entry Requirements\" pages)",
+                    "public_timestamp": "2020-12-21T18:37:25.000Z"
+                },
+                {
+                    "note": "Additional information on a general entry ban for travellers from the UK, and flight suspension until further notice ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-23T17:28:42.000Z"
+                },
+                {
+                    "note": "Update to ('Summary') ('Entry Requirements') ('Health') ",
+                    "public_timestamp": "2020-12-31T18:40:37.000Z"
+                },
+                {
+                    "note": "Update to information on entry to Switzerland from 'high risk' countries ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-01-06T16:12:40.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Switzerland (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-01-13T16:18:46.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions on public places and services in Switzerland ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-14T15:29:40.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 entry and quarantine requirements ('Summary' and 'Entry Requirements' pages",
+                    "public_timestamp": "2021-01-28T20:33:47.000Z"
+                },
+                {
+                    "note": "Update to information on restrictions on entry to Switzerland ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-02-05T17:11:06.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Switzerland (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-11T16:50:46.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-02-11T22:24:01.000Z"
+                },
+                {
+                    "note": "Update on COVID-19 restrictions and removal of information on transit via Geneva to France ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-03-05T16:00:58.000Z"
+                },
+                {
+                    "note": "Updated information regarding quarantine requirements in Switzerland ('Summary' and 'Entry Requirements').",
+                    "public_timestamp": "2021-03-25T18:01:05.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions for public places and services; restaurants, bars and clubs have now reopened ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-20T15:29:50.000Z"
+                },
+                {
+                    "note": "Update to information on changes to quarantine requirements from 5pm on 27 May; anyone arriving in Switzerland from the United Kingdom, regardless of nationality, is required to self-isolate for 10 days from the date of arrival ('Entry requirements' page). ",
+                    "public_timestamp": "2021-05-27T15:51:42.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus restrictions in public spaces ('Coronavirus' page) ",
+                    "public_timestamp": "2021-05-28T16:24:06.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-03T11:02:49.000Z"
+                },
+                {
+                    "note": "Information on new guidance for Covid restrictions and entry requirements (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2021-06-25T16:33:48.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Switzerland, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-07-08T16:25:56.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Switzerland (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T08:37:38.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for Switzerland ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-23T16:56:37.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for a Swiss Digital COVID Certificate if you received your vaccination in Switzerland (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-27T16:13:18.000Z"
+                },
+                {
+                    "note": "Update to entry requirements for Switzerland",
+                    "public_timestamp": "2021-08-03T17:37:50.000Z"
+                },
+                {
+                    "note": "Update to the 'Entry requirements' section. ",
+                    "public_timestamp": "2021-08-06T13:59:32.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Switzerland (\u2018Coronavirus\u2019 page) \r\n",
+                    "public_timestamp": "2021-08-11T14:33:49.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 30 August Switzerland will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-26T18:32:28.000Z"
+                },
+                {
+                    "note": "Switzerland has moved to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-31T13:21:22.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T12:05:55.000Z"
+                },
+                {
+                    "note": "Updated information on Switzerland's COVID-19 restrictions and testing requirements; proof of vaccination, proof of recovery from a COVID-19 infection or a negative test result is required for entry into large-scale outdoor events, this will extended to other public places and services from 13 September ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-09-09T16:10:09.000Z"
+                },
+                {
+                    "note": "Information on what licences and documents you should have while driving in Switzerland ('Safety and security' pages)",
+                    "public_timestamp": "2021-09-15T08:25:32.000Z"
+                },
+                {
+                    "note": "Updated information on Switzerland's COVID-19 restrictions and testing requirements: NHS Covid Certificates will be accepted for entry into indoor hospitality, cultural activities and indoor events from 20 September; and entry requirements ('Coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-09-17T15:33:50.000Z"
+                },
+                {
+                    "note": "Updated information on Switzerland's COVID-19 restrictions and testing requirements: NHS Covid Certificates will be accepted for entry into indoor hospitality, cultural activities and indoor events until 24 October ('Coronavirus' pages)",
+                    "public_timestamp": "2021-10-11T16:48:37.000Z"
+                },
+                {
+                    "note": "Updated information on Switzerland's COVID-19 restrictions and testing requirements: NHS COVID Certificates will be no longer be accepted for entry into indoor hospitality, cultural activities and indoor from 25 October ('Coronavirus' pages).",
+                    "public_timestamp": "2021-10-21T11:45:30.000Z"
+                },
+                {
+                    "note": "Information on obtaining a GHIC or EHIC card before leaving the UK ('Health' page)",
+                    "public_timestamp": "2021-11-01T16:21:14.000Z"
+                },
+                {
+                    "note": "Updated information on the acceptance of NHS COVID Pass from 1 November ('Coronavirus - COVID-19 restrictions' section)",
+                    "public_timestamp": "2021-11-01T20:27:52.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-02T15:20:49.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-11T14:32:35.000Z"
+                },
+                {
+                    "note": "Updated information on travellers using UK proof of recovery or vaccine status ('Coronavirus' page) and addition of information on entering Switzerland with confirmation notification for the cross-border provision of services ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-11T15:27:12.000Z"
+                },
+                {
+                    "note": "Updated entry requirements for arrivals from the UK. From 8pm on 27 November 2021, you must have proof of vaccination and proof of a negative COVID-19 test result to enter Switzerland. On entry, you must also self-quarantine for 10 days. This is an emerging issue and more detail will be provided as the Swiss Government make further announcements. (\u2018Summary\u2019 and \u2018Entry requirements\u2019) pages",
+                    "public_timestamp": "2021-11-27T20:20:44.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for arrivals from the UK. From 8pm on 27 November 2021, you must have proof of vaccination and proof of a negative COVID-19 test result to enter Switzerland, which can be a PCR or antigen test. On entry, you must also self-quarantine for 10 days. Those arriving from UK who wish to transit to another country will need to self-quarantine in Switzerland for 10 days. (\u2018Summary\u2019 and \u2018Entry requirements\u2019) pages.",
+                    "public_timestamp": "2021-11-28T13:58:25.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements.  Arrivals from the UK must have proof of vaccination and proof of a negative COVID-19 test result to enter Switzerland, and self-quarantine for 10 days. Update clarifies there is no quarantine requirement for those in transit airside at the airport. (\u2018Entry requirements\u2019) page. ",
+                    "public_timestamp": "2021-11-29T08:43:22.000Z"
+                },
+                {
+                    "note": "Update clarifies that those travelling onward to another country need not to quarantine, as long as travel through Switzerland is less than 24 hours and does not involve a stopover. (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-11-30T11:33:17.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements for travellers from the UK have been removed from 4 December with travellers having to follow tightened testing requirements (See 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-03T19:54:17.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for travellers from the UK (\u2018Entry requirements' page)",
+                    "public_timestamp": "2021-12-08T16:34:35.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:19:47.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Switzerland (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-17T15:39:11.000Z"
+                },
+                {
+                    "note": "From Monday 20 December, travellers will be able to use a negative lateral flow test (not older than 24 hours) to enter Switzerland. Fully vaccinated or recovered travellers will no longer have to take day 4 and 7 tests. (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-17T17:41:08.000Z"
+                },
+                {
+                    "note": "Updated information the eligibility to enter Switzerland from 20 December when a rapid antigen test (not older than 24 hours) will also be required (See \"Entry requirements\" page). ",
+                    "public_timestamp": "2021-12-19T14:31:09.000Z"
+                },
+                {
+                    "note": "Updated information the eligibility to enter Switzerland: lateral flow tests (not older than 24 hours) can now be used to enter Switzerland, fully vaccinated or recovered travellers no longer have to take day 4 and 7 tests (See 'Entry requirements' page).",
+                    "public_timestamp": "2021-12-20T15:17:37.000Z"
+                },
+                {
+                    "note": "Updated information: unvaccinated travellers who are eligible to enter Switzerland no longer need to report their arrival to the relevant cantonal office (See 'Entry requirements' page).",
+                    "public_timestamp": "2021-12-21T15:33:48.000Z"
+                },
+                {
+                    "note": "Addition of advice to also check the travel advice for any countries you will transit when travelling to or from Switzerland ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-31T15:36:52.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules in response to Coronavirus ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-31T18:30:29.000Z"
+                },
+                {
+                    "note": "Updated information on travel to Switzerland through France (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-07T19:45:18.000Z"
+                },
+                {
+                    "note": "Updated information on transiting through Switzerland (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-17T12:02:21.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for Switzerland (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-24T11:28:16.000Z"
+                },
+                {
+                    "note": "Update to entry requirements for Switzerland ",
+                    "public_timestamp": "2022-01-24T18:14:27.000Z"
+                },
+                {
+                    "note": "Updated information for domestic coronavirus measures and entry requirements (\u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2022-02-17T19:35:22.000Z"
+                },
+                {
+                    "note": "Clarification on entry requirements for children and young people (\u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-02-21T11:47:00.000Z"
+                },
+                {
+                    "note": "Clarification on entry requirements for children and young people (\u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-03-29T15:34:20.000Z"
+                },
+                {
+                    "note": "Update to information following relaxation of COVID-19 restrictions and rules for entry ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-04-29T13:59:04.000Z"
+                },
+                {
+                    "note": "Corrected to delete earlier update.",
+                    "public_timestamp": "2022-04-29T14:14:59.000Z"
+                },
+                {
+                    "note": "Switzerland has lifted all Covid-19 pandemic restrictions \u2013 there are no social distancing or mask wearing measures in place. There is no mandatory isolation requirement if you test positive for Covid19. ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-05-01T22:00:53.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:14:05.000Z"
+                },
+                {
+                    "note": "Removal of leaflet that advised on pickpocketing ('Safety and security' page).",
+                    "public_timestamp": "2022-11-04T09:35:19.000Z"
+                },
+                {
+                    "note": "Updated information about altitude sickness ('Safety and security' and 'Health' pages).",
+                    "public_timestamp": "2023-05-02T13:30:27.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:26:59.000Z"
+                },
+                {
+                    "note": "Information about ongoing forest fires in Switzerland ('Safety and security' page).",
+                    "public_timestamp": "2023-07-18T15:25:32.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-07-19T15:49:25.000Z"
+                }
+            ],
+            "country": {
+                "name": "Switzerland",
+                "slug": "switzerland",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/switzerland/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT and disabled travellers</li>\n</ul>\n\n<div class=\"example\">\n<p>Follow and contact FCDO travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/switzerland/email-signup\">get email notifications</a> when this advice is updated.</p>\n</div>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Switzerland set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://www.eda.admin.ch/london\">Embassy of Switzerland in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel provider  for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to get treatment there.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">TravelHealthPro\u2019s general COVID-19 advice for travellers</a>.</p>\n\n<h3 id=\"travel-to-switzerland\">Travel to Switzerland</h3>\n\n<p>There are no COVID-19 testing or vaccination requirements for people entering Switzerland.</p>\n\n<p>More information is available from the <a rel=\"external\" href=\"https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html\">Federal Office of Public Health</a> or by calling the Coronavirus Infoline on +41 58 463 00 00 (7am to 5pm GMT). Assistance is available in English.</p>\n\n<h3 id=\"public-spaces\">Public spaces</h3>\n\n<p>Cantons (administrative area) may impose further restrictions. Check <a rel=\"external\" href=\"https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html#-2056515727\">cantonal websites</a> for more details.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>If you\u2019re planning to travel to an EU country (except Ireland), or Switzerland, Norway, Iceland, Liechtenstein, Andorra, Monaco, San Marino or Vatican City, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a>.</p>\n\n<p>Your passport must be:</p>\n\n<ul>\n  <li>issued less than 10 years before the date you enter the country (check the \u2018date of issue\u2019)</li>\n  <li>valid for at least 3 months after the day you plan to leave (check the \u2018expiry date\u2019)</li>\n</ul>\n\n<p>You must check your passport meets these requirements before you travel. If your passport was issued before 1 October 2018, extra months may have been added to its expiry date.</p>\n\n<p>Contact the  <a rel=\"external\" href=\"https://www.eda.admin.ch/london\">Embassy of Switzerland in the UK</a> if you think that your passport does not meet both these requirements. <a href=\"https://www.gov.uk/apply-renew-passport\">Renew your passport if you need to</a>.</p>\n\n<p>Check with your transport provider or travel company that your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"passport-stamping\">Passport stamping</h3>\n\n<p>Check your passport is stamped if you enter or exit the Schengen area through Switzerland as a visitor. Border guards will use passport stamps to check you\u2019re complying with the 90-day visa-free limit for short stays in the Schengen area. If relevant entry or exit stamps are not in your passport, border guards will presume that you have overstayed your visa-free limit.</p>\n\n<p>You can show evidence of when and where you entered or exited the Schengen area and ask the border guards to add this date and location in your passport. Examples of acceptable evidence include boarding passes and tickets.</p>\n\n<p>You can find more information on <a rel=\"external\" href=\"https://www.ch.ch/en/foreign-nationals-in-switzerland/entry-and-stay-in-switzerland/travel-documents-for-entering-switzerland/\">travel documents on the cantons website</a> website. If you live in Switzerland, read our <a href=\"https://www.gov.uk/guidance/living-in-switzerland#passports-and-travel\">Living in Switzerland guide</a> for passport stamping information.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel to countries in the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> for up to 90 days in any 180-day period without a visa. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>to attend business meetings, cultural or sports events</li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>UK nationals do not need a visa to enter Switzerland. At passport control, UK nationals should use the \u2018ALL PASSPORTS\u2019 lane, whatever their residence status.</p>\n\n<p>If you\u2019re travelling to Switzerland and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.</p>\n\n<p>To stay longer (to work or study, for business travel or for other reasons), you must meet the Swiss government\u2019s entry requirements. Check which type of visa or work permit you may need with the <a rel=\"external\" href=\"https://www.eda.admin.ch/london\">Swiss Embassy website</a>.</p>\n\n<p>If you are <a href=\"https://www.gov.uk/guidance/travel-to-switzerland-for-work\">travelling to work in Switzerland</a>, read the guidance on visas and permits.</p>\n\n<p>If you stay in Switzerland with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<h3 id=\"additional-documents-required-by-tourists\">Additional documents required by tourists</h3>\n\n<p>At Switzerland\u2019s border control, you may need to:</p>\n\n<ul>\n  <li>show proof of your accommodation, for example, a hotel booking confirmation or proof of address if visiting your own property (for example, a second home)</li>\n  <li>show proof of insurance for your trip \u2013 check FCDO\u2019s <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">travel insurance guidance</a>\n</li>\n  <li>show a return or onward ticket</li>\n  <li>prove that you have enough money for your stay \u2013 around 100 Swiss francs a day</li>\n</ul>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about goods that you can take into and out of Switzerland. You must declare anything that may be prohibited or subject to tax or duty. There is <a rel=\"external\" href=\"https://www.ch.ch/en/customs\">information about Swiss customs regulations on the cantons website</a>.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, check the vaccinations and certificates you need in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/216/switzerland\">TravelHealthPro\u2019s Switzerland guide</a>.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should stay vigilant.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>  and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a></p>\n</div>\n\n<h3 id=\"terrorism-in-switzerland\">Terrorism in Switzerland</h3>\n\n<p>Terrorist attacks in Switzerland cannot be ruled out.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>There is a low rate of serious crime in Switzerland. However, there have been increased reports of theft, especially in larger cities, at Geneva airport and on trains to and from Geneva.</p>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Take sensible precautions to avoid mugging, bag snatching and pickpocketing. Be particularly vigilant at airports, railway stations and crowded public gatherings. Do not leave your valuables unattended.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"public-offences\">Public offences</h3>\n\n<p>Covering your face in public places in the Swiss cantons of Ticino and St Gallen is illegal, including for tourists. This includes balaclavas, full veils or any other garment or mask that is used to hide the face. You could be fined 100  to 10,000 Swiss francs if you don\u2019t comply.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<h3 id=\"trekking-mountaineering-and-extreme-sports\">Trekking, mountaineering and extreme sports</h3>\n\n<p>Hiking, mountaineering and other adventure sports can be risky. Visitors can get into difficulty and need the help of the emergency services when hiking and mountaineering. British visitors have been involved in accidents, been hospitalised or have died.</p>\n\n<p>Check the company you are using is well-established and that you\u2019ve arranged for your <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">travel insurance</a> to cover specific activity.</p>\n\n<p>For sports activities like skiing, potholing and mountaineering, and for sports classed as particularly dangerous (for example off-piste skiing, mountain biking, climbing, paragliding or BASE jumping), your insurance should include:</p>\n\n<ul>\n  <li>mountain rescue services</li>\n  <li>helicopter costs</li>\n  <li>repatriation to your country of residence or possible transfer to neighbouring countries for treatment</li>\n</ul>\n\n<p>Read FCDO advice about <a href=\"https://www.gov.uk/guidance/winter-sports-stay-safe-on-the-slopes\">staying safe while skiing and preparing for winter sports abroad</a>.</p>\n\n<h3 id=\"extreme-weather\">Extreme weather</h3>\n\n<p>Check weather forecasts and conditions and make sure you\u2019re properly equipped for the worst-case scenario. A map, compass, GPS and telecommunication equipment should always be used when travelling outside urban areas. Don\u2019t undertake any activity alone and consider hiring a guide for expert advice. Always leave copies of your itinerary with someone.</p>\n\n<p>These alpine hazards exist throughout the year:</p>\n\n<ul>\n  <li>avalanches and snow drifts</li>\n  <li>landslides and flooding</li>\n  <li>glacial crevasses and hollows</li>\n  <li>rockfall</li>\n  <li>thunderstorms and lightning</li>\n  <li>altitude sickness</li>\n  <li>sun exposure</li>\n  <li>sudden weather changes</li>\n</ul>\n\n<h3 id=\"forest-fires\">Forest fires</h3>\n\n<p>There are a number of ongoing forest fires in Switzerland. There is more information on the Federal Government\u2019s <a rel=\"external\" href=\"https://www.natural-hazards.ch/home/current-natural-hazards/forest-fire.html\">Natural Hazards Portal</a>. Check with your travel provider before travelling and follow the advice of local authorities at all times.</p>\n\n<p>Forest fires can lead to rockfall in mountainous areas. Official advice on the safety measures currently in place can be found on the <a rel=\"external\" href=\"https://www.waldbrandgefahr.ch/en/current-situation\">Federal Office for the Environment\u2019s website</a>. You should:</p>\n\n<ul>\n  <li>take care when visiting or driving through woodland areas</li>\n  <li>make sure cigarette ends are properly extinguished</li>\n  <li>not light barbecues</li>\n  <li>take care when you are travelling or hiking in a mountainous area</li>\n</ul>\n\n<p>Causing a forest fire when a ban on open fire is in place is illegal, even if unintentional, and can lead to fines of up to 20,000 Swiss francs.</p>\n\n<p>If you see a forest fire, call the fire department on 118.</p>\n\n<p>Forest fires can also cause travel disruption in wider areas.</p>\n\n<h3 id=\"avalanches\">Avalanches</h3>\n\n<p>Avalanches are a risk, particularly during heavy snow.  Off-piste skiing is very dangerous due to the risk of avalanches. Follow safety instructions and warnings. Consider carrying search equipment.  Avalanche beepers (receivers) are the most common rescue devices and when properly used, are the fastest way of locating an avalanche victim.</p>\n\n<p>Conditions on roads in mountainous areas can quickly become difficult in winter. Carry water, food, warm clothing and medicines in your vehicle.</p>\n\n<p>Check the latest avalanche risk at the <a rel=\"external\" href=\"http://www.meteoswiss.admin.ch/home.html?tab=alarm\">Federal Office of Meteorology and Climatology</a>.</p>\n\n<p>For more information, visit the <a rel=\"external\" href=\"https://www.myswitzerland.com/en-gb/home.html\">official Switzerland Tourism website</a>.</p>\n\n<h2 id=\"transport-risks-in-switzerland\">Transport risks in Switzerland</h2>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>If you are planning to drive in Switzerland, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/switzerland/\">RAC Switzerland guide</a>.</p>\n\n<h3 id=\"licences-and-documents\">Licences and documents</h3>\n\n<p>If you are visiting Switzerland, you can drive on a full, valid UK driving licence, insurance and vehicle documents. If you\u2019re living in Switzerland, <a href=\"https://www.gov.uk/guidance/living-in-switzerland\">check the Living in Switzerland Guide</a> for information on requirements for residents.</p>\n\n<h3 id=\"driving-a-british-car-abroad\">Driving a British car abroad</h3>\n\n<p>You may need a UK sticker to drive your car outside the UK. UK stickers have replaced GB stickers. Check the government guidance on <a href=\"https://www.gov.uk/displaying-number-plates\">displaying number plates</a> for more information on what to do if you are driving outside the UK.</p>\n\n<h3 id=\"driving-regulations\">Driving regulations</h3>\n\n<p>Road users have to comply with <a rel=\"external\" href=\"https://www.ch.ch/en/how-behave-road-traffic/\">Switzerland\u2019s traffic laws</a>, such as speed limits, rules on alcohol intake and child security. Traffic regulations are strictly enforced. Any serious breach of the regulations can result in heavy fines or imprisonment.</p>\n\n<h3 id=\"motorways\">Motorways</h3>\n\n<p>You must buy and display a vignette (sticker) to travel on Swiss motorways or face large fines. You can buy a vignette at most border crossings, petrol stations, post offices, by phone (+800 1002 0030) or <a rel=\"external\" href=\"https://www.ch.ch/en/swiss-motorway-sticker/\">buy a vignette online</a>.</p>\n\n<p>If you\u2019re involved in a car accident, use the orange emergency phones to ask for help.</p>\n\n<h3 id=\"road-conditions\">Road conditions</h3>\n\n<p>Roads outside urban areas are narrow and winding. Road conditions can deteriorate fast (even in summer) especially during heavy rainfall and snowfall at higher altitudes. Reduce your speed significantly to suit the conditions.</p>\n\n<p>Alpine winters make driving difficult. Equip your car with winter tyres and snow-chains. Check road conditions before you depart. Carry water, food, warm clothing and medicines in your vehicle.</p>\n\n<p>See the <a rel=\"external\" href=\"https://www.ch.ch/en/travel-and-emigrate/useful-travel-information/#car-travel-traffic-information\">latest information on road conditions on the cantons website</a>.</p>\n\n<h2 id=\"accessibility\">Accessibility</h2>\n\n<p>The official Switzerland Tourism website has useful <a rel=\"external\" href=\"https://www.myswitzerland.com/en-ch/planning/transport-accommodation/barrier-free-travel/\">information for travellers in wheelchairs or with impaired mobility</a>.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 or 144 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/216/switzerland\">TravelHealthPro\u2019s Switzerland guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h3 id=\"altitude-sickness\">Altitude sickness</h3>\n\n<p>Altitude sickness is a risk in parts of Switzerland, including the ski and hiking areas around:</p>\n\n<ul>\n  <li>4 Vall\u00e9es</li>\n  <li>Belalp-Blatten</li>\n  <li>Chandolin</li>\n  <li>Corvatsch</li>\n  <li>Engelberg-Titlis</li>\n  <li>Hohensaas</li>\n  <li>Lauchernalp</li>\n  <li>Matterhorn</li>\n  <li>Saas-Fee</li>\n  <li>St. Moritz</li>\n</ul>\n\n<p>Read more about <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/26/altitude-illness\">altitude sickness on TravelHealthPro</a>.</p>\n\n<h3 id=\"insect-and-tick-bites\">Insect and tick bites</h3>\n\n<p>There is an increased risk of tick bites from April to October. The Federal Office of Public Health warns of a significant number of lyme disease and tick-borne encephalitis (TBE) cases annually. For more information <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance\">read about insect and tick bite avoidance on TravelHealthPro</a>.</p>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-switzerland\">Healthcare facilities in Switzerland</h2>\n\n<p>FCDO has a list of English-speaking doctors in <a href=\"https://www.gov.uk/government/publications/switzerland-and-liechtenstein-list-of-medical-facilitiespractitioners\">Switzerland</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-switzerland\">COVID-19 healthcare in Switzerland</h2>\n\n<p>Local restrictions, such as face masks or proof of vaccination, may be required in hospitals or care homes.</p>\n\n<p>More information is available from the <a rel=\"external\" href=\"https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov.html\">Federal Office of Public Health</a> or by calling the Coronavirus Infoline on +41 58 463 00 00 (7am to 5pm GMT). Assistance is available in English.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (GHIC)</a> before leaving the UK. If you already have a <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (EHIC)</a>, it will still be valid as long as it remains in date.</p>\n\n<p>The GHIC or EHIC entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Swiss nationals. If you do not have your card with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A GHIC or EHIC is not an alternative to travel insurance and you should have both before you travel. An GHIC or EHIC does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p>GHIC and EHIC cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">FCDO guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-switzerland\">Emergency services in Switzerland</h2>\n\n<p>If you need to contact emergency services, call these numbers:</p>\n\n<p>General emergency: 112</p>\n\n<p>Ambulance: 144</p>\n\n<p>Fire: 118</p>\n\n<p>Police: 117</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from FCDO</h2>\n\n<p>FCDO has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a href=\"https://www.gov.uk/government/publications/switzerland-list-of-lawyers/list-of-lawyers-in-switzerland-and-liechtenstein\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=switzerland&amp;serviceType=funeral-directors\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=switzerland&amp;serviceType=translatorsInterpreters\">translators and interpreters</a> in Switzerland</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/bereavement-guide-for-switzerland-and-liechtenstein\">death in Switzerland</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/switzerland-prisoner-pack/information-pack-for-british-nationals-detained-or-imprisoned-in-switzerland\">arrested in Switzerland</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting FCDO</h2>\n\n<p>Follow and contact FCDO travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/switzerland/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-berne\">British Embassy Berne</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Switzerland&amp;post=British%20Embassy%20Berne%20\">contact FCDO online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">FCDO in London</h3>\n\n<p>You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-07-19T15:49:25Z",
+            "updated_at": "2023-07-19T15:49:25Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-21T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/switzerland",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/switzerland",
+                    "base_path": "/foreign-travel-advice/switzerland",
+                    "content_id": "3985ac9b-d0c0-423b-9936-94a3ac3bed62",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-19T15:49:25Z",
+                    "schema_name": "travel_advice",
+                    "title": "Switzerland travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/switzerland",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/switzerland",
+                    "api_url": "https://www.gov.uk/api/content/world/switzerland",
+                    "base_path": "/world/switzerland",
+                    "content_id": "f1724368-504f-4b3c-9dc2-41121046de9f",
+                    "description": "Services if you're visiting, studying, working or living in Switzerland. Includes information about trading with and doing business in the UK and Switzerland, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Switzerland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-02T16:03:56Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Switzerland",
+                    "web_url": "https://www.gov.uk/world/switzerland",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/living-in-switzerland",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-switzerland",
+                    "base_path": "/guidance/living-in-switzerland",
+                    "content_id": "5e36ecf6-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-02T14:04:43Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Switzerland",
+                    "web_url": "https://www.gov.uk/guidance/living-in-switzerland",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/france",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/france",
+                    "base_path": "/foreign-travel-advice/france",
+                    "content_id": "05a8e85c-5a65-406e-923d-79c04a4433f6",
+                    "details": {
+                        "change_description": "Information about demonstrations in France (\u2018Warnings and insurance\u2019 Page).",
+                        "country": {
+                            "name": "France",
+                            "slug": "france",
+                            "synonyms": [
+                                "Paris",
+                                "Corsica"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T16:17:17Z",
+                    "schema_name": "travel_advice",
+                    "title": "France travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/france",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/usa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/usa",
+                    "base_path": "/foreign-travel-advice/usa",
+                    "content_id": "f2cecaae-77ce-4df3-bf27-7783c3975706",
+                    "details": {
+                        "change_description": "Removal of information on an active shooter in Maine ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "USA",
+                            "slug": "usa",
+                            "synonyms": [
+                                "United States",
+                                "America",
+                                "Arctic",
+                                "Puerto Rico",
+                                "US Virgin Islands",
+                                "Florida",
+                                "Orlando",
+                                "American Samoa",
+                                "Guam",
+                                "Hawaii"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:23:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "USA travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/usa",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-switzerland",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-switzerland",
+                    "base_path": "/world/living-in-switzerland",
+                    "content_id": "fcdca447-3336-400d-a6f9-d6ed4661f290",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Switzerland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/switzerland",
+                                "api_url": "https://www.gov.uk/api/content/world/switzerland",
+                                "base_path": "/world/switzerland",
+                                "content_id": "f1724368-504f-4b3c-9dc2-41121046de9f",
+                                "description": "Services if you're visiting, studying, working or living in Switzerland. Includes information about trading with and doing business in the UK and Switzerland, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Switzerland",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-03-02T16:03:56Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Switzerland",
+                                "web_url": "https://www.gov.uk/world/switzerland",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T17:05:59Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Switzerland",
+                    "web_url": "https://www.gov.uk/world/living-in-switzerland",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-switzerland",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-switzerland",
+                    "base_path": "/world/travelling-to-switzerland",
+                    "content_id": "2d113bc4-6843-4416-9fdd-1232c14f3bc7",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Switzerland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/switzerland",
+                                "api_url": "https://www.gov.uk/api/content/world/switzerland",
+                                "base_path": "/world/switzerland",
+                                "content_id": "f1724368-504f-4b3c-9dc2-41121046de9f",
+                                "description": "Services if you're visiting, studying, working or living in Switzerland. Includes information about trading with and doing business in the UK and Switzerland, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Switzerland",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-03-02T16:03:56Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Switzerland",
+                                "web_url": "https://www.gov.uk/world/switzerland",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:18:21Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Switzerland",
+                    "web_url": "https://www.gov.uk/world/travelling-to-switzerland",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-07-19T15:49:25Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1689781765.322-10.13.21.251-30837",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Switzerland travel advice",
+        "updated_at": "2023-11-15T10:48:52Z",
+        "withdrawn_notice": {}
+    }
+}

@@ -1,0 +1,981 @@
+{
+    "Country Slug": "bolivia",
+    "Country Name": "Bolivia",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/bolivia",
+        "content_id": "2f6708c2-9a26-4949-8eb7-824e601ee377",
+        "description": "FCDO travel advice for Bolivia. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+            "change_history": [
+                {
+                    "note": "Latest update: Health section - revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-26T15:50:42.821Z"
+                },
+                {
+                    "note": "Latest update: Summary - a national civic strike will be held on 10 December and access to the airports in La Paz and Santa Cruz may be restricted; check local advice before travelling; you should not cross blockades",
+                    "public_timestamp": "2018-12-04T14:54:36.594Z"
+                },
+                {
+                    "note": "Latest update: Summary - blockades are occurring in Copacabana; visitors in Copacabana may need to leave through the border crossing point of Desaguadero to Peru; there are also several blockades on the main road from La Paz to Copacabana; you should avoid protests and not try to cross blockades ",
+                    "public_timestamp": "2018-12-27T15:31:13.164Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on blockades in Copacabana",
+                    "public_timestamp": "2018-12-28T14:30:13.699Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full; Health section - The police have discovered widespread distribution of fake medicines in Bolivia; you should ask your travel agent, doctor or hotel for recommendations on reputable pharmacies",
+                    "public_timestamp": "2019-04-12T08:16:59.254Z"
+                },
+                {
+                    "note": "Summary - there are sporadic blockades on the route to South and North Yungas in La Paz because of recent problems with coca leaf growers in the area; some have turned violent; you should check with local authorities on the latest situation before travelling",
+                    "public_timestamp": "2019-07-02T09:05:56.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on sporadic blockades on the route to South and North Yungas in La Paz",
+                    "public_timestamp": "2019-07-10T08:17:51.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on presidential elections to be held on 22 October 2019",
+                    "public_timestamp": "2019-08-28T10:40:46.000Z"
+                },
+                {
+                    "note": "Safety and security section (Road blockades) and summary - there are currently blockades in and around the town of Uyuni; trips to the salt flats have been affected; if you\u2019re planning travel to the area, check local advice before travelling; don\u2019t attempt to cross blockades",
+                    "public_timestamp": "2019-09-02T17:44:36.000Z"
+                },
+                {
+                    "note": "Safety and security section (Road blockades) and summary - updated information and advice on road blockades in and around the town of Uyuni; if you are currently stranded in Uyuni or intending to travel there please contact the British Embassy in La Paz on (591 2) 2433424 or / and your tour agency",
+                    "public_timestamp": "2019-09-13T15:50:59.000Z"
+                },
+                {
+                    "note": "Safety and security section (Road blockades) and Summary - blockades in Uyuni have been lifted; there is a possibility of renewed protests and you should contact your tour operator for local information before travelling",
+                    "public_timestamp": "2019-09-16T15:57:56.000Z"
+                },
+                {
+                    "note": "Summary and Safety and security section (Road blockades) - removal of information on road blockades in Uyuni ",
+                    "public_timestamp": "2019-10-03T21:38:18.000Z"
+                },
+                {
+                    "note": "Safety and security (Political situation) - addition of information and advice on presidential elections on 22 October 2019",
+                    "public_timestamp": "2019-10-17T15:06:21.000Z"
+                },
+                {
+                    "note": "Safety and security section (Political situation) and Summary - factual update on political demonstrations following presidential elections on 20 October 2019",
+                    "public_timestamp": "2019-10-22T14:23:21.000Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security section (Political situation) - factual update on political demonstrations following presidential elections on 20 October 2019",
+                    "public_timestamp": "2019-10-23T19:35:10.000Z"
+                },
+                {
+                    "note": "Summary and Safety and security section (Political situation) - factual update on political demonstrations following presidential elections on 20 October 2019",
+                    "public_timestamp": "2019-10-25T19:21:52.000Z"
+                },
+                {
+                    "note": "Safety and security (Political situation): 24 hour blockades in Potosi; ongoing political demonstrations  ",
+                    "public_timestamp": "2019-10-31T23:02:14.000Z"
+                },
+                {
+                    "note": "Summary - Large  and potentially violent demonstrations are expected to take place in all main cities tonight, 4 November 2019.",
+                    "public_timestamp": "2019-11-04T19:36:06.000Z"
+                },
+                {
+                    "note": "Summary - factual update to reflect extremely restricted travel within and between main cities due to protests",
+                    "public_timestamp": "2019-11-05T17:13:09.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on a high risk of disruption at La Paz El Alto airport",
+                    "public_timestamp": "2019-11-06T18:02:00.000Z"
+                },
+                {
+                    "note": "Summary - factual update on land borders",
+                    "public_timestamp": "2019-11-08T12:06:21.000Z"
+                },
+                {
+                    "note": "Summary: Important update on travel within Bolivia and to land borders.",
+                    "public_timestamp": "2019-11-10T20:03:06.000Z"
+                },
+                {
+                    "note": "Summary: Change to advice against travel; the FCO now advise against all but essential travel to Bolivia; updated information and advice on the uncertain political and security situation across the country",
+                    "public_timestamp": "2019-11-11T22:16:52.000Z"
+                },
+                {
+                    "note": "Summary - factual update on demonstrations across Bolivia",
+                    "public_timestamp": "2019-11-21T11:07:35.000Z"
+                },
+                {
+                    "note": "The FCO no longer advise against all but essential travel to Bolivia; updated information and advice on the political and security situation and travel across the country ",
+                    "public_timestamp": "2019-12-02T14:22:29.000Z"
+                },
+                {
+                    "note": "The Bolivian Government has announced that all flights to and from Europe will be suspended from  00.00 hrs on Saturday 14 March due to concerns about the spread of Coronavirus. \r\n",
+                    "public_timestamp": "2020-03-12T23:41:32.000Z"
+                },
+                {
+                    "note": "Update on travel to Bolivia ('Summary')",
+                    "public_timestamp": "2020-03-14T23:36:44.000Z"
+                },
+                {
+                    "note": "Update on travel to Bolivia ('Health COVID-19')",
+                    "public_timestamp": "2020-03-15T16:21:01.000Z"
+                },
+                {
+                    "note": "Update regarding travel restrictions in place in response to coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-17T18:48:04.000Z"
+                },
+                {
+                    "note": "Update regarding travel restrictions in place in response to coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-18T18:01:12.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) (Summary and Coronavirus)",
+                    "public_timestamp": "2020-03-21T22:04:45.000Z"
+                },
+                {
+                    "note": "Addition of information on nationwide quarantine measures ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-03-25T20:26:22.000Z"
+                },
+                {
+                    "note": "Bolivia is in a state of emergency owing to concerns about the spread of coronavirus (COVID-19). From 0000h on 26 March, restrictions on movement will be increased further. ('Summary' & 'Coronavirus' pages)",
+                    "public_timestamp": "2020-03-26T00:40:03.000Z"
+                },
+                {
+                    "note": "Registered British nationals in Sucre and Santa Cruz have been contacted by us regarding a repatriation flight to Europe.  If you are interested in this and have not yet got in touch with us, please email lapaz.escalations@fco.gov.uk as soon as possible. (Summary)",
+                    "public_timestamp": "2020-03-30T20:08:42.000Z"
+                },
+                {
+                    "note": "Latest update: The UK will operate a special flight from El Alto Airport, La Paz on 4 April for British tourists, short term visitors and their direct dependants to return to the UK (see Summary, Entry Requirements, Return to UK pages). ",
+                    "public_timestamp": "2020-04-02T22:27:14.000Z"
+                },
+                {
+                    "note": "Removal of information on 4 April repatriation flight ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-06T16:48:40.000Z"
+                },
+                {
+                    "note": "Revised information. Bolivia\u2019s land borders are closed and international flights are suspended until 15 April. There are currently no commercial options available to leave Bolivia. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-06T20:02:27.000Z"
+                },
+                {
+                    "note": "Quarantine measures in Bolivia extended until 30 April. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-15T01:24:50.000Z"
+                },
+                {
+                    "note": "Extension of quarantine measures until 10 May ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-04-29T18:46:29.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-05T09:15:55.000Z"
+                },
+                {
+                    "note": "Information regarding new 'dynamic quarantine' measures in place from 11 May ('Staying during coronavirus')",
+                    "public_timestamp": "2020-05-10T14:24:44.000Z"
+                },
+                {
+                    "note": "Updated information on moving around in Bolivia ('Staying during coronavirus')",
+                    "public_timestamp": "2020-05-31T14:54:18.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T13:05:13.000Z"
+                },
+                {
+                    "note": "Addition of information on special, short-term quarantine measures which will apply in La Paz department (including the city of La Paz) from 12:01am on 20 June to 5am on 23 June.  Nobody will be allowed outside during this time.  No vehicles, public or private, will be allowed to circulate. ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-17T18:10:42.000Z"
+                },
+                {
+                    "note": "Updated information about social restrictions including controlled movements during the weekday in La Paz ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-23T09:29:49.000Z"
+                },
+                {
+                    "note": "Addition of information on further coronavirus (COVID-19) measures within the department of La Paz ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-07-15T15:47:49.000Z"
+                },
+                {
+                    "note": "Removal of information about additional coronavirus measures in La Paz department from 16-19 July ('Staying during coronavirus' page).",
+                    "public_timestamp": "2020-07-20T14:48:46.000Z"
+                },
+                {
+                    "note": "Update to information on commercial travel options between the UK and Bolivia ('Summary' and 'Return to the UK' pages).  Update to information on curfew hours ('Coronavirus' page).  New information on requirements for passengers boarding flights to Bolivia ('Entry requirements' page).",
+                    "public_timestamp": "2020-09-01T16:08:25.000Z"
+                },
+                {
+                    "note": "Update to information on curfew details; addition of confirmed election date \r\n(\u2018Summary' and Staying during coronavirus\u2019 pages)",
+                    "public_timestamp": "2020-09-11T09:24:47.000Z"
+                },
+                {
+                    "note": "Editorial review to remove the 'Return to the UK' page and improve the 'Coronavirus' section.",
+                    "public_timestamp": "2020-10-09T14:21:17.000Z"
+                },
+                {
+                    "note": "Update regarding elections on Sunday 18 October. ('Summary' page)",
+                    "public_timestamp": "2020-10-16T15:52:49.000Z"
+                },
+                {
+                    "note": "Update on curfew hours ('Coronavirus' page). Updated information and advice on buying medicines from pharmacies in Bolivia ('Heath' page). Removal of information on elections in October 2020 ('Summary' page). ",
+                    "public_timestamp": "2020-12-03T10:11:34.000Z"
+                },
+                {
+                    "note": "The government has announced that passengers from Europe will not be allowed to enter the country from 25 December until 8 January 2021.  More measures may be taken at short notice.  Passengers arriving before 25 December will need a negative Covid test, and will need to fill in a form stating where they will stay for 14 days.('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-12-23T17:41:40.000Z"
+                },
+                {
+                    "note": "New information on the suspension of flights from Europe until 15 February 2021. UK citizens will not be allowed to enter on a tourist visa.  UK nationals with residence in Bolivia will need a negative PCR test to enter, and will need to fill in a form stating where they will isolate for 14 days. ('Summary' and 'Coronavirus', and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-07T16:11:28.000Z"
+                },
+                {
+                    "note": "From 4am on 15 January, visitors who have been in or transited through Bolivia in the previous 10 days cannot enter the UK. British and Irish nationals, and third country nationals with residence rights in the UK arriving in the UK from Bolivia will need to self-isolate with their households on their return.",
+                    "public_timestamp": "2021-01-14T19:43:38.000Z"
+                },
+                {
+                    "note": "Additional information on entry to Bolivia; UK citizens will not be allowed to enter on a tourist visa if you have been in Europe in the last 14 days ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-15T14:24:51.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-02T15:30:06.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from Bolivia. ('Summary' page)",
+                    "public_timestamp": "2021-02-16T17:19:33.000Z"
+                },
+                {
+                    "note": "Update to information following the extension of the suspension of flights from Europe until 15 March 2021 ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-02-19T09:50:14.000Z"
+                },
+                {
+                    "note": "Update to information on UK entry requirement. ('Summary' page)\r\n",
+                    "public_timestamp": "2021-02-19T14:24:13.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Bolivia ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-22T14:18:38.000Z"
+                },
+                {
+                    "note": "New information and advice on local elections and impacts on travel during the weekend of 5 to 8 March 2021 ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2021-03-05T15:05:50.000Z"
+                },
+                {
+                    "note": "Removal of information on local elections on 7 March ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-03-09T15:05:32.000Z"
+                },
+                {
+                    "note": "Addition of information on an increased risk of political unrest and the extension of the ban on flights from Europe ('Summary' , 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-03-18T14:08:20.000Z"
+                },
+                {
+                    "note": "Flight restrictions from Europe removed.  Mandatory COVID-19 testing before and after arrival and 10 day quarantine period introduced.  Tourists must have medical insurance to cover the cost of testing and any COVID-19 treatment ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-04-01T17:07:24.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Bolivia ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-07-23T10:22:13.000Z"
+                },
+                {
+                    "note": "New information on the how to get a COVID-19 vaccine in Bolivia, if your not legally resident in Bolivia but hold a passport ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-28T10:28:09.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Bolivia will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland ('Summary' and 'Coronavirus' pages).",
+                    "public_timestamp": "2021-10-07T16:55:43.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Bolivia, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-11T08:42:01.000Z"
+                },
+                {
+                    "note": "Updated information for vaccinated and unvaccinated passengers on entry requirements to Bolivia and information on requirements for medical insurance for tourists ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-02T13:03:53.000Z"
+                },
+                {
+                    "note": "Addition of information on protests in many cities in Bolivia and blockades in Santa Cruz, Potosi and Sucre ('Summary' page)",
+                    "public_timestamp": "2021-11-16T15:39:11.000Z"
+                },
+                {
+                    "note": "As of January 1 2022 vaccination certificates, or negative PCR test taken within 48 hours will be required to enter any public building including banks, supermarkets, cinemas, bars, and internal flights and bus journeys (\u2018Coronavirus\u2019 page). ",
+                    "public_timestamp": "2021-12-24T10:49:17.000Z"
+                },
+                {
+                    "note": "As of 26 January 2022 vaccination certificates, or negative PCR test taken within 48 hours will be required to enter any public building including banks, supermarkets, cinemas, bars, and internal flights and bus journeys (\u2018Coronavirus\u2019 page).  All foreign residents and tourists must register their home or tourism address online. Failure to comply will result in fines on leaving the country ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-11T16:03:55.000Z"
+                },
+                {
+                    "note": "Information on recent border re-openings ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-02-16T10:13:30.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for Bolivia ('Coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2022-04-29T15:27:49.000Z"
+                },
+                {
+                    "note": "New information about an indefinite strike, announced in the city of Santa Cruz on 21 October 2022 ('Safety and security page).",
+                    "public_timestamp": "2022-10-18T09:58:27.000Z"
+                },
+                {
+                    "note": "Updated information about protests and blockades in and around the city of Santa Cruz, following the announcement of an indefinite strike ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-11-09T12:55:20.000Z"
+                },
+                {
+                    "note": "Updated information about protests and blockades in and around the city of Santa Cruz, following the end of strikes in Santa Cruz ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-11-30T15:23:09.000Z"
+                },
+                {
+                    "note": "We are aware of demonstrations and violent protests in and around the city of Santa Cruz. There are reports that air and road travel are being affected in the city. We advise you to check with local authorities before attempting to travel to and from the airport.  ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-12-28T23:27:04.000Z"
+                },
+                {
+                    "note": "Updated information about demonstrations and protests in Santa Cruz including details of a 24 hour strike on 30 December and transport disruption ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-12-29T22:50:26.000Z"
+                },
+                {
+                    "note": "Updated information about blockades, demonstrations and protests in Santa Cruz and transport disruption ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-01-03T16:15:13.000Z"
+                },
+                {
+                    "note": "Updated information about protests ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-01-30T10:45:11.000Z"
+                },
+                {
+                    "note": "Updated information about altitude sickness ('Summary' and 'Health' pages).",
+                    "public_timestamp": "2023-04-25T14:13:34.000Z"
+                },
+                {
+                    "note": "Updated information about entry requirements ('Entry requirements' page). ",
+                    "public_timestamp": "2023-05-11T10:28:51.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:04:21.000Z"
+                },
+                {
+                    "note": "Removal of COVID-19 entry requirements ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2023-09-15T08:32:44.000Z"
+                },
+                {
+                    "note": "Updated contact details if you need urgent consular assistance while in Bolivia ('Coronavirus' page).",
+                    "public_timestamp": "2023-10-05T14:20:37.000Z"
+                },
+                {
+                    "note": "Updated details about blockages and demonstrations currently taking place in La Paz ('Summary' page).",
+                    "public_timestamp": "2023-11-07T17:00:31.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. ",
+                    "public_timestamp": "2023-11-16T11:31:52.000Z"
+                }
+            ],
+            "country": {
+                "name": "Bolivia",
+                "slug": "bolivia",
+                "synonyms": []
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "408fe2ab-dd3e-4a0e-8ad0-b17e9f2f4d57",
+                "url": "https://assets.publishing.service.gov.uk/media/5dfbaa0c40f0b6666e23013a/191216_FCO_439_-_Bolivia_pdf.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/bolivia/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide and see <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> for information about specific travel topics.</p>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/bolivia/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a>, for the most common types of travel.</p>\n\n<p>The authorities in Bolivia set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://bolivianembassy.co.uk/\">Bolivian Embassy in the UK</a> (in Spanish).\u00a0</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To enter Bolivia, your passport should have an \u2018expiry date\u2019 at least 6 months after the date you arrive.\u00a0</p>\n\n<p>\u00a0Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.\u00a0</p>\n\n<p>You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.</p>\n\n<h2 id=\"checks-at-border-control\">Checks at border control</h2>\n\n<p>You may need to show proof of your accommodation, for example, a hotel or hostel booking and its address, at least for your first night in Bolivia.\u00a0</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped.</p>\n</div>\n\n<p>Make sure you get an entry stamp when you arrive in Bolivia, otherwise you\u2019ll have to pay a fine when you leave.</p>\n\n<p>If you enter Bolivia overland, make sure you get your passport stamped on both sides of the border, with an exit stamp from the country you are leaving and an entry stamp on the Bolivian side.</p>\n\n<p>Bolivia no longer stamps passports on the border with Argentina, but you must <a rel=\"external\" href=\"http://www.migraciones.gov.ar/transitos/\">register your exit with Argentina\u2019s immigration authorities</a> (in Spanish) who pass the information to Bolivian immigration.</p>\n\n<p>The British Embassy cannot intervene in immigration issues.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can visit Bolivia for up to 90 days without a visa. Border officials issue 30-day stamps, but you can apply for 90 days in person <a rel=\"external\" href=\"https://migracion.gob.bo/\">at your nearest immigration office in Bolivia</a> (in Spanish).\u00a0\u00a0\u00a0</p>\n\n<p>As a tourist, you get 90 days of visa-free travel in a one-year period. If you want to stay longer, check with the <a rel=\"external\" href=\"https://bolivianembassy.co.uk/\">Bolivian Embassy in the UK</a>\u00a0(in Spanish) or the <a rel=\"external\" href=\"https://migracion.gob.bo/index.php/\">Department of Immigration</a> (in Spanish).</p>\n\n<p>To work, study, travel for business or for other reasons, you must meet the <a rel=\"external\" href=\"http://www.migracion.gob.bo/index.php?idiom=ingl\">Bolivian government\u2019s entry requirements</a> (in Spanish). \nRequirements include a police criminal record certificate from the UK, which you can get from the <a rel=\"external\" href=\"https://acro.police.uk/s/\">ACRO Criminal Records Office</a>. If you need any documents from the UK, get them translated into Spanish and <a href=\"https://www.gov.uk/get-document-legalised\">legalised by the Legalisation Office</a>.</p>\n\n<h2 id=\"travelling-with-children\">Travelling with children</h2>\n\n<p>If only one parent\u00a0or legal guardian is travelling with a child, you cannot visit Bolivia for longer than 90 days. If you stay for more than 90 days, the child will need a judicial permit to leave Bolivia with only one parent.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/30/bolivia\">vaccinations and certificates you need in TravelHealthPro\u2019s Bolivia guide</a>.\u00a0\u00a0\u00a0</p>\n\n<p>Depending on your circumstances, this may include a yellow fever vaccination certificate.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.aduana.gob.bo/aduana7/content/viajero\">goods you can take into or out of Bolivia</a> (in Spanish).\u00a0You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-bolivia\">Terrorism in Bolivia</h3>\n\n<p>Although there\u2019s no recent history of terrorism in Bolivia, terrorist attacks cannot be ruled out.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Petty crime is common in central La Paz, in other popular tourist destinations, on buses and in crowded areas. Do not leave your bag or other belongings unattended. Always keep your passport, money and other valuable items in a safe place.</p>\n\n<h3 id=\"violent-crime\">Violent crime</h3>\n\n<p>There has been an increase in robberies from people taking taxis in Santa Cruz and La Paz. If you use a taxi:</p>\n\n<ul>\n  <li>seek local advice and use established companies</li>\n  <li>order the taxi by phone \u2013 \u2018radio taxis\u2019 have the telephone number and the name of the taxi company on the roof</li>\n  <li>check for a sticker on the windscreen or windows \u2013 registered taxis should display one</li>\n  <li>do not get into a taxi already carrying other passengers</li>\n</ul>\n\n<p>Ignore anyone offering help at taxi stands and bus terminals and watch your belongings. Thieves work in teams to distract their victims.</p>\n\n<p>Attacks on lone travellers taking motorbike taxis have been reported at tourist sites such as Rurrenabaque.</p>\n\n<h3 id=\"express-kidnapping-and-scams\">Express kidnapping and scams</h3>\n\n<p>There is a risk of \u2018express kidnapping\u2019 \u00a0\u2013 short-term, opportunistic abduction aimed at extracting cash. Victims are held hostage for up to several days while criminals use stolen bank or credit cards.</p>\n\n<p>Foreign visitors are particularly vulnerable when entering Bolivia at overland border points with Peru, Chile and Argentina. If you\u2019re travelling from Copacabana to La Paz, try to use a direct bus.</p>\n\n<p>There have been several incidents at the Cementerio General area in La Paz and in the Sopocachi area of La Paz.</p>\n\n<p>Express kidnappers sometimes impersonate police officers to target foreigners. They have used fake police ID cards, uniforms and even police stations to fool victims. One of the criminals pretends to be a friendly tourist. A fake police officer then approaches and asks for passports and other information. The impostors persuade the victim to get into a taxi driven by another criminal, where they rob them, sometimes by taking them to ATMs to withdraw money.</p>\n\n<p>Call the Tourist Police on 800-14-0081 (toll-free) if you suspect impostors are targeting you. The police cannot search you without a written order from a state prosecutor.</p>\n\n<h3 id=\"sexual-assault\">Sexual assault</h3>\n\n<p>There have been rape and sexual assault incidents at clubs and hostels. Be cautious if you\u2019re approached by strangers. Lock your room when you return to your hotel or hostel.</p>\n\n<p>See <a href=\"https://www.gov.uk/guidance/advice-for-women-travelling-abroad\">advice for women travelling abroad</a>.</p>\n\n<h3 id=\"prison-tours\">Prison tours</h3>\n\n<p>Avoid prison tours. They\u2019re illegal and unsafe. There are no guarantees for your safety inside prisons.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h2 id=\"personal-id\">Personal ID</h2>\n\n<p>Police and immigration officials sometimes carry out ID checks. Carry copies of the photo page from your passport and the Bolivian entry stamps. Leave the original document in a safe place.</p>\n\n<h3 id=\"illegal-bars\">Illegal bars</h3>\n\n<p>There are illegal bars in Bolivia. If the police find you at one, you may be detained for questioning, particularly if drugs are found at the premises.\u00a0Legal bars close at 3am.</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Bolivia is the world\u2019s third largest producer of cocaine. There are harsh penalties for those caught trafficking or in possession. The minimum sentence is 8 years and prison conditions are very poor. Never leave luggage unattended when departing the country and avoid any contact with illegal drugs.</p>\n\n<h3 id=\"ayahuasca-ceremonies\">Ayahuasca ceremonies</h3>\n\n<p>Ayahuasca is a traditional plant used in \u2018spiritual cleansing\u2019 ceremonies by indigenous communities in Bolivia, primarily in the Amazon region, but also near La Paz. At these ceremonies people consume a brew containing dimethyltryptamine (DMT), a hallucinogenic drug. It is not illegal to consume this brew, but its interaction with existing medical conditions is not well understood. People have suffered serious illnesses and in some cases death after consuming it. Some Ayahuasca retreats are in remote areas, making it difficult to get medical help.</p>\n\n<h3 id=\"using-cameras-and-binoculars-in-remote-areas\">Using cameras and binoculars in remote areas</h3>\n\n<p>Be careful travelling with cameras and binoculars in remote areas, particularly in coca-growing areas such as the Chapare and the Yungas, where people can be suspicious of anyone taking photographs.\u00a0</p>\n\n<p>Check before taking photographs of local people.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex sexual activity is not illegal. However, same-sex relationships are frowned on by many Bolivians, more so in the Altiplano than in Santa Cruz, where attitudes tend to be more liberal.</p>\n\n<p>Read more <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<p>Adventure activities in Bolivia include mountain biking, salt flat tours and jungle expeditions. There are no official minimum standards for tour operators. Get local advice and only use reputable\u00a0companies. Check your travel insurance policy covers you for the activities you\u2019re planning.</p>\n\n<p>If you\u2019re mountain biking on the so-called \u2018Death Road\u2019, from La Paz to Coroico through the Yungas Valley, make sure the bikes are in good condition. Check your guide is carrying safety equipment and first-aid kit.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Bolivia, see <a href=\"https://www.gov.uk/driving-abroad\">information on driving abroad</a>.</p>\n\n<p>You\u2019ll need to have both a <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">1949 international driving permit (<abbr title=\"international driving permit\">IDP</abbr>)</a> and your UK driving licence with you in the car to drive in Bolivia. You cannot buy an <abbr title=\"international driving permit\">IDP</abbr> outside the UK, so get one before you travel. You can buy an <abbr title=\"international driving permit\">IDP</abbr> in person from some UK post offices \u2013 <a rel=\"external\" href=\"https://www.postoffice.co.uk/identity/international-driving-permit\">find your nearest post office branch that offers this service</a>.</p>\n\n<p>Road travel can be dangerous due to poor road conditions and low driving standards. Serious accidents happen on the main tourist routes. Some of Bolivia\u2019s main highways are paved but most roads are unpaved rough tracks.</p>\n\n<p>During the rainy season (November to March) there is a risk of landslides and roads can be blocked. Check <a rel=\"external\" href=\"https://transitabilidad.abc.gob.bo/mapa/\">road status updates from the Bolivian road authority</a> (in Spanish) and get local advice before you set out.</p>\n\n<p>Vehicles are often not well maintained. Four-wheel drive vehicles are often needed, especially during the rainy season. Broken-down vehicles with no warning lights are a frequent hazard on roads at night.</p>\n\n<h3 id=\"buses-and-taxis\">Buses and taxis</h3>\n\n<p>Several recent accidents involving public transport, especially long-distance buses, have affected British people. Bus drivers drive for longer than would be permitted under European laws.</p>\n\n<p>Many taxis and most bus companies do not meet European standards and rarely have seatbelts.</p>\n\n<h3 id=\"road-blockades\">Road blockades</h3>\n\n<p>Groups often use road blockades as a form of protest, without warning. Avoid large crowds and demonstrations, and do not attempt to cross blockades. Blockades can disrupt public transport at very short notice. Strikes may result in widespread road blockades, including on roads to and from airports. Check <a rel=\"external\" href=\"https://transitabilidad.abc.gob.bo/mapa/\">road status updates from the Bolivian road authority</a> (in Spanish) to see which roads are blocked.</p>\n\n<h3 id=\"air-travel\">Air travel</h3>\n\n<p>Many of Bolivia\u2019s airports lack safety and rescue capability. Airports outside the departmental capitals are less likely to possess fire and rescue equipment.</p>\n\n<h3 id=\"lake-and-river-travel\">Lake and river travel</h3>\n\n<p>The boat trips on Lake Titicaca offer boats that are often very basic. The same is true of boats used for river excursions in jungle areas. Check life jackets are provided.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"flooding-and-landslides\">Flooding and landslides</h3>\n\n<p>Floods and landslides are common, particularly in mountainous areas during the rainy season (November to March). Roads are often impassable for days at a time.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Call 118 and ask for an ambulance.</p>\n\n<p>Contact your insurance company quickly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/30/bolivia\">vaccinations and health risks in TravelHealthPro\u2019s Bolivia guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<p>Altitude sickness is a risk in parts of Bolivia, including in La Paz and the Salar de Uyuni salt flats. Read more about <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/26/altitude-illness\">altitude sickness on TravelHealthPro</a>.</p>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-bolivia\">Healthcare facilities in Bolivia</h2>\n\n<p>The public healthcare system does not meet the same standards as the UK, and you may not be able to access the public health system as it is already overstretched. There are private clinics in all main cities that work with international insurance. It is very important to have travel insurance and access to funds, as you will need to pay up front to receive treatment.</p>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/bolivia-medical-facilities-and-practitioners\">English-speaking doctors in Bolivia</a>.</p>\n\n<p>There is also <a href=\"https://www.gov.uk/guidance/living-in-bolivia--2\">guidance on healthcare if you\u2019re living in Bolivia</a>.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-bolivia\">Emergency services in Bolivia</h2>\n\n<p>Ambulance: 118</p>\n\n<p>Police: 110</p>\n\n<p>Fire: 119</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Bolivia\">lawyers</a>,\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Bolivia\">funeral directors</a>\u00a0and\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Bolivia\">translators and interpreters</a>\u00a0in Bolivia</li>\n  <li>dealing with a\u00a0<a href=\"https://www.gov.uk/government/publications/bolivia-bereavement-packinformation\">death in Bolivia</a>\n</li>\n  <li>being\u00a0<a href=\"https://www.gov.uk/government/publications/bolivia-prisoner-pack\">arrested or imprisoned in Bolivia</a>\n</li>\n  <li>getting help if you\u2019re a\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re\u00a0<a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/bolivia/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Bolivia&amp;post=British%20Embassy%20La%20Paz\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you\u2019re in Bolivia and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-bolivia\">British Embassy in La Paz</a>. \u00a0</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The\u00a0<a href=\"https://www.gov.uk/government/publications/overseas-business-risk-bolivia\">Overseas Business Risk service</a>\u00a0offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-11-16T11:31:52Z",
+            "updated_at": "2023-11-16T11:31:52Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-18T14:58:18Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/bolivia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/bolivia",
+                    "base_path": "/foreign-travel-advice/bolivia",
+                    "content_id": "2f6708c2-9a26-4949-8eb7-824e601ee377",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-16T11:31:52Z",
+                    "schema_name": "travel_advice",
+                    "title": "Bolivia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/bolivia",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/bolivia",
+                    "api_url": "https://www.gov.uk/api/content/world/bolivia",
+                    "base_path": "/world/bolivia",
+                    "content_id": "e91cb01e-0487-4824-abce-df837dd6d109",
+                    "description": "Services if you're visiting, studying, working or living in Bolivia. Includes information about trading with and doing business in the UK and Bolivia.",
+                    "details": {
+                        "internal_name": "UK help and services in Bolivia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:17Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Bolivia",
+                    "web_url": "https://www.gov.uk/world/bolivia",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/peru",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/peru",
+                    "base_path": "/foreign-travel-advice/peru",
+                    "content_id": "a1c8c919-6d66-41cf-ba90-5f51a0b0eb3f",
+                    "details": {
+                        "change_description": "Updated information on states of emergency ('Safety and Security' page).",
+                        "country": {
+                            "name": "Peru",
+                            "slug": "peru",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T14:48:48Z",
+                    "schema_name": "travel_advice",
+                    "title": "Peru travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/peru",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/chile",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/chile",
+                    "base_path": "/foreign-travel-advice/chile",
+                    "content_id": "09921127-6706-4893-874f-5c943b3f1c38",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Chile",
+                            "slug": "chile",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-25T11:17:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "Chile travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/chile",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/colombia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/colombia",
+                    "base_path": "/foreign-travel-advice/colombia",
+                    "content_id": "8c40f35a-ff29-4d28-93cf-90e4432de4e5",
+                    "details": {
+                        "change_description": "Information on upcoming local elections ('Summary' and 'Safety and security' pages).",
+                        "country": {
+                            "name": "Colombia",
+                            "slug": "colombia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-23T15:14:04Z",
+                    "schema_name": "travel_advice",
+                    "title": "Colombia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/colombia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/brazil",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/brazil",
+                    "base_path": "/foreign-travel-advice/brazil",
+                    "content_id": "eaec959e-d3e2-4e69-9caa-a5fbf117c790",
+                    "details": {
+                        "change_description": "Information on possibility of heavy rainfall outside of usual rainy season. ('Natural disasters' page).",
+                        "country": {
+                            "name": "Brazil",
+                            "slug": "brazil",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-12T12:33:38Z",
+                    "schema_name": "travel_advice",
+                    "title": "Brazil travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/brazil",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/ecuador",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/ecuador",
+                    "base_path": "/foreign-travel-advice/ecuador",
+                    "content_id": "aa3bb093-06ac-4423-b242-e62ba4a4cf7d",
+                    "details": {
+                        "change_description": "Latest update: Information on daily power cuts nationwide ('Summary' page).\r\n",
+                        "country": {
+                            "name": "Ecuador",
+                            "slug": "ecuador",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-01T18:57:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Ecuador travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/ecuador",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-bolivia",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-bolivia",
+                    "base_path": "/world/living-in-bolivia",
+                    "content_id": "d153516a-cd24-43cd-9119-d9c8f54b37a3",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Bolivia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/bolivia",
+                                "api_url": "https://www.gov.uk/api/content/world/bolivia",
+                                "base_path": "/world/bolivia",
+                                "content_id": "e91cb01e-0487-4824-abce-df837dd6d109",
+                                "description": "Services if you're visiting, studying, working or living in Bolivia. Includes information about trading with and doing business in the UK and Bolivia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Bolivia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:17Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Bolivia",
+                                "web_url": "https://www.gov.uk/world/bolivia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:14:05Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Bolivia",
+                    "web_url": "https://www.gov.uk/world/living-in-bolivia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-bolivia",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-bolivia",
+                    "base_path": "/world/travelling-to-bolivia",
+                    "content_id": "2ca3532a-6b15-4806-b6f9-e220083178eb",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Bolivia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/bolivia",
+                                "api_url": "https://www.gov.uk/api/content/world/bolivia",
+                                "base_path": "/world/bolivia",
+                                "content_id": "e91cb01e-0487-4824-abce-df837dd6d109",
+                                "description": "Services if you're visiting, studying, working or living in Bolivia. Includes information about trading with and doing business in the UK and Bolivia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Bolivia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:17Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Bolivia",
+                                "web_url": "https://www.gov.uk/world/bolivia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:14:04Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Bolivia",
+                    "web_url": "https://www.gov.uk/world/travelling-to-bolivia",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-16T11:31:52Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1700134312.535-10.13.21.247-27253",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Bolivia travel advice",
+        "updated_at": "2023-11-16T11:31:53Z",
+        "withdrawn_notice": {}
+    }
+}

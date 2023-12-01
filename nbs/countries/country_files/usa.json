@@ -1,0 +1,1444 @@
+{
+    "Country Slug": "usa",
+    "Country Name": "USA",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/usa",
+        "content_id": "f2cecaae-77ce-4df3-bf27-7783c3975706",
+        "description": "FCDO travel advice for USA. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "Removal of information on an active shooter in Maine ('Warnings and insurance' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary - there is a large wildfire in Butte County in North California; evacuation orders are in effect; wildfires can spread swiftly, so if you\u2019re in the area you should remain vigilant, monitor local media reports, and follow the instructions issued by local authorities, including obeying evacuation orders",
+                    "public_timestamp": "2018-11-09T14:20:56.913Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised information; there are large wildfires in Butte County in North California and near Malibu, Los Angeles County in South California; evacuation orders are in effect; there are other smaller wildfires currently active throughout California",
+                    "public_timestamp": "2018-11-09T16:41:52.548Z"
+                },
+                {
+                    "note": "Summary - revised information; there are large wildfires in Butte County in North California and near Malibu, Los Angeles County in South California; evacuation orders are in effect; there are other smaller wildfires currently active throughout California. The air quality in Northern California, including the San Francisco Bay area is being severely affected by the ongoing wild fires.",
+                    "public_timestamp": "2018-11-16T22:48:04.258Z"
+                },
+                {
+                    "note": "Summary - revised information; there are large wildfires in Butte County in North California and near Malibu, Los Angeles County in South California; evacuation orders are in effect; there are other smaller wildfires currently active throughout California. The air quality in Northern California, including the San Francisco Bay area is being severely affected by the ongoing wild fires.",
+                    "public_timestamp": "2018-11-16T22:52:02.958Z"
+                },
+                {
+                    "note": "Summary - revised information; there are large wildfires in Butte County in North California and near Malibu, Los Angeles County in South California; evacuation orders are in effect; there are other smaller wildfires currently active throughout California. The air quality in Northern California, including the San Francisco Bay area is being severely affected by the ongoing wild fires.\r\n",
+                    "public_timestamp": "2018-11-16T22:59:30.441Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised information; there are large and destructive wildfires in Butte County in North California and near Simi Valley, Ventura County in South California, with the fire perimeter extending south to Malibu in Los Angeles County; evacuation orders are in effect; removal of information on \"red tide\" algae and volcanic activity on Hawaii's Big Island",
+                    "public_timestamp": "2018-11-20T09:15:43.449Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on air quality in Northern California, including the San Francisco Bay area",
+                    "public_timestamp": "2018-11-22T17:28:42.841Z"
+                },
+                {
+                    "note": "Latest update:  Summary - A 7.0 magnitude earthquake occurred outside Anchorage, Alaska on 30 November 2018 and has been followed by a series of aftershocks, including a 5.8 magnitude earthquake.",
+                    "public_timestamp": "2018-11-30T22:13:10.826Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on the 7.0 magnitude earthquake outside Anchorage, Alaska on 30 November",
+                    "public_timestamp": "2018-12-03T17:53:38.143Z"
+                },
+                {
+                    "note": "Summary - Due to the current partial Federal US Government shutdown, a number of US National Parks are closed or have limited services available. Please check with the US National Park Service website and the Park itself before travelling. State Parks are not affected. \r\n \r\n",
+                    "public_timestamp": "2018-12-24T20:13:00.252Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised information on the partial Federal US government shutdown; some airports and forms of public transport are affected by the partial shutdown, while others continue to operate as normal; you should check before you travel; Summary and Natural disasters section - removal of information on previous hurricanes and wildfires  ",
+                    "public_timestamp": "2019-01-18T17:51:54.772Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Tourism) - addition of information; safety rules at public venues, such as theme parks and other tourist attractions, may vary from state to state and you should be aware that regulations may not be uniform across the US\r\n",
+                    "public_timestamp": "2019-01-25T15:45:00.357Z"
+                },
+                {
+                    "note": "Summary: A number of airports are severely affected by the US Federal Government partial shutdown",
+                    "public_timestamp": "2019-01-25T20:02:00.002Z"
+                },
+                {
+                    "note": "Summary- Removal of information relating to airports being affected by the US Federal Government partial shutdown",
+                    "public_timestamp": "2019-01-28T18:06:46.576Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information; a severe winter storm is affecting several states within the US Midwest region, including Illinois, Michigan and Wisconsin; hazardous weather conditions have led to power outages and travel disruption in some areas, including delays and cancellations to flights; road conditions may become hazardous; if you're in an affected area or due to travel, you should monitor local media, follow the advice of the local authorities and check with your airline or transport provider before travelling",
+                    "public_timestamp": "2019-01-30T12:43:26.038Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information about severe winter weather affecting several states from the US Midwest to the east coast; removal of information about impact of US Federal Government shutdown on US National Parks",
+                    "public_timestamp": "2019-02-13T12:56:09.527Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about winter storms that affected several states across the US Midwest region to the East Coast earlier in 2019",
+                    "public_timestamp": "2019-03-04T12:21:39.228Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information and advice following a tornado outbreak in Alabama, Georgia, the Florida panhandle and parts of South Carolina on 3 March",
+                    "public_timestamp": "2019-03-04T15:25:34.257Z"
+                },
+                {
+                    "note": "Summary: \r\n\r\nA storm is affecting western and central states within the United States. Blizzard conditions are expected to engulf parts of Colorado, Wyoming, Montana, Nebraska and South Dakota, and heavy snow is falling in northern Arizona. Additionally, winds of up to 100mph are forecast across New Mexico, Texas, Kansas and Colorado. \r\n\r\nThese hazardous weather conditions have led to power outages and travel disruption. A substantial number of flights have been cancelled in the most affected areas, particularly Denver, Colorado. More than 100,000 customers are without power in Texas. \r\n\r\nIf you are in an affected area or due to travel, you should monitor local media and follow the advice of the local authorities. If you are planning to travel to or from an affected area, you should check with your airline or transport provider before starting your journey. You can check forecasts and weather warnings on the US National Weather Service website. ",
+                    "public_timestamp": "2019-03-13T21:06:39.193Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information and advice about historically high levels of flooding currently affecting Midwestern states, including Nebraska, Iowa, North and South Dakota, Wisconsin, Kansas, Missouri and Minnesota",
+                    "public_timestamp": "2019-03-19T17:59:00.514Z"
+                },
+                {
+                    "note": "Latest update: Summary - On 28 March 2019, Icelandic airline WOW Air announced that it has ceased operation; all its flights, including those to and from Detroit, Baltimore/Washington, Boston and New York (Newark) have been cancelled; see the WOW Air travel alert for more information ",
+                    "public_timestamp": "2019-03-28T12:48:32.141Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about previous flood warnings in Midwestern states",
+                    "public_timestamp": "2019-04-15T16:11:30.335Z"
+                },
+                {
+                    "note": "Latest update: Summary - There is currently a high risk of tornados, severe storms and flooding across the states of Illinois, Kansas, Missouri, Nebraska and Oklahoma; you're advised to check weather forecasts and warnings from the US National Weather Service",
+                    "public_timestamp": "2019-05-22T16:30:36.694Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on current high risk of tornados, severe storms and flooding across several states, which now includes Arkansas and Ohio; removal of information about WOW Air ceasing operations from 28 March",
+                    "public_timestamp": "2019-05-28T14:35:47.872Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on a current high risk of tornados, severe storms and flooding across a number of eastern, central and southern states",
+                    "public_timestamp": "2019-05-29T16:38:20.731Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on high risk of tornados, severe storms and flooding across a number of eastern, central and southern states; you should continue to check forecasts for any weather warnings on the US National Weather Service",
+                    "public_timestamp": "2019-06-10T13:34:24.788Z"
+                },
+                {
+                    "note": "Latest update: Summary - There are currently severe storm warnings, with potential for heavy rain and flash flooding in the Midwest and Northeast of the country; you should check forecasts for any weather warnings on the US National Weather Service website",
+                    "public_timestamp": "2019-06-19T13:59:01.636Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised information on weather warnings and hurricane seasons",
+                    "public_timestamp": "2019-07-03T14:58:05.000Z"
+                },
+                {
+                    "note": "Summary - on Thursday 4 July, an earthquake struck southern California; the magnitude 6.4 tremor was centred about 125 miles northeast of Los Angeles in the remote Searles Valley area near where Inyo, San Bernardino and Kern counties meet; there have already been a number of aftershocks, and these are likely to continue; if you're in the area, you should follow local media for updates and follow the advice of local authorities",
+                    "public_timestamp": "2019-07-05T10:54:51.000Z"
+                },
+                {
+                    "note": "Summary - On Thursday 4 July, an earthquake struck southern California. The magnitude 6.4 tremor was centred about 125 miles northeast of Los Angeles in the remote Searles Valley area near where Inyo, San Bernardino and Kern counties meet. There have already been a number of aftershocks - including one on 5 July with a magnitude of 7.1 - and these are likely to continue. There are reports of fires and other damage in affected areas. If you're in the area, you should follow local media for updates and follow the advice of local authorities. ",
+                    "public_timestamp": "2019-07-06T07:17:45.000Z"
+                },
+                {
+                    "note": "Summary - On Thursday 4 July, an earthquake struck southern California. The magnitude 6.4 tremor was centred about 125 miles northeast of Los Angeles in the remote Searles Valley area near where Inyo, San Bernardino and Kern counties meet. There have already been a number of aftershocks - including one on 5 July with a magnitude of 7.1 - and these are likely to continue. There are reports of fires and other damage in affected areas. If you're in the area, you should follow local media for updates and follow the advice of local authorities (who have declared a state of emergency).",
+                    "public_timestamp": "2019-07-06T21:47:44.000Z"
+                },
+                {
+                    "note": "Summary - Severe thunderstorms have caused flooding in New Orleans. A tropical storm is also forecast in the Gulf of Mexico which could affect the coastal areas of Louisiana and Alabama from Friday 12 July. You should monitor local weather updates from the National Weather Service and follow the advice of local authorities.\r\n",
+                    "public_timestamp": "2019-07-10T22:02:16.000Z"
+                },
+                {
+                    "note": "Summary - Tropical Storm Barry in the Gulf of Mexico will affect the coastal areas of Louisiana and Alabama from Friday 12 July; a hurricane warning has been issued for the coast of Louisiana, where a State of Emergency has been declared; New Orleans, which has already experienced severe thunderstorms and flooding, is likely to be affected; you should monitor local weather updates from the National Weather Service and follow the advice of local authorities\r\n",
+                    "public_timestamp": "2019-07-12T09:53:03.000Z"
+                },
+                {
+                    "note": "Summary - Tropical Storm Barry in the Gulf of Mexico will affect the coastal areas of Mississippi, Louisiana and Alabama from Friday 12 July; a hurricane warning has been issued for the coast of Louisiana, where a State of Emergency has been declared; New Orleans, which has already experienced severe thunderstorms and flooding, is likely to be affected; you should monitor local weather updates from the National Weather Service and follow the advice of local authorities\r\n",
+                    "public_timestamp": "2019-07-13T11:22:21.000Z"
+                },
+                {
+                    "note": "Summary - updated information on a state of emergency declared in Louisiana and a local flooding risk across several states following impact of Tropical Storm Barry on 12-14 July; if you're in an affected area, you should continue to monitor local weather updates from the National Weather Service and follow the advice of local authorities.",
+                    "public_timestamp": "2019-07-15T17:41:21.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on Tropical Storm Barry and the southern California earthquake ",
+                    "public_timestamp": "2019-07-19T16:10:38.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - extremely hot weather is currently affecting a large area of the mid west and east coast of the United States; temperatures are set to peak over the weekend. Please see the National Weather Service website for advice and information.\r\n",
+                    "public_timestamp": "2019-07-20T18:47:01.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about recent period of hot weather",
+                    "public_timestamp": "2019-07-22T16:47:30.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on tropical storm Dorian; you should monitor the progress of approaching storms on the US National Hurricane Center and follow instructions issued by the local authorities, including any evacuation orders",
+                    "public_timestamp": "2019-08-27T15:36:28.000Z"
+                },
+                {
+                    "note": "Summary - Hurricane Dorian is tracking across the Tropical Atlantic and is expected to make landfall early on Monday 2 September along the US Southeast coast; the US National Hurricane Center predicts Dorian reaching Category 3 Hurricane strength before weakening; you should monitor the progress of approaching storms on the US National Hurricane Center and follow instructions issued by the local authorities, including any evacuation orders",
+                    "public_timestamp": "2019-08-29T06:01:07.000Z"
+                },
+                {
+                    "note": "Summary - Hurricane Dorian is expected to make landfall early on Monday 2 September along the US southeast coast; a state of emergency has been declared in Florida; the US National Hurricane Center predicts Dorian reaching Category 4 Hurricane strength before weakening; you should monitor the progress of approaching storms on the US National Hurricane Center and follow instructions issued by the local authorities, including any evacuation orders",
+                    "public_timestamp": "2019-08-30T09:26:18.000Z"
+                },
+                {
+                    "note": "Summary - updated information on Hurricane Dorian; Dorian is tracking across the Tropical Atlantic and may make landfall late on Sunday 1 September along the US south-east coast",
+                    "public_timestamp": "2019-08-30T16:53:54.000Z"
+                },
+                {
+                    "note": "Summary - Updated information on Hurricane Dorian; Dorian is tracking across the Tropical Atlantic; storm effects may be felt along the US South East coast from late on Sunday 1 September; as well as impacting on Florida, the storm could potentially impact Georgia and North or South Carolina",
+                    "public_timestamp": "2019-08-31T20:14:44.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on Hurricane Dorian; Dorian is tracking across the Tropical Atlantic; estimated strength now category 5. Storm effects may be felt along the US South East coast from late on Monday 2 September and continuing over the course of the week; likely to impact Florida, possibly North and South Carolina and parts of Georgia.",
+                    "public_timestamp": "2019-09-01T18:05:05.000Z"
+                },
+                {
+                    "note": "Summary - amendments to information on Hurricane Dorian",
+                    "public_timestamp": "2019-09-02T17:29:10.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on Hurricane Dorian, reflecting that a state of emergency is now also in place in Virginia",
+                    "public_timestamp": "2019-09-03T15:47:33.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on Hurricane Dorian",
+                    "public_timestamp": "2019-09-06T17:03:20.000Z"
+                },
+                {
+                    "note": "Summary - Removal of advice relating to Hurricane Dorian",
+                    "public_timestamp": "2019-09-08T15:52:16.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on Hurricane Humberto; if you are in  the southeastern US coast you should monitor the progress of any approaching storms on the National Hurricane Center website and follow any instructions issued by the local authorities",
+                    "public_timestamp": "2019-09-16T14:28:46.000Z"
+                },
+                {
+                    "note": "Summary - factual update on Tropical Depression Imelda; you should monitor the progress of any approaching storms on the National Hurricane Center website and follow any instructions issued by the local authorities",
+                    "public_timestamp": "2019-09-19T13:13:59.000Z"
+                },
+                {
+                    "note": "Summary - advice following the announcement that Thomas Cook has ceased trading",
+                    "public_timestamp": "2019-09-23T01:49:00.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on Tropical Storm Karen",
+                    "public_timestamp": "2019-09-23T12:31:12.000Z"
+                },
+                {
+                    "note": "Summary - The National Weather Service have advised that a major winter storm will bring heavy snow, strong winds, and low visibility to portions of the northern Rockies in to this weekend; you should monitor the progress of any approaching storm on the National Weather Service website and follow instructions issued by local authorities",
+                    "public_timestamp": "2019-09-27T12:49:50.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on snow storm in the northern Rockies",
+                    "public_timestamp": "2019-10-01T13:18:12.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full with amendments across all sections",
+                    "public_timestamp": "2019-10-03T16:05:02.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on potential spread of fire and power cuts in California",
+                    "public_timestamp": "2019-10-10T10:39:43.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on potential spread of fire and power cuts in California",
+                    "public_timestamp": "2019-10-11T17:31:43.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on wildfires in California",
+                    "public_timestamp": "2019-10-15T15:57:07.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Thomas Cook ceasing to trade",
+                    "public_timestamp": "2019-10-21T09:55:06.000Z"
+                },
+                {
+                    "note": "Summary - addition of information from the US National Weather Service on favourable weather conditions for the spreading of wildfires from northern California into southern California",
+                    "public_timestamp": "2019-10-25T17:17:32.000Z"
+                },
+                {
+                    "note": "Summary - factual update on a statewide state of emergency in California, declared on Sunday 27 October",
+                    "public_timestamp": "2019-10-28T12:45:14.000Z"
+                },
+                {
+                    "note": "Summary - factual update on wildfires in California",
+                    "public_timestamp": "2019-10-29T12:15:30.000Z"
+                },
+                {
+                    "note": "Summary - updated information on wildfires in California",
+                    "public_timestamp": "2019-10-31T14:32:27.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about previous wildfire warnings in California",
+                    "public_timestamp": "2019-11-13T17:13:43.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on disruption to travel caused by heavy snow ",
+                    "public_timestamp": "2019-11-27T15:39:55.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on heavy snow causing disruption to travel in November",
+                    "public_timestamp": "2019-12-04T16:11:19.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following an earthquake off the coast of Puerto Rico on 7 January",
+                    "public_timestamp": "2020-01-07T15:06:21.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on the announcement of a state of emergency in Virginia in the vicinity of the State Capitol in Richmond on 17 January",
+                    "public_timestamp": "2020-01-17T17:15:05.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on the state of emergency in Virginia in the vicinity of the State Capitol in Richmond from 17 to 21 January",
+                    "public_timestamp": "2020-01-23T15:29:32.000Z"
+                },
+                {
+                    "note": "Health section and Summary - updated information and advice following an outbreak of coronavirus in China and elsewhere in some other countries",
+                    "public_timestamp": "2020-01-25T13:49:49.000Z"
+                },
+                {
+                    "note": "Health section and Summary - updated information and advice following an outbreak of coronavirus in China. The virus originated in Wuhan City, Hubei Province but cases have been confirmed in other parts of China and other countries, including the USA.   ",
+                    "public_timestamp": "2020-01-25T14:10:01.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice related to the 7 January earthquake off Puerto Rico",
+                    "public_timestamp": "2020-01-28T14:30:50.000Z"
+                },
+                {
+                    "note": "Summary - With effect from 2 February, the US Government will not permit entry to the USA of any foreign nationals who have visited China 14 days or less prior to their travel to the USA. More information for travellers to the USA can be found on the US Centre for Disease Control (CDC) website.",
+                    "public_timestamp": "2020-02-03T20:13:53.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following heavy rainfall in Mississippi",
+                    "public_timestamp": "2020-02-17T17:00:35.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on entry restrictions in place in American Samoa to prevent the spread of coronavirus ('Summary' page)",
+                    "public_timestamp": "2020-02-24T16:41:49.000Z"
+                },
+                {
+                    "note": "Addition of information about precautionary measures introduced by the US authorities for coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-03T19:46:04.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for American Samoa relating to coronavirus ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-04T18:25:37.000Z"
+                },
+                {
+                    "note": "Addition of information following the announcement that, effective from midnight Friday 13 March, the US Government will not permit entry to the USA of any non-US nationals, including British nationals, who have visited (or are resident in) Schengen Area countries 14 days or less prior to their travel to the USA ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-12T12:52:46.000Z"
+                },
+                {
+                    "note": "The FCO advise against all but essential travel to the USA, due to restrictions put in place by the US government with effect from 03:59 GMT 17 March in response to the outbreak of coronavirus (Covid-19) (Summary and Entry Requirements)",
+                    "public_timestamp": "2020-03-15T11:45:06.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Entry Requirements' page) ",
+                    "public_timestamp": "2020-03-17T12:29:14.000Z"
+                },
+                {
+                    "note": "Those who are permitted entry to the USA from the UK (or Ireland) will be advised to self-isolate ('entry requirement' pages)",
+                    "public_timestamp": "2020-03-17T18:32:06.000Z"
+                },
+                {
+                    "note": "Update to further border and travel restrictions due to coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-20T19:29:17.000Z"
+                },
+                {
+                    "note": "Update to information on travel during coronavirus (COVID-19). ('Summary', 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-26T01:35:43.000Z"
+                },
+                {
+                    "note": "Addition of information on transit through the US. ('Return to the UK' page)",
+                    "public_timestamp": "2020-03-27T22:42:49.000Z"
+                },
+                {
+                    "note": "Additional information on ESTA extensions and State coronavirus measures (\"Coronavirus\" section)",
+                    "public_timestamp": "2020-04-04T15:14:49.000Z"
+                },
+                {
+                    "note": "Updated advice for people wishing to return to the UK from the USA (\u2019Return to the UK\u2019  pages)",
+                    "public_timestamp": "2020-04-07T14:28:03.000Z"
+                },
+                {
+                    "note": "Updated information that there are no direct flights from SFO (San Francisco) to the UK at this time, there are flights with connections to the UK. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-07T17:09:30.000Z"
+                },
+                {
+                    "note": "Updated information that there are no direct flights from SFO (San Francisco), SEA (Seattle), DTW (Detroit), (ATL) Atlanta, to the UK at this time, there are flights with connections to the UK. ('Coronavirus' page)  Updated to include direct flight from DFW (Dallas) to the UK. (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-29T22:25:41.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) measures ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-07T16:39:48.000Z"
+                },
+                {
+                    "note": "Update to information and advice on short term visas ('Staying during coronavirus' page) and flight delay or cancellation rights ('Return to the UK' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-05-19T13:48:42.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:50:36.000Z"
+                },
+                {
+                    "note": "Addition of information on numerous protests across the USA ('Summary' page)",
+                    "public_timestamp": "2020-05-30T11:12:52.000Z"
+                },
+                {
+                    "note": "Addition of information on protests across the USA ('Summary' page)",
+                    "public_timestamp": "2020-05-30T17:47:52.000Z"
+                },
+                {
+                    "note": "Addition of information about the protests across the USA ('Summary' page)",
+                    "public_timestamp": "2020-06-05T08:44:54.000Z"
+                },
+                {
+                    "note": "Addition of information about the protests across the USA ('Summary' page)",
+                    "public_timestamp": "2020-06-05T08:44:54.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:55:42.000Z"
+                },
+                {
+                    "note": "Addition of information about airports that are operating transatlantic flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-10T10:16:51.000Z"
+                },
+                {
+                    "note": "Addition of Atlantic airport to list of airports operating transatlantic flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-17T09:17:57.000Z"
+                },
+                {
+                    "note": "Addition of Atlanta airport to list of airports operating transatlantic flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-17T13:18:47.000Z"
+                },
+                {
+                    "note": "Latest update:  Information on further restrictions on certain visas put in place from 24 June to limit the spread of coronavirus (COVID-19). See Summary, Entry Requirements and Return to UK pages.",
+                    "public_timestamp": "2020-06-23T18:32:19.000Z"
+                },
+                {
+                    "note": "Addition of information on announcement by Immigration and Customs Enforcement that UK students pursuing degrees in the USA may have to depart or risk deportation if their universities switch to online-only courses ('Summary' and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-07-09T12:17:36.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-09T15:44:05.000Z"
+                },
+                {
+                    "note": "Update to information on new rules for UK students who are pursuing degrees in the USA ('Summary' page)",
+                    "public_timestamp": "2020-07-17T17:20:42.000Z"
+                },
+                {
+                    "note": "Addition of information on resumption of certain immigrant and nonimmigrant visa services. ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-07-22T16:40:33.000Z"
+                },
+                {
+                    "note": "Change of information for travel within the USA with some states requiring travellers from other states, with high rates of COVID-19, to quarantine for 14 days or to provide proof of a negative COVID-19 test ('Coronavirus' page).",
+                    "public_timestamp": "2020-07-28T19:25:52.000Z"
+                },
+                {
+                    "note": "UK students pursuing courses and degrees in the USA advised to contact their university administrators to clarify entry and visa status.  Updates on status for holders of certain types of visas and restrictions on transiting the USA from certain countries ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-07-30T18:25:39.000Z"
+                },
+                {
+                    "note": "Addition of information on Tropical Storm Laura and Tropical Depression Fourteen ('Summary' page) ",
+                    "public_timestamp": "2020-08-21T16:39:32.000Z"
+                },
+                {
+                    "note": "Addition of information on Tropical Storm Marco and update to information on Tropical Storm Laura ('Summary' page)",
+                    "public_timestamp": "2020-08-24T19:00:35.000Z"
+                },
+                {
+                    "note": "Updated information on Hurricane Laura (see 'Summary' page)",
+                    "public_timestamp": "2020-08-26T16:43:51.000Z"
+                },
+                {
+                    "note": "Update to information on Hurricane Laura ('Summary' page)",
+                    "public_timestamp": "2020-08-27T16:15:09.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements\r\n('Entry requirements' page)",
+                    "public_timestamp": "2020-09-03T08:55:23.000Z"
+                },
+                {
+                    "note": "Addition of information regarding wildfires across several West Coast states (\"Summary\" page)",
+                    "public_timestamp": "2020-09-11T18:59:58.000Z"
+                },
+                {
+                    "note": "Information on Hurricane Sally, which is currently in the Gulf of Mexico, and is expected to make landfall in the early hours of Tuesday 15th September ('Summary' and 'Natural disasters' page).",
+                    "public_timestamp": "2020-09-14T17:07:31.000Z"
+                },
+                {
+                    "note": "Updated information on Hurricane Sally",
+                    "public_timestamp": "2020-09-16T16:32:57.000Z"
+                },
+                {
+                    "note": "Removal of information on Hurricane Sally.",
+                    "public_timestamp": "2020-09-18T17:18:25.000Z"
+                },
+                {
+                    "note": "New information on road deaths in USA in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-02T14:15:13.000Z"
+                },
+                {
+                    "note": "New information on Hurricane Delta ('Summary' page)",
+                    "public_timestamp": "2020-10-06T13:20:44.000Z"
+                },
+                {
+                    "note": "Removal of information on Hurricane Delta and announcement regrading the status around international students studies ('Summary' page)",
+                    "public_timestamp": "2020-10-14T10:30:24.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for travellers that are arriving to the USA from outside UK, Ireland, Schengen zone, Iran, Brazil, or China ('Entry requirements' page) ",
+                    "public_timestamp": "2020-10-19T11:45:20.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the US Virgin Islands and Northern Mariana Islands. The US Virgin Islands and Northern Mariana Islands are now on the list of countries and territories where self-isolation is not required on return to England, Wales, and Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-11-19T17:28:34.000Z"
+                },
+                {
+                    "note": "If you are returning to Scotland from the US Virgin Islands and Northern Mariana Islands on or after 4am on 28 November, you do not need to self-isolate on your return\u2013 but you will do so if you transit the US mainland. . ('Summary' page)",
+                    "public_timestamp": "2020-11-26T18:26:31.000Z"
+                },
+                {
+                    "note": "Update to information on healthcare in the USA ('Coronavirus' page) ",
+                    "public_timestamp": "2020-12-08T17:12:49.000Z"
+                },
+                {
+                    "note": "Removal of information on wildfires ('Summary' page) and updated information on what medication you are allowed to bring into the USA, UK prescriptions are not valid in the USA ('Health' page)",
+                    "public_timestamp": "2020-12-15T17:19:21.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to the US Virgin Islands based on the current assessment of COVID-19 risks. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-12-17T17:44:14.000Z"
+                },
+                {
+                    "note": "Some airlines might require travellers, including British nationals, to produce a recent negative COVID-19 test result before flying. You should check requirements with your airline before travelling ('Summary' page)",
+                    "public_timestamp": "2020-12-23T17:25:41.000Z"
+                },
+                {
+                    "note": "If you are flying to the US from the UK on or after 28 December, you must test negative via PCR or Antigen test no more than 72 hours before your departure from the UK.  You must provide your airline with written documentation of your lab test result.  You should check the process with your airline before travelling. ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-25T08:42:53.000Z"
+                },
+                {
+                    "note": "A curfew introduced by the Mayor of Washington, following scenes of disorder around the US Capitol; from 1800 on 6 January until 0600 on 7 January. You should follow the Mayor's instructions, and avoid scenes of disorder  (Summary)",
+                    "public_timestamp": "2021-01-06T21:20:44.000Z"
+                },
+                {
+                    "note": "New information that the Mayor of Washington has introduced an Emergency Order in Washington DC effective until 3pm local time on 21 January. If you are in the area, you should follow the Mayor's instructions (See 'Summary' page)",
+                    "public_timestamp": "2021-01-08T22:15:00.000Z"
+                },
+                {
+                    "note": "New information on the President\u2019s announcement of an emergency order; reports of potential protests nationwide ('Summary' page) ",
+                    "public_timestamp": "2021-01-13T09:54:40.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in the USA (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-13T14:22:36.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from USA, American Samoa, Guam, Northern Mariana Islands, Puerto Rico or the US Virgin Islands on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T01:40:00.000Z"
+                },
+                {
+                    "note": "If you are arrivng in the UK from the Northern Mariana Islands on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption. ('Summary' page)",
+                    "public_timestamp": "2021-01-18T11:25:13.000Z"
+                },
+                {
+                    "note": "Update to information on entry for Green card and visa holders ('Entry requirements' page).",
+                    "public_timestamp": "2021-01-26T10:07:05.000Z"
+                },
+                {
+                    "note": "Update to information on negative pre-departure testing requirements for entry to the USA ('Summary' and 'Entry requirements' pages). ",
+                    "public_timestamp": "2021-01-26T14:15:28.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in USA (\u2018Coronavirus\u2019 page) \r\n",
+                    "public_timestamp": "2021-02-11T17:13:51.000Z"
+                },
+                {
+                    "note": "Update to information on snow storms ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2021-02-17T16:54:34.000Z"
+                },
+                {
+                    "note": "Update to general advice for people attending peaceful protests in the USA ('Summary' page)",
+                    "public_timestamp": "2021-03-05T12:10:22.000Z"
+                },
+                {
+                    "note": "New information and advice under 'Entry for Green Card and Current Visa Holders' and 'New Visas and Humanitarian Exceptions' ('Entry requirements' page)",
+                    "public_timestamp": "2021-04-07T10:07:43.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the US Virgin Islands, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-04-30T14:21:29.000Z"
+                },
+                {
+                    "note": "Updated information in entry requirements in relation to non-urgent, non-immigrant visa appointments ('Entry requirements' page). ",
+                    "public_timestamp": "2021-06-09T09:23:46.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the US, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-07-09T10:43:22.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine and testing requirements for entry to the USA ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-15T17:05:58.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Puerto Rico, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2021-07-16T08:15:39.000Z"
+                },
+                {
+                    "note": "New information on what do to if you are tested positive for COVID-19 while you are in the USA ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-19T09:57:41.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in the USA (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-08-06T08:26:59.000Z"
+                },
+                {
+                    "note": "Addition of information on a rally taking place in Washington DC on Saturday 18 September ('Summary' page)",
+                    "public_timestamp": "2021-09-16T20:47:58.000Z"
+                },
+                {
+                    "note": " Removal of information on a rally in Washington DC on 18 September ('Summary' page).",
+                    "public_timestamp": "2021-09-20T14:19:37.000Z"
+                },
+                {
+                    "note": "Addition of information on the lifting of travel restrictions for fully vaccinated foreign citizens from November 2021.  Updated information on the new 6-pronged national COVID-19 action plan ('Entry requirements' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-09-21T10:37:37.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to American Samoa, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-06T16:23:32.000Z"
+                },
+                {
+                    "note": "Updated information of lifting of travel restrictions from 8 November for foreign citizens ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-15T17:14:18.000Z"
+                },
+                {
+                    "note": "Updated information on where to find details of accepted vaccines by the US following the announcement that travel restrictions will be lifted ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-15T19:37:55.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Guam based on the current assessment of COVID-19 risks ('Summary' page).",
+                    "public_timestamp": "2021-10-29T11:33:54.000Z"
+                },
+                {
+                    "note": "Update to information on changes to entry rules from 8 November, including entry rules for children under 18 ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-02T13:41:41.000Z"
+                },
+                {
+                    "note": "Update to information on changes to entry restrictions from 8 November 2021 ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-05T15:46:04.000Z"
+                },
+                {
+                    "note": "Removal of entry procedures to the USA prior to 8 November 2021 (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-11-08T16:59:27.000Z"
+                },
+                {
+                    "note": "Information on obtaining a visa or an Electronic System for Travel Authorisation (ESTA) visa waiver to enter or transit the USA as a visitor ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-15T14:35:44.000Z"
+                },
+                {
+                    "note": "Update to information on pre-travel testing requirements; children under 2 years old do not need to test ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-23T15:16:21.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to the USA (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-11-26T17:22:04.000Z"
+                },
+                {
+                    "note": "Update to information following changes to US entry rules in response to the Omicron COVID-19 variant ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-29T12:01:19.000Z"
+                },
+                {
+                    "note": "Update to information on changes to entry rules from 6 December 2021; before boarding a flight to the USA, all passengers - regardless of vaccination status - will need to show a negative COVID-19 test result taken no more than 1 day before travel. ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-03T15:12:47.000Z"
+                },
+                {
+                    "note": "Update to information on using vaccine proof to access local amenities ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-07T16:24:51.000Z"
+                },
+                {
+                    "note": "Updated information on COVID restrictions for travel in the USA and for public places and services ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-21T12:52:42.000Z"
+                },
+                {
+                    "note": "Removal of information in relation to the omicron COVID-19 variant ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-11T10:22:43.000Z"
+                },
+                {
+                    "note": "Update to information on visas for entry to the USA; if you have travelled to or have been in Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen on or after 1 March 2011, you are normally not eligible for an ESTA visa waiver and will need to apply for a US visa ('Entry requirements' page).",
+                    "public_timestamp": "2022-01-13T12:24:14.000Z"
+                },
+                {
+                    "note": "Review and amendments of 'Summary' and 'Coronavirus' pages",
+                    "public_timestamp": "2022-03-17T14:16:24.000Z"
+                },
+                {
+                    "note": "updated information in the All Travellers section about who should not attempt to travel on an ESTA ('Entry Requirements' page)",
+                    "public_timestamp": "2022-04-05T15:51:46.000Z"
+                },
+                {
+                    "note": "Information added on reports of a firearms incident on the New York Subway at 36th street Metro station in Sunset Park on 12 April; the incident is ongoing and you should avoid the area around 36th street station (see 'Summary' and 'Terrorism' pages).",
+                    "public_timestamp": "2022-04-12T15:55:55.000Z"
+                },
+                {
+                    "note": "Updated advice on the incident at 39th street Subway in New York City.",
+                    "public_timestamp": "2022-04-12T18:34:55.000Z"
+                },
+                {
+                    "note": "Removal of information relating to incident at 36th Street Subway Station in New York City on Tuesday 12 April.",
+                    "public_timestamp": "2022-04-14T07:20:34.000Z"
+                },
+                {
+                    "note": "Removal of information on the requirement for masks to be worn on public transport, as this has been lifted ",
+                    "public_timestamp": "2022-06-10T14:40:48.000Z"
+                },
+                {
+                    "note": "Updated information on Entry Requirements. From 05:01 BST on Sunday 12th June 2022, passengers boarding flights bound to the USA will no longer require a pre-departure COVID-19 test. ('Summary' and 'Entry Requirements' pages). ",
+                    "public_timestamp": "2022-06-10T17:58:11.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 entry requirements ('Entry requirements' page)",
+                    "public_timestamp": "2022-06-22T18:04:02.000Z"
+                },
+                {
+                    "note": "Updated information following a shooting incident in Highland Park, Illinois (\"Summary\" page).",
+                    "public_timestamp": "2022-07-04T20:40:44.000Z"
+                },
+                {
+                    "note": "Update to remove information on shooting incident in Highland Park, Illinois ('Summary' page) and remove information about Hurricanes Irma and Maria ('Natural Disasters' page)",
+                    "public_timestamp": "2022-07-07T15:42:01.000Z"
+                },
+                {
+                    "note": "Addition of information about Centers for Disease Control and Prevention (CDC)  guidance on what to do if you have been exposed to someone with COVID-19 ('Coronavirus' page).",
+                    "public_timestamp": "2022-08-18T14:14:22.000Z"
+                },
+                {
+                    "note": "Information about Hurricane Ian reaching the Florida coast ('Summary' page)",
+                    "public_timestamp": "2022-09-26T17:43:03.000Z"
+                },
+                {
+                    "note": "Updated information on Hurricane Ian (a category 4 hurricane and is strengthening steadily) for the Fort Myers and Tampa Bay areas of western Florida and If you live in these coastal areas you should have already left for safer areas inland. ('Summary' page).",
+                    "public_timestamp": "2022-09-28T15:28:33.000Z"
+                },
+                {
+                    "note": "Hurricane Ian is due to hit Georgia and South Carolina on Friday evening (Summary)",
+                    "public_timestamp": "2022-09-30T17:00:37.000Z"
+                },
+                {
+                    "note": "Updated information on travelling to the USA after you've been to Cuba ('Entry requirements' page).",
+                    "public_timestamp": "2022-10-07T15:37:49.000Z"
+                },
+                {
+                    "note": "Removal of information on Hurricane Ian (Summary Page)",
+                    "public_timestamp": "2022-10-10T16:00:44.000Z"
+                },
+                {
+                    "note": "New information on enhanced screening for Ebola ('Entry requirements' page). ",
+                    "public_timestamp": "2022-10-19T09:58:01.000Z"
+                },
+                {
+                    "note": "Updated information that US authorities issued a statement on 3 November warning of a credible threat to synagogues in New Jersey. You should take security precautions where appropriate and follow the advice of local authorities. ('Summary' page).",
+                    "public_timestamp": "2022-11-04T10:36:13.000Z"
+                },
+                {
+                    "note": "Removed information on a statement made by US authorities on a threat to synagogues in New Jersey (\u2018Summary\u2019 page).",
+                    "public_timestamp": "2022-12-20T10:43:54.000Z"
+                },
+                {
+                    "note": "From 5 January 2023, new requirements for travelling to the USA from China, Hong Kong or Macao begin. ('Entry requirements' page)",
+                    "public_timestamp": "2022-12-30T23:59:46.000Z"
+                },
+                {
+                    "note": "Addition of information that domestic departures may be affected by an issue with US flight control systems ('Summary' page).",
+                    "public_timestamp": "2023-01-11T14:54:35.000Z"
+                },
+                {
+                    "note": "Updated information on US domestic airline departures due to flight control systems. (See 'Summary')",
+                    "public_timestamp": "2023-01-12T23:05:13.000Z"
+                },
+                {
+                    "note": "Updated information on US domestic airline departures due to flight control systems. (See 'Summary')",
+                    "public_timestamp": "2023-01-12T23:11:23.000Z"
+                },
+                {
+                    "note": "Removal of information on grounded US domestic flights due to an issue with US flight control systems ('Summary' page).\r\n\r\n",
+                    "public_timestamp": "2023-01-16T10:38:24.000Z"
+                },
+                {
+                    "note": "Addition of information on the potential for an increased level of protests across the USA ('Summary').",
+                    "public_timestamp": "2023-01-27T21:44:51.000Z"
+                },
+                {
+                    "note": "Updated information on protests across the USA ('Summary' page).",
+                    "public_timestamp": "2023-02-01T22:19:53.000Z"
+                },
+                {
+                    "note": "Removal of information about additional entry requirements if travelling from China, Hong Kong and Macau (Entry requirements)",
+                    "public_timestamp": "2023-03-11T00:29:52.000Z"
+                },
+                {
+                    "note": "Updated information that from 12 May 2023 COVID-19 vaccine requirements for air travellers to the USA will end. You will not need to show proof of vaccination against COVID-19, those traveling before 12 May must follow the current vaccination requirements ('Entry requirements' page).",
+                    "public_timestamp": "2023-05-11T15:24:48.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 vaccine requirements for air travellers into the USA ending from the 12 May 2023 ('Summary', 'Coronavirus', 'Entry requirements' and 'Health' pages).",
+                    "public_timestamp": "2023-05-12T10:48:31.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for travellers to the USA who have previously travelled to or been in Cuba any time since 1 January 2021 (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2023-05-24T11:22:27.000Z"
+                },
+                {
+                    "note": "Additional information about children and young people aged 17 and under travelling to the USA (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2023-06-01T15:45:57.000Z"
+                },
+                {
+                    "note": "Additional information on the poor air quality across parts of the East Coast of the USA ('Summary' page).",
+                    "public_timestamp": "2023-06-08T21:27:23.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:53:37.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. ",
+                    "public_timestamp": "2023-06-30T15:12:55.000Z"
+                },
+                {
+                    "note": "Information following the recent floods in Vermont ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-07-13T10:22:11.000Z"
+                },
+                {
+                    "note": "Information on extreme temperatures currently affecting parts of the USA (\u2018Safety and security\u2019 page).",
+                    "public_timestamp": "2023-07-20T10:25:25.000Z"
+                },
+                {
+                    "note": "Information on International Driving Permit requirements in the USA and that requirements may vary by State (under \u2018Licenses and permits\u2019 on the \u2018Safety and security\u2019 page).",
+                    "public_timestamp": "2023-08-02T14:50:02.000Z"
+                },
+                {
+                    "note": "Addition of information about wildfires in Hawaii (Warnings and Insurance)",
+                    "public_timestamp": "2023-08-10T01:58:54.000Z"
+                },
+                {
+                    "note": "Update to phone number to call for consular assistance (Summary)",
+                    "public_timestamp": "2023-08-10T20:42:59.000Z"
+                },
+                {
+                    "note": "Information on tropical storm Hilary in Southwest USA  (under 'Warnings and insurance' page).",
+                    "public_timestamp": "2023-08-18T22:57:39.000Z"
+                },
+                {
+                    "note": "Removal of information on tropical storm Hilary (\u2018Warnings and insurance\u2019 page).",
+                    "public_timestamp": "2023-08-25T13:53:11.000Z"
+                },
+                {
+                    "note": "Information on tropical storm Idalia (\u2018Warnings and insurance\u2019 page).",
+                    "public_timestamp": "2023-08-29T09:40:32.000Z"
+                },
+                {
+                    "note": "Latest update:\r\nInformation on Hurricane Idalia (\u2018Warnings and insurance\u2019 page).\r\n",
+                    "public_timestamp": "2023-08-30T17:16:16.000Z"
+                },
+                {
+                    "note": "Latest update: Information on Hurricane Idalia (\u2018Warnings and insurance\u2019 page).\r\n",
+                    "public_timestamp": "2023-08-31T17:18:19.000Z"
+                },
+                {
+                    "note": "Removal of information on Hurricane Idalia ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-09-05T09:04:03.000Z"
+                },
+                {
+                    "note": "Information on an active shooter in Maine ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-10-26T12:36:23.000Z"
+                },
+                {
+                    "note": "Removal of information on an active shooter in Maine ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-10-30T16:23:02.000Z"
+                }
+            ],
+            "country": {
+                "name": "USA",
+                "slug": "usa",
+                "synonyms": [
+                    "United States",
+                    "America",
+                    "Arctic",
+                    "Puerto Rico",
+                    "US Virgin Islands",
+                    "Florida",
+                    "Orlando",
+                    "American Samoa",
+                    "Guam",
+                    "Hawaii"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/usa/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Important\" class=\"advisory\">\n<p><strong>This travel advice also covers American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and United States Virgin Islands.</strong></p>\n</div>\n\n<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/usa/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in the USA set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, <a rel=\"external\" href=\"https://uk.usembassy.gov/\">contact the US embassy or consulate in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.</p>\n\n<p>If you test positive for COVID-19 while in the USA, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Visit TravelHealthPro (from the UK\u2019s National Travel Health Network and Centre) for <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">general COVID-19 advice for travellers</a>.</p>\n\n<h2 id=\"passport-validity\">Passport validity</h2>\n\n<p>If you are visiting the USA your passport should be valid for the proposed duration of your stay. You don\u2019t need any additional period of validity on your passport beyond this.</p>\n\n<h2 id=\"global-entry-programme\">Global Entry programme</h2>\n\n<p>The US Customs and Border Protection programme <a rel=\"external\" href=\"http://www.cbp.gov/travel/trusted-traveler-programs/global-entry\">Global Entry</a> allows pre-approved travellers through border control faster at some US airports. If you\u2019re a British citizen, you can <a href=\"https://www.gov.uk/apply-faster-entry-usa\">register to get a UK background check on GOV.UK</a>. If you pass the background checks, you\u2019ll be invited to apply for Global Entry.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You will need either an <a rel=\"external\" href=\"https://esta.cbp.dhs.gov/faq?lang=en&amp;focusedTopic=About%20ESTA%20and%20The%20Visa%20Waiver%20Program&amp;answerToDisplay=Who%20is%20eligible%20to%20submit%20an%20application%3F\">Electronic System for Travel Authorisation (ESTA) visa waiver</a> or a <a rel=\"external\" href=\"https://uk.usembassy.gov/visas/\">visa</a> to enter or transit the USA as a visitor.</p>\n\n<p>You are not normally eligible for an ESTA visa waiver if you have been in the following countries on or after March 2011:</p>\n\n<ul>\n  <li>Iran</li>\n  <li>Iraq</li>\n  <li>Libya</li>\n  <li>North Korea</li>\n  <li>Somalia</li>\n  <li>Sudan</li>\n  <li>Syria</li>\n  <li>Yemen</li>\n</ul>\n\n<p>You cannot apply for an ESTA visa waiver if you have travelled to or been in Cuba after 1 January 2021. You must instead apply for a US visa.</p>\n\n<p>You cannot apply for an ESTA visa waiver if you:</p>\n\n<ul>\n  <li>have been arrested (even if the arrest did not result in a criminal conviction)</li>\n  <li>have a criminal record</li>\n  <li>have been refused admission into, or have been deported from the USA</li>\n  <li>have previously overstayed under an ESTA visa waiver</li>\n</ul>\n\n<p>Check the <a rel=\"external\" href=\"https://travel.state.gov/content/travel/en/us-visas.html\">US State Department website</a> for more information on US visas.</p>\n\n<h3 id=\"applying-for-a-visa\">Applying for a visa</h3>\n\n<p>Visit the <a rel=\"external\" href=\"https://uk.usembassy.gov/visas/visa-waiver-program/additional-requirements/\">US Embassy</a> for details on how to apply for a visa.</p>\n\n<h3 id=\"us-visa-appointments\">US visa appointments</h3>\n\n<p>Visa appointments at the US Embassy in London are limited. Plan your application as far ahead as possible before travel. If you need to travel urgently, you can request an expedited interview through the US Embassy\u2019s appointment service provider.</p>\n\n<p>Visit the <a rel=\"external\" href=\"https://uk.usembassy.gov/visas/u-s-visa-and-travel-faqs/\">US Embassy\u2019s website</a> for more information on visa appointments.</p>\n\n<h3 id=\"children-and-young-people\">Children and young people</h3>\n\n<p>Under-18s must:</p>\n\n<ul>\n  <li>have a valid visa or ESTA visa waiver on arrival</li>\n  <li>be able to provide evidence about the purpose, location and length of their visit if asked by immigration officials</li>\n  <li>have written consent from one or both parents if travelling alone, with only one parent, or with someone who is not a parent or legal guardian</li>\n</ul>\n\n<p>The US authorities can stop you entering the country if they have safeguarding concerns about a child. If this happens, the US authorities will take the child into their care. Their return from the USA could take months. The FCDO cannot speed up the return of British nationals who are under 18 from the USA.</p>\n\n<p>The US Government <a rel=\"external\" href=\"https://www.usa.gov/travel-documents-children\">provides information about children under-18 travelling to the USA</a>. If you have any questions, contact the <a rel=\"external\" href=\"https://uk.usembassy.gov/\">US Embassy</a>.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-the-usa\">Terrorism in the USA</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are very likely to try to carry out attacks in the USA.</p>\n</div>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities. Targets could include:</p>\n\n<ul>\n  <li>crowded areas</li>\n  <li>transportation networks</li>\n  <li>public events</li>\n</ul>\n\n<p>The <a rel=\"external\" href=\"https://www.dhs.gov/national-terrorism-advisory-system\">US Department of Homeland Security</a> provides current alerts within the USA and its territories.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Do not leave passports in rental cars, especially in the boot. Gangs may target vehicles of those who appear to be tourists.</p>\n\n<h3 id=\"violent-crime\">Violent crime</h3>\n\n<p>Tourists are rarely involved in violent and gun crime, but take care in unfamiliar areas. Avoid walking through quieter areas alone, especially at night. You can find public advisories and information about recent incidents on the websites of local law enforcement authorities.</p>\n\n<p>Incidents of mass shooting can happen but are a very small percentage of homicide deaths. Read the <a rel=\"external\" href=\"http://www.dhs.gov/publication/active-shooter-pamphlet/\">US Department of Homeland Security</a> advice on what to do in an active shooter incident.</p>\n\n<p>Research your destination before travelling and follow the advice of local authorities. Crime associated with illegal drugs is a major issue in Mexican states bordering Arizona, California, New Mexico and Texas. Some foreign nationals have been victims of crime in the border regions, but there is no evidence to suggest they have been targeted because of their nationality.</p>\n\n<h3 id=\"protests\">Protests</h3>\n\n<p>Protests are common and can become violent. Follow the instructions of local authorities who may introduce curfews or emergency orders. If you do attend any peaceful protests, you should:</p>\n\n<ul>\n  <li>be mindful of your surroundings</li>\n  <li>move away if there are signs of trouble</li>\n  <li>follow the instructions of local authorities</li>\n</ul>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<p>US states may have different laws. Whilst you are in a state, you are subject to both that state\u2019s laws as well as national (federal) law.</p>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>Always carry a passport showing that you have permission to enter or remain in the USA.</p>\n\n<h3 id=\"alcohol-laws\">Alcohol laws</h3>\n\n<p>The national legal age for buying and drinking alcohol is 21 years. Some states have different laws. If you are under-21, check the relevant state laws before drinking or buying alcohol.</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Possession or trafficking of illegal drugs in the USA can carry a long prison sentence and fine. Check state laws to make sure you comply with the laws on possession and use of controlled substances. The <a rel=\"external\" href=\"http://www.justice.gov/dea/index.shtml\">US Department of Justice website</a> provides a list of all controlled substances.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>The USA is a very diverse society and attitudes towards lesbian, gay, bisexual, and transgender (LGBT+) people differ hugely across the country. Read our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT+ community before you travel. You can find more detail on LGBT+ issues in the USA on the <a rel=\"external\" href=\"https://www.hrc.org/resources\">Human Rights Campaign website</a>.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in the USA, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and <a rel=\"external\" href=\"http://www.usa.gov/non-citizen-driving\">check the driving rules in the state(s) you\u2019ll be visiting</a>.</p>\n\n<h3 id=\"licences-and-permits\">Licences and permits</h3>\n\n<p>If you plan on driving in the USA, you may need\u00a0a 1949 <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">international driving permit (IDP)</a> as well as a full valid driving licence.\u00a0 IDP requirements vary in each state.\u00a0 For more information, you can consult individual states\u2019 <a rel=\"external\" href=\"https://www.usa.gov/state-motor-vehicle-services\">Department of Motor Vehicles</a> as well as the <a rel=\"external\" href=\"https://www.aaa.com/International/\">American Automobile Association (AAA)</a>.</p>\n\n<p>You cannot buy an IDP outside the UK, so get one before you travel. You can buy an IDP in person from some UK post offices \u2013\u00a0<a rel=\"external\" href=\"https://www.postoffice.co.uk/identity/international-driving-permit#bf-full-width\">find your nearest post office branch</a>\u00a0that offers this service. Provisional licences are not accepted.</p>\n\n<p>If you have an older, paper UK driving licence you must take another form of photographic ID, such as your passport. You may need to show an IDP to your insurance company if you\u2019re involved in an accident.</p>\n\n<p>If you\u2019re hiring a vehicle, check requirements with your rental company before you travel.</p>\n\n<h3 id=\"vehicle-safety\">Vehicle safety</h3>\n\n<p>When travelling by car, you should:</p>\n\n<ul>\n  <li>check weather conditions before a long car journey, particularly in mountainous, isolated or desert areas where services may be limited</li>\n  <li>not sleep in your car by the road or in rest areas</li>\n  <li>avoid leaving any items on display in your car</li>\n  <li>stay on main roads</li>\n  <li>use well-lit car parks</li>\n</ul>\n\n<p>If you\u2019re in an accident, ask any other drivers involved to follow you to a public place and call the police.</p>\n\n<h3 id=\"petrol-stations\">Petrol stations</h3>\n\n<p>Petrol stations that do not display the price of fuel usually charge considerably more than the national average. They\u2019re often found close to tourist destinations and airports, including near to Orlando International Airport. Make sure you know the price of fuel before using these services.</p>\n\n<h3 id=\"air-travel\">Air travel</h3>\n\n<p>Before you travel, check the security measures you\u2019re likely to face at the airport on the <a rel=\"external\" href=\"http://www.tsa.gov/travel/security-screening\">Transportation Security Administration (TSA) website</a>. <a rel=\"external\" href=\"https://www.tsa.gov/travel/passenger-support#:~:text=TSA%20offers%20screening%20information%20and,need%20additional%20assistance%20with%20screening.\">Contact TSA Cares</a> for assistance if you have a medical condition or disability and need assistance.</p>\n\n<p>To monitor airport conditions in the USA, visit the <a rel=\"external\" href=\"http://www.fly.faa.gov/flyfaa/usmap.jsp\">Federal Aviation Administration website</a>.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"extreme-heat\">Extreme Heat</h3>\n\n<p>Extreme heat is currently affecting many parts of the USA. <a rel=\"external\" href=\"https://ephtracking.cdc.gov/Applications/heatTracker/\">Check the temperature</a> in your area and <a rel=\"external\" href=\"https://www.cdc.gov/nceh/features/extremeheat/index.html\">visit the CDC website</a> for information on how to take care of yourself.</p>\n\n<h3 id=\"snowstorms\">Snowstorms</h3>\n\n<p>Snowstorms during winter can disrupt critical infrastructure, and cause power cuts, or delays and cancellations in major transport hubs. Contact your travel company or airline before you travel.</p>\n\n<h3 id=\"hurricanes\">Hurricanes</h3>\n\n<p>The Atlantic hurricane season normally runs from June to November. The Pacific hurricane season normally runs from May to November. They can affect coastal regions, Hawaii and Guam. The South Pacific tropical cyclone season normally runs from November to May and can affect American Samoa.</p>\n\n<p>You should:</p>\n\n<ul>\n  <li>monitor the progress of approaching storms on the <a rel=\"external\" href=\"https://www.nhc.noaa.gov/\">US National Hurricane Center website</a>\n</li>\n  <li>follow instructions from local authorities, including evacuation orders</li>\n  <li>visit the <a rel=\"external\" href=\"https://www.ready.gov/\">Federal Emergency Management Agency (FEMA) website</a> for information on preparing for extreme weather and evacuating, and for a list of disaster supplies that will help</li>\n  <li>see our <a href=\"https://www.gov.uk/guidance/tropical-cyclones\">tropical cyclones page</a> for advice about how to prepare effectively and what to do if you\u2019re likely to be affected by a hurricane or tropical cyclone</li>\n</ul>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>Earthquakes are a risk in:</p>\n\n<ul>\n  <li>Alaska</li>\n  <li>American Samoa</li>\n  <li>California</li>\n  <li>Guam</li>\n  <li>Hawaii</li>\n  <li>Nevada</li>\n  <li>Northern Mariana Islands</li>\n  <li>Oklahoma</li>\n  <li>Oregon</li>\n  <li>Puerto Rico</li>\n  <li>Washington (state)</li>\n  <li>US Virgin Islands</li>\n</ul>\n\n<p>To learn more about what to do before, during and after an earthquake, visit the <a rel=\"external\" href=\"http://www.ready.gov/earthquakes\">Federal Emergency Management website</a>.</p>\n\n<h3 id=\"tornadoes\">Tornadoes</h3>\n\n<p>Tornadoes can happen anytime depending on weather conditions. Read advice about what to do during and after a tornado from the US <a rel=\"external\" href=\"https://www.ready.gov/tornadoes\">Federal Emergency Management Agency</a>.</p>\n\n<h3 id=\"volcanic-eruptions-in-hawaii\">Volcanic eruptions in Hawaii</h3>\n\n<p>There is continuous volcanic activity on Hawaii\u2019s Big Island. Monitor local media reports and follow the advice of local authorities, including any evacuation orders. Visit the <a rel=\"external\" href=\"https://hawaii-county-volcano-hazards-hawaiicountygis.hub.arcgis.com/\">State of Hawaii\u2019s website</a> for information and alerts on volcanic activity. To learn more about what to do before, during and after a volcano, visit the <a rel=\"external\" href=\"https://www.ready.gov/volcanoes\">Federal Emergency Management website</a>.</p>\n\n<h3 id=\"wildfires\">Wildfires</h3>\n\n<p>Forest and brush fires (wildfires) are a danger in many dry areas, particularly in canyons, hills and forests. High winds can mean fires spread rapidly.</p>\n\n<p>You should:</p>\n\n<ul>\n  <li>monitor local media and <a rel=\"external\" href=\"https://www.noaa.gov/\">weather reports</a>\n</li>\n  <li>follow the advice of local authorities, including any evacuation orders</li>\n  <li>be careful in areas recently affected by wildfires, as there may be mudslides during heavy rainfall</li>\n</ul>\n\n<p>For more information visit the <a rel=\"external\" href=\"https://www.nifc.gov/\">National Interagency Fire Centre</a> and <a rel=\"external\" href=\"https://www.frames.gov/\">Fire Research and Management Exchange System</a> websites.</p>\n\n<p>For more detail about wildfires in California, visit the <a rel=\"external\" href=\"https://www.fire.ca.gov/incidents/\">CAL FIRE website</a>.</p>\n\n<h2 id=\"arctic-travel\">Arctic travel</h2>\n\n<p>Most British nationals travel safely around the Arctic each year. However, consular assistance and support to British nationals is limited by the capacity of national and local authorities. Make sure you have appropriate travel insurance and accessible funds to cover the cost of any medical treatment or potential repatriation.</p>\n\n<p>Before you visit:</p>\n\n<ul>\n  <li>consider the remote nature of certain destinations and access to medical facilities, search and rescue and evacuation options</li>\n  <li>have emergency plans in place, particularly if you are an independent traveller</li>\n</ul>\n\n<h3 id=\"sea-travel-in-the-arctic\">Sea travel in the Arctic</h3>\n\n<p>Most people visit the Arctic by ship. Some areas of the Arctic are uncharted and ice-covered. Before you travel:</p>\n\n<ul>\n  <li>check the experience and credentials of operators offering travel in the region</li>\n  <li>consider the on-board medical facilities and discuss any pre-existing medical conditions with the cruise operator</li>\n</ul>\n\n<h3 id=\"search-and-rescue\">Search and rescue</h3>\n\n<p>In the highest latitude regions of the Arctic, cruise ships may be isolated from other vessels or populated areas. Be aware that:</p>\n\n<ul>\n  <li>search and rescue response may be very far away</li>\n  <li>assistance to stranded vessels may take several days to arrive, particularly in bad weather</li>\n  <li>search and rescue teams will only offer basic transport and medical care; they are unlikely to be able to offer advanced life support</li>\n</ul>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 911 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on health risks and what <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/235/usa\">vaccinations you need for the USA</a> (or the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/242/virgin-islands-usa\">US Virgin Islands</a>, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/182/puerto-rico\">Puerto Rico</a>, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/263/american-samoa-guam-northern-mariana-islands\">American Samoa, Guam and Northern Mariana Islands</a>) on TravelHealthPro (from the UK\u2019s\u00a0National Travel Health Network and Centre)</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<p>Altitude sickness is a risk in parts of the USA. <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/26/altitude-illness\">More information about altitude sickness is available from TravelHealthPro</a> (from the UK\u2019s National Travel Health Network and Centre).</p>\n\n<h3 id=\"mosquito-bites\">Mosquito bites</h3>\n\n<p>Take steps to avoid bites from mosquitoes and ticks \u2013 <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance\">read guidance on TravelHealthPro</a>. There are occasional outbreaks of mosquito-borne diseases.</p>\n\n<p><a rel=\"external\" href=\"https://www.travelhealthpro.org.uk/factsheet/5/zika--risk-assessment\">Zika virus</a> is a risk in:</p>\n\n<ul>\n  <li>Florida</li>\n  <li>Texas (Cameron County and Hidalgo County only)</li>\n  <li>Puerto Rico</li>\n  <li>US Virgin Islands</li>\n  <li>American Samoa</li>\n</ul>\n\n<p>For more information and advice, visit TravelHealthPro for <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/235/united-states\">Florida and Texas</a>, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/182/puerto-rico\">Puerto Rico</a>, <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/242/usa-virgin-islands#Other_risks\">US Virgin Islands</a> and <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/95/guam\">American Samoa</a>.</p>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>You cannot take some prescription drugs into the USA. The <a rel=\"external\" href=\"https://www.fda.gov/consumers/consumer-updates/5-tips-traveling-us-medications\">US Food and Drug Administration</a> provides information and advice on bringing medicines into the USA.</p>\n\n<p>UK prescriptions are not valid in the USA. To get pharmacy drugs, you need a prescription from a US provider (available from an urgent care facility, emergency room or a doctor).</p>\n\n<p>TravelHealthPro explains <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-the-usa\">Healthcare facilities in the USA</h2>\n\n<p>Medical treatment is expensive and there are no special arrangements for British visitors.</p>\n\n<p>Some hospitals ask non-US residents to pay a deposit when admitted. Send any requests for funds to your travel insurance provider first; only pay the hospital if you\u2019re advised to do so by your travel insurance company. Your medical care won\u2019t be affected while your claim is processed.</p>\n\n<p>Medical facilities in American Samoa are basic and you may need medical evacuation by air ambulance to Hawaii, New Zealand or Australia.</p>\n\n<p>Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<h2 id=\"covid-19-healthcare-in-the-usa\">COVID-19 healthcare in the USA</h2>\n<p>Isolation requirements will depend on the guidance in the state where you are. The Center for Disease Control and Prevention (CDC) has guidance on <a rel=\"external\" href=\"https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html\">how to protect yourself and others</a>.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">FCDO guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">guidance on TravelHealthPro</a>.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-the-usa\">Emergency services in the USA</h2>\n\n<p>Telephone: 911 (ambulance, fire, police)</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding <a href=\"https://www.gov.uk/government/publications/usa-list-of-lawyers\">lawyers</a>\n</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/bereavement-information-for-the-usa\">death in the USA</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/usa-prisoner-pack\">arrested in the USA</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/usa/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/organisations/british-embassy-washington\">British embassy or consulate</a> in the USA.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=United%20States&amp;post=British%20Embassy%20Washington\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-30T16:23:02Z",
+            "updated_at": "2023-10-30T16:23:02Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-06T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/usa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/usa",
+                    "base_path": "/foreign-travel-advice/usa",
+                    "content_id": "f2cecaae-77ce-4df3-bf27-7783c3975706",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:23:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "USA travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/usa",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/usa",
+                    "api_url": "https://www.gov.uk/api/content/world/usa",
+                    "base_path": "/world/usa",
+                    "content_id": "82d93da2-8c25-4f56-809f-0dc0bd965ca8",
+                    "description": "Services if you're visiting, studying, working or living in the USA. Includes information about trading with and doing business in the UK and USA.",
+                    "details": {
+                        "internal_name": "UK help and services in USA",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:40Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in USA",
+                    "web_url": "https://www.gov.uk/world/usa",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/global-entry-usa",
+                    "api_url": "https://www.gov.uk/api/content/global-entry-usa",
+                    "base_path": "/global-entry-usa",
+                    "content_id": "d79a4c06-d0f3-484e-9200-12ea7685c9b2",
+                    "document_type": "answer",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2016-11-03T15:26:43Z",
+                    "schema_name": "answer",
+                    "title": "Global Entry: apply for faster entry to the USA ",
+                    "web_url": "https://www.gov.uk/global-entry-usa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/canada",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/canada",
+                    "base_path": "/foreign-travel-advice/canada",
+                    "content_id": "f402b8de-2e99-4ff3-949f-31fe65796cae",
+                    "details": {
+                        "change_description": "New information on winter storms and updated information on forest fires ('Safety and security' page).",
+                        "country": {
+                            "name": "Canada",
+                            "slug": "canada",
+                            "synonyms": [
+                                "arctic"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T10:49:07Z",
+                    "schema_name": "travel_advice",
+                    "title": "Canada travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/canada",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/publications/foreign-embassies-in-the-uk",
+                    "api_url": "https://www.gov.uk/api/content/government/publications/foreign-embassies-in-the-uk",
+                    "base_path": "/government/publications/foreign-embassies-in-the-uk",
+                    "content_id": "5c9abed0-7631-11e4-a3cb-005056011aef",
+                    "document_type": "guidance",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T11:46:42Z",
+                    "schema_name": "publication",
+                    "title": "Foreign embassies in the UK",
+                    "web_url": "https://www.gov.uk/government/publications/foreign-embassies-in-the-uk",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/publications/a-guide-for-british-visitors-interested-in-traveling-to-florida",
+                    "api_url": "https://www.gov.uk/api/content/government/publications/a-guide-for-british-visitors-interested-in-traveling-to-florida",
+                    "base_path": "/government/publications/a-guide-for-british-visitors-interested-in-traveling-to-florida",
+                    "content_id": "e34a5d17-1d95-4972-94ca-b8b25e5609a5",
+                    "document_type": "guidance",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-08-25T20:08:00Z",
+                    "schema_name": "publication",
+                    "title": "Advice for British visitors to Florida.",
+                    "web_url": "https://www.gov.uk/government/publications/a-guide-for-british-visitors-interested-in-traveling-to-florida",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-the-usa",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-the-usa",
+                    "base_path": "/world/living-in-the-usa",
+                    "content_id": "79e5711d-5537-4d06-a3e9-c10a830456a1",
+                    "description": "How to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in the USA",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/usa",
+                                "api_url": "https://www.gov.uk/api/content/world/usa",
+                                "base_path": "/world/usa",
+                                "content_id": "82d93da2-8c25-4f56-809f-0dc0bd965ca8",
+                                "description": "Services if you're visiting, studying, working or living in the USA. Includes information about trading with and doing business in the UK and USA.",
+                                "details": {
+                                    "internal_name": "UK help and services in USA",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:40Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in USA",
+                                "web_url": "https://www.gov.uk/world/usa",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2019-08-08T10:32:31Z",
+                    "schema_name": "taxon",
+                    "title": "Living in the USA",
+                    "web_url": "https://www.gov.uk/world/living-in-the-usa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-the-usa",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-the-usa",
+                    "base_path": "/world/travelling-to-the-usa",
+                    "content_id": "44b9efd9-3998-48b6-9373-581717b90200",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to the USA",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/usa",
+                                "api_url": "https://www.gov.uk/api/content/world/usa",
+                                "base_path": "/world/usa",
+                                "content_id": "82d93da2-8c25-4f56-809f-0dc0bd965ca8",
+                                "description": "Services if you're visiting, studying, working or living in the USA. Includes information about trading with and doing business in the UK and USA.",
+                                "details": {
+                                    "internal_name": "UK help and services in USA",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:40Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in USA",
+                                "web_url": "https://www.gov.uk/world/usa",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:20:02Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to the USA",
+                    "web_url": "https://www.gov.uk/world/travelling-to-the-usa",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-30T16:23:02Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698682982.224-10.13.20.67-31916",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "USA travel advice",
+        "updated_at": "2023-11-15T11:08:39Z",
+        "withdrawn_notice": {}
+    }
+}

@@ -1,0 +1,1159 @@
+{
+    "Country Slug": "lithuania",
+    "Country Name": "Lithuania",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/lithuania",
+        "content_id": "b6321337-80c2-4f1b-910a-aad4852dc7d7",
+        "description": "Latest FCDO travel advice for Lithuania including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about restrictions on vehicles with Russian licence plates (\u2018Entry requirements\u2019 page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU; Health section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:22:14.559Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T17:45:22.284Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:34:17.575Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T17:55:49.460Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T12:10:54.563Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Lithuania",
+                    "public_timestamp": "2019-03-25T18:45:42.685Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2019-07-08T15:29:00.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T18:31:21.000Z"
+                },
+                {
+                    "note": "Addition of information about precautionary measures introduced by the Lithuanian authorities for coronavirus (COVID-19) ('Health' and 'Summary' pages) ",
+                    "public_timestamp": "2020-02-28T16:13:27.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-13T11:13:40.000Z"
+                },
+                {
+                    "note": "Update on precautionary measures in response to the coronavirus (COVID-19) ('Summary' and 'Health')",
+                    "public_timestamp": "2020-03-14T22:12:59.000Z"
+                },
+                {
+                    "note": "Addition of information regarding quarantine coming into force ('Summary' and 'Health')",
+                    "public_timestamp": "2020-03-15T21:38:52.000Z"
+                },
+                {
+                    "note": "Addition of information regarding quarantine coming into force in response to coronavirus (COVID-19) ('Summary' and 'Health')",
+                    "public_timestamp": "2020-03-16T21:56:47.000Z"
+                },
+                {
+                    "note": "Transit of persons returning to their place of residence through Lithuania will be allowed until  00:00 EET on 23 March on condition they cross without any non-essential stops (Summary).",
+                    "public_timestamp": "2020-03-19T00:06:51.000Z"
+                },
+                {
+                    "note": "Update of information on travel restrictions in relation to coronavirus (COVID-19) ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-24T13:58:51.000Z"
+                },
+                {
+                    "note": "Update of information on local measures and travel restrictions introduced to combat the spread of coronavirus (COVID-19) ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-26T12:45:20.000Z"
+                },
+                {
+                    "note": "Update of information on local measures and travel restrictions introduced to combat the spread of coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-26T19:08:38.000Z"
+                },
+                {
+                    "note": "Update to travel restrictions and updated advice for people wishing to return to the UK from Lithuania ('Coronavirus' and \u2019Return to the UK\u2019  pages)",
+                    "public_timestamp": "2020-04-03T14:56:05.000Z"
+                },
+                {
+                    "note": "Addition of information about passenger ferry services ('Coronavirus' page) and ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-17T14:56:27.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine in place until 27 April.  ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-20T08:56:36.000Z"
+                },
+                {
+                    "note": "Update and advice on extension to quarantine period ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-24T12:39:36.000Z"
+                },
+                {
+                    "note": "Updated information and advice on measures to prevent the spread of coronavirus and on returning to the UK. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-30T17:36:10.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) local measures ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-07T19:01:47.000Z"
+                },
+                {
+                    "note": "Updated information on local measures and travel restrictions in relation to coronavirus ('Staying during coronavirus' and 'Entry Requirements' pages) ",
+                    "public_timestamp": "2020-05-15T16:54:28.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:12:41.000Z"
+                },
+                {
+                    "note": "Addition of information about leaving Lithuania and changes to some regulations if you are staying ('Return to the UK', 'Staying during coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-05-29T17:51:47.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:12:06.000Z"
+                },
+                {
+                    "note": "Removal of information about health services in Lithuania during COVID-19 ('Staying during coronavirus' page) and updated information about restrictions entering Lithuania ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-18T11:28:03.000Z"
+                },
+                {
+                    "note": "Updated information on health screening and entry restrictions ('Staying during coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-06-29T16:29:19.000Z"
+                },
+                {
+                    "note": "Addition of information on the resumption of direct flights between Lithuania and the UK. Update to information on registration with the Lithuanian Ministry of Health on arrival ('Return to the UK' ,'Staying during coronavirus' and 'Entry requirements' pages)\r\n",
+                    "public_timestamp": "2020-07-01T09:29:52.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-01T16:22:22.000Z"
+                },
+                {
+                    "note": "From 4 July, Lithuania is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:21:37.000Z"
+                },
+                {
+                    "note": "Update to information on entry and quarantine requirements ('Entry requirements' page)",
+                    "public_timestamp": "2020-07-13T16:34:08.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements in relation to coronavirus. ('Entry Requirements' page)",
+                    "public_timestamp": "2020-07-24T16:54:22.000Z"
+                },
+                {
+                    "note": "Update of information on the use of face masks and coverings ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-29T14:21:32.000Z"
+                },
+                {
+                    "note": "Updated information about commercial flights operating in Lithuania, the compulsory use of face masks in public indoor spaces and healthcare measures to limit the spread of COVID19 ('Coronavirus' page) and addition of information about requirements when entering Lithuania ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-07T15:05:35.000Z"
+                },
+                {
+                    "note": "Update on self-isolation requirement for British nationals on arrival into Lithuania and quarantine requirements. ('Summary', 'Entry requirements' section)",
+                    "public_timestamp": "2020-08-18T16:33:00.000Z"
+                },
+                {
+                    "note": "Update on change to entry rules in response to coronavirus and new measures for when you are in Lithuania (see 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-04T21:30:11.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T13:26:56.000Z"
+                },
+                {
+                    "note": "Updated information on entry restrictions and completing a registration form for entry to Lithuania ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-14T15:15:14.000Z"
+                },
+                {
+                    "note": "Updated information on the possibility of shortening the self-isolation period.('Entry requirements' pages)",
+                    "public_timestamp": "2020-09-22T10:55:08.000Z"
+                },
+                {
+                    "note": "Updated information to reflect the change to entry requirement and additional information on self isolation ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-01T17:26:42.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Lithuania in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-02T15:38:14.000Z"
+                },
+                {
+                    "note": "From 9 October, Raseiniai District is subject to local lockdown restrictions.  Updates on entry requirements, requirement to complete online registration within 12 hours of arrival, and mandatory self isolation if arriving from a country designated as affected by COVID-19 ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-09T17:27:14.000Z"
+                },
+                {
+                    "note": "Updated information regarding COVID hotline number. ('Coronavirus' and 'Entry Requirements')",
+                    "public_timestamp": "2020-10-14T16:53:42.000Z"
+                },
+                {
+                    "note": "Updated contact information for the Lithuanian COVID-19 hotline ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-10-15T08:57:22.000Z"
+                },
+                {
+                    "note": "New information on isolation guidance ('Coronavirus' page). Update to information on entry rules in response to coronavirus ('Entry requirements' page).",
+                    "public_timestamp": "2020-10-20T16:27:27.000Z"
+                },
+                {
+                    "note": "Additional information on COVID-19 measures for public transport and public places and services ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-23T13:31:33.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures; face masks and outdoor events ('Coronavirus' page).  New information on self-isolation for British nationals and potential decisions made by the Lithuanian Government on considering countries to be a high risk (red zone) ('Entry requirements' page)",
+                    "public_timestamp": "2020-10-27T16:28:40.000Z"
+                },
+                {
+                    "note": "The FCDO advise against all non-essential travel to Lithuania. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-10-29T17:05:46.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T10:56:51.000Z"
+                },
+                {
+                    "note": "Lithuania enters a new national lockdown from 00:01 Saturday 7th November 2020 ('Coronavirus' page).",
+                    "public_timestamp": "2020-11-06T15:49:16.000Z"
+                },
+                {
+                    "note": "Removal of isolation requirement for arrivals from England, Scotland and Wales; Northern Ireland remains on the list and new information on isolation and testing requirements for arrivals from Denmark, Spain, Italy, the USA, the Netherlands and Sweden ('Summary', 'Coronavirus' and 'Entry requirements' page) ",
+                    "public_timestamp": "2020-11-17T09:44:25.000Z"
+                },
+                {
+                    "note": "Removal of isolation requirement for arrivals from England, Scotland and Wales; Northern Ireland remains on the list. New information on isolation and testing requirements for arrivals from Denmark, Spain, Italy, the USA, the Netherlands and Sweden ('Summary', 'Coronavirus' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-11-17T09:44:52.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period ('Summary' page).",
+                    "public_timestamp": "2020-11-19T16:58:42.000Z"
+                },
+                {
+                    "note": "Addition of information relating to entry rules, applicable from 23 November 00:01 ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-22T09:28:40.000Z"
+                },
+                {
+                    "note": "Addition of information for passengers arriving from Scotland or Wales ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-22T10:00:34.000Z"
+                },
+                {
+                    "note": "New information for British Nationals that want to leave Lithuania before the end of their isolation period ('Summary' page) ",
+                    "public_timestamp": "2020-11-25T16:11:35.000Z"
+                },
+                {
+                    "note": "New information on travellers from Wales, no longer need to self-isolate on arrival to Lithuania ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-30T15:37:04.000Z"
+                },
+                {
+                    "note": "Updated information on entry and self-isolation requirements for British nationals travelling to Lithuania from England, Wales and Scotland ('Summary' and 'Entry requirements page). Updated information on COVID-19 restrictions in public places ('Coronavirus' page) ",
+                    "public_timestamp": "2020-12-04T10:27:09.000Z"
+                },
+                {
+                    "note": "Updated information on commercial flights and COVID-19 restrictions to public places and services in Lithuania ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-07T16:53:45.000Z"
+                },
+                {
+                    "note": "New information and advice on the nationwide lock down from 16 December ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-12-14T16:58:43.000Z"
+                },
+                {
+                    "note": "Update to information to reflect some amendments to the lockdown restrictions ('coronavirus' page).",
+                    "public_timestamp": "2020-12-17T15:47:48.000Z"
+                },
+                {
+                    "note": "Addition of information on new restrictions for arrivals from England and Wales that come into force from Monday 21 December ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-18T16:10:32.000Z"
+                },
+                {
+                    "note": "Lithuania have announced they will be restricting travel from the UK from 04:00 21 December until 23:59 31 December. If you were due to travel to Lithuania, please contact your travel operator ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-20T20:46:15.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page)",
+                    "public_timestamp": "2020-12-29T16:51:55.000Z"
+                },
+                {
+                    "note": "Update to reflect lifting of travel restrictions from 1 January 2021 ('Health' page)",
+                    "public_timestamp": "2020-12-31T16:15:02.000Z"
+                },
+                {
+                    "note": "Update to reflect the lifting of the Lithuanian ban on flights from the UK ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-01-05T11:05:07.000Z"
+                },
+                {
+                    "note": "Update to information on entry and testing requirements for Lithuania ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-05T17:16:46.000Z"
+                },
+                {
+                    "note": "Update to information on the nationwide lockdown and entry requirements for Lithuania ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-06T13:02:45.000Z"
+                },
+                {
+                    "note": "Updated information on entry and quarantine requirements for British nationals that are travelling to Lithuania  ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-11T17:06:20.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Lithuania (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-15T14:55:51.000Z"
+                },
+                {
+                    "note": "Additional information on COVID-19 measures; creating and mixing support bubbles, testing centres in Lithuania and arrivals must self-isolate upon arrival or provide evidence of a negative PCR test taken no earlier than 24 hours before arrival ('Coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-01-22T14:33:40.000Z"
+                },
+                {
+                    "note": "Updated information on Lithuania's isolation period for travellers from the UK and countries designated as affected by COVID-19 ('Entry requirements' page)",
+                    "public_timestamp": "2021-01-26T14:31:51.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Lithuania (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-09T16:54:31.000Z"
+                },
+                {
+                    "note": "Update to information on changes to coronavirus restrictions from 15 February 2021 ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-12T10:54:21.000Z"
+                },
+                {
+                    "note": "Revised information regarding entry and quarantine requirements ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-02-15T19:22:02.000Z"
+                },
+                {
+                    "note": "Addition of information on changes to the rules on internal travel and mask wearing ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-26T09:52:47.000Z"
+                },
+                {
+                    "note": "New information on changes to COVID-19 restrictions from 6 March and changes to testing requirements for entry to Lithuania from 10 March ('Summary', 'Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-03-05T11:16:58.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements for entry to Lithuania ('Summary' and 'Entry requirements' pages).  New information on coronavirus measures from 15 March ('Coronavirus' page).",
+                    "public_timestamp": "2021-03-12T17:13:41.000Z"
+                },
+                {
+                    "note": "Update to information on restriction on movement within Lithuania ('Coronavirus' page). Update to information on testing requirements for arrival in Lithuania by private car and  quarantine requirements ('Entry requirements' page).",
+                    "public_timestamp": "2021-03-17T16:07:04.000Z"
+                },
+                {
+                    "note": "Updated information on Lithuania's nationwide lockdown restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-26T14:56:21.000Z"
+                },
+                {
+                    "note": "Updated information on Lithuania's nationwide lockdown restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-06T11:37:36.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements for entry to Lithuania for British nationals aged 16 and over ('Summary' and 'Entry requirements' pages).  Update on changes to COVID-19 restrictions from 19 April ('Coronavirus' page).",
+                    "public_timestamp": "2021-04-16T14:33:35.000Z"
+                },
+                {
+                    "note": "Update to information on local restrictions and vaccination programme. Update to information on self-isolation and testing requirements ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-05-26T15:41:00.000Z"
+                },
+                {
+                    "note": "New information on changes to COVID-19 restrictions from the 1st of June (Coronavirus page).",
+                    "public_timestamp": "2021-05-28T12:32:36.000Z"
+                },
+                {
+                    "note": "Information on how to demonstrate your COVID-19 vaccination status; British nationals travelling to Lithuania from the UK, who are fully vaccinated against COVID-19, are exempt from the requirement to self-isolate on arrival or provide evidence of a negative PCR/antigen test ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-11T12:21:47.000Z"
+                },
+                {
+                    "note": "('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-06-17T12:51:10.000Z"
+                },
+                {
+                    "note": "Update to information on restrictive measures in place in response to COVID-19 ('Coronavirus' page). Update to information on entry requirements for children ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-17T12:58:55.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-21T15:11:45.000Z"
+                },
+                {
+                    "note": "Amendment to the age range for children who are exempt from self-isolation if they present a negative PCR/antigen test on arrival ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-23T15:34:05.000Z"
+                },
+                {
+                    "note": "Updated information on testing and isolation exemptions in Lithuania ('Coronavirus' and 'Entry requirements' pages)\r\n",
+                    "public_timestamp": "2021-06-30T14:27:26.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions for travelling around Lithuania and for public places and services ('Coronavirus' page). Additional information on testing requirements for unvaccinated children ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-02T13:50:26.000Z"
+                },
+                {
+                    "note": "Updates to the 'Coronavirus' and 'Entry requirements' pages",
+                    "public_timestamp": "2021-07-09T16:16:52.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Lithuania (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T09:08:21.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Lithuania ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-23T15:15:00.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:36:01.000Z"
+                },
+                {
+                    "note": "Update to information and advice on quarantining while in Lithuania ('Coronavirus' page).  Review and amendments to the subsection on 'Entry rules in response to coronavirus (COVID-19)' in the 'Entry requirements' section.",
+                    "public_timestamp": "2021-07-29T14:40:00.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Lithuania, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2021-08-06T10:46:03.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 30 August Lithuania will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-26T18:30:49.000Z"
+                },
+                {
+                    "note": "Lithuania has moved to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-31T13:21:00.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T12:15:55.000Z"
+                },
+                {
+                    "note": "Addition of information on new restrictions for accessing public services for unvaccinated customers from 13 September ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-10T14:51:12.000Z"
+                },
+                {
+                    "note": "New information on the use of facemasks ('Coronavirus' page)",
+                    "public_timestamp": "2021-10-01T14:39:27.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-03T10:38:46.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-11-11T14:02:39.000Z"
+                },
+                {
+                    "note": "New information added on the State of Emergency in parts of Lithuania, in response to the ongoing migration situation along the border with Belarus ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-11-16T10:45:35.000Z"
+                },
+                {
+                    "note": "Updated information on Lithuanian Freedom Pass and face mask requirements ('Coronavirus' page)",
+                    "public_timestamp": "2021-11-26T16:30:34.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Lithuania (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-08T13:29:16.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:14:45.000Z"
+                },
+                {
+                    "note": "Updates on COVID 19 vaccines if you live in Lithuania and access to the Freedom Pass ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-29T12:35:57.000Z"
+                },
+                {
+                    "note": "Removal of information on Lithuania's State of Emergency ('Summary' and 'Safety and security' pages). Updated information on requirements to enter public places and services and what to do if you test positive for COVID-19 while in Lithuania ('Coronavirus' page)",
+                    "public_timestamp": "2022-01-31T09:56:35.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of freedom passes and additional requirements on facemasks for indoor events ('Coronavirus' page)",
+                    "public_timestamp": "2022-02-03T14:41:57.000Z"
+                },
+                {
+                    "note": "Updated information on the relaxation of COVID-19 entry requirements and removal of the  self-isolation requirement for British nationals, regardless of vaccination status ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-16T17:40:48.000Z"
+                },
+                {
+                    "note": "Update to information following the relaxation of COVID-19 entry rules ('Entry requirements' page) ",
+                    "public_timestamp": "2022-02-23T16:28:36.000Z"
+                },
+                {
+                    "note": "New information on Lithuania announcing a State of Emergency on 24 February ('Summary', 'Safety and security', 'Local laws and customs' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-02-28T11:03:05.000Z"
+                },
+                {
+                    "note": "Changes to the \u2018Safety and security\u2019 section. While most individuals will not be significantly impacted by the State of Emergency, you should ensure that you are aware of any restrictions that may impact your time in Lithuania.",
+                    "public_timestamp": "2022-03-11T18:30:08.000Z"
+                },
+                {
+                    "note": "Updated to reflect changes regarding Coronavirus facemask and isolation requirements coming into force on Monday 4th April ('Coronavirus' page). ",
+                    "public_timestamp": "2022-04-01T13:39:03.000Z"
+                },
+                {
+                    "note": "Updated information on procedures when testing positive for COVID-19 in Lithuania and entry requirements for British nationals travelling to Lithuania from Belarus, Ukraine or Russia ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-04-11T15:53:35.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of COVID-19 related domestic and entry restrictions ('Coronavirus' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-05-06T12:10:01.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:27:17.000Z"
+                },
+                {
+                    "note": "Updated information regarding the State of Emergency ('Safety and Security' page).",
+                    "public_timestamp": "2022-10-04T08:15:25.000Z"
+                },
+                {
+                    "note": "Updated information regarding the State of Emergency ('Safety and Security' page).",
+                    "public_timestamp": "2022-12-16T15:01:04.000Z"
+                },
+                {
+                    "note": "Change of information on terrorism ('Terrorism' page).",
+                    "public_timestamp": "2023-01-20T12:50:32.000Z"
+                },
+                {
+                    "note": "Update on the State of Emergency (\u2018Safety and security\u2019 page).",
+                    "public_timestamp": "2023-03-24T16:15:07.000Z"
+                },
+                {
+                    "note": "End of the State of Emergency ('Safety and security' page).",
+                    "public_timestamp": "2023-05-30T08:43:11.000Z"
+                },
+                {
+                    "note": "Information on terrorism in Lithuania ('Terrorism' page).",
+                    "public_timestamp": "2023-06-14T07:16:39.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:54:14.000Z"
+                },
+                {
+                    "note": "A NATO Summit is being held in Vilnius on 11-12 July. Information on restrictions ('Safety and security' page). ",
+                    "public_timestamp": "2023-06-30T12:06:13.000Z"
+                },
+                {
+                    "note": "Removal of information regarding temporary restrictions introduced during the NATO Summit ('Safety and security' page).",
+                    "public_timestamp": "2023-07-17T13:09:24.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.\r\n\r\n",
+                    "public_timestamp": "2023-08-10T13:29:59.000Z"
+                },
+                {
+                    "note": "Updated information, with links to FCDO Travel Advice for Russia ('Entry requirements' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-08-11T14:43:04.000Z"
+                },
+                {
+                    "note": "Information about restrictions on vehicles with Russian licence plates (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2023-10-30T16:21:38.000Z"
+                }
+            ],
+            "country": {
+                "name": "Lithuania",
+                "slug": "lithuania",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/lithuania/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/lithuania/email-signup\">get email</a> notifications when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Lithuania set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://uk.mfa.lt/uk/en/\">Embassy of the Republic of Lithuania</a> in the UK.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Lithuania.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To travel to Lithuania, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area</a> passport requirements.</p>\n\n<p>To enter Lithuania (and all Schengen countries) your passport must:</p>\n\n<ul>\n  <li>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</li>\n  <li>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</li>\n</ul>\n\n<p>Contact the <a rel=\"external\" href=\"https://uk.mfa.lt/uk/en/\">Embassy of Lithuania in the UK</a> if you think that your passport does not meet both these requirements. <a href=\"https://www.gov.uk/apply-renew-passport\">Renew your passport if you need to</a>.</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements.</p>\n\n<p>You will be denied entry if you do not have a valid travel document, or try to use a passport that has been reported lost or stolen.</p>\n\n<h3 id=\"checks-at-border-control\">Checks at border control</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped</p>\n</div>\n\n<p>If you\u2019re a visitor, your passport must be stamped when you enter or leave the Schengen area (which includes Lithuania). Border guards will use passport stamps to check you have not overstayed the 90-day visa-free limit for stays in the Schengen area. If your passport was not stamped, border guards will presume you have overstayed the visa-free limit.</p>\n\n<p>If your passport was not stamped, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.</p>\n\n<p>Read about <a href=\"https://www.gov.uk/guidance/living-in-lithuania\">passport stamping if you live in Lithuania</a>.</p>\n\n<p>At border control, you may also need to:</p>\n\n<ul>\n  <li>show proof of your accommodation, for example, a hotel booking confirmation or proof of address for a second home</li>\n  <li>show proof of your travel insurance</li>\n  <li>show a return or onward ticket</li>\n  <li>prove that you have enough money for your stay \u2013 the amount varies depending on your accommodation</li>\n</ul>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel to countries in the Schengen Area for up to 90 days in any 180-day period without a visa. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>to attend business meetings, cultural or sports events</li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>If you are travelling to Lithuania and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.</p>\n\n<h3 id=\"apply-for-a-visa\">Apply for a visa</h3>\n\n<p>To stay longer (for example, to work, study or for business) you must meet the Lithuanian government\u2019s entry requirements. Check which type of visa or work permit you need with the <a rel=\"external\" href=\"https://uk.mfa.lt/uk/en/\">Embassy of Lithuania in the UK</a>.</p>\n\n<p>If you stay in Lithuania with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<p>You can apply online at <a rel=\"external\" href=\"https://www.migracija.lt/\">Lithuania\u2019s Migration Department</a>.</p>\n\n<h2 id=\"arrivals-from-belarus-ukraine-or-russia-including-the-kaliningrad-oblast\">Arrivals from Belarus, Ukraine or Russia, including the Kaliningrad Oblast</h2>\n\n<p>If you have arrived in Lithuania from Belarus, Ukraine or Russia (including the Kaliningrad Oblast) and need help, call +370 5246 2900 and select the option for \u201ccalling about an emergency involving a British national.\u201d You can also send an enquiry via the web contact form.</p>\n\n<p>British nationals can travel to Lithuania from Belarus, Russia or Ukraine by car or bus. Trains between Kaliningrad and Moscow allow British nationals to get off in Lithuania.</p>\n\n<p>For more information, please see our <a href=\"https://www.gov.uk/foreign-travel-advice/russia/returning-to-the-uk\">Russia Travel Advice</a>.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/131/lithuania\">check the vaccinations and certificates you need in TravelHealthPro</a>\u2019s Lithuania guide.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://lrmuitine.lt/web/guest/verslui/apribojimai/bendra#en\">goods that can be brought into and taken out of Lithuania</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h3 id=\"taking-food-and-drink-into-lithuania\">Taking food and drink into Lithuania</h3>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food. <a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a> on the European Commission website.</p>\n\n<h3 id=\"restrictions-on-russian-vehicles\">Restrictions on Russian vehicles</h3>\n\n<p>There are restrictions on vehicles with Russian licence plates in Lithuania. See <a rel=\"external\" href=\"https://lrmuitine.lt/web/guest/naujienos/aktualijos/aktualija?p_p_id=EXT_WPLISTALLNEWS&amp;p_p_lifecycle=0&amp;_EXT_WPLISTALLNEWS_obj_id=090004d2801c0364#en\">Lithuania\u2019s Customs Department for more information</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-lithuania\">Terrorism in Lithuania</h3>\n\n<p>Terrorist attacks in Lithuania cannot be ruled out.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>In an emergency or if you want to report a crime, call the police on 112.</p>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Petty crime is common. Beware of pickpockets in busy locations and on public transport. Avoid unlit streets and parks at night, and be alert if you\u2019re walking alone. Do not leave coats and handbags unattended in bars, pubs and clubs.</p>\n\n<h3 id=\"drink-and-food-spiking\">Drink and food spiking</h3>\n\n<p>Do not leave drinks unattended and be wary of accepting food and drink from strangers in bars, nightclubs and restaurants.</p>\n\n<h3 id=\"car-theft\">Car theft</h3>\n\n<p>Car theft is a problem as well as theft from cars. Park in guarded car parks in cities, especially overnight, and do not leave your luggage in a car for any length of time.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Possession of even very small quantities of drugs can lead to imprisonment or heavy fines.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>You can drive in Lithuania with a UK driving licence. Make sure it\u2019s up to date and has the correct name and address. If necessary <a href=\"https://www.gov.uk/browse/driving/driving-licences\">renew or update it</a>.</p>\n\n<p>If you are planning to drive a hire car or a UK vehicle, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and check the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/lithuania/\">rules of  the road in the RAC\u2019s Lithuania guide</a>. The guide lists driving regulations and other requirements that you need to be aware of.</p>\n\n<h3 id=\"taxis\">Taxis</h3>\n\n<p>It is safer to use a recognised taxi app, or phone for a registered taxi that uses a meter. Make sure the meter is switched on to avoid arguments about the fare.</p>\n\n<h3 id=\"curonian-spit-klaipeda\">Curonian Spit, Klaipeda</h3>\n\n<p>The Spit, a UNESCO World Heritage Site, is divided between Lithuania and Russia \u2013 the northern half is in Lithuania and the southern half is part of Kaliningrad, Russia. If you intend to walk along the Curonian Spit, be aware that after some distance you will reach the territory of the Russian Federation. Please follow <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>\u2019s latest <a href=\"https://www.gov.uk/foreign-travel-advice/russia\">Russia Travel Advice</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/131/lithuania\">TravelHealthPro\u2019s Lithuania guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-lithuania\">Healthcare facilities in Lithuania</h2>\n\n<p><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/lithuania-list-of-medical-facilitiespractitioners\">English speaking doctors in Lithuania</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-lithuania\">COVID-19 healthcare in Lithuania</h2>\n\n<p>A list of private clinics offering PCR and antigen tests is available on the <a rel=\"external\" href=\"https://nvsc.lrv.lt/en/information-on-covid-19/for-those-who-have-been-exposed-to-someone-with-covid-19/private-laboratories-for-testing-for-covid-19\">Lithuanian Ministry of Health website</a>. The tests booked through these clinics will be charged.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>)</a> or <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>)</a> before leaving the UK. If you already have an <abbr title=\"European Health Insurance Card\">EHIC</abbr>, it will still be valid as long as it remains in date.</p>\n\n<p>The <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Lithuania nationals. If you do not have your card with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> is not an alternative to travel insurance and you should have both before you travel. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Global Health Insurance Card\">GHIC</abbr> and <abbr title=\"European Health Insurance Card\">EHIC</abbr> cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-lithuania\">Emergency services in Lithuania</h2>\n\n<p>Telephone: 112 (ambulance, fire, police).</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/results?serviceType=lawyers&amp;readNotice=ok&amp;country=Lithuania&amp;region=Not%20set&amp;practiceArea=All&amp;readDisclaimer=ok\">lawyers</a>, <a href=\"https://www.gov.uk/government/publications/lithuania-list-of-funeral-directors\">funeral directors</a> and <a href=\"https://www.gov.uk/government/publications/list-of-english-speaking-lawyers-and-translators\">translators and interpreters</a> in Lithuania, dealing with a <a href=\"https://www.gov.uk/government/publications/lithuania-bereavement-information-pack\">death in Lithuania</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/prisoner-pack-lithuania\">arrested in Lithuania</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a> such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/lithuania/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-vilnius/office/british-embassy\">British Embassy in Lithuania</a></p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Lithuania&amp;post=Lithuania%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-30T16:21:38Z",
+            "updated_at": "2023-10-30T16:21:38Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-04T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/lithuania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/lithuania",
+                    "base_path": "/foreign-travel-advice/lithuania",
+                    "content_id": "b6321337-80c2-4f1b-910a-aad4852dc7d7",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:21:38Z",
+                    "schema_name": "travel_advice",
+                    "title": "Lithuania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/lithuania",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/lithuania",
+                    "api_url": "https://www.gov.uk/api/content/world/lithuania",
+                    "base_path": "/world/lithuania",
+                    "content_id": "ee5f71b0-a232-43c5-8a0f-672c27b291ac",
+                    "description": "Services if you're visiting, studying, working or living in Lithuania. Includes information about trading with and doing business in the UK and Lithuania, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Lithuania",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T16:17:12Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Lithuania",
+                    "web_url": "https://www.gov.uk/world/lithuania",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/moldova",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/moldova",
+                    "base_path": "/foreign-travel-advice/moldova",
+                    "content_id": "4064154c-ef7e-4edf-9f98-8f747ce39471",
+                    "details": {
+                        "change_description": "Updated information about FCDO advice against travel to Transnistria ('Summary' page).",
+                        "country": {
+                            "name": "Moldova",
+                            "slug": "moldova",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T11:27:43Z",
+                    "schema_name": "travel_advice",
+                    "title": "Moldova travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/moldova",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/latvia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/latvia",
+                    "base_path": "/foreign-travel-advice/latvia",
+                    "content_id": "ba3b46db-c2eb-404d-bcdd-63ccd956cebc",
+                    "details": {
+                        "change_description": "Information about political demonstrations and vehicle crime (\u2018Safety and security\u2019 page).",
+                        "country": {
+                            "name": "Latvia",
+                            "slug": "latvia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-16T15:46:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Latvia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/latvia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/montenegro",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/montenegro",
+                    "base_path": "/foreign-travel-advice/montenegro",
+                    "content_id": "ec6dceb9-de27-496d-be5d-da7f1dfc25bb",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Montenegro",
+                            "slug": "montenegro",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-07T15:55:52Z",
+                    "schema_name": "travel_advice",
+                    "title": "Montenegro travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/montenegro",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/russia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/russia",
+                    "base_path": "/foreign-travel-advice/russia",
+                    "content_id": "821537bc-8189-4347-b04d-3c3029f8c947",
+                    "details": {
+                        "change_description": "Information on the restriction of entry for cars registered in Russia (Under \u2018Leaving Russia'; 'By Road\u2019 on the 'Warnings and insurance' page). ",
+                        "country": {
+                            "name": "Russia",
+                            "slug": "russia",
+                            "synonyms": [
+                                "arctic"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:32:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "Russia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/russia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/living-in-lithuania",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-lithuania",
+                    "base_path": "/guidance/living-in-lithuania",
+                    "content_id": "c7485b94-9ef5-4588-a1eb-40eaab40c333",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-03-11T08:06:21Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Lithuania",
+                    "web_url": "https://www.gov.uk/guidance/living-in-lithuania",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-lithuania",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-lithuania",
+                    "base_path": "/world/living-in-lithuania",
+                    "content_id": "edf0a641-78fb-4fd1-ac85-1abcef741758",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Lithuania",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/lithuania",
+                                "api_url": "https://www.gov.uk/api/content/world/lithuania",
+                                "base_path": "/world/lithuania",
+                                "content_id": "ee5f71b0-a232-43c5-8a0f-672c27b291ac",
+                                "description": "Services if you're visiting, studying, working or living in Lithuania. Includes information about trading with and doing business in the UK and Lithuania, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Lithuania",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:17:12Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Lithuania",
+                                "web_url": "https://www.gov.uk/world/lithuania",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T16:57:05Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Lithuania",
+                    "web_url": "https://www.gov.uk/world/living-in-lithuania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-lithuania",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-lithuania",
+                    "base_path": "/world/travelling-to-lithuania",
+                    "content_id": "a7dd5b53-81ed-4067-88a6-6b1ff6262d06",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Lithuania",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/lithuania",
+                                "api_url": "https://www.gov.uk/api/content/world/lithuania",
+                                "base_path": "/world/lithuania",
+                                "content_id": "ee5f71b0-a232-43c5-8a0f-672c27b291ac",
+                                "description": "Services if you're visiting, studying, working or living in Lithuania. Includes information about trading with and doing business in the UK and Lithuania, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Lithuania",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:17:12Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Lithuania",
+                                "web_url": "https://www.gov.uk/world/lithuania",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:24Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Lithuania",
+                    "web_url": "https://www.gov.uk/world/travelling-to-lithuania",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-30T16:21:38Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698682898.334-10.13.20.67-24769",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Lithuania travel advice",
+        "updated_at": "2023-11-16T15:46:24Z",
+        "withdrawn_notice": {}
+    }
+}

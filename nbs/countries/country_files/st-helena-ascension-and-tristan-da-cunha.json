@@ -1,0 +1,821 @@
+{
+    "Country Slug": "st-helena-ascension-and-tristan-da-cunha",
+    "Country Name": "St Helena, Ascension and Tristan da Cunha",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha",
+        "content_id": "ab5bb8cb-92d9-440d-90dc-889d301675af",
+        "description": "Latest FCDO travel advice for St Helena, Ascension and Tristan da Cunha including on entry requirements, safety and security and local laws and customs. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "Frequency of flights between Johannesburg and St Helena.  Clarification of speed limits on St Helena ('Summary', 'Coronavirus' and 'Safety and security' pages). \r\n\r\n ",
+            "change_history": [
+                {
+                    "note": "Latest update: This advice has been reviewed and reissued without amendment ",
+                    "public_timestamp": "2019-02-06T10:18:37.125Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full with editorial amendments throughout",
+                    "public_timestamp": "2019-05-31T09:57:07.655Z"
+                },
+                {
+                    "note": "Entry requirements section (St Helena Visas) - an Entry Permit costs \u00a320 and allows a stay of up to 183 days; the fee can be paid in British Pounds, Euros, US Dollar, or South African Rand; you will need to provide evidence of a return ticket, or funds for a return ticket, medical insurance, adequate accommodation and sufficient funds for your stay",
+                    "public_timestamp": "2019-07-01T12:39:45.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and re-issued with minor editorial amendments",
+                    "public_timestamp": "2019-11-26T15:36:57.000Z"
+                },
+                {
+                    "note": "Addition of information about coronavirus (COVID-19) ('Summary' and 'Health' pages).  Update to information about visas for Ascension Island  ('Entry requirements' page)",
+                    "public_timestamp": "2020-03-11T13:32:02.000Z"
+                },
+                {
+                    "note": "Update of information on travel restrictions in relation to coronavirus (COVID-19) ('Summary' and 'Safety and Security' pages)",
+                    "public_timestamp": "2020-03-27T17:25:27.000Z"
+                },
+                {
+                    "note": "Update of information on travel restrictions and local measures introduced to combat the spread of coronavirus (COVID-19) ('Summary', 'Safety and Security', 'Entry Requirements' and 'Health' pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-27T17:49:52.000Z"
+                },
+                {
+                    "note": "Minor editorial amendments",
+                    "public_timestamp": "2020-04-14T18:47:18.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about flights on the ('Return to UK' page)",
+                    "public_timestamp": "2020-04-21T15:12:47.000Z"
+                },
+                {
+                    "note": "Update to information on contact details for the St Helena Tourist Office",
+                    "public_timestamp": "2020-05-27T13:11:22.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:54:26.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-16T17:49:29.000Z"
+                },
+                {
+                    "note": "From 24 July, St Helena, Ascension and Tristan da Cunha is exempt from the FCO advice against all non-essential international travel.  This is based on the current assessment of COVID-19 risks   ",
+                    "public_timestamp": "2020-07-24T09:16:11.000Z"
+                },
+                {
+                    "note": "Updated information on healthcare in St Helena, Ascension and Tristan da Cunha. Commercial flights to and from St Helena and Ascension are limited; there is no flight access to Tristan da Cunha. Additional information on local travel around Tristan da Cunha ('Coronavirus' page) and updated information on visa requirements to visit Ascension ('Entry requirements' page) \r\n",
+                    "public_timestamp": "2020-10-21T13:05:53.000Z"
+                },
+                {
+                    "note": "Updated information on flights to and from St Helena and Ascension; there is no flight access to Tristan da Cunha. Additional information on healthcare in St Helena, Ascension and Tristan da Cunha and on local travel around Tristan da Cunha ('Coronavirus' page). Updated information on visa requirements to visit Ascension ('Entry requirements' page)",
+                    "public_timestamp": "2020-12-03T16:29:47.000Z"
+                },
+                {
+                    "note": "Update to information on emergency assistance in St Helena, Ascension and Tristan da Cunha ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2020-12-08T16:06:53.000Z"
+                },
+                {
+                    "note": "Update to information on testing and quarantine requirements ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-01-08T16:21:22.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from St Helena, Ascension or Tristan da Cunha on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T00:24:10.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in St Helena, Ascension and Tristan da Cunha ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-23T11:18:25.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in St Helena, Ascension and Tristan da Cunha ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-01T11:20:24.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements and COVID-19 vaccines if you live in St Helena, Ascension and Tristan da Cunha ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-03T15:37:54.000Z"
+                },
+                {
+                    "note": "Link to information on vaccines which are approved for use by MHRA ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-04T14:20:49.000Z"
+                },
+                {
+                    "note": "Updated information on healthcare in St Helena and the use of Emergency Travel Documents (ETD's) ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-04-01T17:52:02.000Z"
+                },
+                {
+                    "note": "New information on Emergency Travel Documents in Ascension and Tristan da Cunha ('Entry requirements page)",
+                    "public_timestamp": "2021-04-14T12:26:01.000Z"
+                },
+                {
+                    "note": "New information on travel corridor in place between St Helena and Ascension ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-05-14T15:45:29.000Z"
+                },
+                {
+                    "note": "Addition of information on the current exemption from the pre-departure testing requirement for travellers starting their journey to the UK from St Helena and Ascension ('Coronavirus' page)  \r\n",
+                    "public_timestamp": "2021-05-20T15:58:55.000Z"
+                },
+                {
+                    "note": "Reduction in the period of quarantine on arrival in St Helena from 14 days to 10 days ('Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2021-06-18T18:35:39.000Z"
+                },
+                {
+                    "note": "Addition of information on the introduction of Compulsory Isolation Protocols for arrivals to Ascension ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-02T16:53:42.000Z"
+                },
+                {
+                    "note": "Full review of information in the 'Entry requirements' and 'Coronavirus' pages which have been republished with amendments throughout.",
+                    "public_timestamp": "2021-12-17T16:55:56.000Z"
+                },
+                {
+                    "note": "Updated information on getting to St Helena and Ascension ('Summary', 'Safety and security' and 'Coronavirus' pages)",
+                    "public_timestamp": "2022-04-06T13:32:15.000Z"
+                },
+                {
+                    "note": "Updated information on St Helena\u2019s COVID-19 regulations for testing and quarantine ('Coronavirus' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-05-12T15:22:40.000Z"
+                },
+                {
+                    "note": "Update to information on entry to Ascension ('Entry requirements' page)",
+                    "public_timestamp": "2022-06-07T12:52:47.000Z"
+                },
+                {
+                    "note": "Updated information to reflect that St Helena and Ascension have now lifted their COVID-19 travel restrictions ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-08-10T16:05:04.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements for entry into Tristan de Cunha ('Entry requirements' page).",
+                    "public_timestamp": "2022-08-24T14:31:22.000Z"
+                },
+                {
+                    "note": "Information on entry requirements to St Helena, and Tristan  da Cunha, where you no longer need to quarantine ('Entry requirements' page). Updated information on weekly flights between St Helena and Johannesburg ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-02-23T14:56:02.000Z"
+                },
+                {
+                    "note": "Updated information on the South Atlantic Airbridge and accommodation on Ascension ('Summary', 'Coronavirus' and 'Safety and security' pages).\r\n\r\n",
+                    "public_timestamp": "2023-05-09T10:23:32.000Z"
+                },
+                {
+                    "note": "Updated information on contact details for emergency services in St Helena and Ascension ('Summary' page).",
+                    "public_timestamp": "2023-06-06T15:41:51.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                    "public_timestamp": "2023-06-22T10:45:21.000Z"
+                },
+                {
+                    "note": "Frequency of flights between Johannesburg and St Helena.  Clarification of speed limits on St Helena ('Summary', 'Coronavirus' and 'Safety and security' pages). \r\n\r\n ",
+                    "public_timestamp": "2023-10-10T10:03:12.000Z"
+                }
+            ],
+            "country": {
+                "name": "St Helena, Ascension and Tristan da Cunha",
+                "slug": "st-helena-ascension-and-tristan-da-cunha",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for St Helena, Ascension and Tristan da Cunha\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>St Helena, Ascension and Tristan da Cunha are British Overseas Territories. There is no formal British diplomatic representation on any of the islands and the local authorities deal with all requests for emergency assistance. See <a href=\"/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/safety-and-security\">Emergency Assistance</a></p>\n\n<p>Although there\u2019s no recent history of terrorism in St Helena, Ascension and Tristan da Cunha, attacks can\u2019t be ruled out. See <a href=\"/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/terrorism\">Terrorism</a></p>\n\n<p>Travel to Tristan da Cunha is by sea only.</p>\n\n<p>Weekly flights between St Helena and Johannesburg are provided by Airlink. Between the end of November and February these flights will be twice weekly.</p>\n\n<p>The South Atlantic Airbridge has returned to Ascension Island. There is also a monthly charter flight between Ascension and St Helena. You should contact your travel agent, local tour booking office or Ascension Island employer for the latest up-to-date information on entitlements to flight access to Ascension. See <a href=\"https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/safety-and-security\">Getting to St Helena, Ascension and Tristan da Cunha</a></p>\n\n<p>An adequate standard of medical care is available on Ascension Island, but it is limited and is not free to visitors. Medical evacuations are possible but expensive so medical insurance cover, including cover for COVID-19, is mandatory.  An adequate standard of medical care is available on St Helena but costs for major treatment can be high. Medical treatment on Tristan da Cunha is limited, not free and major treatment can be very expensive, especially if repatriation to Cape Town is needed. All visitors should carry health insurance to cover the costs of repatriation and medical treatment.  See <a href=\"/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/health\">Health</a></p>\n\n<p>You can contact all the emergency services (fire, police, ambulance) in St Helena and Ascension by calling 999.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for St Helena, Ascension and Tristan da Cunha on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/14/st-helena-ascension-tristan-da-cunha#COVID-19\">TravelHealthPro website</a></p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>There are weekly return Airlink flights from Johannesburg to St Helena (between the end of November and February these flights will be twice weekly) with a monthly onward /return flight from St Helena to Ascension. Check with your travel company for the latest information on any new scheduled commercial flights. There is no flight access to Tristan da Cunha.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n\n<p>See <a href=\"/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in St Helena, Ascension and Tristan da Cunha.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Travelling from and returning to the UK</p>\n</div>\n\n<p>Check what you must do to <a href=\"https://www.gov.uk/guidance/travel-abroad-from-england-during-coronavirus-covid-19\">travel abroad</a> and <a href=\"https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19\">return to England, Scotland, Wales or Northern Ireland</a>.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-st-helena-ascension-and-tristan-da-cunha\">Travel in St Helena, Ascension and Tristan da Cunha</h2>\n\n<p>Public transport is operating on St Helena and Ascension.</p>\n\n<h2 id=\"accommodation\">Accommodation</h2>\n\n<p>Limited accommodation is available in St Helena. The Tourism Office in St Helena will be able to provide advice on local accommodation.</p>\n\n<p>On Tristan, the only accommodation is in private and occasionally government guest houses, which have to be arranged via the <a href=\"mailto:tourism@tdc-gov.com\">Tristan da Cunha Tourism Department</a> well ahead of any proposed <a rel=\"external\" href=\"https://tristandc.com/visitsaccommodation.php\">visit</a>.</p>\n\n<p>On Ascension, accommodation is extremely limited and unless provided by an on-island employing organisation, is currently only available to rent through two small privately operated guest houses.</p>\n\n<h2 id=\"public-spaces-and-services\">Public spaces and services</h2>\n\n<p>Public places and services are open as usual and there are no restrictions on large gatherings. However, should COVID-19 present itself on any of the Islands, the authorities have the power to close public places and limit public gatherings.</p>\n\n<h2 id=\"healthcare-in-st-helena-ascension-and-tristan-da-cunha\">Healthcare in St Helena, Ascension and Tristan da Cunha</h2>\n\n<p>If you think you have COVID-19 symptoms that require medical attention on St Helena call  the hospital on 22500. See the health section below for information on the healthcare facilities on St Helena.</p>\n\n<p>Tristan da Cunha is COVID-19 free, and has had no cases. Healthcare is limited. There is a small hospital but no ICU and no ventilators. The nearest comprehensive hospital facilities is in South Africa.</p>\n\n<p>Whilst on Ascension if you think you have COVID-19 symptoms that need medical attention, you should call the Hospital on 66252.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"https://www.gov.uk/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a>.</p>\n\n<p>View <a href=\"https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/health\">Health</a> for further details on healthcare in St Helena, Ascension and Tristan da Cunha.</p>\n\n<p>See also the <a href=\"https://www.gov.uk/guidance/coronavirus-covid-19-staying-where-you-are-if-you-cannot-return-to-the-uk\">guidance healthcare if you\u2019re waiting to return to the UK</a>.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<p>If you need urgent consular assistance, the first point of contact is the Police Station as follows:</p>\n\n<p>St Helena \u2013 290 22626 or 999</p>\n\n<p>Ascension \u2013 66412 or 999 (outside office hours)</p>\n\n<p>Tristan da Cunha - 5111</p>\n\n<p>The <a href=\"/world/embassies\">nearest British embassy, high commission or consulate</a> is in South Africa. All telephone numbers are available 24/7.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h3 id=\"crime-\">Crime \u00a0</h3>\n<p>Crime levels are low.</p>\n\n<p>See <a href=\"https://www.gov.uk/government/publications/victims-of-crime\">Victims of Crime</a></p>\n\n<h3 id=\"local-travel\">Local travel</h3>\n\n<h3 id=\"st-helena\">St Helena</h3>\n\n<p>Many roads on St Helena are single lanes. Speed limits (30 <abbr title=\"Miles per hour\">MPH</abbr> max) are signed across the island but drivers are unlikely to travel at speeds in excess of 30 miles an hour or above third gear.  Vehicles travelling downhill must give way to those travelling uphill. Driving is on the left. Drink drive laws are strictly applied with a limit of 50 micrograms of alcohol per 100ml of breath. Public transport on St Helena is very limited but hire cars are available.</p>\n\n<p>UK driving licences are valid on St Helena for three months after which a local (St Helena) licence must be obtained. Licences can be purchased from the Post Office in Jamestown and are valid for one year.</p>\n\n<p>There is a public minibus service with a <a rel=\"external\" href=\"https://www.sainthelena.gov.sh/wp-content/uploads/2022/09/Bus-Timetable-2022-FINAL.pdf\">timetable</a>.</p>\n\n<h3 id=\"ascension\">Ascension</h3>\n\n<p>There is a public minibus service which operates on Friday and Saturday nights only.  There is no other public transport on Ascension Island, but bus tours with a driver can be arranged. There are a small number of hire cars.</p>\n\n<p>The speed limit is 20mph in Georgetown and Two Boats Village, and when passing the US Base. It\u2019s either 30mph or 40 mph elsewhere. If you\u2019re expecting to stay for more than 3 months, you must apply for an Ascension Island Driving Licence from the Post Office.</p>\n\n<p>Feral sheep, donkeys and land crabs (protected species) can gather on the roads, especially during wet weather.</p>\n\n<p>There are a number of sites which are out of bounds. On arrival to Ascension visitors are briefed where they\u2019re permitted to visit but if you\u2019re unsure it\u2019s always worth checking with either the police station, harbour authorities or Ascension Island Government personnel first.</p>\n\n<p>The waters around Ascension can be dangerous with strong undercurrents and large swells. You should exercise extreme caution if you enter the sea. You are strongly advised to seek local advice and heed warning signs displayed at the beaches before considering swimming, diving or snorkelling.</p>\n\n<h3 id=\"tristan-da-cunha\">Tristan da Cunha</h3>\n\n<p>Visitors are not allowed to hike up the Base or to Marys Peak unless accompanied by a Tristan guide. Trips to areas away from the main settlement on Tristan, including to Nightingale and Inaccessible Islands, must be made with a guide for safety reasons. A fee is payable and an indemnity declaration must be signed. Let others know where you are going and when you intend to return.</p>\n\n<p>You need prior approval from the Administrator to visit Gough Island, which is 200 miles away by sea to the south. Permission to land will rarely be granted as Gough is a World Heritage Site.</p>\n\n<h3 id=\"getting-to-st-helena-ascension-and-tristan-da-cunha\">Getting to St Helena, Ascension and Tristan da Cunha</h3>\n\n<h3 id=\"st-helena-1\">St Helena</h3>\n\n<p>St Helena has weekly return flights from Johannesburg provided by Airlink. Between December and February this is twice weekly.</p>\n\n<h4 id=\"ascension-1\">Ascension</h4>\n\n<p>The South Atlantic Airbridge returned to Ascension Island on 8 May 2023. There is a monthly charter flight to Ascension from South Africa via St Helena provided by Airlink. For both flight routes, the Ascension Island Government co-ordinates bookings to preserve access for essential workers and their families. To enquire about booking a flight contact: <a href=\"mailto:flight.bookings@ascension.gov.ac\">flight.bookings@ascension.gov.ac</a></p>\n\n<p>There is limited accommodation available to visitors on Ascension Island.</p>\n\n<h3 id=\"tristan-da-cunha-1\">Tristan da Cunha</h3>\n\n<p>Travel to the Island is by sea only. Fishing/supply vessels from Cape Town visit the Island eight times a year, and there is one annual visit made by a South African research vessel in September/October. Access to berths is very limited and <a rel=\"external\" href=\"https://tristandc.com/shipping.php\">bookings are prioritised</a>. Due to the limited harbour facilities, vessels have to anchor offshore and passengers are ferried by smaller local boats. This can be hazardous in bad weather. Approaching bad weather can mean that you have to return to your ship ahead of schedule. Fishing requirements may mean that ships need to depart Tristan ahead of or behind schedule. Connecting airline bookings in South Africa should be flexible.</p>\n\n<h3 id=\"emergency-assistance\">Emergency assistance</h3>\n\n<h3 id=\"st-helena-2\">St Helena</h3>\n\n<p>If you need emergency assistance, contact the local police (telephone 22626 or 999). If you need an emergency passport, contact the St Helena Immigration Service at the police station.</p>\n\n<h3 id=\"ascension-2\">Ascension</h3>\n\n<p>The Ascension Island Police Detachment is able to provide emergency assistance. There is no facility for issuing replacement UK passports or UK entry visas. You can however obtain an emergency passport from the Ascension Island Police (telephone 66412).</p>\n\n<h3 id=\"tristan-da-cunha-2\">Tristan da Cunha</h3>\n\n<p>If you need emergency assistance, contact the local police (telephone 5111). If you need a replacement or emergency passport, contact the Police Administrator at the Police Station.</p>\n\n<h3 id=\"contact-details\">Contact details</h3>\n\n<p>UK - Representative for St Helena</p>\n\n<p>St Helena Government UK Representative,\nAlliance House,\n12 Caxton Street,\nLondon, SW1H 0QS</p>\n\n<p>Telephone: 0203 818 7610</p>\n\n<p>Fax: 0203 159 5151</p>\n\n<p>Mobile: 07989 404 654</p>\n\n<p>Email: <a href=\"mailto:shgukrep@sthelenagov.com\">shgukrep@sthelenagov.com</a></p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Although there\u2019s no recent history of terrorism in St Helena, Ascension and Tristan da Cunha, attacks can\u2019t be ruled out.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Don\u2019t become involved with drugs of any kind. There are severe penalties for possession or importation of even small quantities.\u00a0</p>\n\n<p>Drink/drive laws and speed restrictions are strictly enforced.</p>\n\n<p>Drinking alcohol in public in the Jamestown area of St Helena is not allowed.</p>\n\n<p>There are strict rules about importing alcohol into  St Helena, Ascension and Tristan da Cunha. You need a licence to import more than two bottles of spirits.</p>\n\n<p>Camping is not allowed in Tristan da Cunha.</p>\n\n<h2 id=\"lgbt\">LGBT+</h2>\n\n<p>Same-sex marriage has been legal on Ascension, St Helena and Tristan da Cunha since January, August and December 2017 respectively. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT community before you travel.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to St Helena, Ascension and Tristan da Cunha.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in St Helena, Ascension and Tristan da Cunha set and enforce entry rules. If you\u2019re unsure how  the entry requirements apply to you, contact the <a href=\"https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/travel-advice-help-and-support\">St Helena Government UK Office</a> for St Helena, for Tristan da Cunha contact <a href=\"mailto:tdcenquiries@tdc-gov.com\">Cynthia Green in the Administration Office</a> and for Ascension contact <a href=\"mailto:Police.Inspector@ascension.gov.ac\">Douglas Smith, Chief Immigration Office</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>There are different rules depending on whether you are travelling to St Helena, Ascension or Tristan da Cunha.</p>\n\n<h3 id=\"st-helena\">St Helena</h3>\n\n<p>Foreign nationals are permitted to enter St Helena provided they meet the immigration rules. These include the requirement for visitors to have medical insurance which must cover the cost of evacuation to a value of \u00a3175,000.</p>\n\n<p>On entering St Helena, the <a rel=\"external\" href=\"https://www.sainthelena.gov.sh/wp-content/uploads/2013/09/Biosecurity-for-visitors-to-St-Helena-AIR-Nov16.pdf\">Biosecurity for Visitors</a> will advise what items are permissible to St Helena and those which are strictly prohibited.</p>\n\n<h3 id=\"ascension\">Ascension</h3>\n\n<p>All travellers to Ascension Island require an entry permit visa unless exempted by their occupation, such as active members of His Majesty\u2019s Armed Forces travelling there for work. Failure to enter with a valid visa is an offence under the Entry Control Ordinance and may result in a fine and imprisonment. Individuals may also be refused permission to land and be required to leave on the aircraft or vessel that they arrived on.</p>\n\n<h3 id=\"tristan-da-cunha\">Tristan da Cunha</h3>\n\n<p>All visitors to Tristan da Cunha require the authority of the Island Council in advance.</p>\n\n<h2 id=\"if-youre-fully-vaccinated\">If you\u2019re fully vaccinated</h2>\n\n<h3 id=\"entry-to-st-helena-if-youre-fully-vaccinated\">Entry to St Helena if you\u2019re fully vaccinated</h3>\n\n<p>St Helena has lifted its coronavirus travel restrictions and you no longer need to have a COVID-19 test on arrival or undergo quarantine.</p>\n\n<h3 id=\"entry-to-ascension-if-youre-fully-vaccinated\">Entry to Ascension if you\u2019re fully vaccinated</h3>\n\n<p>Ascension Island has lifted its coronavirus travel restrictions; there is no requirement to undertake testing nor quarantine on arrival. For further information on Ascension\u2019s coronavirus related entry measures please refer to the <a rel=\"external\" href=\"https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fascension.us19.list-manage.com%2Ftrack%2Fclick%3Fu%3D98f9ce464b7bf4239c0de2a21%26id%3D4e940c540d%26e%3D69d5e276e4&amp;data=05%7C01%7Ccarl.mackerras2%40fco.gov.uk%7Cec67141037f3437c759708da6f2405ed%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C637944497765919384%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=9iiFXdhYcIshuZKD%2FdOO4yWcAJmUbexm8yLVMHg5XJs%3D&amp;reserved=0\">Ascension government website</a>.</p>\n\n<h3 id=\"entry-to-tristan-da-cunha-if-youre-fully-vaccinated\">Entry to Tristan da Cunha if you\u2019re fully vaccinated</h3>\n\n<p>Any visitors travelling to Tristan da Cunha must be able to prove their fully vaccinated status (i.e. initial vaccination and booster) before they will be given permission to travel.</p>\n\n<h2 id=\"proof-of-vaccination-status\">Proof of vaccination status</h2>\n\n<h3 id=\"st-helena-1\">St Helena</h3>\n<p>You do not need to present proof that you have been fully vaccinated to enter St Helena.</p>\n\n<h3 id=\"ascension-1\">Ascension</h3>\n\n<p>You do not need to present proof that you have been fully vaccinated to enter Ascension.</p>\n\n<h3 id=\"tristan-da-cunha-1\">Tristan da Cunha</h3>\n\n<p>You need to present proof before you travel that you have been fully vaccinated in order to enter Tristan da Cunha.</p>\n\n<p>Tristan da Cunha will accept the UK\u2019s <a href=\"https://www.gov.uk/guidance/demonstrating-your-covid-19-status\">proof of COVID-19 recovery and vaccination record</a>.   Your NHS appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status.</p>\n\n<h2 id=\"if-youre-not-fully-vaccinated\">If you\u2019re not fully vaccinated</h2>\n\n<p>There are different rules depending on whether you are travelling to St Helena, Ascension or Tristan da Cunha.</p>\n\n<h3 id=\"entry-to-st-helena-if-youre-not-fully-vaccinated\">Entry to St Helena if you\u2019re not fully vaccinated</h3>\n\n<p>St Helena has lifted its coronavirus travel restrictions and you no longer need to have a COVID-19 test on arrival or undergo quarantine.</p>\n\n<h3 id=\"entry-to-ascension-if-youre-not-fully-vaccinated\">Entry to Ascension if you\u2019re not fully vaccinated</h3>\n\n<p>You should follow the same rules as set out for fully vaccinated passengers.</p>\n\n<h3 id=\"entry-to-tristan-da-cunha-if-youre-not-fully-vaccinated\">Entry to Tristan da Cunha if you\u2019re not fully vaccinated</h3>\n\n<p>Entry to Tristan da Cunha is not possible if you are not fully vaccinated.  Any visitors must be able to prove their fully vaccinated status.</p>\n\n<h2 id=\"if-youve-had-covid-19-in-the-past-year\">If you\u2019ve had COVID-19 in the past year</h2>\n\n<p>There are different rules depending on whether you are travelling to St Helena, Ascension or Tristan da Cunha.</p>\n\n<h3 id=\"st-helena-2\">St Helena</h3>\n\n<p>St Helena has lifted its coronavirus restrictions; there is no requirement to present documented evidence of recovery from a previous COVID-19 infection.</p>\n\n<h3 id=\"ascension-2\">Ascension</h3>\n\n<p>Ascension has lifted all coronavirus related travel restrictions, there is no requirement to present documented evidence of recovery from a previous COVID-19 infection.</p>\n\n<h3 id=\"tristan-da-cunha-2\">Tristan da Cunha</h3>\n\n<p>All travellers planning to enter Tristan da Cunha must show that they have been fully vaccinated.  There are no exceptions for those who have tested positive for COVID-19 in the previous 12 months.</p>\n\n<h2 id=\"children-and-young-people\">Children and young people</h2>\n\n<p>There are different rules depending on whether you are travelling to St Helena, Ascension or Tristan da Cunha.</p>\n\n<h3 id=\"st-helena-3\">St Helena</h3>\n\n<p>St Helena has lifted its coronavirus restrictions and there are no testing or quarantine requirements for adults or children.</p>\n\n<h3 id=\"ascension-3\">Ascension</h3>\n\n<p>Children aged 17 and under should follow the rules as they apply to adults.</p>\n\n<h3 id=\"tristan-da-cunha-3\">Tristan da Cunha</h3>\n\n<p>Children who are too young to receive a vaccination will be allowed into Tristan with their parents. Children aged 12 to 17 should show vaccinated status.</p>\n\n<h2 id=\"if-youre-transiting-through-st-helena-ascension-and-tristan-da-cunha\">If you\u2019re transiting through St Helena, Ascension and Tristan da Cunha</h2>\n\n<p>The rules set out above also apply to travellers wishing to transit through St Helena and Ascension.  There is no transit through Tristan da Cunha.</p>\n\n<h2 id=\"exemptions\">Exemptions</h2>\n\n<p>There are different rules depending on whether you are travelling to St Helena, Ascension or Tristan da Cunha.</p>\n\n<h3 id=\"exemptions-for-st-helena\">Exemptions for St Helena</h3>\n\n<p>There are no exemptions to the entry rules for St Helena.</p>\n\n<h3 id=\"exemptions-for-ascension\">Exemptions for Ascension</h3>\n\n<p>There are no exemptions to the entry rules for Ascension.</p>\n\n<h3 id=\"exemptions-for-tristan-da-cunha\">Exemptions for Tristan da Cunha</h3>\n\n<p>You need to get permission from the Tristan Island Council for any proposed exemptions before you travel.  Otherwise you might be refused entry and have to return to Cape Town.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<p>There are different rules depending on whether you are travelling to St Helena, Ascension or Tristan da Cunha.</p>\n\n<h3 id=\"passport-validity-for-st-helena\">Passport validity for St Helena</h3>\n\n<p>If you are visiting St Helena, your passport should be valid for a minimum period of 6 months from the date you arrive.</p>\n\n<p>If you are a resident in St Helena, and do not hold a British passport, your passport must be valid for 6 months from the date you arrive.</p>\n\n<p>The Immigration Service in St. Helena only issues and renews British Overseas Territory Citizen passports and British Emergency travel documents.</p>\n\n<h3 id=\"passport-validity-for-ascension\">Passport validity for Ascension</h3>\n\n<p>If you are travelling to Ascension, your passport should be valid for a minimum period of six months from the date of entry into Ascension</p>\n\n<h3 id=\"passport-validity-for-tristan-da-cunha\">Passport validity for Tristan da Cunha</h3>\n\n<p>Your passport must be valid for the proposed duration of your stay. No additional period of validity beyond this is required. However, it\u2019s always sensible to have a short period of extra validity on your passport in case of any unforeseen delays to your departure. Tristan da Cunha cannot issue passports or ETDs.  You should check the requirements for transit through South Africa.</p>\n\n<p>If you are a resident in Tristan da Cunha, your passport must be valid on arrival.</p>\n\n<h3 id=\"visas-for-st-helena\">Visas for St Helena</h3>\n\n<p>An Entry Permit for St Helena costs \u00a320 and allows a stay of up to 183 days. The fee can be paid in British pounds, Euros, US dollars or South African rand.  You will need to provide evidence of a return ticket, or funds for a return ticket, medical insurance, adequate accommodation and sufficient funds for your stay.</p>\n\n<p>If you wish to stay for longer than 183 days you should apply to the St Helena Immigration Control Board.</p>\n\n<p>Entry permit applications should be completed via the <a rel=\"external\" href=\"https://evisa.sainthelena.gov.sh/\">St Helena Island E-Visa website</a>.</p>\n\n<p>If you need a visa for South Africa you should make sure it is valid for the date of your planned return journey. There are no facilities to issue international visas on the island.</p>\n\n<h3 id=\"visas-for-ascension\">Visas for Ascension</h3>\n\n<p>You must get permission to visit Ascension Island from the Administrator before travel. Entry permit applications should be completed via the <a rel=\"external\" href=\"https://www.ascension-visas.com/\">Ascension Island Government E-Visa website</a>.  You must be able to produce evidence of holding comprehensive travel and medical insurance which includes pandemic and coronavirus cover. You must also be able to produce on request evidence of a return air ticket (or other evidence of pre-paid onward travel), pre-booked accommodation and sufficient funds to cover your stay on the island.\u00a0</p>\n\n<p>Visitors are prohibited from taking employment, paid or unpaid, without first obtaining permission to do so from the Administrator.\u00a0</p>\n\n<p>Background checks are required for all those employed on Ascension.</p>\n\n<h3 id=\"visas-for-tristan-da-cunha\">Visas for Tristan da Cunha</h3>\n\n<p>You will need the prior permission of the Island Council to land on Tristan.\u00a0You should apply to the Administrator\u2019s office: <a href=\"mailto:tdcenquiries@tdc-gov.com\">tdcenquiries@tdc-gov.com</a>.  You must have a confirmed and fully paid return passage; comprehensive travel and medical insurance that cover the cost of medical treatment and evacuation to Cape Town; and sufficient funds to cover the cost of your visit.\u00a0A police clearance/vetting certificate must also be provided for stays beyond two months. A small landing fee is payable on arrival at the Island.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/14/ascension-island-st-helena-tristan-da-cunha#Vaccine_recommendations\">National Travel Health Network and Centre\u2019s TravelHealthPro website</a>.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the <a href=\"/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<h3 id=\"health-advice\">Health advice</h3>\n<p>Visit your health professional at least 4 to 6 weeks before your trip to check whether you need any vaccinations or other preventive measures.</p>\n\n<p>Check the latest country-specific information and advice from the National Travel Health Network and Centre (NaTHNaC) on the <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country-information/\">TravelHealthPro website</a> or from NHS (Scotland) on the <a rel=\"external\" href=\"http://www.fitfortravel.nhs.uk/destinations.aspx\">fitfortravel website</a>. Useful information and advice about healthcare abroad is also available on the <a rel=\"external\" href=\"http://www.nhs.uk/NHSEngland/Healthcareabroad/Pages/Healthcareabroad.aspx\">NHS Choices website</a>.</p>\n\n<p>Make sure you have adequate travel health insurance and accessible funds to cover the cost of any treatment abroad, medical evacuation and repatriation. You should contact your insurance or medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h3 id=\"st-helena\">St Helena</h3>\n\n<p>An adequate standard of medical care is available on St Helena, but all visitors, including UK residents, are charged a fee for medical and dental treatment.\u00a0If you need emergency medical assistance during your trip, dial 999 and ask for an ambulance.</p>\n\n<h3 id=\"ascension\">Ascension</h3>\n\n<p>There is a small hospital on Ascension that is available to deal with day-to-day complaints but sophisticated treatment is not available on the island. The hospital charges visitors for both outpatient and in-patient treatment. If you need regular supplies of prescription drugs, you should make sure you bring adequate supplies with you. A UK-qualified dentist is available on the island.</p>\n\n<p>If you intend to participate in diving sports, please note that there is no decompression facility on Ascension, nor are there qualified rescue divers. Visiting divers are strongly recommended to dive with an experienced diver. There is a small diving club on the island.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 999 and ask for an ambulance.</p>\n\n<h3 id=\"tristan-da-cunha\">Tristan da Cunha</h3>\n\n<p>A\u00a0good standard of general practice level medical care is available on Tristan da Cunha. Operations and more serious medical cases usually require medical evacuation to Cape Town and this depends on the availability of ships. It might be up to two months before travel to Cape Town is possible and even then, the journey itself can take up to a week, or longer in bad weather. Limited pharmaceutical supplies are available on Tristan and you should make sure you take sufficient stock of any regular prescription medication with you.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<h3 id=\"st-helena\">St Helena</h3>\n\n<p>The local currency is the Saint Helena Pound which is linked at parity to the British Pound (Sterling). Notes and coins are similar in denomination and appearance to their UK counterparts. Banking services on St Helena and Ascension Island are provided by the Bank of St Helena. Sterling is accepted in shops and restaurants on the island but change will often be given in Saint Helena Pounds.</p>\n\n<p>Credit and debit cards are not widely used, although a few outlets and businesses will accept them. You will be charged a commission for using your credit card. Bank of St. Helena can advance cash against credit or debit cards. All cash advances are subject to charges and you will need identification bearing a photograph and signature. The Bank of St Helena also offers foreign exchange facilities.</p>\n\n<p>You will need to change back any surplus local currency before leaving, as it is not possible to exchange St Helenian notes or coins once back in the UK. St Helena currency is accepted on Ascension Island.</p>\n\n<p>Bank of St Helena offers a virtual prepaid Tourist Card for card payments around St Helena and Ascension and can be used to request cashback at select locations. The Tourist Card operates using QR payments through an app on mobile devices and is accepted at all locations offering the Bank\u2019s St Helena Pay Service. More information and how to apply can be found here: <a rel=\"external\" href=\"https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsainthelenabank.com%2Ftourist-card%2F&amp;data=05%7C01%7CGreg.Gibson%40fcdo.gov.uk%7Ce35cae98b6304df6bc7408db5de833d2%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638207024150489995%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=U9U0nhVcDFI2wBZeJGPyu7Xb96y3x219en7eroLbqg4%3D&amp;reserved=0\">http://sainthelenabank.com/tourist-card/</a></p>\n\n<h3 id=\"ascension\">Ascension</h3>\n\n<p>Credit cards are accepted at the Chandlery in Georgetown and the NAAFI shop on Travellers Hill, but otherwise are not in general use.. Banking services are provided by the Bank of St Helena. There are no cash machines. The Bank can advance cash against credit or debit cards. All cash advances are subject to charges and you will need identification bearing a photograph and signature. The Bank of St Helena also offers foreign exchange facilities.</p>\n\n<p>While the official currency is the St Helena pound, sterling bank notes are accepted in all shops and bars and the US base will accept US dollars, sterling or St Helena currency. The Saint Helena Pound is linked at parity to the British Pound (Sterling). Notes and coins are similar in denomination and appearance to their UK counterparts. Foreign currency (including Euros) can be exchanged at the bank in Georgetown.</p>\n\n<p>You will need to change back any surplus local currency before leaving, as it is not possible to exchange St Helenian notes or coins once back in the UK.</p>\n\n<p>Bank of St Helena offers a virtual prepaid Tourist Card for card payments around St Helena and Ascension and can be used to request cashback at select locations. The Tourist Card operates using QR payments through an app on mobile devices and is accepted at all locations offering the Bank\u2019s St Helena Pay Service. More information and how to apply can be found here: <a rel=\"external\" href=\"https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsainthelenabank.com%2Ftourist-card%2F&amp;data=05%7C01%7CGreg.Gibson%40fcdo.gov.uk%7Ce35cae98b6304df6bc7408db5de833d2%7Cd3a2d0d37cc84f52bbf985bd43d94279%7C0%7C0%7C638207024150489995%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=U9U0nhVcDFI2wBZeJGPyu7Xb96y3x219en7eroLbqg4%3D&amp;reserved=0\">http://sainthelenabank.com/tourist-card/</a></p>\n\n<h3 id=\"tristan-da-cunha\">Tristan da Cunha</h3>\n\n<p>Tristan does not have the facilities to accept credit cards, only hard currency (British Sterling, Euros, US dollars or South African rand are all accepted). Sterling is the currency used on the Island. There is a small bank that can exchange currency but supply is limited.</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "<p>Tristan da Cunha is a volcanic island but it has not had an eruption since 1961.</p>\n\n<p>Ascension is a dormant volcanic island which has not erupted for 600 years.</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, send the Travel Advice team <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=St%20Helena,%20Ascension%20and%20Tristan%20da%20Cunha&amp;post=St%20Helena,%20Ascension%20and%20Tristan%20da%20Cunha%20travel%20advice%20team\">a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=St%20Helena,%20Ascension%20and%20Tristan%20da%20Cunha&amp;post=St%20Helena,%20Ascension%20and%20Tristan%20da%20Cunha%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-10-10T10:03:12Z",
+            "updated_at": "2023-10-10T10:03:13Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2012-12-12T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha",
+                    "base_path": "/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha",
+                    "content_id": "ab5bb8cb-92d9-440d-90dc-889d301675af",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-10T10:03:12Z",
+                    "schema_name": "travel_advice",
+                    "title": "St Helena, Ascension and Tristan da Cunha travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/st-helena-ascension-and-tristan-da-cunha",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/st-helena-ascension-and-tristan-da-cunha",
+                    "api_url": "https://www.gov.uk/api/content/world/st-helena-ascension-and-tristan-da-cunha",
+                    "base_path": "/world/st-helena-ascension-and-tristan-da-cunha",
+                    "content_id": "159eb889-3b95-48ff-b7ad-a9fe147f6110",
+                    "description": "Services if you're visiting, studying, working or living in St Helena, Ascension and Tristan da Cunha. Includes information about trading with and doing business in the UK and St Helena, Ascension and Tristan da Cunha.",
+                    "details": {
+                        "internal_name": "UK help and services in St Helena, Ascension and Tristan da Cunha",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:27Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in St Helena, Ascension and Tristan da Cunha",
+                    "web_url": "https://www.gov.uk/world/st-helena-ascension-and-tristan-da-cunha",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/spain",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/spain",
+                    "base_path": "/foreign-travel-advice/spain",
+                    "content_id": "24df0bb1-0ca1-4675-9237-528ecd3d17a5",
+                    "details": {
+                        "change_description": "Information on transport strikes ('Safety and security' page).",
+                        "country": {
+                            "name": "Spain",
+                            "slug": "spain",
+                            "synonyms": [
+                                "Ibiza",
+                                "Majorca",
+                                "Mallorca",
+                                "Menorca",
+                                "Minorca",
+                                "Lanzarote",
+                                "Barcelona",
+                                "Benidorm",
+                                "Tenerife",
+                                "Canary Islands",
+                                "Canaries",
+                                "Gran Canaria",
+                                "Fuerteventura"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T12:53:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Spain travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/spain",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/suriname",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/suriname",
+                    "base_path": "/foreign-travel-advice/suriname",
+                    "content_id": "0e50ddd6-ee02-4d1c-815b-7f35a8777f72",
+                    "details": {
+                        "change_description": "Removal of Covid-19 restrictions and information on February protests ('Summary', 'Coronavirus' and 'Entry requirements' pages).",
+                        "country": {
+                            "name": "Suriname",
+                            "slug": "suriname",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-08T15:39:08Z",
+                    "schema_name": "travel_advice",
+                    "title": "Suriname travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/suriname",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/western-sahara",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/western-sahara",
+                    "base_path": "/foreign-travel-advice/western-sahara",
+                    "content_id": "18d6ade3-900d-44ab-b251-ee5f791ba4b4",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                        "country": {
+                            "name": "Western Sahara",
+                            "slug": "western-sahara",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:19:14Z",
+                    "schema_name": "travel_advice",
+                    "title": "Western Sahara travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/western-sahara",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "base_path": "/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "content_id": "98c0a9e6-54b0-4c67-8007-43bde256e8ad",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "St Martin and St Barth\u00e9lemy",
+                            "slug": "st-martin-and-st-barthelemy",
+                            "synonyms": [
+                                "St Barts",
+                                "St Barthelemy",
+                                "Saint Martin",
+                                "Saint Barts"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-25T15:29:47Z",
+                    "schema_name": "travel_advice",
+                    "title": "St Martin and St Barth\u00e9lemy travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/wallis-and-futuna",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/wallis-and-futuna",
+                    "base_path": "/foreign-travel-advice/wallis-and-futuna",
+                    "content_id": "714e5775-6655-449e-ac16-2897f8a14f73",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Wallis and Futuna",
+                            "slug": "wallis-and-futuna",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T09:18:18Z",
+                    "schema_name": "travel_advice",
+                    "title": "Wallis & Futuna Islands travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/wallis-and-futuna",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-st-helena-ascension-and-tristan-da-cunha",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-st-helena-ascension-and-tristan-da-cunha",
+                    "base_path": "/world/living-in-st-helena-ascension-and-tristan-da-cunha",
+                    "content_id": "dfabb10b-f8a8-4eeb-a6fb-309b0522cafb",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in St Helena, Ascension and Tristan da Cunha",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/st-helena-ascension-and-tristan-da-cunha",
+                                "api_url": "https://www.gov.uk/api/content/world/st-helena-ascension-and-tristan-da-cunha",
+                                "base_path": "/world/st-helena-ascension-and-tristan-da-cunha",
+                                "content_id": "159eb889-3b95-48ff-b7ad-a9fe147f6110",
+                                "description": "Services if you're visiting, studying, working or living in St Helena, Ascension and Tristan da Cunha. Includes information about trading with and doing business in the UK and St Helena, Ascension and Tristan da Cunha.",
+                                "details": {
+                                    "internal_name": "UK help and services in St Helena, Ascension and Tristan da Cunha",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:27Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in St Helena, Ascension and Tristan da Cunha",
+                                "web_url": "https://www.gov.uk/world/st-helena-ascension-and-tristan-da-cunha",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:20:53Z",
+                    "schema_name": "taxon",
+                    "title": "Living in St Helena, Ascension and Tristan da Cunha",
+                    "web_url": "https://www.gov.uk/world/living-in-st-helena-ascension-and-tristan-da-cunha",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-st-helena-ascension-and-tristan-da-cunha",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-st-helena-ascension-and-tristan-da-cunha",
+                    "base_path": "/world/travelling-to-st-helena-ascension-and-tristan-da-cunha",
+                    "content_id": "12e40a23-d459-4c1c-bfaa-9061d4e7e1ab",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to St Helena, Ascension and Tristan da Cunha",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/st-helena-ascension-and-tristan-da-cunha",
+                                "api_url": "https://www.gov.uk/api/content/world/st-helena-ascension-and-tristan-da-cunha",
+                                "base_path": "/world/st-helena-ascension-and-tristan-da-cunha",
+                                "content_id": "159eb889-3b95-48ff-b7ad-a9fe147f6110",
+                                "description": "Services if you're visiting, studying, working or living in St Helena, Ascension and Tristan da Cunha. Includes information about trading with and doing business in the UK and St Helena, Ascension and Tristan da Cunha.",
+                                "details": {
+                                    "internal_name": "UK help and services in St Helena, Ascension and Tristan da Cunha",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:27Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in St Helena, Ascension and Tristan da Cunha",
+                                "web_url": "https://www.gov.uk/world/st-helena-ascension-and-tristan-da-cunha",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:20:53Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to St Helena, Ascension and Tristan da Cunha",
+                    "web_url": "https://www.gov.uk/world/travelling-to-st-helena-ascension-and-tristan-da-cunha",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-10T10:03:12Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1696932192.965-10.13.22.118-49137",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "St Helena, Ascension and Tristan da Cunha travel advice",
+        "updated_at": "2023-11-15T11:02:45Z",
+        "withdrawn_notice": {}
+    }
+}

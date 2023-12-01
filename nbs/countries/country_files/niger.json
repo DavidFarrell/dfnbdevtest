@@ -1,0 +1,780 @@
+{
+    "Country Slug": "niger",
+    "Country Name": "Niger",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/niger",
+        "content_id": "06c5b994-2e2e-41d8-bf14-75885e3887fb",
+        "description": "FCDO travel advice for Niger. Includes safety and security, insurance, entry requirements and legal differences.  ",
+        "details": {
+            "alert_status": [
+                "avoid_all_travel_to_whole_country"
+            ],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand. \r\n\r\nLatest update: UK staff have returned to Niger after they were temporarily withdrawn in August. ",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-12-04T08:40:52.964Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information about the availability of consular support",
+                    "public_timestamp": "2018-12-21T16:02:38.150Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Local travel) - addition of information on the state of emergency in the urban municipality of Tillab\u00e9ri, which came into effect on 13 February; Safety and security section (Road travel) - addition of information on International Driving Permit changes from 28 March 2019",
+                    "public_timestamp": "2019-02-22T10:05:49.440Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section \u2013 update to places which may be a target and the need to take extra during religious holiday periods",
+                    "public_timestamp": "2019-06-03T16:02:34.783Z"
+                },
+                {
+                    "note": "Terrorism section \u2013 updated information reflecting recent attacks in Niger",
+                    "public_timestamp": "2019-08-05T10:47:09.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with amendments throughout; the FCO now advise against all travel within 40km of the south-western border with Burkina Faso ",
+                    "public_timestamp": "2020-02-07T17:14:41.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-13T13:13:47.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-19T11:25:40.000Z"
+                },
+                {
+                    "note": "Addition of information on the closure of Niamey International Airport and land borders for two weeks from midnight on 19 March in response to coronavirus (COVID-19)('Summary' and 'Health' pages)\r\n",
+                    "public_timestamp": "2020-03-19T13:11:34.000Z"
+                },
+                {
+                    "note": "Cases of coronavirus (COVID-19) have been confirmed in Niger. All international passenger flights into and out of Niger have been suspended for 14 days commencing 20 March. ('Summary' and 'Health' pages) ",
+                    "public_timestamp": "2020-03-21T23:29:34.000Z"
+                },
+                {
+                    "note": "Closure of borders and internal restrictions imposed in response to coronavirus (COVID-19) as well as updates to \u2018Return to UK\u2019 section information ('Summary' and 'Return to UK' pages)",
+                    "public_timestamp": "2020-04-02T19:52:55.000Z"
+                },
+                {
+                    "note": "We are temporarily withdrawing a limited number of UK staff and their dependents from our UK Government Office. We will continue to carry out essential work including providing consular assistance and support to British people in Niger ('Summary' page)\r\n",
+                    "public_timestamp": "2020-04-08T13:13:24.000Z"
+                },
+                {
+                    "note": "Suspension of all international passenger flights into and out of Niger extended until 25 April when the situation will be reviewed ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-14T12:45:14.000Z"
+                },
+                {
+                    "note": "Updated information on suspension of all international passenger flights into and out of Niger extended until 9 May when the situation will be reviewed. ('Coronavirus' and 'Return to the UK' page)",
+                    "public_timestamp": "2020-04-28T15:30:29.000Z"
+                },
+                {
+                    "note": "Update of information about the extension of the suspension of all international passenger flights ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-04T13:58:35.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full and reissued without amendment\r\n",
+                    "public_timestamp": "2020-05-11T14:58:56.000Z"
+                },
+                {
+                    "note": "Suspension of all international passenger flights into and out of Niger extended until 23 May when the situation will be reviewed (\u2018Staying during coronavirus\u2019 page). ",
+                    "public_timestamp": "2020-05-13T12:19:52.000Z"
+                },
+                {
+                    "note": "Update to information on suspension of all international passenger flights into and out of Niger extended until further notice ('Return to the UK' page). ",
+                    "public_timestamp": "2020-05-27T15:55:52.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:45:17.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-16T17:41:10.000Z"
+                },
+                {
+                    "note": "Updated information about requirements when entering Niger ('Summary' page) and updated information on air travel ('Coronavirus' page). Addition of information on terrorism in Niger ('Terrorism' page) ",
+                    "public_timestamp": "2020-08-10T16:37:18.000Z"
+                },
+                {
+                    "note": "Update on quarantine requirements and testing on arrival and departure \r\n('Summary', 'Coronavirus 'and 'Entry requirements' pages).  \r\nNew information on a state of emergency in Tillab\u00e9ri apart from Niamey ('Safety and security' page)\r\n",
+                    "public_timestamp": "2020-09-03T09:57:34.000Z"
+                },
+                {
+                    "note": "New COVID-19 restrictions announced for international travellers; tests, curfews and updated measures to reduce the spread of COVID-19 ('Summary', 'Coronavirus' and 'Safety and security' page). Updated information on instability within Niger's regions ('Terrorism' page)",
+                    "public_timestamp": "2020-11-16T15:33:45.000Z"
+                },
+                {
+                    "note": "Updated information on how to remain safe in case of random attacks in Niger ('Terrorism' page)\r\n",
+                    "public_timestamp": "2020-12-08T12:49:23.000Z"
+                },
+                {
+                    "note": "Updated information on consular assistance telephone numbers, elections and previous terrorist attacks ('Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-12-31T13:10:33.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-11T17:30:09.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Niger ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-25T12:07:58.000Z"
+                },
+                {
+                    "note": "New information on unrest in Niger following the second round of the presidential elections on 21 February 2021 ('Summary' page)",
+                    "public_timestamp": "2021-02-25T15:31:32.000Z"
+                },
+                {
+                    "note": "Updated information on the current situation in Niger following the second round of the presidential elections on 21 February 2021 ('Summary' page)",
+                    "public_timestamp": "2021-03-01T14:46:35.000Z"
+                },
+                {
+                    "note": "Information on Niger's political situation and past attacks ('Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-03-17T12:28:01.000Z"
+                },
+                {
+                    "note": "Amendments on Niger's past attacks ('Terrorism' page)",
+                    "public_timestamp": "2021-03-22T09:30:31.000Z"
+                },
+                {
+                    "note": "Information on Niger's last attack; 21 March 2021 ('Terrorism' page) ",
+                    "public_timestamp": "2021-03-23T11:58:26.000Z"
+                },
+                {
+                    "note": "Information on significant levels of violence in Niamey following the elections.  ('Political situation' page) ",
+                    "public_timestamp": "2021-03-31T15:31:12.000Z"
+                },
+                {
+                    "note": "Information on how to contact consular assistance and updated information on Niger's current political situation ('Safety and security' page)",
+                    "public_timestamp": "2021-04-07T08:45:12.000Z"
+                },
+                {
+                    "note": "Removal of information on the second round of presidential elections on 21 February 2021 ('Summary' page)",
+                    "public_timestamp": "2021-05-06T09:08:21.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine in Niger; British nationals can receive the first dose of the Astrazeneca vaccine ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-24T15:57:20.000Z"
+                },
+                {
+                    "note": "Removal of information on how to get a COVID-19 vaccine in Niger ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-01T08:54:47.000Z"
+                },
+                {
+                    "note": "New information entry restrictions to Niger and how to get a COVID-19 vaccine if you live in Niger; British nationals can receive the second dose of the AstraZeneca vaccine ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-06-02T15:53:51.000Z"
+                },
+                {
+                    "note": "New information on the re-opening of land borders in Niger ('Travel in Niger' page)",
+                    "public_timestamp": "2021-06-22T11:28:36.000Z"
+                },
+                {
+                    "note": "Update to terrorism pages advising exercising vigilance in places frequented by Westerners (See 'Terrorism' page)",
+                    "public_timestamp": "2021-06-26T12:36:12.000Z"
+                },
+                {
+                    "note": "Update to \u2018Terrorism\u2019 page ('Terrorism' page)",
+                    "public_timestamp": "2021-07-12T11:54:17.000Z"
+                },
+                {
+                    "note": "Update to \u2018Crime\u2019 section (\u2018Safety and security\u2019 page) ",
+                    "public_timestamp": "2021-09-27T12:56:33.000Z"
+                },
+                {
+                    "note": "Updated information on the threat of kidnapping.  Addition of information on the terrorist threat in the Sahel and Lake Chad Basin (\u2018Safety and security\u2019 and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2021-10-14T15:09:01.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Niger in relation to COVID-19 (requirement to show negative COVID-19 PCR test certificate taken within 72 hours before arrival and requirement to register COVID-19 PCR test before travelling) ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-28T15:43:15.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with editorial amendments throughout. Updated information on consular assistance, security, entry requirements and terrorism incidents (\u2018Safety and Security\u2019, \u2018Entry requirements\u2019 and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2022-03-16T14:04:53.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements in relation to COVID-19  (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-04-25T14:48:12.000Z"
+                },
+                {
+                    "note": "The \u2018Terrorism\u2019 section has been updated. ",
+                    "public_timestamp": "2022-04-29T16:09:36.000Z"
+                },
+                {
+                    "note": "Updated information on security and road travel (\u2018Summary\u2019, \u2018Safety and Security\u2019 and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2022-06-09T14:33:38.000Z"
+                },
+                {
+                    "note": "Addition of information about an IED attack that took place in Bougoum on the 11 August 2022 ('Terrorism' page)",
+                    "public_timestamp": "2022-08-12T13:11:17.000Z"
+                },
+                {
+                    "note": "Addition of information about a planned protest on Sunday 18 September in Niamey  ('Safety and security' page).",
+                    "public_timestamp": "2022-09-16T14:03:08.000Z"
+                },
+                {
+                    "note": "Addition of information about a regional air traffic control strike in West Africa which is affecting flights in and out of Niamey (See 'Summary' page)",
+                    "public_timestamp": "2022-09-24T16:45:10.000Z"
+                },
+                {
+                    "note": "Removal of information on the air traffic control strike in West Africa ('Summary' page).",
+                    "public_timestamp": "2022-09-26T15:52:00.000Z"
+                },
+                {
+                    "note": "Information on a protest that has been organised on Sunday 9 October in Tillab\u00e9ri.",
+                    "public_timestamp": "2022-10-07T16:28:59.000Z"
+                },
+                {
+                    "note": "Information on protests planned in Niamey on 9 October",
+                    "public_timestamp": "2022-10-08T13:49:10.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:32:28.000Z"
+                },
+                {
+                    "note": "Information about the political instability in Niamey ('Summary' page).",
+                    "public_timestamp": "2023-07-26T15:24:20.000Z"
+                },
+                {
+                    "note": "Information about political instability in Niamey ('Summary' page).",
+                    "public_timestamp": "2023-07-26T18:16:25.000Z"
+                },
+                {
+                    "note": "Information about political instability in Niamey; broadcast on 26 July ('Summary' page).",
+                    "public_timestamp": "2023-07-26T23:56:58.000Z"
+                },
+                {
+                    "note": "Information about political instability and protests in Niamey on 30 July ('Summary' page).",
+                    "public_timestamp": "2023-07-30T12:02:23.000Z"
+                },
+                {
+                    "note": "We advise against all travel to Niger ",
+                    "public_timestamp": "2023-07-31T19:43:34.000Z"
+                },
+                {
+                    "note": "Register Your Presence in Niger (Summary)",
+                    "public_timestamp": "2023-07-31T20:53:00.000Z"
+                },
+                {
+                    "note": "Information on how there are currently no commercial flight options available to leave Niger and that the situation remains volatile ('Summary' page).",
+                    "public_timestamp": "2023-08-01T15:57:32.000Z"
+                },
+                {
+                    "note": "Information on a demonstration being called on 3 August, Niger independence day. Advice on how to contact FCDO. FCDO advises against all travel to Niger. If you are in Niger, register your presence with FCDO ('Summary' page).",
+                    "public_timestamp": "2023-08-02T16:11:50.000Z"
+                },
+                {
+                    "note": "Information about  temporarily reducing the number of staff at the Embassy",
+                    "public_timestamp": "2023-08-02T23:58:20.000Z"
+                },
+                {
+                    "note": "Information on scheduled commercial flights from Niger (\u2018Summary\u2019 page). FCDO continues to advise against all travel to Niger.",
+                    "public_timestamp": "2023-08-04T13:32:22.000Z"
+                },
+                {
+                    "note": "Information on travel within or out of Niger ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-08-11T14:06:46.000Z"
+                },
+                {
+                    "note": "Information on the temporary withdrawal of UK staff from Niger ",
+                    "public_timestamp": "2023-08-19T11:16:42.000Z"
+                },
+                {
+                    "note": "Information on  the reopening of Nigerien airspace ('Summary' page).",
+                    "public_timestamp": "2023-09-07T09:36:25.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. \r\n\r\nLatest update: UK staff have returned to Niger after they were temporarily withdrawn in August. ",
+                    "public_timestamp": "2023-11-02T14:50:41.000Z"
+                }
+            ],
+            "country": {
+                "name": "Niger",
+                "slug": "niger",
+                "synonyms": [
+                    "Sahel"
+                ]
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "26819b0a-2d46-4a7c-9c0c-be0cd9458fc7",
+                "url": "https://assets.publishing.service.gov.uk/media/64c8d91919f5620013f3c1a3/FCDO__TA__029_-_Niger_Travel_Advice_Ed2.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/niger/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/64c8d91919f5620013f3c1a2/FCDO__TA__029_-_Niger_Travel_Advice_Ed2__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"fcdo-advises-against-all-travel-to-niger\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to Niger</h2>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Your travel insurance could be invalidated if you travel against FCDO advice.</p>\n</div>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to Niger, including the capital city of Niamey, for security reasons.</p>\n\n<h2 id=\"security-situation-in-niger\">Security situation in Niger</h2>\n\n<p>There has been a military takeover in Niger, which has led to protests and unrest.</p>\n\n<p>These protests may be violent and the security situation could change quickly without warning.</p>\n\n<p>Travel within or out of Niger is\u00a0at your own risk. The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0cannot offer advice on the safety of travelling to any departure point within Niger.\u00a0</p>\n\n<p>Nigerien airspace has reopened, however there could be disruptions to commercial flights from Niamey\u2019s Diori International Airport at short notice.</p>\n\n<p>Find out more about <a href=\"/foreign-travel-advice/niger/regional-risks\">why <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against travel</a>.\u00a0\u00a0</p>\n\n<h3 id=\"british-embassy-in-niger\">British Embassy in Niger</h3>\n\n<p>UK staff have returned to Niger after they were temporarily withdrawn in August. The British Embassy in Niamey does not offer consular assistance.</p>\n\n<h3 id=\"help-and-support-\">Help and support \u00a0</h3>\n\n<p>If you are a British national in Niger and need assistance, contact\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s 24-7 services by telephone on +234 (1) 277 0782 and select option 2 for consular services for British nationals.</p>\n\n<p>If you are in the UK and worried about a British person in Niger, you can call\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0in London 24-7 on 020 7008 5000.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide and any specific travel advice that applies to you:</p>\n\n<ul>\n  <li><a href=\"https://www.gov.uk/guidance/advice-for-women-travelling-abroad\">women travellers</a></li>\n  <li><a href=\"https://www.gov.uk/government/publications/disabled-travellers\">disabled travellers</a></li>\n  <li><a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">LGBT+ travellers</a></li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/niger/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Niger set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://www.nigerconsulate.org.uk\">Niger Consulate in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Niger.\u00a0</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>Your passport should be valid for the proposed duration of your stay. No additional period of validity is needed.</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You will need a visa to enter Niger. You can now apply for a visa from the Nigerien Consulate in Milton Keynes.</p>\n\n<p>Visit the\u00a0<a rel=\"external\" href=\"https://www.nigerconsulate.org.uk/niger-consulate-uk/consular-services\">consulate\u2019s website</a>\u00a0for application forms, payment, and more information on requirements.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/164/niger#Vaccine_recommendations\">vaccinations and certificates you need in TravelHealthPro\u2019s Niger guide</a>.</p>\n\n<p>All arrivals in Niger require a yellow fever vaccination certificate.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about goods you can take into or out of Niger. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h2 id=\"money\">Money</h2>\n\n<p>Niger is a cash-based society. Credit cards are rarely accepted even in hotels and restaurants visited by international clients. There are few ATMs. Banks accept travellers cheques. You will have to produce your passport and the receipt for the cheques from the issuing bank.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>You should also read <a href=\"/foreign-travel-advice/niger\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a> and safety advice for <a href=\"/foreign-travel-advice/niger/regional-risks\">regions of Niger</a>.</p>\n\n<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attacks globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.\u00a0\u00a0\u00a0\u00a0</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-niger\">Terrorism in Niger</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are very likely to try and carry out attacks in Niger.</p>\n</div>\n\n<p>There is a heightened risk of attack in Niamey. Attacks could be indiscriminate and occur without warning, including in places visited by foreigners. You should be especially vigilant and where possible avoid places frequented by foreigners, such as:\u00a0</p>\n\n<ul>\n  <li>diplomatic premises</li>\n  <li>conference centres</li>\n  <li>locations popular with tourists and foreigners</li>\n  <li>sporting and cultural events</li>\n  <li>shopping centres</li>\n  <li>transport hubs</li>\n  <li>religious sites and places of worship, particularly churches</li>\n  <li>national parks and nature reserves; including the Parc du W</li>\n  <li>foreign, national or local government buildings</li>\n  <li>large crowds</li>\n</ul>\n\n<p>There may be a heightened risk of attack during election periods and religious festivals including the month of Ramadan.</p>\n\n<p>You should be vigilant, monitor announcements and local media, and follow the advice of local authorities.</p>\n\n<p>There have been multiple recent attacks in Niger, particularly in the Diffa and Tillab\u00e9ri regions. Notable recent attacks include:</p>\n\n<ul>\n  <li>on 2 October 2023, terrorists killed around 30 soldiers in Takanamat, Tahoua</li>\n  <li>on 30 September 2023, terrorists killed 33 soldiers in Imbalagan, Tillaberi</li>\n  <li>on 16 August 2023, terrorists killed 30 civilians in the Kandadji region, Tillaberi</li>\n  <li>on 1 February 2023, terrorists killed 18 people in an attack on a refugee camp in Tillia, Tahoua</li>\n  <li>in 2022, an IED explosion took place in Bougoum (approximately 5km from Niamey city limits) killing 2 civilians</li>\n  <li>in 2022, a Gendarme Post in Bougoum was attacked by armed individuals on motorbikes</li>\n</ul>\n\n<h3 id=\"terrorist-kidnap\">Terrorist kidnap</h3>\n\n<p>British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.\u00a0</p>\n\n<p>The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.\u00a0</p>\n\n<p>There\u2019s a very high threat of kidnapping by AQ-affiliated and other regional Islamist groups. These include Jamaat Nusrat al-Islam wal Muslimeen (JNIM) and Islamic State Greater Sahara (ISGS), who operate throughout Mali, Niger and Burkina Faso; and Islamic State West Africa (ISWA) and Boko Haram who operate in the Lake Chad Basin. Criminal groups also carry out kidnaps.</p>\n\n<p>Westerners have been kidnapped in Niger and the wider Sahel region, including in Niamey and the north and west of Niger. In October 2020 an American was kidnapped (and rescued shortly after) in Massalata near the border with Nigeria. In September 2018, a Catholic priest was kidnapped in Makolondi, 125km south-west of Niamey. An aid worker was kidnapped in the Tillab\u00e9ri region of Niger in April 2018.</p>\n\n<p>If you\u2019re working or travelling in Niger, you should be aware of the risk of terrorist kidnapping. You should maintain a high level of vigilance at all times, including when travelling. You should be particularly vigilant when walking (in Niamey, you should not cross the bridges over the River Niger on foot at any time), in crowded public places, including camps for displaced people, religious gatherings and insecure spaces like places of worship, markets, shopping malls, hotels, bars, night clubs, restaurants, nature reserves and national parks, and transport hubs. You should make sure you have carefully considered the threat and have reasonable, proportionate mitigation measures in place.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>There has been a military takeover in Niger, which has led to protests and unrest.</p>\n\n<p>These protests may be violent and the security situation could change quickly without warning.</p>\n\n<p>On 26 July, the Conseil\u00a0National\u00a0pour la Sauvegarde de la Patrie (CNSP) launched a military coup which has led to protests and unrest.</p>\n\n<p>The President of Niger, His Excellency Mohamed Bazoum of the PNDS political party, has been detained since 26 July.</p>\n\n<p>Protests, marches and demonstrations can occur with little prior notice and can be violent. If you become aware of any protests, marches or demonstrations, you should move away from the area immediately, as the atmosphere can change quickly and without warning.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Levels of crime, especially in the capital Niamey, are high. Thefts, robberies and residential break-ins can occur at any time. Take sensible precautions to keep important items like money, passports, jewellery and mobile phones safe.</p>\n\n<p>The areas around the Gaweye Hotel, National Museum and Petit March\u00e9 in Niamey are particularly prone to muggings. Avoid walking alone there, and do not cross the bridges over the River Niger on foot at any time. Be vigilant when walking anywhere in the city. Walking at night is more dangerous as there\u2019s a lack of street lighting.</p>\n\n<p>There have been attacks on people, including westerners, as they are leaving banks and ATMs. Be careful when using ATMs on the street, never do this at night-time, and if possible use the ATMs available in most large hotels.\u00a0</p>\n\n<p>Car thieves often target 4-wheel-drive vehicles. Make sure car doors are locked at all times.</p>\n\n<p>Banditry, smuggling and other criminal activity is common in border areas (particularly Maradi, Tillab\u00e9ri and Diffa). You should take special care and avoid crossing borders after dark.</p>\n\n<p>There have also been hold-ups and robberies on public buses between Tahoua and Agadez and between Agadez and Arlit. In some cases people have been killed.</p>\n\n<h3 id=\"scams\">Scams</h3>\n\n<p>British nationals are increasingly being targeted by internet and other scams. The scams come in many forms \u2013 romance and friendship, business ventures, or work and employment opportunities. Victims are at great financial risk.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<p>Niger is a Muslim country. Respect local traditions, customs, laws and religions at all times. Be aware of your actions and dress in case they offend, especially during the month of Ramadan or if you visit religious areas.</p>\n\n<p>If you commit a crime you will be subject to local law. Local prison conditions are harsh.</p>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>You should carry identification at all times. This would normally be your passport or residence permit. If you drive outside the main towns, authorities are very likely to ask you to produce identification.</p>\n\n<h3 id=\"ramadan\">Ramadan</h3>\n\n<p>Ramadan is a holy month for Muslims. The dates vary by year and country. In 2024 Ramadan in Niger is expected to be from 11 March to 9 April. During this time, do not:</p>\n\n<ul>\n  <li>eat, drink, smoke or chew gum in public in the daytime</li>\n  <li>play loud music or dance</li>\n  <li>swear in public</li>\n</ul>\n\n<p>Get more advice when you arrive from your tour guide, hotel or business contacts.\u00a0\u00a0\u00a0\u00a0</p>\n\n<h3 id=\"using-cameras-in-secure-areas\">Using cameras in secure areas</h3>\n\n<p>Do not photograph military or government installations.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>There is no law criminalising same-sex sexual activity in Niger. However, there are laws under the Penal Code of 1993 covering \u2018public outrage against modesty\u2019 and \u2018immodest or unnatural acts\u2019. An \u2018unnatural act\u2019 with a person of the same sex who is under the age of 21 can be punishable by a fine of up to 100,000 francs and up to 3 years imprisonment. Although we are not aware of any prosecutions under this legislation, attitudes within society towards LGBT+ people can be discriminatory.</p>\n\n<p>There are no laws prohibiting discrimination on the basis of sexual orientation, and no legal recognition of same-sex couples.</p>\n\n<p>Read more <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> continues to advise against all travel to Niger.\u00a0Travel within or out of Niger is\u00a0at your own risk. The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0cannot offer advice on the safety of travelling to any departure point within Niger.</p>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Niger, see <a href=\"https://www.gov.uk/driving-abroad\">information on driving abroad</a>.</p>\n\n<p>You can drive in Niger using a\u00a0<a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">1968 International Driving Permit (<abbr title=\"International Driving Permit\">IDP</abbr>)</a>\u00a0for up to 3 months. If you\u2019re staying longer than 3 months, you will need to get a Nigerien licence.</p>\n\n<p>You cannot buy an <abbr title=\"International Driving Permit\">IDP</abbr> outside the UK, so get one before you travel. You can buy an <abbr title=\"International Driving Permit\">IDP</abbr> in person from some UK post offices \u2013 <a rel=\"external\" href=\"https://www.postoffice.co.uk/identity/international-driving-permit#bf-full-width\">find your nearest post office branch</a> that offers this service.</p>\n\n<p>Carry your UK driving licence and car registration documents with you at all times.</p>\n\n<h3 id=\"road-safety\">Road safety</h3>\n\n<p>The main roads between Niamey and other large towns are generally satisfactory by African standards, but some roads are pot-holed, conditions are often worse during and just after rainy season. Driving standards are poor. Vehicles often drive without lights at night and there is little street lighting.</p>\n\n<p>Travel around Niger can be difficult, and conditions are poor for overland travel. Avoid travelling between towns at night.</p>\n\n<p>Aim to use local travel agents and guides when travelling outside main towns and in desert areas. An approved local travel agent can arrange all the necessary permits for your journey and give details of your itinerary to the local authorities. Travel in convoy and carry an independent satellite phone. Make sure you have a supply of drinking water and food.</p>\n\n<p>There have been reports of landmines being used in Burkina Faso on the road between Ouagadougou and Niamey. Seek local advice before making this journey.</p>\n\n<p>In the case of an accident, you should go immediately to the nearest police station to file a report. Crowds can gather quickly and you may be vulnerable if you remain at the scene. Medical help in the event of an accident is likely to be limited.</p>\n\n<h3 id=\"public-transport\">Public transport</h3>\n\n<p>Avoid using buses or taxis where possible.</p>\n\n<p>Buses operate on routes between Niamey and other large towns, but distances are long and buses are prone to mechanical failure. There have also been hold-ups and robberies on public buses. See \u2018Crime\u2019.</p>\n\n<p>Taxis are available, but are often in poor mechanical condition. Driving standards are poor.</p>\n\n<h3 id=\"air-travel\">Air travel</h3>\n\n<p>Air space has now re-opened, although flight options may be more limited and could change at short notice. Check with your travel company or airline for the latest information.\u00a0</p>\n\n<p>Flights within Niger remain limited.</p>\n\n<h2 id=\"extreme-weatherand-natural-disasters\">Extreme weather\u00a0and natural disasters</h2>\n\n<p>Find out what you can do to prepare for and respond to <a href=\"https://www.gov.uk/guidance/tropical-cyclones\">extreme weather and natural hazards</a>.\u00a0</p>\n\n<h3 id=\"floods-and-landslides\">Floods and landslides</h3>\n\n<p>The rainy season in Niger is from June to October. Torrential rains can cause floods and landslides. Monitor local weather reports and expect difficulties when travelling to affected areas.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>This section has safety advice for regions of Niger. It only covers regions where <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has specific advice.</p>\n\n<p>You should also read <a href=\"/foreign-travel-advice/niger\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a> and <a href=\"/foreign-travel-advice/niger/safety-and-security\">safety and security advice</a>.</p>\n\n<h2 id=\"northern-and-eastern-niger\">Northern and eastern Niger</h2>\n\n<p>Local authorities are extremely sensitive about foreigners travelling out of Tahoua to other parts of Niger in the east and the north.</p>\n\n<p>These roads in northern Niger are permanently closed to tourists, except with special authorisation:</p>\n\n<ul>\n  <li>Chirfa (Djado) / Djanet (Algeria)</li>\n  <li>Achouloma (north Djado) / Salvador Pass (Libya)</li>\n  <li>Adrar Bous (north A\u00efr) / Djanet (Algeria)</li>\n  <li>Adrar Bous (north A\u00efr) / In Azawa (Algeria)</li>\n  <li>Agadez / Arlit / Iferouane</li>\n  <li>Agadez / Tahoua</li>\n</ul>\n\n<p>The MNJ armed group has launched attacks in the north including the use of landmines, and Islamist terrorist groups have previously launched attacks in Agadez, Arlit and against a prison in Niamey. Attacks against tourists are known to take place at El Meki between Agadez and Timia. The A\u00efr and T\u00e9n\u00e9r\u00e9 regions are particularly prone to attacks.</p>\n\n<p>An official curfew has been implemented by the authorities in the whole of the Diffa region since 2014. Since 2019 this has prohibited the movement of motorised vehicles from 8pm to 6am. There is also a general curfew from 10pm to 6am.</p>\n\n<h2 id=\"western-niger\">Western Niger</h2>\n\n<p>A state of emergency has been in place in the urban municipality of Tillab\u00e9ri since 2019. The movement of motorbikes and cars is banned from 7pm to 6am, and the movement of pedestrians is banned from 10pm to 6am. Public meetings are banned, unless expressly permitted by the authorities. Defence and security forces are authorised to carry out searches, and to check IDs, both day and night.</p>\n\n<p>Following an attack in 2020 which killed 6 French nationals and 2 Nigeriens in Kour\u00e9, Tillab\u00e9ri, a state of emergency is in place for the whole of Tillab\u00e9ri apart from Niamey.</p>\n\n<p>A state of emergency has also been in place in Ouallam, Ayorou, Bankilare, Abala and Banibongou (Tillab\u00e9ri region) and Tassara and Tillia (Tahoua region) since 2017.</p>\n\n<h2 id=\"southern-niger\">Southern Niger</h2>\n\n<p>A state of emergency is in place in the states of Borno and Yobe in Nigeria, which border Niger. The border areas of the Maradi region are increasingly prone to banditry. Kidnap for ransom and robberies are commonplace.</p>\n\n<p>In 2020 an American was kidnapped (and later rescued in a US military operation in Nigeria) in Massalata near the border with Nigeria.</p>\n\n",
+                    "slug": "regional-risks",
+                    "title": "Regional risks"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Call 15 and ask for an ambulance.</p>\n\n<p>Public emergency services can be slow to respond. Some private medical clinics also have ambulance services.</p>\n\n<p>Contact your insurance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/164/niger\">vaccination recommendations and health risks in TravelHealthPro\u2019s Niger guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-niger\">Healthcare facilities in Niger</h2>\n\n<p>Medical facilities are poor, even in Niamey. Serious medical treatment would require evacuation to Europe. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>Private hospitals and clinics include:</p>\n\n<ul>\n  <li>Polyclinic Magori (+227 2074 1291, or +227 2074 3347 in an emergency)</li>\n  <li>Clinique Gamkalley (+227 9696 4886, or +227 2073 4639 in an emergency)</li>\n</ul>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-niger\">Emergency services in Niger</h2>\n\n<p>Ambulance: 15</p>\n\n<p>Fire: 18</p>\n\n<p>Police: 17\u00a0\u00a0</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Niger\">lawyers</a>\n</li>\n  <li>dealing with a\u00a0<a href=\"https://www.gov.uk/after-a-death/death-abroad\">death abroad</a>\n</li>\n  <li>getting help if you\u2019re a\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re\u00a0<a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/niger/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Niger&amp;post=Niger%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you\u2019re in Niger and you need emergency help from the UK government, contact the <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Nigeria&amp;post=British%20Deputy%20High%20Commission%20Lagos\">British Consulate in Lagos</a> who provide consular assistance for Niger.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-11-02T14:50:41Z",
+            "updated_at": "2023-11-02T14:50:41Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-20T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/niger",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/niger",
+                    "base_path": "/foreign-travel-advice/niger",
+                    "content_id": "06c5b994-2e2e-41d8-bf14-75885e3887fb",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T14:50:41Z",
+                    "schema_name": "travel_advice",
+                    "title": "Niger travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/niger",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/niger",
+                    "api_url": "https://www.gov.uk/api/content/world/niger",
+                    "base_path": "/world/niger",
+                    "content_id": "4594d043-fc97-4646-8639-401d0049f226",
+                    "description": "Services if you're visiting, studying, working or living in Niger. Includes information about trading with and doing business in the UK and Niger.",
+                    "details": {
+                        "internal_name": "UK help and services in Niger",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:10Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Niger",
+                    "web_url": "https://www.gov.uk/world/niger",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/nigeria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/nigeria",
+                    "base_path": "/foreign-travel-advice/nigeria",
+                    "content_id": "7ba86fb6-c102-4d5f-bdcd-39f7702ae0cc",
+                    "details": {
+                        "change_description": "Removal of Information on the security alert issued by the US Embassy in Nigeria on the increased threat to major hotels in Nigeria\u2019s larger cities; and on off-cycle state elections ('Summary' page).",
+                        "country": {
+                            "name": "Nigeria",
+                            "slug": "nigeria",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-15T11:15:25Z",
+                    "schema_name": "travel_advice",
+                    "title": "Nigeria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/nigeria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/mali",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/mali",
+                    "base_path": "/foreign-travel-advice/mali",
+                    "content_id": "19793ecb-fdaf-4b00-a3b8-bab6805c5205",
+                    "details": {
+                        "change_description": "FCDO advise against all but essential travel to 25 km around the capital of Bamako. FCDO also advises against all travel to the rest of Mali (\u2018Summary\u2019 page).",
+                        "country": {
+                            "name": "Mali",
+                            "slug": "mali",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-05T11:36:10Z",
+                    "schema_name": "travel_advice",
+                    "title": "Mali travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/mali",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sudan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sudan",
+                    "base_path": "/foreign-travel-advice/sudan",
+                    "content_id": "deee5c29-5006-4280-bb46-44c0bd7a6a11",
+                    "details": {
+                        "change_description": "Information on the risk of protests in Sudan due to the current conflict in Israel and the Occupied Palestinian Territories (\u2018safety and security\u2019 page).",
+                        "country": {
+                            "name": "Sudan",
+                            "slug": "sudan",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-27T14:33:59Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sudan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sudan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/chad",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/chad",
+                    "base_path": "/foreign-travel-advice/chad",
+                    "content_id": "5b3924c1-2907-4549-9fea-499ca43e66b4",
+                    "details": {
+                        "change_description": "Removal of COVID-19 entry requirements ('Entry requirements' page).",
+                        "country": {
+                            "name": "Chad",
+                            "slug": "chad",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-08T09:19:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "Chad travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/chad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/somalia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/somalia",
+                    "base_path": "/foreign-travel-advice/somalia",
+                    "content_id": "992befc4-32a3-4a1a-a034-c9cb2ff42bad",
+                    "details": {
+                        "change_description": "Information on localised political disputes in Somaliland ('Safety and security' page).",
+                        "country": {
+                            "name": "Somalia",
+                            "slug": "somalia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-21T10:52:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Somalia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/somalia",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-02T14:50:41Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698936641.198-10.13.21.84-33009",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Niger travel advice",
+        "updated_at": "2023-11-15T11:15:27Z",
+        "withdrawn_notice": {}
+    }
+}

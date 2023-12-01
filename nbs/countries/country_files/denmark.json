@@ -1,0 +1,1266 @@
+{
+    "Country Slug": "denmark",
+    "Country Name": "Denmark",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/denmark",
+        "content_id": "8d0d439c-dcf3-4239-8049-4a7c465baad6",
+        "description": "FCDO travel advice for Denmark. Includes safety and security, insurance, entry requirements and legal differences.  ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU;  Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:18:24.332Z"
+                },
+                {
+                    "note": "Latest update: Summary \u2013 there may be increased security in place over the Christmas and New Year period, including at Christmas markets and other major events that might attract large crowds; you should remain vigilant and follow the advice of local authorities",
+                    "public_timestamp": "2018-12-03T11:28:20.581Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information and advice on suspension of train services and disruption to road travel on the Great Belt Bridge between the islands of Funen and Zealand, following a commuter train crash on the bridge on 2 January",
+                    "public_timestamp": "2019-01-02T17:33:47.907Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information following a commuter train crash on the Great Belt Bridge on 2 January; all trains between the islands of Funen and Zealand have now returned to service",
+                    "public_timestamp": "2019-01-03T14:56:02.536Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about possible increased security over the Christmas and New Year period",
+                    "public_timestamp": "2019-01-04T14:49:57.041Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about earlier travel disruption following a commuter train crash on 2 January",
+                    "public_timestamp": "2019-01-08T15:15:02.307Z"
+                },
+                {
+                    "note": "Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T17:27:48.079Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:26:03.716Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T17:36:32.762Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T11:27:39.685Z"
+                },
+                {
+                    "note": "Latest update: Summary - A demonstration is due to take place around Chistianborg Slotsplads in Copenhagen from 12.30pm on Friday 22 March; a counter-demonstration is due to take place at the same time; there could also be some disruption to traffic; you should avoid these demonstrations and follow the advice of local authorities",
+                    "public_timestamp": "2019-03-22T10:30:59.806Z"
+                },
+                {
+                    "note": "Summary: Removal of advice regarding the demonstration around Chistianborg Slotsplads in Copenhagen on 22 March",
+                    "public_timestamp": "2019-03-22T22:28:09.770Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Denmark",
+                    "public_timestamp": "2019-03-25T18:19:33.122Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section and summary - updated information and advice about the threat from terrorism reflecting a decreased threat",
+                    "public_timestamp": "2019-04-25T09:07:09.339Z"
+                },
+                {
+                    "note": "Safety and security section (Local travel) - electric scooters are available as a means of transport in and around Copenhagen and other locations in Denmark; electric scooters are subject to road traffic rules; hiring and using these scooters under the influence of alcohol could result in a drink driver offence and a fine",
+                    "public_timestamp": "2019-07-03T16:04:25.000Z"
+                },
+                {
+                    "note": "Summary \u2013 addition of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2019-11-12T17:34:06.000Z"
+                },
+                {
+                    "note": "Summary \u2013 removal of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2020-01-06T13:14:06.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full; Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal; Entry requirements section (Border controls) - revised information about border checks",
+                    "public_timestamp": "2020-01-21T17:07:36.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) (\u2018Summary\u2019and \u2018Health\u2019pages)",
+                    "public_timestamp": "2020-02-27T18:43:30.000Z"
+                },
+                {
+                    "note": "Update to information about coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-05T16:21:24.000Z"
+                },
+                {
+                    "note": "Updated local coronavirus hotline number ('Health' page) ",
+                    "public_timestamp": "2020-03-11T10:50:23.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-12T15:32:42.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-13T15:53:51.000Z"
+                },
+                {
+                    "note": "Update to information about coronavirus ('Summary', 'Entry requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-13T23:56:05.000Z"
+                },
+                {
+                    "note": "Information about coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-14T10:59:46.000Z"
+                },
+                {
+                    "note": "Update to information about coronavirus (COVID-19) ('Health', \u2018Entry Requirements\u2019 and 'Summary' pages)",
+                    "public_timestamp": "2020-03-19T23:13:43.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions related to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T12:14:17.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions related to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-31T22:15:26.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions related to coronavirus (COVID-19) ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-05T13:18:50.000Z"
+                },
+                {
+                    "note": "Updated information on local measures and travel restrictions introduced to combat the spread of coronavirus (COVID-19) ('Summary', 'Coronavirus', 'Return to the UK' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-04-07T15:33:46.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions related to coronavirus. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-08T18:15:14.000Z"
+                },
+                {
+                    "note": "Update of information on local medical care ('Coronavirus' page) and addition to travel information ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-21T16:08:30.000Z"
+                },
+                {
+                    "note": "Additional information on face covering on \u2018Summary\u2019 page and \u2018Local laws and customs\u2019 page.",
+                    "public_timestamp": "2020-04-23T13:05:36.000Z"
+                },
+                {
+                    "note": "Further information on travel restrictions ('Return to the UK' and 'Entry Requirements')",
+                    "public_timestamp": "2020-05-08T12:00:58.000Z"
+                },
+                {
+                    "note": "Addition of information on the wearing of face masks on flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-15T16:06:32.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of restrictions ('Staying during coronavirus' page) and addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-22T13:49:19.000Z"
+                },
+                {
+                    "note": "Update of information on flight availability to and from Greenland and the Faroe Islands ('Return to the UK' page) and on the opening and closure of facilities and shops ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-28T16:21:44.000Z"
+                },
+                {
+                    "note": "Addition of information on significantly reduced airline services between Denmark and the UK and the controlled re-opening of Denmark ('Return to the UK' and 'Staying during coronavirus' pages).  Update to entry requirements for foreign nationals ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-04T10:48:54.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:59:36.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures including the opening of facilities and the number of people allowed to gather ('Staying during coronavirus' page) ",
+                    "public_timestamp": "2020-06-08T14:58:15.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures including flights to Greenland and Faroes Islands and face masks (\u2018Return to UK\u2019 and 'Entry Requirement' pages)",
+                    "public_timestamp": "2020-06-15T11:45:51.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures including flights to Greenland and Faroes Islands and face masks ('Summary', 'Return to the UK\u2019 and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-06-26T16:24:12.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-02T16:01:52.000Z"
+                },
+                {
+                    "note": "From 4 July, Denmark is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:30:34.000Z"
+                },
+                {
+                    "note": "Update to information on public spaces and services ('Coronavirus' page) and entry restrictions for travellers from the UK ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-08T17:04:58.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 testing in the Faroe Islands ('Entry requirements' page)",
+                    "public_timestamp": "2020-07-14T11:57:32.000Z"
+                },
+                {
+                    "note": "COVID-19 testing on arrival in the Faroe Islands is free of charge up to and including 14 August ('Entry requirements' section).",
+                    "public_timestamp": "2020-07-29T11:23:16.000Z"
+                },
+                {
+                    "note": "Updated information about the use of facemasks on public transport ('Coronavirus' page) and updated information about using public transport ('Safety and security' page)",
+                    "public_timestamp": "2020-08-06T14:44:36.000Z"
+                },
+                {
+                    "note": "Updated information on the use of facemasks on public transport ('Coronavirus' and 'Safety and Security' pages) and on guidelines for the Faroe Islands ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-12T10:56:49.000Z"
+                },
+                {
+                    "note": "Update to information on the use of face masks on public transport ('Summary', Coronavirus and 'Safety and security' pages)",
+                    "public_timestamp": "2020-08-13T15:48:46.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus testing in the Faroe Islands ('Entry Requirements' page)",
+                    "public_timestamp": "2020-08-14T14:38:35.000Z"
+                },
+                {
+                    "note": "Addition of information on the need to wear a face mask on public transport, including taxis and ferries, from 22 August ('Coronavirus' page).",
+                    "public_timestamp": "2020-08-18T10:10:35.000Z"
+                },
+                {
+                    "note": "Updated information on newly announced charge for COVID testing in the Faroe Islands\r\n(Entry requirements page)",
+                    "public_timestamp": "2020-09-02T15:14:12.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T13:31:48.000Z"
+                },
+                {
+                    "note": "Addition of new local measures to contain the further spread of coronavirus (COVID-19) (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-09-09T10:13:07.000Z"
+                },
+                {
+                    "note": "Additional information on local restrictions to contain the further spread of COVID-19 (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-09-16T11:31:41.000Z"
+                },
+                {
+                    "note": "Restrictions extended nationally to contain the further spread of COVID-19 (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-09-18T17:12:11.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all non-essential travel to Denmark, based on the current assessment of COVID-19 risks in the country.",
+                    "public_timestamp": "2020-09-24T16:08:46.000Z"
+                },
+                {
+                    "note": "From midnight 26 September, travellers from the UK will only be allowed into Denmark if they can provide a \u2018worthy\u2019 purpose to enter.  Travellers from the Faroe islands and Greenland who transit Demark will need to self-isolate on return to the UK ('Summary' and  'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-24T22:00:11.000Z"
+                },
+                {
+                    "note": "From midnight 26 September, travellers from the UK will only be allowed into Denmark if they can provide a \u2018worthy\u2019 purpose to enter. Travellers from the Faroe islands and Greenland who transit Denmark will need to self-isolate on return to the UK ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-24T22:05:30.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Denmark in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-02T15:19:31.000Z"
+                },
+                {
+                    "note": "Update to information on guidelines for entering the Faroe Islands ('Entry requirements' page).  New information on the extension of national restrictions until 31 October ('coronavirus' page).",
+                    "public_timestamp": "2020-10-08T14:22:37.000Z"
+                },
+                {
+                    "note": "Denmark is now exempt from FCDO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-10-22T16:24:00.000Z"
+                },
+                {
+                    "note": "The requirement to self-isolate on return to the UK from Denmark will be lifted for those arriving on or after 4am on 25 October. ('Summary' page)",
+                    "public_timestamp": "2020-10-23T08:27:17.000Z"
+                },
+                {
+                    "note": "You must present proof of a negative COVID-19 test, taken no more than 72 hours before entry, if travelling to Denmark from the UK ('Summary' and 'Entry requirements' pages).  Updated information on public spaces and services ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-26T12:54:22.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to Denmark. This is based on the current assessment of COVID-19 risks. (\u2018Summary\u2019 page) Update to information for travel in Denmark in relation to the discovery of coronavirus in mink. ('Coronavirus' page) Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2020-11-06T12:43:03.000Z"
+                },
+                {
+                    "note": "Information on rules for anyone arriving in the UK from Denmark",
+                    "public_timestamp": "2020-11-07T03:08:01.000Z"
+                },
+                {
+                    "note": "Updated information on rules for anyone arriving in the UK from Denmark ('Summary')",
+                    "public_timestamp": "2020-11-08T13:11:45.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period ('Summary' page).",
+                    "public_timestamp": "2020-11-19T16:53:33.000Z"
+                },
+                {
+                    "note": "Updated information on national restrictions in Denmark (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-11-25T09:31:35.000Z"
+                },
+                {
+                    "note": "Updated information on arriving in the UK from Denmark  (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-11-28T04:00:07.000Z"
+                },
+                {
+                    "note": "Additional information on healthcare in Denmark ('Health' page)",
+                    "public_timestamp": "2020-12-08T11:00:09.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions (\u2018Summary\u2019 and \u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2020-12-09T15:52:52.000Z"
+                },
+                {
+                    "note": "Updated information on the increase of local measures across 38 municipalities, due to COVID-19 ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-11T15:36:38.000Z"
+                },
+                {
+                    "note": "Updated information on the self-isolation requirement for travel to the Faroe Islands ('Entry requirements' page) and national measures in Denmark in response to COVID-19 (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2020-12-16T12:20:11.000Z"
+                },
+                {
+                    "note": "Information on restrictions on travel to and from the UK.",
+                    "public_timestamp": "2020-12-20T21:55:52.000Z"
+                },
+                {
+                    "note": "The Danish Government has banned all air passenger flights between the UK and Denmark from 0900 (UK time) on Monday 21 December to 0900 (UK time) on Wednesday 23 December. ('Summary' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-12-21T07:11:12.000Z"
+                },
+                {
+                    "note": "The Danish Government has banned all air passenger flights from the UK to Denmark from 0900 (UK time) on Monday 21 December to 0900 (UK time) on Wednesday 23 December. ('Summary' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-12-21T12:19:22.000Z"
+                },
+                {
+                    "note": "Update to information on flight suspension and entry restrictions for travellers from the UK ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-23T11:14:54.000Z"
+                },
+                {
+                    "note": "Update to information on entry restrictions from 25 December ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-12-24T23:04:50.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page)",
+                    "public_timestamp": "2020-12-29T17:55:54.000Z"
+                },
+                {
+                    "note": "Updated information on national restrictions in public spaces; restrictions have been extended till 17 January ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-30T11:23:06.000Z"
+                },
+                {
+                    "note": "Updated information on national restrictions; restrictions have been extended until 17 January ('Summary', 'Safety & Security' 'Entry Requirements' and 'Coronavirus' pages)\r\nThis travel advice also covers the Faroe Islands and Greenland\r\n",
+                    "public_timestamp": "2021-01-03T21:57:47.000Z"
+                },
+                {
+                    "note": "Updated information on national restrictions; restrictions have been extended until 17 January ('Entry Requirements' page)",
+                    "public_timestamp": "2021-01-03T22:25:25.000Z"
+                },
+                {
+                    "note": "Updated information on national restrictions; (\u2019Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-01-06T12:56:04.000Z"
+                },
+                {
+                    "note": "New information on entry to Denmark for UK residents; you can only enter if you have a special worthy purpose and must present proof of a negative COVID-19 test taken no more than 24 hours before entry ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-11T17:15:47.000Z"
+                },
+                {
+                    "note": "Update to information on special worthy purposes for entry to Denmark for UK residents ('Entry requirements' page)",
+                    "public_timestamp": "2021-01-12T17:01:06.000Z"
+                },
+                {
+                    "note": "Updated information on extension of domestic restrictions (\u2018Coronavirus\u2019 page) and entry requirements for UK residents (\u2018Summary\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-15T10:26:28.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from the Faroe Islands or Greenland on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T00:55:40.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-20T16:06:18.000Z"
+                },
+                {
+                    "note": "Update to information on travel to the Faroe Islands ('Entry requirements' page).",
+                    "public_timestamp": "2021-01-28T09:34:53.000Z"
+                },
+                {
+                    "note": "Update to information on the extension of domestic Covid-19 measures and entry rules in response to COVID-19 (\u2018Coronavirus\u2019 and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-01-29T09:22:41.000Z"
+                },
+                {
+                    "note": "Update to information on mandatory testing and self-isolation on arrival to Denmark and expansion of special worthy purposes (\u2018Summary\u2019 and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-02-08T15:51:56.000Z"
+                },
+                {
+                    "note": " New information on how to get a COVID-19 vaccine if you live in Denmark (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-09T14:21:42.000Z"
+                },
+                {
+                    "note": "Updated information on prescriptions in Denmark (\u2018Health\u2019 page)",
+                    "public_timestamp": "2021-02-12T15:27:40.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for Greenland (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-02-16T13:02:53.000Z"
+                },
+                {
+                    "note": "Change to entry restrictions ('Summary' and 'Entry requirements' pages) and updated local restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-28T20:02:51.000Z"
+                },
+                {
+                    "note": "Updated links to Danish Authorities\u2019 COVID websites ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-01T16:00:01.000Z"
+                },
+                {
+                    "note": "Update to information on local restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-22T15:42:34.000Z"
+                },
+                {
+                    "note": "Update to information on local restrictions ('Coronavirus' page) and update to information on Travel to Greenland (\u2018Entry requirements\u2019).",
+                    "public_timestamp": "2021-04-07T08:30:56.000Z"
+                },
+                {
+                    "note": "Update to information on local restrictions ('Coronavirus' page) and entry requirements (\u2018Entry requirements\u2019).",
+                    "public_timestamp": "2021-04-22T11:02:34.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Denmark, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-04-30T13:44:15.000Z"
+                },
+                {
+                    "note": "Updated information on requirement to present proof of a negative COVID-19 test no more than 48 hours before entry, plus updated information on meeting in public spaces and travelling to Greenland from Denmark. (See 'Summary' Coronavirus' and Entry requirements' pages)",
+                    "public_timestamp": "2021-05-05T17:55:53.000Z"
+                },
+                {
+                    "note": "Updated information on exemptions to mandatory isolation and testing (\u2018Entry requirements' page)",
+                    "public_timestamp": "2021-05-18T08:41:35.000Z"
+                },
+                {
+                    "note": "Updated information on local restrictions in Denmark for public places and services (\u2018Coronavirus' page)",
+                    "public_timestamp": "2021-05-21T12:39:05.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-03T10:59:58.000Z"
+                },
+                {
+                    "note": "Changes to rules for fully vaccinated travellers plus stricter rules for regions in UK ('Entry requirements' page). Easing of restrictions in public spaces (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-06-10T16:09:14.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for entry to Denmark ('Entry requirements' page). ",
+                    "public_timestamp": "2021-06-29T13:52:48.000Z"
+                },
+                {
+                    "note": "Updated information on increased restrictions for parts of UK ('Entry requirements' page).",
+                    "public_timestamp": "2021-07-03T13:58:38.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for entry to Denmark ('Entry requirements' page). ",
+                    "public_timestamp": "2021-07-06T08:59:51.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for entry to Denmark ('Entry requirements' page).",
+                    "public_timestamp": "2021-07-07T12:21:52.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for entry to Denmark; the UK (with the exception of Wales) will be rated red from 4pm on 17 July.  ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-16T15:42:46.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for entry to Denmark from the UK ('Entry requirements' page). New information on what to do if you test positive for COVID-19 in Denmark and how to get a COVID-19 vaccine if you live in Denmark (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-19T16:51:15.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for entry to Denmark from the UK and entry requirements for Greenland ('Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-07-20T16:16:46.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Denmark (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T09:20:43.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:21:04.000Z"
+                },
+                {
+                    "note": "Updated requirements for testing and self-isolation on entry to Denmark ('Entry requirements' page)",
+                    "public_timestamp": "2021-08-13T16:36:20.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for Greenland ('Entry requirements' page) and removal of information on using your EHIC card in Greenland ('Health' page)",
+                    "public_timestamp": "2021-08-19T13:53:40.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 30 August Denmark will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-26T18:44:27.000Z"
+                },
+                {
+                    "note": "Denmark has moved to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-31T13:29:18.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T11:57:00.000Z"
+                },
+                {
+                    "note": "Denmark has removed all coronavirus rules and regulations ('Coronavirus\u2019 page) and updated entry requirements for travel to the Faroe Islands and Greenland ('Entry requirements' page)",
+                    "public_timestamp": "2021-09-10T09:38:50.000Z"
+                },
+                {
+                    "note": " Updated entry requirements for travel to the Faroe Islands ('Entry requirements' page)",
+                    "public_timestamp": "2021-09-22T11:24:09.000Z"
+                },
+                {
+                    "note": "Updated entry requirements for travel to Denmark ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-29T10:41:55.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)\r\n",
+                    "public_timestamp": "2021-11-02T16:57:20.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-11T12:05:14.000Z"
+                },
+                {
+                    "note": "Corona passport introduced (\u2019Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-11-11T17:30:45.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-11-26T11:18:29.000Z"
+                },
+                {
+                    "note": "Corona passport rules extended and face masks introduced (\u2019Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-11-28T23:00:41.000Z"
+                },
+                {
+                    "note": "Additional information on wearing facemasks in Denmark ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-06T09:54:20.000Z"
+                },
+                {
+                    "note": "addition of information on further restrictions ('coronavirus' page)",
+                    "public_timestamp": "2021-12-10T16:36:50.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:04:33.000Z"
+                },
+                {
+                    "note": "Updated  information on COVID restrictions in country (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-12-17T17:53:47.000Z"
+                },
+                {
+                    "note": "Updated COVID restrictions in country (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-12-19T07:08:27.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Denmark (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-21T13:11:56.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 testing requirements for entry to Denmark (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2021-12-23T15:44:01.000Z"
+                },
+                {
+                    "note": "Updated information on entry and testing requirements for entry to Denmark and you need a Corona passport to enter swimming pools and gyms ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-30T13:27:50.000Z"
+                },
+                {
+                    "note": "Updated information on entry and testing requirements for travel to the Faroe Islands and Greenland ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-05T14:24:34.000Z"
+                },
+                {
+                    "note": "Easing of restrictions for entertainment and cultural venues (Coronavirus' page)",
+                    "public_timestamp": "2022-01-17T09:36:28.000Z"
+                },
+                {
+                    "note": "Removal of all local coronavirus rules and restrictions (Coronavirus' page); Update on entry rules for testing and self-isolation (\u2018Entry Requirements\u2019 page)",
+                    "public_timestamp": "2022-02-02T14:47:57.000Z"
+                },
+                {
+                    "note": "Updated link to information on visa requirements (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-02-24T15:12:46.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions for Denmark ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-03-18T09:39:24.000Z"
+                },
+                {
+                    "note": "Removal of all COVID-19 entry restrictions for Denmark ('Entry requirements' pages)",
+                    "public_timestamp": "2022-03-29T14:55:34.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:19:55.000Z"
+                },
+                {
+                    "note": "Update on COVID-19 entry requirements for Greenland ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-23T10:23:45.000Z"
+                },
+                {
+                    "note": "Updated information on the removal of COVID-19 entry requirements for Greenland and the Faroe Islands ('Entry requirements' page)",
+                    "public_timestamp": "2022-07-01T13:58:10.000Z"
+                },
+                {
+                    "note": "There has been a shooting incident at Field\u2019s Shopping Centre in Amager, Copenhagen.  If you\u2019re in the immediate area you should take care and follow the advice of the local authorities  (Summary)",
+                    "public_timestamp": "2022-07-03T19:02:27.000Z"
+                },
+                {
+                    "note": "On 3 July there was a shooting incident at Field\u2019s Shopping Centre in Amager, Copenhagen. There may an increased police presence in Copenhagen. You should follow the advice of the local authorities. ('Summary')",
+                    "public_timestamp": "2022-07-04T12:48:39.000Z"
+                },
+                {
+                    "note": "Removal of information on the shooting incident at Field\u2019s Shopping Centre on 3 July ",
+                    "public_timestamp": "2022-07-12T13:43:16.000Z"
+                },
+                {
+                    "note": "Updated information on terrorism in Denmark (' Summary' and  'Terrorism' pages).",
+                    "public_timestamp": "2023-02-10T18:41:01.000Z"
+                },
+                {
+                    "note": "Updated information on local travel ('Safety and security' page).",
+                    "public_timestamp": "2023-02-23T10:03:52.000Z"
+                },
+                {
+                    "note": "New information on expected nationwide demonstration by Danish truck drivers on 15 May (\u2018Summary\u2019 page).",
+                    "public_timestamp": "2023-05-12T14:49:56.000Z"
+                },
+                {
+                    "note": "Information on travel disruption over the summer ('Summary' page).",
+                    "public_timestamp": "2023-06-14T15:01:10.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:12:39.000Z"
+                },
+                {
+                    "note": "Update on the risk of terrorism in Denmark (\u2018Terrorism\u2019 page)",
+                    "public_timestamp": "2023-08-18T12:27:51.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-08-24T09:39:42.000Z"
+                }
+            ],
+            "country": {
+                "name": "Denmark",
+                "slug": "denmark",
+                "synonyms": [
+                    "arctic",
+                    "Faroe Islands",
+                    "Faroes",
+                    "Copenhagen",
+                    "Greenland"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/denmark/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Information\" class=\"application-notice info-notice\">\n<p>This travel advice page also covers the Faroe Islands and Greenland.</p>\n</div>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/denmark/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Denmark set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact <a rel=\"external\" href=\"https://storbritannien.um.dk/en\">Denmark\u2019s embassy in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for passengers entering Denmark, Greenland or the Faroe Islands.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To travel to Denmark, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a>.</p>\n\n<p>To enter Denmark (and all Schengen countries) your passport must:</p>\n\n<ul>\n  <li>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports issued after 1 October 2018 are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</li>\n  <li>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</li>\n</ul>\n\n<p>Contact <a rel=\"external\" href=\"https://storbritannien.um.dk/en\">Denmark\u2019s embassy</a> in the UK if your passport does not meet both these requirements.</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document, or try to use a passport that has been reported lost or stolen.</p>\n\n<h3 id=\"checks-at-border-control\">Checks at border control</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped</p>\n</div>\n\n<p>If you\u2019re a visitor, your passport must be stamped when you enter or leave the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (which includes Denmark). Border guards will use passport stamps to check you have not overstayed the <a href=\"https://www.gov.uk/travel-to-eu-schengen-area#:~:text=You%20do%20not%20need%20a,or%20for%20certain%20other%20reasons\">90-day visa-free limit</a> for stays in the Schengen area. If your passport was not stamped, border guards will presume you have overstayed the visa-free limit.</p>\n\n<p>If your passport was not stamped, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.</p>\n\n<p>If you live in Denmark, read the <a href=\"https://www.gov.uk/guidance/living-in-denmark#passports-and-travel\">Living in Denmark guide</a> for passport stamping information.</p>\n\n<p>At Danish border control, you may also need to:</p>\n\n<ul>\n  <li>show a return or onward ticket</li>\n  <li>prove that you have enough money for your stay \u2013 the amount varies depending on your accommodation</li>\n</ul>\n\n<h3 id=\"id-for-travel-from-denmark-to-sweden\">ID for travel from Denmark to Sweden</h3>\n\n<p>If you are travelling from Denmark to Sweden, see <a rel=\"external\" href=\"https://www.oresunddirekt.se/en/find-a-job-in-denmark/commute-from-sweden-to-denmark/border-control-when-entering-sweden\">information on border control requirements</a>.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel without a visa to the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (including Denmark) for up to 90 days in any 180-day period. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>to attend business meetings, cultural or sports events</li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>If you\u2019re travelling to Denmark and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries in the 180 days before you travel count towards your 90 days.</p>\n\n<p>To stay longer (to work or study, for business travel or for other reasons), you must meet the Danish government\u2019s entry requirements. Check which type of visa or work permit you need with the <a rel=\"external\" href=\"https://www.nyidanmark.dk/en-GB\">Danish visa application service</a>.</p>\n\n<p>If you stay in Denmark with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<h3 id=\"applying-for-a-visa\">Applying for a visa</h3>\n\n<p>Use the <a rel=\"external\" href=\"https://www.nyidanmark.dk/en-GB\">Danish visa application service</a> to apply for a visa.</p>\n\n<h3 id=\"visas-for-greenland-and-the-faroe-islands\">Visas for Greenland and the Faroe Islands</h3>\n\n<p>Greenland and the Faroe Islands are not members of the EU. You do not need a visa to enter for tourism. If you plan to live and work there, you must get a work and residence permit \u2013 <a rel=\"external\" href=\"https://www.nyidanmark.dk/en-GB/You-want-to-apply/The-Faroe-Islands-and-Greenland\">apply for residence in Greenland or the Faroe Islands</a>.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At   least 8 weeks before your trip, check the vaccinations and certificates you need in:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/64/denmark\">TravelHealthPro\u2019s Denmark guide</a></li>\n  <li><a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/78/denmark-faroe-islands\">TravelHealthPro\u2019s Faroe Islands guide</a></li>\n  <li><a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/92/greenland\">TravelHealthPro\u2019s Greenland guide</a></li>\n</ul>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about goods that can be brought into and taken out of Denmark. You can read more <a rel=\"external\" href=\"https://skat.dk/data.aspx?oid=2244292\">information about customs duties from the Danish government</a>. You must declare anything that may be prohibited or subject to tax or duty, including <a rel=\"external\" href=\"https://skat.dk/data.aspx?oid=2244293\">large amounts of cash and valuables</a>.</p>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food. <a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a> on the European Commission website.</p>\n\n<p>It is illegal to import whale products from Greenland or the Faroe islands into the UK or EU. You could be fined up to \u00a35,000 or imprisoned.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-denmark\">Terrorism in Denmark</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are likely to try to carry out attacks in Denmark.</p>\n</div>\n\n<p>Attacks could be indiscriminate, including in places frequented by foreigners.</p>\n\n<p>The authorities in Denmark have successfully disrupted a number of planned attacks and made a number of arrests.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Crime levels are generally low, but pickpockets and bag-snatchers operate in crowded areas mainly around Copenhagen.</p>\n\n<p>Thieves can use a variety of methods to distract you, particularly on crowded public transport. They sometimes also operate in hotel lobbies, cafes and restaurants.</p>\n\n<p>Keep your personal belongings, including passports and money, safe. Keep an eye on luggage, including in the overhead baggage compartment, when travelling on trains to and from the airport.</p>\n\n<p>Pickpocketing and bag-snatching is common in the following areas:</p>\n\n<ul>\n  <li>the central station</li>\n  <li>N\u00f8rreport Station</li>\n  <li>the main shopping street, Str\u00f8get</li>\n  <li>other areas popular with tourists such as Christiania, Nyhavn and Kongens Nytorv</li>\n  <li>inside Copenhagen Kastrup airport</li>\n</ul>\n\n<p>You should take extra care in Christiania and N\u00f8rrebro, particularly late at night. There have been some instances of gang violence in these areas.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"dress-code\">Dress code</h3>\n\n<p>It\u2019s illegal to wear any clothing that conceals your face in a public place in Denmark. There are legal exemptions \u2013 for example, face masks for health reasons. If you cover your face in public, you may get a fine of 1,000 krone (around \u00a3115). If you do it again, the fine can increase. The law applies to both residents and visitors.</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Do not get involved with illegal drugs of any kind. Although Denmark is generally a liberal society, drug use is illegal and the Danish authorities enforce the law. You will not be treated more leniently than residents. Drug dealers can receive heavy sentences. If you are found with illegal drugs thought to be for personal consumption, you may get a fine or prison sentence.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex relationships and marriage are legal in Denmark.</p>\n\n<p>Read <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"public-transport\">Public transport</h3>\n\n<p>Within Copenhagen you can use the same ticket on the metro, bus, train and harbour bus. If you travel without a ticket, you may get a fine of up to 1,000 krone (around \u00a3115).</p>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>You need a 1968 <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">international driving permit (IDP)</a> or a UK driving licence\u00a0to drive in Denmark. The 1949 IDP is not accepted any more. You cannot buy an IDP outside the UK, so get one before you travel. You can buy an IDP in person from some UK post offices \u2013 <a rel=\"external\" href=\"https://www.postoffice.co.uk/identity/international-driving-permit#bf-full-width\">find your nearest post office branch</a> that offers this service.</p>\n\n<p>If you are planning to drive in Denmark, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/denmark/\">RAC Denmark guide</a>.</p>\n\n<p>Be aware of the many cyclists present in Danish cities. Cyclists often have the right of way. Always check cycle lanes before turning right. Pedestrians also often have right of way to cross ahead of you if you are turning at traffic lights.</p>\n\n<h3 id=\"driving-a-british-car-abroad\">Driving a British car abroad</h3>\n\n<p>You may need a UK sticker to drive your car outside the UK. Since 2021, UK stickers have replaced GB stickers. Check the government guidance on <a href=\"https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers\">displaying number plates</a> for more information on what to do if you are driving outside the UK.</p>\n\n<h3 id=\"bicycles-and-scooters\">Bicycles and scooters</h3>\n\n<p>Many bicycle accidents occur when pedestrians do not give the right of way to bicycles. There are online guides in English on cycling in Denmark at <a rel=\"external\" href=\"https://www.visitcopenhagen.com/biking\">Visit Copenhagen</a> and the <a rel=\"external\" href=\"https://www.cyklistforbundet.dk/english/\">Danish Cyclists\u2019 Federation</a> (\u2019Cyklistforbundet\u2019).</p>\n\n<p>Electric scooters are subject to road traffic rules. If you hire and use a scooter under the influence of alcohol, you could be prosecuted for drink-driving and you may be fined.</p>\n\n<h2 id=\"arctic-travel\">Arctic travel</h2>\n\n<p>Consular assistance and support to British nationals in the Arctic is limited by the capacity of national and local authorities. Make sure you have appropriate travel insurance and accessible funds to cover the cost of any medical treatment or potential repatriation.</p>\n\n<p>Before you visit:</p>\n\n<ul>\n  <li>consider the remote nature of certain destinations and access to medical facilities, search and rescue and evacuation options</li>\n  <li>have emergency plans in place, particularly if you are an independent traveller</li>\n</ul>\n\n<h3 id=\"sea-travel-in-the-arctic\">Sea travel in the Arctic</h3>\n\n<p>Most people visit the Arctic by ship. Some areas of the Arctic are uncharted and ice-covered. Before you travel:</p>\n\n<ul>\n  <li>check the experience and credentials of operators offering travel in the region</li>\n  <li>consider the on-board medical facilities and discuss any pre-existing medical conditions with the cruise operator</li>\n</ul>\n\n<h3 id=\"search-and-rescue\">Search and rescue</h3>\n\n<p>In the highest latitude regions of the Arctic, cruise ships may be isolated from other vessels or populated areas. Be aware that:</p>\n\n<ul>\n  <li>search and rescue response may be very far away</li>\n  <li>assistance to stranded vessels may take several days to arrive, particularly in bad weather</li>\n  <li>search and rescue teams will only offer basic transport and medical care; they are unlikely to be able to offer advanced life support</li>\n</ul>\n\n<h3 id=\"greenland\">Greenland</h3>\n\n<p>Travel between towns is by air, sea or dog-sled only. Arctic weather can, and does, affect travel, and you should be prepared for delays and cancellations.</p>\n\n<p>There is limited tourist accommodation around the international airport in Kangerlussuaq. During busy periods or when there is travel disruption, there may be no beds available unless you have booked ahead.</p>\n\n<p>Supply chains are limited and travel times are long. You should ensure you travel with sufficient prescription medication for all of your time in Greenland.</p>\n\n<h3 id=\"the-faroe-islands\">The Faroe Islands</h3>\n\n<p>Smaller roads may be unpaved and winding.</p>\n\n<p>The weather can change quickly, and you should prepare appropriately for the activity you are planning.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on vaccinations and health risks in TravelHealthPro\u2019s <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/64/denmark\">Denmark guide,</a> <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/92/greenland\">Greenland guide</a> or <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/78/denmark-faroe-islands\">Faroe Islands guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<p>Denmark does not recognise UK prescriptions. If you need medication, you should speak to a local pharmacist (\u2018Apotek\u2019), who will be able to tell you if you need a prescription from a local GP.</p>\n\n<h2 id=\"healthcare-facilities-in-denmark\">Healthcare facilities in Denmark</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/denmark-list-of-medical-facilitiespractitioners\">English-speaking doctors in Denmark</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-denmark\">COVID-19 healthcare in Denmark</h2>\n\n<p>See <a rel=\"external\" href=\"https://en.coronasmitte.dk/\">COVID-19 testing and treatment information from the Danish government</a>.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>)</a> or <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>)</a> before leaving the UK. If you already have an <abbr title=\"European Health Insurance Card\">EHIC</abbr>, it will still be valid as long as it remains in date.</p>\n\n<p>The <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Danish nationals. If you do not have your card with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> is not an alternative to travel insurance and you should have both before you travel. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Global Health Insurance Card\">GHIC</abbr> and <abbr title=\"European Health Insurance Card\">EHIC</abbr> cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<p>If you\u2019re living in Denmark, read <a href=\"https://www.gov.uk/guidance/healthcare-in-denmark\">more information on healthcare for residents</a>.</p>\n\n<h3 id=\"greenland\">Greenland</h3>\n\n<p>No treatment will be refused, but an <abbr title=\"European Health Insurance Card\">EHIC</abbr> or <abbr title=\"Global Health Insurance Card\">GHIC</abbr> will not cover the costs unless you are resident of a Nordic country, under the reciprocal agreement, or a resident of Denmark. You can find more details about <a rel=\"external\" href=\"https://www.norden.org/en/info-norden/medical-assistance-during-temporary-stay-greenland\">medical assistance available during a temporary stay in Greenland</a>.</p>\n\n<p>You may also be required to cover the cost of medical evacuation.</p>\n\n<h3 id=\"faroe-islands\">Faroe Islands</h3>\n\n<p>You cannot use a <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> in the Faroe Islands because they are not EEA members. The UK has reciprocal agreements with the Faroe Islands, so British nationals can get the same medical treatment they would with a <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr>. This arrangement is not a substitute for travel insurance.</p>\n\n<p>If you travel to the Faroe Islands, you should still take your <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> with you. You\u2019ll need to provide proof of identity and nationality, such as your UK passport.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-denmark\">Emergency services in Denmark</h2>\n\n<p>Telephone: 112 (ambulance, fire, police).</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Denmark\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Denmark\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Denmark\">translators and interpreters</a> in Denmark</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/denmark-bereavement-packinformation/denmark-bereavement-information\">death in Denmark</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/denmark-prisoner-pack\">arrested in Denmark</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/denmark/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=denmark&amp;post=British%20Embassy%20Copenhagen\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are in Denmark and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-copenhagen\">British embassy in Copenhagen</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-denmark\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-08-24T09:39:42Z",
+            "updated_at": "2023-08-29T16:32:41Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-18T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/denmark",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/denmark",
+                    "base_path": "/foreign-travel-advice/denmark",
+                    "content_id": "8d0d439c-dcf3-4239-8049-4a7c465baad6",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-24T09:39:42Z",
+                    "schema_name": "travel_advice",
+                    "title": "Denmark travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/denmark",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/denmark",
+                    "api_url": "https://www.gov.uk/api/content/world/denmark",
+                    "base_path": "/world/denmark",
+                    "content_id": "16475c2c-9b82-48a2-bd0e-17eb212742eb",
+                    "description": "Services if you're visiting, studying, working or living in Denmark. Includes information about trading with and doing business in the UK and Denmark, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Denmark",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T15:47:56Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Denmark",
+                    "web_url": "https://www.gov.uk/world/denmark",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sweden",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sweden",
+                    "base_path": "/foreign-travel-advice/sweden",
+                    "content_id": "9772ac3f-b0ea-4787-b859-9a091e1f8af6",
+                    "details": {
+                        "change_description": "Removal of information about extreme weather warning for parts of Sweden ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "Sweden",
+                            "slug": "sweden",
+                            "synonyms": [
+                                "Arctic",
+                                "Stockholm",
+                                "Gothenburg"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-22T09:15:24Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sweden travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sweden",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/norway",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/norway",
+                    "base_path": "/foreign-travel-advice/norway",
+                    "content_id": "5db38510-b08a-4e4c-b84f-ca2d62353ab6",
+                    "details": {
+                        "change_description": "Information about restrictions on vehicles with Russian licence plates and advice on political demonstrations (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+                        "country": {
+                            "name": "Norway",
+                            "slug": "norway",
+                            "synonyms": [
+                                "arctic",
+                                "Oslo",
+                                "Scandinavia"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:20:03Z",
+                    "schema_name": "travel_advice",
+                    "title": "Norway travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/norway",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/living-in-denmark",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-denmark",
+                    "base_path": "/guidance/living-in-denmark",
+                    "content_id": "5ee41dea-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-05-02T10:37:23Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Denmark",
+                    "web_url": "https://www.gov.uk/guidance/living-in-denmark",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/finland",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/finland",
+                    "base_path": "/foreign-travel-advice/finland",
+                    "content_id": "f14f4107-1731-4dd8-a890-8defe459e15a",
+                    "details": {
+                        "change_description": "Information about restrictions on vehicles with Russian licence plates (\u2018Entry requirements\u2019 page).",
+                        "country": {
+                            "name": "Finland",
+                            "slug": "finland",
+                            "synonyms": [
+                                "arctic",
+                                "Lapland"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:20:27Z",
+                    "schema_name": "travel_advice",
+                    "title": "Finland travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/finland",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/germany",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/germany",
+                    "base_path": "/foreign-travel-advice/germany",
+                    "content_id": "c3d72e08-e00f-4b62-98d5-010ea1520e50",
+                    "details": {
+                        "change_description": "Removal of information about an incident at Hamburg airport.",
+                        "country": {
+                            "name": "Germany",
+                            "slug": "germany",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-06T11:39:34Z",
+                    "schema_name": "travel_advice",
+                    "title": "Germany travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/germany",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-denmark",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-denmark",
+                    "base_path": "/world/living-in-denmark",
+                    "content_id": "d93fb8f2-0550-47cc-aa20-6b4dd51b886c",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Denmark",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/denmark",
+                                "api_url": "https://www.gov.uk/api/content/world/denmark",
+                                "base_path": "/world/denmark",
+                                "content_id": "16475c2c-9b82-48a2-bd0e-17eb212742eb",
+                                "description": "Services if you're visiting, studying, working or living in Denmark. Includes information about trading with and doing business in the UK and Denmark, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Denmark",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T15:47:56Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Denmark",
+                                "web_url": "https://www.gov.uk/world/denmark",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T16:49:50Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Denmark",
+                    "web_url": "https://www.gov.uk/world/living-in-denmark",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-denmark",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-denmark",
+                    "base_path": "/world/travelling-to-denmark",
+                    "content_id": "70c1057a-2387-44ab-86c6-19367cc2a930",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Denmark",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/denmark",
+                                "api_url": "https://www.gov.uk/api/content/world/denmark",
+                                "base_path": "/world/denmark",
+                                "content_id": "16475c2c-9b82-48a2-bd0e-17eb212742eb",
+                                "description": "Services if you're visiting, studying, working or living in Denmark. Includes information about trading with and doing business in the UK and Denmark, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Denmark",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T15:47:56Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Denmark",
+                                "web_url": "https://www.gov.uk/world/denmark",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:14:55Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Denmark",
+                    "web_url": "https://www.gov.uk/world/travelling-to-denmark",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-08-24T09:39:42Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1693326761.021-10.13.20.237-30214",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Denmark travel advice",
+        "updated_at": "2023-11-15T11:00:07Z",
+        "withdrawn_notice": {}
+    }
+}

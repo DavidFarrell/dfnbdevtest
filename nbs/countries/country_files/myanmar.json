@@ -1,0 +1,1356 @@
+{
+    "Country Slug": "myanmar",
+    "Country Name": "Myanmar (Burma)",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/myanmar",
+        "content_id": "ed343e59-83ca-496b-84b1-8f85c71a747d",
+        "description": "Latest FCDO travel advice for Myanmar including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "FCDO now advises against all travel to Shan State North and North Mandalay Region (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary and Safety and security section (Shan State) - you\u2019re advised to be vigilant in Taunggyi (Shan State) following the discovery on 16 November 2018 of an explosive device",
+                    "public_timestamp": "2018-11-16T13:21:43.371Z"
+                },
+                {
+                    "note": "Latest update: Health section - revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-23T14:40:31.124Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information about the availability of consular support ",
+                    "public_timestamp": "2018-12-14T12:06:36.061Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full with amendments throughout",
+                    "public_timestamp": "2019-03-28T12:24:59.831Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information on the Thingyan Water Festival which will be celebrated from 13 to 17 April 2019",
+                    "public_timestamp": "2019-04-11T15:26:19.502Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on the Thingyan Water Festival; Local laws and customs section - addition of information on Burma\u2019s defamation laws ",
+                    "public_timestamp": "2019-04-24T08:35:57.142Z"
+                },
+                {
+                    "note": "Latest update: Summary - factual addition; on 22 June 2019, a Myanmar navy vessel docked in Sittwe Township, Rakhine State, was attacked resulting in casualties; since 21 June 2019, there has been a shutdown of mobile internet in 8 northern Rakhine townships and Paletwa township in Chin State",
+                    "public_timestamp": "2019-06-28T08:10:47.000Z"
+                },
+                {
+                    "note": "Safety and security section (Local travel - Rakhine State) - current outbreaks of violence are affecting both north and central Rakhine, including the large towns of Mrauk U and the state capital Sittwe, as well as the roads in and out of Sittwe; mobile communications in northern and central Rakhine State have been subject to shutdowns, and cannot be relied upon",
+                    "public_timestamp": "2019-07-03T08:24:00.000Z"
+                },
+                {
+                    "note": "Summary and Safety and security (Political situation) sections updated with information on expected protests in the Bahan and Kyauktada townships in Yangon on Saturday 3 August 2019.  You should avoid all demonstrations and large gatherings. \r\nHealth section - updated information on rabies",
+                    "public_timestamp": "2019-08-02T09:39:16.000Z"
+                },
+                {
+                    "note": "Summary and Safety and security (Political situation) - removal of information on expected protests in Yangon on Saturday 3 August 2019",
+                    "public_timestamp": "2019-08-06T14:36:07.000Z"
+                },
+                {
+                    "note": "Summary - updated factual information on coordinated attacks at a number of locations in Pyin Oo Lwin in Mandalay State and Naung Cho in northern Shan State. Roads and railways in the area have been closed, and there is a potential for further clashes. You should exercise extra vigilance and keep up to date with developments, including via this travel advice",
+                    "public_timestamp": "2019-08-15T14:39:30.000Z"
+                },
+                {
+                    "note": "Summary - change to advice against travel; the FCO now advise against all but essential travel to all areas of Northern Shan State, within 10km of the town of Pyin-Oo-Lwin (Mandalay State) and along the Pyin-Oo-Lwin to Kyaukme road; updated information on 15 August attacks and the potential for further clashes",
+                    "public_timestamp": "2019-08-17T01:35:40.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on the shutdown of mobile internet in eight northern Rakhine townships and Paletwa township, initiated on 21 June \r\n",
+                    "public_timestamp": "2019-09-13T11:52:17.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on social media reports of alleged bomb threats against Naypyitaw; the Myanmar government has not corroborated this information; no specific measures are recommended at this time",
+                    "public_timestamp": "2019-09-25T08:29:03.000Z"
+                },
+                {
+                    "note": "Safety and security (Local travel - Shan State) and Summary - removal of information on road and rail closures in Shan State",
+                    "public_timestamp": "2019-10-14T11:28:07.000Z"
+                },
+                {
+                    "note": "The FCO no longer advise against all but essential travel to the town of Pyin Oo Lwin in Mandalay Region; information and advice reviewed and updated across all sections",
+                    "public_timestamp": "2019-10-22T16:41:18.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on social media reports of alleged bomb threats against Naypyitaw",
+                    "public_timestamp": "2019-10-28T10:10:51.000Z"
+                },
+                {
+                    "note": "Safety and security (Local travel - Rakhine State, Local travel - Shan State, Local travel - Chin State) - updated factual information on recent security incidents",
+                    "public_timestamp": "2019-11-25T10:52:53.000Z"
+                },
+                {
+                    "note": "Safety and security (Local travel - Shan State) - factual update on a landmine incident on 26 November",
+                    "public_timestamp": "2019-11-27T11:29:37.000Z"
+                },
+                {
+                    "note": "Safety and security section (Rakhine state) and Summary - addition of information on explosions in Manaung Island on 19 December",
+                    "public_timestamp": "2019-12-19T11:08:38.000Z"
+                },
+                {
+                    "note": "Health section and Summary - updated information and advice following an outbreak of coronavirus in China and elsewhere in the region",
+                    "public_timestamp": "2020-01-23T16:59:38.000Z"
+                },
+                {
+                    "note": "Summary and Safety and security section - update to information on security incidents in Rakhine; Health - update to information and advice on Polio ",
+                    "public_timestamp": "2020-01-31T17:51:46.000Z"
+                },
+                {
+                    "note": "Health section (Coronavirus) and summary - updated information on screening measures and suspension or reduction of some flights",
+                    "public_timestamp": "2020-02-07T18:18:44.000Z"
+                },
+                {
+                    "note": "Health (Coronavirus) - addition of advice to check the latest travel advice if you\u2019re travelling to or via other countries in the region",
+                    "public_timestamp": "2020-02-12T14:28:37.000Z"
+                },
+                {
+                    "note": "Health (Coronavirus) - update to information on screening measures at border crossings",
+                    "public_timestamp": "2020-02-18T15:58:15.000Z"
+                },
+                {
+                    "note": "Addition of link to advice from the Department of Health and Social Care if returning to the UK from Myanmar ('Health' pages) ",
+                    "public_timestamp": "2020-02-25T12:10:18.000Z"
+                },
+                {
+                    "note": "Updated information and advice on Coronavirus - (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-02-26T03:28:14.000Z"
+                },
+                {
+                    "note": "The FCO now advise against all but essential travel to Kyaukpyu, Ramree and Toungup townships in Rakhine state. The \u2018Safety and security\u2019 page (Local travel)  has updated information about a recent increase in outbreaks of violence in these areas",
+                    "public_timestamp": "2020-02-26T19:11:25.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on travel restrictions ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-12T17:38:47.000Z"
+                },
+                {
+                    "note": "As of 15 March, the Foreign and Commonwealth Office (FCO) advise against all but essential travel to Myanmar due to the risk of quarantine for British nationals arriving in country. \r\nThere is an ongoing outbreak of coronavirus (COVID-19) around the world. Travel restrictions can be imposed at short notice. ",
+                    "public_timestamp": "2020-03-15T12:47:49.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Summary', 'Entry Requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-16T14:53:15.000Z"
+                },
+                {
+                    "note": "Addition of advice to British nationals in Myanmar to leave, if able to do so ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-17T17:20:34.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Summary', 'Safety and Security', 'Entry Requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-19T15:04:36.000Z"
+                },
+                {
+                    "note": "Update on information on travel restrictions in relation to coronavirus (COVID-19) ('Summary', 'Entry Requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T11:40:00.000Z"
+                },
+                {
+                    "note": "Addition of information on quarantine measures ('Summary' page)",
+                    "public_timestamp": "2020-03-20T19:40:59.000Z"
+                },
+                {
+                    "note": "Addition of information on leaving Myanmar (Summary & Entry Requirements)",
+                    "public_timestamp": "2020-03-21T13:44:01.000Z"
+                },
+                {
+                    "note": "Revised information on leaving Myanmar ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-03-22T10:38:14.000Z"
+                },
+                {
+                    "note": "Update to information about travel restrictions in relation to the coronavirus (COVID-19) pandemic. ('Summary', 'Coronavirus' and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-03-24T13:14:53.000Z"
+                },
+                {
+                    "note": "Update to information about travel restrictions in relation to the coronavirus (COVID-19) pandemic. ('Summary', \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-03-25T06:51:41.000Z"
+                },
+                {
+                    "note": "Latest update: Update to information about travel restrictions in relation to the coronavirus (COVID-19) pandemic. ('Summary', \u2018Return to the UK\u2019 \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-03-29T13:08:16.000Z"
+                },
+                {
+                    "note": "Update to local measures and information on returning to the UK ('Coronavirus and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-02T16:13:53.000Z"
+                },
+                {
+                    "note": "Updated information on hostility aimed at foreigners and local measures introduced to combat the spread of coronavirus (COVID-19) ('Safety and Security' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-04-06T15:11:45.000Z"
+                },
+                {
+                    "note": "Updates to the 'Return to UK' pages.",
+                    "public_timestamp": "2020-04-17T12:13:31.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus local measures ('Coronavirus' page).",
+                    "public_timestamp": "2020-04-21T13:28:56.000Z"
+                },
+                {
+                    "note": "Additional details of movement restrictions and flight option for departure ('Summary' Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-28T05:24:09.000Z"
+                },
+                {
+                    "note": "Update to information on flights to the UK via South Korea ('Return to the UK' page).",
+                    "public_timestamp": "2020-04-29T10:14:54.000Z"
+                },
+                {
+                    "note": "Updated information on flights for those wishing to return to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-01T17:08:37.000Z"
+                },
+                {
+                    "note": "Update to information on flights to the UK via South Korea ('Return to the UK' page).",
+                    "public_timestamp": "2020-05-02T10:21:53.000Z"
+                },
+                {
+                    "note": "Updated information on flight options, visa extensions and entry restrictions in relation to coronavirus ('Return to the UK', 'Staying during coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-05-11T18:03:55.000Z"
+                },
+                {
+                    "note": "Addition of information that it is compulsory for anyone going out in public to wear a facemask from 13 May. ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-14T16:52:52.000Z"
+                },
+                {
+                    "note": "Updated information about the suspension of international flights until 31 May 2020 and options for commercial flights to leave Myanmar ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-18T14:20:24.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:31:52.000Z"
+                },
+                {
+                    "note": "Updated information about flights departing on 29 and 31 May ('Return to the UK' page), updated timings on curfews in Myanmar and applications for UK passports ('Staying during coronavirus' page) and information on scams ('Safety and security' page).",
+                    "public_timestamp": "2020-05-22T11:38:09.000Z"
+                },
+                {
+                    "note": "Update to information on flight options and visas ('Return to the UK', 'Staying during coronavirus' and 'Entry requirement's pages) \r\n",
+                    "public_timestamp": "2020-05-29T17:18:19.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures on restaurants and bars ('Staying during coronavirus' page) and to safety and security information in Rakhine State ('Safety and security' page)",
+                    "public_timestamp": "2020-06-02T14:05:37.000Z"
+                },
+                {
+                    "note": "Addition of information on possible charter flight to Paris on 8 June, removal of information on charter flight from Yangon to Milan on 5 June ('Return to the UK' page) and update to information and advice on revised quarantine restrictions and passport validity extensions ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-05T14:31:15.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:40:36.000Z"
+                },
+                {
+                    "note": "Removal of information about previous flight options ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-12T13:54:06.000Z"
+                },
+                {
+                    "note": "Addition of information on Myanmar Airways International flights from Yangon to Seoul Incheon airport on 25 and 30 June with UK connections from Seoul ('Return to the UK' page), removal of British Embassy registration requirements and update to information on UK passport applications ('Staying during coronavirus'), and business visa entry requirements ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-24T12:30:54.000Z"
+                },
+                {
+                    "note": "All international commercial passenger flights are suspended until at least 31 July.  ('Summary', 'Return to the UK' and'Entry requirements' pages)",
+                    "public_timestamp": "2020-06-29T16:29:46.000Z"
+                },
+                {
+                    "note": "Updated information on flights and visa applications. ('Return to the UK' and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-07-01T15:46:03.000Z"
+                },
+                {
+                    "note": "Update to information on parliamentary elections ('Safety and security').  Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-07T14:33:10.000Z"
+                },
+                {
+                    "note": "Updated information on flights and entry requirements. ('Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-07-08T16:32:18.000Z"
+                },
+                {
+                    "note": "Update to information on entry and quarantine requirements ('Entry requirements' page)",
+                    "public_timestamp": "2020-07-14T11:27:04.000Z"
+                },
+                {
+                    "note": "Updated information on Entry Requirements. ('Entry Requirements' page)",
+                    "public_timestamp": "2020-07-22T16:05:11.000Z"
+                },
+                {
+                    "note": "New advice to contact your airline for information on flight schedules and any additional requirements. ('Return to the UK' section)",
+                    "public_timestamp": "2020-07-27T16:11:11.000Z"
+                },
+                {
+                    "note": "Addition of information on the suspension of international commercial passenger flights until 31 August.  Update to information on the operation of relief flights ('Coronavirus', 'Return to the UK' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-29T17:10:41.000Z"
+                },
+                {
+                    "note": "Addition of information about testing for COVID-19 before travelling ('Return to the UK' page) and updated information about quarantine requirements ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-21T10:08:15.000Z"
+                },
+                {
+                    "note": "New information on advice to foreign nationals from the government of Myanmar against all but essential travel to Rakhine State, in response to an increased number of confirmed COVID-19 cases in the area. ('Summary' and 'Coronavirus' page)",
+                    "public_timestamp": "2020-08-25T16:53:43.000Z"
+                },
+                {
+                    "note": "Updated information on 'Stay at Home' orders in townships in Rakhine State\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-08-26T11:31:10.000Z"
+                },
+                {
+                    "note": "Addition of information on extension of international commercial passenger flights suspension until 30 Sept, movement restrictions and school closures ('Summary', 'Coronavirus', 'Return to the UK' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-27T15:12:16.000Z"
+                },
+                {
+                    "note": "Update to information on \u2018Stay at Home\u2019 in Rakhine State.  ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-28T14:44:01.000Z"
+                },
+                {
+                    "note": "New information on townships in Yangon which are under \u2018Stay at Home\u2019 orders from 8am on 2 September ('Coronavirus' page).",
+                    "public_timestamp": "2020-09-01T15:37:51.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) restrictions for those living in areas subject to a 'Stay at Home' order ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-02T15:40:42.000Z"
+                },
+                {
+                    "note": "Addition of information on curfew in Yangon ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-04T14:00:48.000Z"
+                },
+                {
+                    "note": "Update to information on areas in Yangon under coronavirus (COVID-19) 'Stay at Home' orders ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-10T10:26:41.000Z"
+                },
+                {
+                    "note": "Updated information on travel in Myanmar; suspension on domestic flights and some townships in Yangon are under 'Stay at Home' orders\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-09-11T14:07:19.000Z"
+                },
+                {
+                    "note": "Additional information on British nationals returning to the UK\r\n('Return to the UK' page)",
+                    "public_timestamp": "2020-09-14T12:40:20.000Z"
+                },
+                {
+                    "note": "From 8am on 21 September, all townships in Yangon, except for the Coco Island Region, will be under a \u2018Stay at Home\u2019 order ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-20T15:45:09.000Z"
+                },
+                {
+                    "note": "Update to information on townships in Yangon currently under a 'Stay at Home' order ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-21T12:03:56.000Z"
+                },
+                {
+                    "note": "Addition of information on the temporary closure of the VSF office in Yangon ('Coronavirus' page).",
+                    "public_timestamp": "2020-09-23T12:24:48.000Z"
+                },
+                {
+                    "note": "Update on the suspension of international commercial passenger flights until 31 October ('Summary', 'Coronavirus', 'Return to the UK' and 'Entry  requirements' pages).",
+                    "public_timestamp": "2020-09-25T11:33:26.000Z"
+                },
+                {
+                    "note": "Updated information on the end date for the suspension on, all Myanmar's airlines domestic flights\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-10-06T08:32:08.000Z"
+                },
+                {
+                    "note": "Removal of information on staff and dependants in the British Embassy and updated information on our consular service ('Summary' page)",
+                    "public_timestamp": "2020-10-22T13:39:55.000Z"
+                },
+                {
+                    "note": "Updated information on international commercial and domestic flights suspensions ('Summary', 'Coronavirus', 'Return to the UK' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-10-27T14:46:42.000Z"
+                },
+                {
+                    "note": "New information on upcoming elections in Myanmar ('Summary', 'Coronavirus' and 'Safety and security' pages)",
+                    "public_timestamp": "2020-10-30T15:13:20.000Z"
+                },
+                {
+                    "note": "Update to information on rules for travel in Myanmar ('Coronavirus' page)",
+                    "public_timestamp": "2020-11-04T12:17:14.000Z"
+                },
+                {
+                    "note": "Update to information on the political situation following national elections on 8 November 2020 ('Safety and security' page).",
+                    "public_timestamp": "2020-11-12T15:10:18.000Z"
+                },
+                {
+                    "note": "Update to information on the suspension of domestic flights ('Coronavirus' page).",
+                    "public_timestamp": "2020-11-16T09:19:43.000Z"
+                },
+                {
+                    "note": "Update to information on the suspension of international commercial flights ('Summary', 'Coronavirus', 'Return to the UK' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-12-01T15:03:33.000Z"
+                },
+                {
+                    "note": "New information on prescriptions from the UK not being accepted in Myanmar ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-03T09:32:15.000Z"
+                },
+                {
+                    "note": "Update to information on the use of UK Emergency Travel Documents (ETDs) to exit from Myanmar ('Entry requirements' page)",
+                    "public_timestamp": "2020-12-11T09:29:32.000Z"
+                },
+                {
+                    "note": "Updated information on airlines suspending domestic flights in Myanmar ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-14T16:22:40.000Z"
+                },
+                {
+                    "note": "Addition of information on the resumption of domestic flights in Myanmar from 16 December 2020 ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-15T10:35:53.000Z"
+                },
+                {
+                    "note": "Addition of new quarantine requirements from 24 December for travellers arriving in Myanmar who have been to the UK and update to information on the use of face masks, suspension of commercial flights and possible future modifications to entry requirements ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-24T12:22:12.000Z"
+                },
+                {
+                    "note": "Revised information on 'Stay at home' orders within the Travel in Myanmar section ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-27T09:32:51.000Z"
+                },
+                {
+                    "note": "Updated information on international commercial passenger flights into Myanmar (see 'Summary' and 'Coronavirus' 'Entry requirements and 'Return to the UK' pages)",
+                    "public_timestamp": "2021-01-01T12:03:55.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for Myanmar; information for those who are not travelling from the United Kingdom, including British Nationals and for those who are or will be on a flight to Myanmar transiting via the United Kingdom ('Coronavirus' and 'Entry requirements' page)",
+                    "public_timestamp": "2021-01-04T16:22:16.000Z"
+                },
+                {
+                    "note": "Updated information on process for applications for UK passports and UK visas ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-01-14T10:38:10.000Z"
+                },
+                {
+                    "note": "Updated information on the process for applications for UK passports and UK visas ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-18T13:41:34.000Z"
+                },
+                {
+                    "note": "New information and advice on an increased security presence in Naypyitaw, Yangon and other areas in advance of the new Parliament on 1 February ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2021-01-28T16:56:15.000Z"
+                },
+                {
+                    "note": "Suspension of all international commercial passenger flights extended to 28 February at the earliest ('Summary', 'Coronavirus', 'Return to the UK', 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-01-31T08:30:22.000Z"
+                },
+                {
+                    "note": "Reports on 1 February that senior figures in the Civilian Government and civil society have been detained by the military; the British Embassy is following the situation carefully; there may be disruptions to internet and phone networks; you are advised to stay home and stay safe (Summary).",
+                    "public_timestamp": "2021-02-01T01:35:57.000Z"
+                },
+                {
+                    "note": "Updated information following state of emergency declared by Myanmar Military ('Summary', 'Safety and security' and 'Money' pages)",
+                    "public_timestamp": "2021-02-01T05:30:37.000Z"
+                },
+                {
+                    "note": "New information on the closure of airports and suspension of all domestic and international commercial passenger flights until 31st May 2021 at the earliest ('Summary', 'Coronavirus' and 'Entry requirements' pages).  Addition of contact numbers for people in Myanmar who need urgent help and addition of a number for people in the UK who are worried about a British national in Myanmar ('Summary' page).",
+                    "public_timestamp": "2021-02-02T12:14:51.000Z"
+                },
+                {
+                    "note": "Addition of information on a curfew in place between midnight and 4am ('Summary' page).  Update to information on the availability of commercial flights ('Return to the UK' page).",
+                    "public_timestamp": "2021-02-03T17:09:53.000Z"
+                },
+                {
+                    "note": "Update to information on the availability of relief flights ('Return to the UK' page).",
+                    "public_timestamp": "2021-02-04T17:00:04.000Z"
+                },
+                {
+                    "note": "Update to information on the availability of relief flights. ('Return to the UK' page)",
+                    "public_timestamp": "2021-02-04T18:55:16.000Z"
+                },
+                {
+                    "note": "Additional information on the the detention of a foreign national plus the shut down and disruption of various internet platforms, the wider internet, telephone networks and ATMs (See 'Summary' page) ",
+                    "public_timestamp": "2021-02-06T09:55:29.000Z"
+                },
+                {
+                    "note": "Broadening of curfew hours. Link added to Myanmar Airways International website.  (See 'Summary',' Coronavirus' and 'Return to UK' pages) ",
+                    "public_timestamp": "2021-02-09T08:12:05.000Z"
+                },
+                {
+                    "note": "Additional information on Returning to the UK",
+                    "public_timestamp": "2021-02-12T21:34:00.000Z"
+                },
+                {
+                    "note": "Updated information on leaving Myanmar by commercial means if you have concerns for your safety (See  'Return to UK')",
+                    "public_timestamp": "2021-02-17T03:30:02.000Z"
+                },
+                {
+                    "note": "Information that travellers from Myanmar to England are temporarily exempt from the pre-departure testing requirement ('Return to UK' page)",
+                    "public_timestamp": "2021-02-19T16:36:26.000Z"
+                },
+                {
+                    "note": "Clarification of options for BNs seeking to leave Myanmar urgently; advice on support for those requiring urgent UK visas for family members.  ('Return to the UK' page) New information about COVID-19 vaccines and pre-departure testing if you live in Myanmar. (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-23T15:56:32.000Z"
+                },
+                {
+                    "note": "Update on latest political situation.  Advice to British Nationals to stay at home. (See 'Summary' page)",
+                    "public_timestamp": "2021-02-28T08:29:28.000Z"
+                },
+                {
+                    "note": "Update on the extension of exemption from pre-departure testing requirement for travellers from Myanmar to England ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2021-03-01T17:23:38.000Z"
+                },
+                {
+                    "note": "Update to information on potential protest locations ('Coronavirus' page) ",
+                    "public_timestamp": "2021-03-02T16:43:54.000Z"
+                },
+                {
+                    "note": "Addition of link to the booking portal to book a travel test package ('Return to the UK' page)",
+                    "public_timestamp": "2021-03-04T14:48:54.000Z"
+                },
+                {
+                    "note": "Advice for British nationals to leave the country by commercial means, unless there is an urgent need to stay. Advice on requesting a Pre-departure Test Letter. Ensure you have sufficient Dollars for use at the airport when departing Myanmar. Check with airlines for baggage allowances for all legs of your journey. Provide your details to the British Embassy Yangon so we are aware of your presence in Myanmar. (\u2018Summary\u2019, \u2018Coronavirus\u2019, \u2018Return to the UK\u2019 and \u2018Money\u2019 pages) \r\n",
+                    "public_timestamp": "2021-03-12T03:00:06.000Z"
+                },
+                {
+                    "note": "Addition of information on transit flights: flights from Qatar will not be permitted to arrive in the UK from 4am on Friday 19 March. Addition of information on Martial law in place in six townships in Yangon. (\u2018Summary\u2019, \u2018Return to UK\u2019 and \u2018Safety and Security\u2019 pages)",
+                    "public_timestamp": "2021-03-16T03:00:46.000Z"
+                },
+                {
+                    "note": "Update to advice on returning to the UK, including advice to complete the passenger locator form before travelling to the airport, and for those who have given their details to the embassy, to let them know if you are no longer in Myanmar ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2021-03-23T15:39:36.000Z"
+                },
+                {
+                    "note": "Information on what to do if you are returning to the UK from Myanmar; flight routes to the UK are limited and can change at anytime ('Summary' page)",
+                    "public_timestamp": "2021-03-25T13:36:46.000Z"
+                },
+                {
+                    "note": "Change to the level of advice, advising British Nationals to leave Myanmar as soon as possible by commercial means (\u2018Summary\u2019 page).  Update to \u2018Safety and Security\u2019 Section concerning events of 27 March. ",
+                    "public_timestamp": "2021-03-28T16:53:03.000Z"
+                },
+                {
+                    "note": "Update of flight information and transit routes for returning to the UK and the need to complete the passenger locator form before you travel to the airport (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2021-03-31T14:54:54.000Z"
+                },
+                {
+                    "note": "Update to reference the temporary withdrawal of some British Embassy staff and dependents ('Summary\u2019 page)",
+                    "public_timestamp": "2021-04-01T10:14:45.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full with editorial amendments throughout. New information has been added on bringing pets back to the UK from Myanmar to the 'Return to UK' page.",
+                    "public_timestamp": "2021-04-07T12:44:35.000Z"
+                },
+                {
+                    "note": "Additional information about flights leaving Yangon ('Return to the UK' page)",
+                    "public_timestamp": "2021-04-12T11:15:19.000Z"
+                },
+                {
+                    "note": "Additional information about flights leaving Yangon ('Return to the UK' page).",
+                    "public_timestamp": "2021-04-16T08:27:52.000Z"
+                },
+                {
+                    "note": "Updated information on Myanmar's military state of emergency and assumed control; local wards may unexpectedly change curfew times  ('Summary' page)",
+                    "public_timestamp": "2021-04-23T10:26:00.000Z"
+                },
+                {
+                    "note": "Update to information on the re-opening of the Visa Application Centre ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-27T12:55:37.000Z"
+                },
+                {
+                    "note": "Addition of information on the re-opening of the Visa Application Centre ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2021-04-29T09:01:44.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and re-published with amendments ",
+                    "public_timestamp": "2021-06-02T12:07:31.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full.  The 'Coronavirus' and \u2018Entry requirements\u2019 pages have updated information on travel in Myanmar and quarantine requirements",
+                    "public_timestamp": "2021-06-18T17:53:05.000Z"
+                },
+                {
+                    "note": "Updated information that if you are travelling from Myanmar to the UK, arriving in the UK after 4am on 5 July 2021, then you will need to provide a negative pre-departure test certificate (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2021-06-25T10:36:38.000Z"
+                },
+                {
+                    "note": "Addition of information on the re-opening of the Visa Application Centre ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2021-07-13T12:01:59.000Z"
+                },
+                {
+                    "note": "From 13 July 2021, the Visa Application Centre in Yangon is closed until further notice ('Return to the UK' pages)",
+                    "public_timestamp": "2021-07-13T17:33:04.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 19 July Myanmar will move to the red list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-07-14T17:55:24.000Z"
+                },
+                {
+                    "note": "Information on VSF contact details for nationals who are looking to travel to the UK and require a visa to enter the UK ('Return to the UK' page)",
+                    "public_timestamp": "2021-07-15T08:51:51.000Z"
+                },
+                {
+                    "note": "Update to information to reflect changes to Singapore government transit rules ('Coronavirus' page).  ",
+                    "public_timestamp": "2021-08-04T09:12:00.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of the ban on commercial flights until the end of September 2021 ('Coronavirus' and 'Return to the UK' pages) ",
+                    "public_timestamp": "2021-09-07T16:20:03.000Z"
+                },
+                {
+                    "note": "Following the NUG\u2019s announcement on 7 September to revolt against military rule, BE Yangon is monitoring the situation closely. The security situation is subject to change at short notice (See 'Summary' page)",
+                    "public_timestamp": "2021-09-08T22:15:43.000Z"
+                },
+                {
+                    "note": "Update to information on visa applications ('Return to the UK' page)",
+                    "public_timestamp": "2021-09-23T11:15:46.000Z"
+                },
+                {
+                    "note": "Update to information on commercial flight operations ('Coronavirus' page).  Update on the reopening of the Visa Application Centre ('Return to the UK' page)",
+                    "public_timestamp": "2021-10-05T15:46:02.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Myanmar (Burma)  will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland. ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-10-07T16:55:20.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Myanmar (Burma), based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-11T09:33:30.000Z"
+                },
+                {
+                    "note": "Removal of information UK residents being banned from entering Myanmar ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-13T15:13:03.000Z"
+                },
+                {
+                    "note": "Update to information on border areas ('Safety and security' page)",
+                    "public_timestamp": "2021-10-14T14:27:01.000Z"
+                },
+                {
+                    "note": "Update to information on curfew hours in Yangon and update on flight options leaving Myanmar ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2021-10-28T15:38:18.000Z"
+                },
+                {
+                    "note": "Update to information on border areas ('Safety and security' page)",
+                    "public_timestamp": "2021-11-15T16:02:12.000Z"
+                },
+                {
+                    "note": "Update to information on approved vaccines for entry to Myanmar and update on other information on entry procedures ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-17T16:34:23.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for entry to Myanmar ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-20T10:28:54.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine measures ('Entry requirements' page), and on border areas ('Safety and security' page) ",
+                    "public_timestamp": "2022-01-25T17:05:25.000Z"
+                },
+                {
+                    "note": "Update to information on the security situation, the announcement of the resumption of commercial flights, and entry rules ('Summary', 'Returning to the UK', 'Safety and security' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-04-07T14:14:47.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and republished with amendments to the 'Summary', 'Coronavirus', 'Returning to the UK', 'Safety and security', 'Local laws and customs', 'Entry requirements' and 'Health' sections.",
+                    "public_timestamp": "2022-05-06T14:45:22.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all but essential travel to Myanmar, except for the Yangon region ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-06-23T11:10:05.000Z"
+                },
+                {
+                    "note": "New information and advice added following judicial executions on Monday 25 July.  There is heightened tension throughout the country as a result. Visitors to Myanmar should be extra vigilant (\u2018Safety and Security\u2019 page)",
+                    "public_timestamp": "2022-07-26T09:19:01.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with editorial amendments throughout.  Updated information on acceptable vaccines and new COVID-19 procedures  ('Entry requirements' and 'Coronavirus' pages)",
+                    "public_timestamp": "2022-08-05T11:36:34.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 procedures ('Entry requirements'  and 'Safety and security' pages).",
+                    "public_timestamp": "2022-08-17T09:04:15.000Z"
+                },
+                {
+                    "note": "Updated information on how minor infractions of the law can provide grounds for detention ('Summary' page).",
+                    "public_timestamp": "2022-09-06T08:05:07.000Z"
+                },
+                {
+                    "note": "Updated information on COVID \u2013 19 entry requirement procedures and how minor infractions of the law can provide grounds for arrest  ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2022-10-07T09:45:24.000Z"
+                },
+                {
+                    "note": "Updated with information about ongoing violent attacks   and updated COVID-19 entry requirement information (\u2018Summary\u2019, \u2018Safety and security\u2019 and 'Entry requirements' page).",
+                    "public_timestamp": "2022-12-02T12:58:18.000Z"
+                },
+                {
+                    "note": "Updated information about scams ('Safety and security' page).",
+                    "public_timestamp": "2022-12-15T11:21:57.000Z"
+                },
+                {
+                    "note": "Updated information about ongoing violent incidents ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-12-19T15:55:18.000Z"
+                },
+                {
+                    "note": "Updated information about heightened threat of attacks on Independence Day (4th January) ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-12-23T14:02:12.000Z"
+                },
+                {
+                    "note": "Updated information on the security situation in Myanmar (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2023-01-16T18:58:16.000Z"
+                },
+                {
+                    "note": "Removed information about the Independence Day holiday on 4 January ('Safety and security' page).",
+                    "public_timestamp": "2023-02-01T12:34:36.000Z"
+                },
+                {
+                    "note": "Update on downgrading of terror threat  (\u2018Terrorism\u2019 page).",
+                    "public_timestamp": "2023-03-06T20:40:54.000Z"
+                },
+                {
+                    "note": "Updated information about the relaxation of COVID-19 insurance requirements and information about visa overstay ('Entry requirements' page),",
+                    "public_timestamp": "2023-03-28T08:04:20.000Z"
+                },
+                {
+                    "note": "Updated information about cyclones ('Summary' and 'Natural Disasters' pages).",
+                    "public_timestamp": "2023-05-10T13:49:29.000Z"
+                },
+                {
+                    "note": "Updated Information on Cyclone Mocha, expected to make landfall in Sittwe on the afternoon of Sunday 14 May.",
+                    "public_timestamp": "2023-05-14T07:33:28.000Z"
+                },
+                {
+                    "note": "Updated information on Cyclone Mocha ('Summary' and 'Natural disasters' pages).",
+                    "public_timestamp": "2023-05-16T15:10:26.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:04:40.000Z"
+                },
+                {
+                    "note": "Relaxation of COVID-19 entry requirements and additional dates that could attract violence and an increased presence of security forces ('Entry requirements' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-07-19T14:05:17.000Z"
+                },
+                {
+                    "note": "FCDO advises against all travel to Northern Tanintharyi Region. FCDO continues to advise against all but essential travel to Central Rakhine State (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages).",
+                    "public_timestamp": "2023-09-18T12:15:31.000Z"
+                },
+                {
+                    "note": "FCDO now advises against all travel to Shan State North and North Mandalay Region (\u2018Warnings and insurance\u2019 and \u2018Safety and security\u2019 page).",
+                    "public_timestamp": "2023-11-10T12:35:36.000Z"
+                }
+            ],
+            "country": {
+                "name": "Myanmar (Burma)",
+                "slug": "myanmar",
+                "synonyms": [
+                    "Burma"
+                ]
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "2a62514d-d65a-4409-b414-2c1ecfcd9305",
+                "url": "https://assets.publishing.service.gov.uk/media/654e22c38a2ed40013720caa/FCDO__TA__064_-_Myanmar_Ed5.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/myanmar/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/654e22c38a2ed40013720ca9/FCDO__TA__064_-_Myanmar_Ed5__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth-and-development-office-fcdo-advises-against-all-travel-to\">The Foreign, Commonwealth and Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) advises against all travel to:</h3>\n<ul>\n  <li>The states of:\n    <ul>\n      <li>Mon</li>\n      <li>Kachin</li>\n      <li>Chin</li>\n      <li>Kayah</li>\n      <li>Kayin</li>\n    </ul>\n  </li>\n  <li>Sagaing and Magway regions</li>\n  <li>Northern Rakhine State</li>\n  <li>Tanintharyi Region excluding Myeik township, the archipelago and townships south of Tanintharyi Township</li>\n  <li>Shan State North</li>\n  <li>North Mandalay Region; the townships north of Mandalay City and Pyin Oo Lwin</li>\n</ul>\n\n<h3 id=\"the-foreign-commonwealth-and-development-office-fcdo-advises-against-all-but-essential-travel-to\">The Foreign, Commonwealth and Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) advises against all but essential travel to:</h3>\n\n<ul>\n  <li>Shan State South and East</li>\n  <li>Mandalay and Southern Tanintharyi Regions</li>\n  <li>Central Rakhine State including Sittwe District</li>\n</ul>\n\n<p>The security situation in Myanmar is unpredictable and liable to change without notice.</p>\n\n<p>Across Myanmar there have been significant numbers of violent attacks, including shootings and IEDs since a coup in February 2021. Attacks, including in Yangon and Naypyitaw,  primarily continue to target military or regime-affiliated locations such as government buildings and checkpoints, and military-owned businesses. However, attacks may impact civilian bystanders, including in areas regularly frequented by foreign nationals, such as hotels, restaurants, shopping malls and serviced accommodation complexes.</p>\n\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/myanmar/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Myanmar\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on foreign travel insurance</a>.</p>\n\n<p>There is conflict and significant violence across much of Myanmar, involving air strikes, artillery bombardments, landmines and armed clashes. While normal daily life has resumed in many urban centres, armed groups are likely to try to carry out attacks. Shootings and explosions are common, particularly around times of increased political tension. There have been attacks against military personnel, state infrastructure (e.g. police stations, traffic police huts, ward administration centres and electricity company offices), and businesses perceived as affiliated with the military. Areas frequented by foreigners (e.g. lodging/hotels, shopping areas and restaurants) could also be targeted.</p>\n\n<p>There are increasing reports of attacks on the Yangon-Mandalay Expressway and National Highway 1 linking Yangon to Mandalay. For more information <a href=\"https://www.gov.uk/foreign-travel-advice/myanmar/safety-and-security#yangon-mandalay-expressway\">see Yangon-Mandalay Expressway</a>.</p>\n\n<p>If you are in Yangon, Naypyitaw, Bago, Ayarwaddy or Southern Rakhine, remain vigilant, exercise caution and seek local advice. You should ensure you are aware of local rules, norms, and restrictions, especially if travelling to townships under martial law. You should seek advice from local tour operators before travelling.</p>\n\n<p>In Yangon, the townships currently under martial law are Hlaing Thayar, Shwe Pyithar, North Okkalapa, North Dagon, South Dagon and Dagon Seakkan, but these are subject to change.  See  the <a href=\"/foreign-travel-advice/myanmar/safety-and-security\">\u2018Safety and security\u2019</a> page for more details.</p>\n\n<p>There is a small risk to foreigners of arbitrary arrest and detention, though this is much higher for journalists and activists. The criminal justice process followed in such cases falls below international standards. Minor infractions of the law can provide grounds for arrest. Myanmar does not recognise dual nationality.</p>\n\n<p>The authorities in Myanmar are particularly sensitive to all forms of independent reporting and journalistic activity.</p>\n\n<p>Terrorists are likely to try to carry out attacks in Myanmar. You should remain vigilant and follow the advice of local authorities. See <a href=\"https://www.gov.uk/foreign-travel-advice/burma/terrorism\">Terrorism</a></p>\n\n<p>The banking sector has seen widespread disruption with many banks closed and some ATMs empty. While higher-end hotels and restaurants do tend to accept card payment, foreign cards are increasingly being declined. Check with your hotel or restaurant that they accept a foreign card. See <a href=\"/foreign-travel-advice/myanmar/money\">Money</a></p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. You should not assume that the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> will be able to provide assistance to leave the country in the event of serious unrest or crisis. If you\u2019re arrested or detained, ask police or prison officials to notify the British Embassy immediately.</p>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-myanmar/burma-overseas-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for Myanmar on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/156/myanmar-burma\">TravelHealthPro website</a></p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n\n<p>See <a href=\"/foreign-travel-advice/myanmar/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Myanmar.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-myanmar\">Travel in Myanmar</h2>\n\n<p>A limited schedule of domestic flights is operating, though the rules for access is subject to regular change.  You should contact individual airlines for details. You should comply with overnight curfews, and minimise movement during the day, avoiding crowds. If you attempt to travel domestically, you are likely to encounter police or military checkpoints on your journey.</p>\n\n<p>Due to extra COVID-19 checks, it is advisable that foreigners carry:</p>\n\n<ul>\n  <li>passport</li>\n  <li>Form C (immigration document)</li>\n  <li>Foreigner\u2019s Registration Certificate</li>\n  <li>Myanmar Driver\u2019s Licence (if you own a car)</li>\n  <li>a copy of your passport information page</li>\n  <li>a copy of your Myanmar visa</li>\n  <li>a copy of your immigration stamp showing when you last entered Myanmar</li>\n  <li>COVID-19 documentation e.g. proof of vaccination</li>\n</ul>\n\n<h2 id=\"accommodation\">Accommodation</h2>\n\n<p>There have been reports that some local authorities are carrying out checks to make sure all foreign visitors are staying in registered hotels and guesthouses, and not in private apartments. Due to COVID-19, this is a requirement under Myanmar law and is a condition of your visa.</p>\n\n<p>Some hotels have reopened but many tourist resorts remain closed. You should make sure you have you accommodation booked before travelling.</p>\n\n<h2 id=\"public-places-and-services\">Public places and services</h2>\n\n<p>COVID-19 restrictions remain in place. You must wear a face mask in public places. Failure to wear a mask may result in a fine.</p>\n\n<p>COVID-19 restrictions and policies may change without notice. You are advised to follow local media for updates or check locally within the township where you are.</p>\n\n<h2 id=\"healthcare\">Healthcare</h2>\n\n<p>If you\u2019re currently in Myanmar and are displaying symptoms of COVID-19, you should consult your healthcare provider. There are a small number of private hospitals in Yangon that are equipped to manage patients with severe symptoms.</p>\n\n<p>If you test positive for the virus, you may be transferred to a government quarantine hospital until you have recovered. These vary in quality. Patients in government hospitals are expected to make their own arrangements for bringing in food and other essential supplies. Lone travellers will not be allowed out of isolation to buy food.</p>\n\n<p>It may be difficult for you to travel to a neighbouring country for medical attention if you have COVID-19. You should check your personal arrangements with your healthcare provider.</p>\n\n<p>Prescriptions from the UK are not accepted in Myanmar. Most hospitals, both government and private, have their own pharmacies. A government hospital will provide a prescription for collection at their pharmacy once a patient has been assessed. To attend a private hospital or clinic you must first register, following an assessment any prescription can be collected at the pharmacy on their premises. If you are on regular medication, bring sufficient supplies with you, or is able to have their medication couriered from the UK.</p>\n\n<p>For contact details for English-speaking doctors <a href=\"https://www.gov.uk/government/publications/myanmar-list-of-medical-facilitiespractitioners\">visit our list of healthcare providers</a>.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a></p>\n\n<p>View <a href=\"/foreign-travel-advice/myanmar/health\">Health</a> for further details on healthcare in Myanmar.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"https://www.gov.uk/government/publications/financial-assistance-abroad/financial-assistanceabroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<p>If you need urgent consular assistance, contact your <a href=\"/world/embassies\">nearest British embassy, high commission or consulate</a>. All telephone numbers are available 24/7.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Myanmar held national elections on 8 November 2020, in which the National League of Democracy Party won a majority. The military subsequently alleged fraud in the elections and demanded a review. On 1 February 2021, the Myanmar military declared a state of emergency and assumed control by force. There has been widespread political violence involving the deaths of hundreds of ordinary people, as well as a major rise in active clashes between armed actors.</p>\n\n<p>There is a higher likelihood of opposition attacks and an increased presence of security forces on occasions of national significance, such as:</p>\n\n<ul>\n  <li>Myanmar National Day (4 January)</li>\n  <li>the anniversary of the 2021 coup (1 February)</li>\n  <li>Union Day (12 February)</li>\n  <li>Peasants Day (2 March)</li>\n  <li>Armed Forces Day (27 March)</li>\n  <li>Martyrs\u2019 Day (19 July)</li>\n  <li>the anniversary of the execution of political prisoners (23-25 July)</li>\n  <li>the lapsing of the state of emergency (1 August)</li>\n  <li>the 8888 uprising (8 August)</li>\n</ul>\n\n<p>Some areas in Myanmar are under a state of martial law, others may have curfews or \u2018stay at home\u2019 orders, for example, in Yangon, a number of townships have a curfew from 1AM-3AM. You should ensure you are aware of local rules and restrictions before you arrive in an area.</p>\n\n<p>Opposition activists regularly detonate small-scale improvised explosive devices across the country. Military and government buildings; police stations; and businesses, hotels and restaurants affiliated to the military (or perceived to be) are the main targets, but there have also been attacks on schools and hospitals. While small-scale, these devices are becoming increasingly sophisticated and the attacks more deadly.</p>\n\n<p>Following the execution of high-profile political prisoners on 25 July 2022, there has been an increase in tensions across the country and the number of explosions in public places. Visitors to Myanmar should be extra vigilant.</p>\n\n<p>You should remain cautious and avoid all demonstrations, large crowds and political gatherings. You should not attempt to photograph any gatherings.  See <a href=\"/foreign-travel-advice/myanmar/local-laws-and-customs#photography-and-drones\">Photography and drones</a> for more information. You should remain vigilant and follow the advice of local authorities.</p>\n\n<p>Ignoring military instructions or ignoring curfews could lead to detention and/or lengthy prison sentences. Curfews are in place nationwide. Local wards may unexpectedly change rules and curfew times and it is important to remain updated on local rules.</p>\n\n<h2 id=\"yangon-region\">Yangon region</h2>\n\n<p>Whilst we no longer advise against all but essential travel to Yangon region, there is still a heightened risk. The security situation remains volatile and can change at short notice. If you are in the Yangon region, you should remain vigilant, exercise caution and seek local advice, especially if travelling to townships which are under martial law. The townships currently under martial law are Hlaing Thayar, Shwe Pyithar, North Okkalapa, North Dagon, South Dagon and Dagon Seakkan, but this is subject to change.</p>\n\n<p>Security incidents in Yangon, like in the rest of Myanmar, continue to primarily target military regime-affiliated locations and personnel but may impact civilians and bystanders, including in areas regularly frequented by foreign nationals. This may include hotels, restaurants and accommodation complexes. Military installations, such as checkpoints, are also targets. If you encounter a threatening or intimidating situation, don\u2019t try to make your way through it. Turn around and move to safety.</p>\n\n<h3 id=\"yangon-mandalay-expressway\">Yangon-Mandalay expressway</h3>\n\n<p>There are reports of an increasing number of attacks on the Yangon-Mandalay Expressway and National Highway 1 linking Yangon to Mandalay. These have included the use of landmines and improvised explosive devices. There is an increased risk of attacks after dark, and an unofficial curfew is in place. You should exercise vigilance and use these roads during daylight only.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>There are no accurate official  statistics on violent crime or robbery against foreigners. Anecdotal evidence suggests that cases are low, although the economic pressure may cause an increase. The most common crimes are non-violent crimes of opportunity (pickpocketing, theft of unattended possessions in public places or hotel rooms, bag snatching, gem/confidence scams). Thieves often attempt to distract a victim by asking questions, begging for money, selling items, or bumping/jostling. You should take extra care of your belongings and take sensible security precautions at all times. You should be vigilant at all times, even if staying with friends, employers or hosts.</p>\n\n<p>Myanmar is largely a cash society. Make sure you have access to cash, but avoid displaying cash or other valuables in public.</p>\n\n<p>Beware of merchants offering to sell gems, gold or semi-precious stones. This could result in a substantial loss of money and/or a violation of local laws. Do not buy gems or minerals from an unlicensed source.</p>\n\n<h2 id=\"scams\">Scams</h2>\n\n<p>Be aware of job offers that appear \u201ctoo good to be true\u201d in Myanmar and neighbouring countries. There is a growing number of cyber scam centres operating in eastern Myanmar \u2013 particularly the Myawaddy district in eastern Kayin and Tachileik township in eastern Shan. Victims are trafficked into undertaking online scamming, held in poor living conditions, and subjected to severe mistreatment. Some victims have had their passports confiscated, and been held to ransom.</p>\n\n<p>We are aware of fraudulent emails being sent by individuals claiming to work for British firms seeking loans to advance their business interests in Myanmar. These have falsely stated they are acting on advice of the British Embassy. See our pages on <a href=\"https://www.gov.uk/government/news/stay-alert-to-fraud-and-financial-scams-abroad\">fraud and financial scams</a> for further guidance.</p>\n\n<h2 id=\"border-areas\">Border areas</h2>\n\n<p>The UK advises against all travel to Northern Rakhine, Chin, Kachin, Karen, Karenni and Mon States, Sagaing Region and Tanintharyi Region excluding Myeik township, the archipelago and townships south of Tanintharyi Township. The UK advises against all but essential travel to Shan State and Southern Taninthartharyi Region.</p>\n\n<p>Myanmar has suffered from prolonged internal conflicts, involving a number of Ethnic Armed Organisations in Myanmar\u2019s border areas.</p>\n\n<p>Violence is severe and the situation is unpredictable in most ethnic states and border areas. The Myanmar authorities restrict travel to most border areas. There are active military operations involving the use of air strikes, artillery bombardments and ground troops.</p>\n\n<p>In October 2023, Ethnic Armed Organisations launched a military offensive in Shan State North. Travellers on the Mandalay-Lashio road should remain vigilant and exercise caution due to a heightened risk of attacks \u2013 particularly after dark.</p>\n\n<h2 id=\"landmines\">Landmines</h2>\n\n<p>As a result of decades of conflict, the threat of landmines in rural areas is high - particularly in northern and central Rakhine, northern Shan and Kachin States. There is evidence of landmine use having spread to other areas since the coup. Some areas with known mines are marked by signage, but this practice is not widespread.  Visitors should exercise extreme caution if travelling off main roads in these areas.</p>\n\n<h2 id=\"air-travel\">Air travel</h2>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> cannot offer advice on the safety of individual airlines. However, the International Air Transport Association publishes a <a rel=\"external\" href=\"http://www.iata.org/whatwedo/safety/audit/Pages/index.aspx\">list of registered airlines</a>\u00a0that have been audited and found to meet a number of operational safety standards and recommended practices. This list is not exhaustive and the absence of an airline from this list doesn\u2019t necessarily mean that it\u2019s unsafe. A list of recent incidents and accidents is available on the website of the <a rel=\"external\" href=\"http://aviation-safety.net/database/country/country.php?id=XY\">Aviation Safety Network</a>. A Myanmar National Airlines plane was shot at in Kayah in October 2022.</p>\n\n<p>Airlines routinely share flight codes, meaning that airlines sometimes use aircraft from outside their own fleet. Passengers aren\u2019t always advised in advance where this is the case.</p>\n\n<p>Local flight schedules are subject to change without warning. Leave sufficient time in your travel itinerary to accommodate this.</p>\n\n<h2 id=\"rail-travel\">Rail travel</h2>\n\n<p>Railway safety standards are significantly below those in the UK.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>Overland travel can be hazardous, particularly in the rainy season (May to October). Roads can become impassable and bridges can be damaged. Travel by road between many areas outside the key destinations of Yangon, Mandalay, Bago and Irrawaddy regions is restricted.</p>\n\n<p>Road safety standards are significantly lower than in the UK. Serious road accidents are common. Under Myanmar law, the driver of a car involved in an accident with a pedestrian is always at fault. Many vehicles, including taxis and buses, are in a poor condition. Although driving is on the right in Myanmar, the majority of cars are right hand drive.</p>\n\n<h2 id=\"sea-and-river-travel\">Sea and river travel</h2>\n\n<p>Seek local advice about where it is safe to swim or dive. River transport may not meet internationally recognised safety standards, and search and rescue facilities may be limited.</p>\n\n<p>Passenger ferries in Rakhine State have been subject to attacks.</p>\n\n<p>During the monsoon season (May to October), heavy rains can cause flooding. Make sure life jackets are available and check local weather conditions before undertaking any river journey. All travellers should avoid wading, swimming or bathing in freshwater to prevent catching schistosomiasis. See <a href=\"/foreign-travel-advice/burma/health\">Health</a></p>\n\n<h2 id=\"mobile-phones-and-internet\">Mobile phones and Internet</h2>\n\n<p>The Myanmar authorities periodically cut off access to the Internet and have blocked several websites.</p>\n\n<p>Myanmar\u2019s technological infrastructure has improved. International GSM roaming is now available in Myanmar and all local networks offer 3G and 4G. If roaming is enabled, some UK SIM cards will work and coverage is fairly reliable in the main cities. UK mobile service providers may charge especially high prices for roaming in Myanmar.</p>\n\n<p>Many visitors travel with a spare mobile phone and buy a SIM card for a nominal fee when they arrive. This can then be topped up as needed.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorist attacks in Myanmar cannot be ruled out.</p>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<p>Terrorist attacks could be indiscriminate, including in places visited by foreigners: official buildings, commercial premises, transport hubs, festivals, hotels and cinemas. You should take sensible precautions and follow local advice.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<h2 id=\"criminal-justice\">Criminal justice</h2>\n\n<p>There is a risk of arbitrary detention and arrest, particularly for journalists and human rights activists. The criminal justice process followed in such cases falls below international standards. Myanmar does not recognise dual nationality.</p>\n\n<p>If you\u2019re arrested and convicted of a crime in Myanmar you can expect a long prison sentence. Conditions in detention are extremely poor. Pre-trial detention can last many months.</p>\n\n<p>The legal process in Myanmar is unpredictable, lacks transparency and is open to interference from powerful political and business interests. The investigation and trial process falls far below the standard expected in the UK. British nationals in Myanmar should be aware that there are limits to the assistance the British Embassy can offer to those with concerns about the fairness of their trial as we are unable to interfere in the legal processes of a host country.</p>\n\n<p>Sexual abuse against children is a serious crime. Those who commit sex offences against children abroad can also be prosecuted in the UK.</p>\n\n<p>Penalties for drug trafficking range from a minimum sentence of 15 years imprisonment to the death penalty.</p>\n\n<p>Myanmar\u2019s defamation laws give broad scope for individuals to bring potentially arbitrary charges which could result in criminal penalties, including a prison sentence. Foreigners have been subject to criminal investigations for acts such as posting a critical review of a hotel online.</p>\n\n<h2 id=\"religious-customs\">Religious customs</h2>\n\n<p>Respect religious customs when visiting Buddhist religious sites. Shorts and sleeveless tops will cause offence. You should remove shoes and socks before entering a pagoda or monastery.</p>\n\n<p>Under Myanmar law, insulting religion is a prosecutable offence. Insulting religion is a broad term, and can include any disrespectful depiction or image (including tattoos) of Buddha or other religious representation.</p>\n\n<h2 id=\"photography-and-drones\">Photography and drones</h2>\n\n<p>Do not take photographs or videos of the police, any demonstrations, military installations or military personnel.</p>\n\n<p>Importing unmanned aerial systems (drones) without prior government permission and flying them in sensitive areas such as government buildings, famous tourist sites, and religious buildings can result in criminal penalties, including jail time and the permanent confiscation of the drone. As it is rarely clear what constitutes a sensitive area, all recreational use of drones is inadvisable. If you wish to bring a drone to Myanmar, you\u2019re strongly advised to seek official permission from the Myanmar authorities.</p>\n\n<h2 id=\"endangered-species\">Endangered species</h2>\n\n<p>Myanmar is party to the <a rel=\"external\" href=\"http://www.cites.org/\">Convention on International Trade in Endangered Species (CITES)</a>. Over 800 species of animals and plants are banned from international trade and a further 30,000 are strictly controlled by CITES and EU legislation. You should consider the restrictions on the export of endangered species under CITES when deciding whether to buy exotic souvenirs, including those made from turtles.</p>\n\n<h2 id=\"lgbt-travellers\">LGBT+ travellers</h2>\n\n<p>Homosexuality is illegal in Myanmar, although in practice these laws are not consistently enforced. These laws can carry punishments of up to life imprisonment and apply equally to men and women. There have been reports of police using threats of prosecution to extort bribes, and allegations of arbitrary arrest and detention.</p>\n\n<p>Public attitudes towards LGBT+ people can be mixed. Up until recently, there have been increasingly large Pride festivals and growing visibility of the LGBT+ community, including gay bars and clubs. Public displays of affection, whether heterosexual or LGBT+, are frowned upon in Myanmar culture.</p>\n\n<p>See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT+ community before you travel.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n  <p>This page has information on travelling to Myanmar.</p>\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Myanmar set and enforce entry rules. If you\u2019re unsure how Myanmar\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>On arrival in Myanmar, foreign travellers are required to present printed proof of travel insurance that covers COVID-19. You will also need to submit a health declaration form, which will typically have been given to you during your flight.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<p>Before travel, we advise that all visitors check with their nearest Myanmar Embassy or Consulate to confirm your current visa will allow you entry, or the criteria for obtaining or renewing a visa.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>British nationals must apply for a visa to enter Myanmar. If you have any queries about visas or entry requirements you should check with your nearest Myanmar embassy. If you overstay your visa you will be liable to pay a fine, and could possibly face detention.</p>\n\n<h3 id=\"tourist-visas\">Tourist visas</h3>\n\n<p>You will need a visa to enter or travel through Myanmar as a visitor. You can apply for a tourist visa <a rel=\"external\" href=\"https://evisa.moip.gov.mm/\">online</a>.</p>\n\n<h3 id=\"business-visas\">Business visas</h3>\n\n<p>Applicants for business e-visas need to be sponsored by a registered Myanmar company or a registered Chamber of Commerce Association.</p>\n\n<p>Proof of invitation must be submitted with the visa application in the form of a letter personally addressed to the applicant, along with a copy of the company registration certificate. The letter must state the purpose and timeframe of the visit. The registration status of a company can be found online at <a rel=\"external\" href=\"https://www.myco.dica.gov.mm/\">Myanmar Companies Online</a>. NGOs and INGOs are not eligible to sponsor visas.</p>\n\n<h2 id=\"passport-validity\">Passport validity</h2>\n\n<p>Your passport should be valid for a minimum period of 6 months from the date of entry into Myanmar.</p>\n\n<h2 id=\"yellow-fever\">Yellow fever</h2>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/156/burma-myanmar#Vaccine_recommendations\">TravelHealthPro website</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/myanmar/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a>\nof the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h2 id=\"medical-treatment\">Medical treatment</h2>\n\n<p>The strikes in the medical sector in response to the coup have placed a severe strain on the Myanmar public health sector. Private medical facilities continue to operate. In areas where an overnight curfew is in place, such as Yangon, you may struggle to access emergency healthcare during the night.</p>\n\n<p>Many pharmaceutical products for sale in Myanmar are believed to be counterfeit.</p>\n\n<p>Competent medical advice and treatment may not be available outside Yangon and Mandalay, and any services provided will not be to the standard of those in the UK. You may need expensive medical evacuation costing up to tens of thousands of pounds. Make sure you have adequate <a href=\"/guidance/foreign-travel-insurance\">travel health insurance</a> and accessible funds to cover the cost of any medical treatment abroad and repatriation. Avoid intrusive examinations, including emergency dental work, due to irregular hygiene standards and the danger of infection, particularly by hepatitis B and C and HIV/AIDS.  Psychological and psychiatric services are also limited.</p>\n\n<p>Cash payment is often needed prior to receiving medical treatment in Myanmar. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and/or repatriation. The UK government can not pay for medical expenses overseas.</p>\n\n<p>The worldwide coronavirus outbreak is expected to put significant pressure on Myanmar\u2019s medical facilities. They may not be able to offer routine care. See <a href=\"/foreign-travel-advice/myanmar/coronavirus\">Coronavirus</a></p>\n\n<h2 id=\"health-risks\">Health risks</h2>\n\n<p>Mosquito-borne diseases such as malaria, dengue fever, Zika virus and Chikunguya are present in Myanmar. You should take <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance\">appropriate precautions</a> to avoid being bitten by mosquitos. For further advice, visit the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/156/burma-myanmar\">National Travel Health Network and Centre website</a>.</p>\n\n<p>Cases of <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/156/burma-myanmar#Other_risks\">schistosomiasis</a>, a parasitic infection, have been reported in Myanmar. There is no vaccine or medication to prevent schistosomiasis. You should avoid wading, swimming or bathing in freshwater. As the infection may cause no symptoms, all travellers who may have been exposed to schistosomiasis should have a medical assessment.</p>\n\n<p>Myanmar has faced challenges with outbreaks of Vaccine Derived Polio Viruses (VDPV), particularly in remote areas.  All travellers should check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/\">National Travel Health Network and Centre (NaTHNaC)</a> pages for specific advice on polio vaccinations</p>\n\n<h2 id=\"air-pollution\">Air pollution</h2>\n<p>Air pollution can affect major urban areas. This may aggravate bronchial, sinus or asthma conditions. Children, the elderly and those with pre-existing medical conditions may be especially affected. You can check real-time air-quality data for Yangon on the <a rel=\"external\" href=\"http://aqicn.org/city/maynmar/rangoon/us-embassy/\">World Air Quality Index website</a>.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<h2 id=\"earthquakes\">Earthquakes</h2>\n\n<p>Myanmar is subject to frequent earthquakes and tremors of varying magnitude.\u00a0</p>\n\n<p>To learn more about what to do before, during and after an earthquake, see the website of the <a rel=\"external\" href=\"http://www.ready.gov/earthquakes\">US Federal Emergency Management Agency</a>.</p>\n\n<h2 id=\"cyclones\">Cyclones</h2>\n\n<p>Myanmar normally experiences cyclones between mid-April and mid-May, and during October and November. You can monitor the progress of tropical cyclones on the website of the <a rel=\"external\" href=\"https://severeweather.wmo.int/\">World Meteorological Organisation.</a> Floods and landslides may occur. Check local weather reports before travelling, particularly in coastal areas.</p>\n\n<p>See our <a href=\"https://www.gov.uk/tropical-cyclones\">tropical cyclones page</a> for advice about what to do if you\u2019re caught up in a storm.</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "<p>There is significant disruption to banking services. You may find that some ATMs are not working. Some bank branches may be closed and some banks have imposed limits on daily withdrawals. Electronic payments and transfers are working but many commercial outlets will only accept cash.</p>\n\n<p>You should expect to rely on cash for most of your stay (preferably US dollars in pristine condition and high denomination). Visitors bringing in excess of $10,000 (or equivalent) in foreign currency should declare this to Customs on arrival or risk facing imprisonment.</p>\n\n<p>Dollars will be required when you leave the country for visa fines or to pay for excess baggage.</p>\n\n<p>Once in country it can be difficult finding a money changer to exchange US dollars into kyats. Due to concerns over counterfeit money, dollars with the letters AB and CB at the start of the serial number (top left-hand corner of the note) aren\u2019t always accepted. Notes with pen marks, folds or tears are also not accepted.</p>\n\n<p>If you intend to pay for hotels or restaurants with a credit or debit card, you should phone ahead and confirm that this will be possible. Many vendors will charge a high service fee for paying by card.</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on +44 (0)20 7008 5000 (24 hours).</p>\n</div>\n\n<h2 id=\"foreign-travel-checklist\">Foreign travel checklist</h2>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h2 id=\"travel-safety\">Travel safety</h2>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can not provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h2 id=\"refunds-and-cancellations\">Refunds and cancellations</h2>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can not offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h2 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h2>\n\n<p>We are no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h2 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h2>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can not find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Burma&amp;post=British%20Embassy%20Yangon\">send the Travel Advice Team a request</a>.</p>\n\n<h2 id=\"further-help\">Further help</h2>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Burma&amp;post=British%20Embassy%20Yangon\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-11-10T12:35:36Z",
+            "updated_at": "2023-11-10T12:35:36Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-21T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/myanmar",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/myanmar",
+                    "base_path": "/foreign-travel-advice/myanmar",
+                    "content_id": "ed343e59-83ca-496b-84b1-8f85c71a747d",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T12:35:36Z",
+                    "schema_name": "travel_advice",
+                    "title": "Myanmar travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/myanmar",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/myanmar",
+                    "api_url": "https://www.gov.uk/api/content/world/myanmar",
+                    "base_path": "/world/myanmar",
+                    "content_id": "bed8d222-a04c-4822-b273-2c9f5c4e2457",
+                    "description": "Services if you're visiting, studying, working or living in Myanmar (Burma). Includes information about trading with and doing business in the UK and Myanmar.",
+                    "details": {
+                        "internal_name": "UK help and services in Myanmar (Burma)",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2019-06-18T10:53:12Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Myanmar (Burma)",
+                    "web_url": "https://www.gov.uk/world/myanmar",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/thailand",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/thailand",
+                    "base_path": "/foreign-travel-advice/thailand",
+                    "content_id": "724a37c1-2f81-40b2-8640-d3d06e74d2bb",
+                    "details": {
+                        "change_description": "Advice on avoiding protests following Thailand\u2019s general election ('Safety and security' page).",
+                        "country": {
+                            "name": "Thailand",
+                            "slug": "thailand",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-14T11:43:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "Thailand travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/thailand",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/cambodia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/cambodia",
+                    "base_path": "/foreign-travel-advice/cambodia",
+                    "content_id": "8f98f704-65d6-44bc-8047-915066809df5",
+                    "details": {
+                        "change_description": "Updated information on reporting a crime ('Safety and security' page).",
+                        "country": {
+                            "name": "Cambodia",
+                            "slug": "cambodia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-08T09:06:08Z",
+                    "schema_name": "travel_advice",
+                    "title": "Cambodia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/cambodia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/laos",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/laos",
+                    "base_path": "/foreign-travel-advice/laos",
+                    "content_id": "602e34bf-8222-4391-96d9-548dbe1e1799",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Laos",
+                            "slug": "laos",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-01T13:37:07Z",
+                    "schema_name": "travel_advice",
+                    "title": "Laos travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/laos",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/vietnam",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/vietnam",
+                    "base_path": "/foreign-travel-advice/vietnam",
+                    "content_id": "8f6e7323-3d10-46da-a1a7-c50b5fc5a5ea",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Vietnam",
+                            "slug": "vietnam",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-21T11:21:29Z",
+                    "schema_name": "travel_advice",
+                    "title": "Vietnam travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/vietnam",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/china",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/china",
+                    "base_path": "/foreign-travel-advice/china",
+                    "content_id": "cb91b5b1-d4af-43d6-a9ea-48d56fe03300",
+                    "details": {
+                        "change_description": "Updated information about entry requirements ('Entry requirements' page).",
+                        "country": {
+                            "name": "China",
+                            "slug": "china",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-06T13:57:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "China travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/china",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-myanmar",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-myanmar",
+                    "base_path": "/world/living-in-myanmar",
+                    "content_id": "d5d5d192-1482-4d8f-abe7-eb2f665f2310",
+                    "description": "How to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Myanmar",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/myanmar",
+                                "api_url": "https://www.gov.uk/api/content/world/myanmar",
+                                "base_path": "/world/myanmar",
+                                "content_id": "bed8d222-a04c-4822-b273-2c9f5c4e2457",
+                                "description": "Services if you're visiting, studying, working or living in Myanmar (Burma). Includes information about trading with and doing business in the UK and Myanmar.",
+                                "details": {
+                                    "internal_name": "UK help and services in Myanmar (Burma)",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2019-06-18T10:53:12Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Myanmar (Burma)",
+                                "web_url": "https://www.gov.uk/world/myanmar",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2019-08-08T10:30:37Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Myanmar",
+                    "web_url": "https://www.gov.uk/world/living-in-myanmar",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-myanmar",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-myanmar",
+                    "base_path": "/world/travelling-to-myanmar",
+                    "content_id": "ae2ca5ec-5b7f-47cc-8c00-9f196ca596dd",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Myanmar",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/myanmar",
+                                "api_url": "https://www.gov.uk/api/content/world/myanmar",
+                                "base_path": "/world/myanmar",
+                                "content_id": "bed8d222-a04c-4822-b273-2c9f5c4e2457",
+                                "description": "Services if you're visiting, studying, working or living in Myanmar (Burma). Includes information about trading with and doing business in the UK and Myanmar.",
+                                "details": {
+                                    "internal_name": "UK help and services in Myanmar (Burma)",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2019-06-18T10:53:12Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Myanmar (Burma)",
+                                "web_url": "https://www.gov.uk/world/myanmar",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2019-06-10T16:42:34Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Myanmar",
+                    "web_url": "https://www.gov.uk/world/travelling-to-myanmar",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-10T12:35:36Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1699619736.794-10.13.21.247-51237",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Myanmar travel advice",
+        "updated_at": "2023-11-15T11:08:10Z",
+        "withdrawn_notice": {}
+    }
+}

@@ -1,0 +1,1054 @@
+{
+    "Country Slug": "united-arab-emirates",
+    "Country Name": "United Arab Emirates",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/united-arab-emirates",
+        "content_id": "753268f3-f9fb-44bb-bcb2-84a570ea637e",
+        "description": "Latest FCDO travel advice for United Arab Emirates including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Update to include information relevant for the period of COP28 in Dubai 30 November \u2013 12 December ('Summary' page). ",
+            "change_history": [
+                {
+                    "note": "Latest update: Health section (Medication) and summary - updated information and advice on UAE Ministry of Health requirements when travelling with medication",
+                    "public_timestamp": "2018-11-12T17:21:28.323Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) - amendments to information on 30-day visitor visas and visa extensions in-country",
+                    "public_timestamp": "2019-01-23T14:26:23.327Z"
+                },
+                {
+                    "note": "Latest Update - Safety and Security - Political Situation",
+                    "public_timestamp": "2019-06-18T19:38:52.103Z"
+                },
+                {
+                    "note": "Entry requirements (UK Emergency Travel Documents) - update to information on ETDs; Local laws and customs (Drugs, Alcohol) - some skincare products and E-cigarette refills may contain ingredients that are illegal in the UAE such as CBD oil; you should check the UAE Ministry of Health website;  tourists in Dubai are able to obtain a temporary liquor licence for the duration of a month from the two official liquor distributors",
+                    "public_timestamp": "2019-09-16T15:43:16.000Z"
+                },
+                {
+                    "note": "Local laws and customs (Photography/media) - updated information and advice on obtaining permits for media activity",
+                    "public_timestamp": "2019-12-12T14:12:21.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - Following the death of Iranian General Qasem Soleimani in a US strike in Baghdad on 3 January, British nationals in the region should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice.",
+                    "public_timestamp": "2020-01-04T13:00:51.000Z"
+                },
+                {
+                    "note": "Summary - amendments to existing information on increased tensions in the region",
+                    "public_timestamp": "2020-01-06T16:59:03.000Z"
+                },
+                {
+                    "note": "Summary and Health section \u2013 Updated information and advice following an outbreak of coronavirus in China and elsewhere including four reported cases in the United Arab Emirates",
+                    "public_timestamp": "2020-01-29T19:01:04.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) following confirmed cases of the virus in the UAE ('Health')",
+                    "public_timestamp": "2020-02-28T16:50:52.000Z"
+                },
+                {
+                    "note": "Update to existing information on measures taken by the UAE authorities to prevent the spread of coronavirus within the country ('Health')",
+                    "public_timestamp": "2020-03-04T17:00:30.000Z"
+                },
+                {
+                    "note": "Update to information on medical screening on arrival in the UAE ('Health' page)",
+                    "public_timestamp": "2020-03-05T16:01:22.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-12T11:02:13.000Z"
+                },
+                {
+                    "note": "Summary - Following the attack on the coalition base at Taji in Iraq on 11 March, and subsequent US airstrikes, tensions may be raised across the region. There is a possibility of an increased threat against Western interests, including against UK citizens. You should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice. ",
+                    "public_timestamp": "2020-03-14T20:20:28.000Z"
+                },
+                {
+                    "note": "Update on a number of measures to limit the spread of coronavirus (COVID-19) within the UAE. See 'Summary', 'Health' and 'Entry Requirements'",
+                    "public_timestamp": "2020-03-15T00:00:52.000Z"
+                },
+                {
+                    "note": "The UAE authorities have introduced a number of measures to limit the spread of coronavirus (COVID-19) within the UAE. ('Entry Requirements', 'Health')\r\n",
+                    "public_timestamp": "2020-03-15T18:33:38.000Z"
+                },
+                {
+                    "note": "Addition of information on travel restrictions including the suspension of visas on arrival from 19 March ('Health', 'Entry requirements' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-17T18:29:16.000Z"
+                },
+                {
+                    "note": "Update of information on measures introduced by UAE authorities in relation to coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-19T11:58:48.000Z"
+                },
+                {
+                    "note": "With effect from 19 March only UAE Citizens will be allowed to enter the UAE. ('Summary', 'Entry Requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-19T14:34:04.000Z"
+                },
+                {
+                    "note": "Additional information that GCC Citizens (excluding Citizens of Qatar) will be allowed to enter the UAE and addition of hotline for holders of valid UAE Residence visas. ('Summary', 'Entry Requirements' and 'Health' pages.)",
+                    "public_timestamp": "2020-03-20T15:55:23.000Z"
+                },
+                {
+                    "note": "Flights to and from the UAE may be completely suspended with short notice.  Emirates Airlines will temporarily suspend flights from 25 March. ('Summary', 'Entry requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-22T16:36:53.000Z"
+                },
+                {
+                    "note": "Flights to and from the UAE may be completely suspended with short notice. Emirates Airlines will operate service to the UK. ('Summary', 'Entry requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-03-22T18:06:00.000Z"
+                },
+                {
+                    "note": "If you are in the UAE and it is essential that you return to the UK, you should do so now ('Summary', 'Return to the UK' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-03-23T16:46:37.000Z"
+                },
+                {
+                    "note": "Updated information and advice following announcement that inbound and outbound flights will stop as of midnight on 24 March ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-24T17:39:04.000Z"
+                },
+                {
+                    "note": "Updated information and advice following the ceasing of  inbound and outbound flights at 23:59  on 24 March and local measures restricting movements ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-26T18:19:48.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information and advice following the ceasing of inbound and outbound flights at 23:59 on 24 March and local measures restricting movements ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-04T02:33:06.000Z"
+                },
+                {
+                    "note": "Update to local measures ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-04-07T09:55:08.000Z"
+                },
+                {
+                    "note": "Updated information that visas and entry permits that expired after 1 March 2020 are now valid until the end of December 2020 and update on exit requirements. ('Return to the UK' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-04-14T16:09:14.000Z"
+                },
+                {
+                    "note": "Updated information regarding partial relaxation of movement restrictions and addition of airline weblinks ('Coronavirus Local measures' and 'Return to UK' pages).",
+                    "public_timestamp": "2020-04-24T11:35:46.000Z"
+                },
+                {
+                    "note": "Updated information about flights for British Residents who wish to return to the UAE ('Summary', 'Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-05-13T10:29:36.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:52:21.000Z"
+                },
+                {
+                    "note": "Updated information on local measures ('Staying during coronavirus' page) ",
+                    "public_timestamp": "2020-06-02T12:05:57.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T13:23:50.000Z"
+                },
+                {
+                    "note": "Addition of information on new procedures for residents and visitors to the UAE ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-23T16:16:09.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-16T15:00:57.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus restrictions. Addition of information on new COVID-19 testing rules that come into effect on 1 August ('Coronavirus' and \u2018Entry requirements' pages)",
+                    "public_timestamp": "2020-07-28T16:46:01.000Z"
+                },
+                {
+                    "note": "Addition of information on new coronavirus (COVID-19) testing rules that come into effect on 11 August and information about Emergency Travel Documents ('Summary' and \u2018Entry requirements' pages)",
+                    "public_timestamp": "2020-08-12T12:32:53.000Z"
+                },
+                {
+                    "note": "Update to information on requirements for residents returning to the United Arab Emirates, other than Dubai. ('Summary' and \u2018Entry requirements' pages)",
+                    "public_timestamp": "2020-08-13T16:06:37.000Z"
+                },
+                {
+                    "note": "Update to information on use of UK Emergency Travel Documents ('Entry requirements' page) ",
+                    "public_timestamp": "2020-09-10T11:07:11.000Z"
+                },
+                {
+                    "note": "Update to information on UK Emergency Travel Documents ('Entry requirements' page)",
+                    "public_timestamp": "2020-09-10T14:05:50.000Z"
+                },
+                {
+                    "note": "Update to information about schools ('Coronavirus\u2019 page); information about entry to Abu Dhabi (\u2018Entry Requirements\u2019 page) and information about quarantine on arrival (\u2018Entry Requirements\u2019 page) ",
+                    "public_timestamp": "2020-09-16T15:33:56.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for Abu Dhabi and COVID-19 PCR testing requirements before departure from the UAE ('Summary' and \u2018Entry requirements\u2019 pages) ",
+                    "public_timestamp": "2020-10-06T16:41:17.000Z"
+                },
+                {
+                    "note": "Update to summary information on entry requirements depending on port of entry ('Summary' page)",
+                    "public_timestamp": "2020-10-27T09:58:07.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements for entry to Dubai and the rest of the UAE ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-04T13:59:36.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against travel to the UAE. The UAE is now on the list of countries and territories where self-isolation is not required on return to the UK. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-11-12T20:52:05.000Z"
+                },
+                {
+                    "note": "Addition of information about PCR testing for those travelling to Abu Dhabi (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-12-08T15:55:08.000Z"
+                },
+                {
+                    "note": "COVID-19 PCR testing before departure to Abu Dhabi from the UK has now been decreased from 96 to 72 hours (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2020-12-21T18:39:31.000Z"
+                },
+                {
+                    "note": "Change of COVID-19 testing and quarantine rules for Abu Dhabi (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2020-12-23T14:57:36.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements for entry to the UAE ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-07T10:24:50.000Z"
+                },
+                {
+                    "note": "The Scottish Government removed Dubai from the travel corridor list on 11 January 2021. If you arrive in Scotland from Dubai on or after 4am on 11 January, you must self-isolate. ('Summary' page)",
+                    "public_timestamp": "2021-01-11T11:05:19.000Z"
+                },
+                {
+                    "note": "All air and sea points of entry between the UAE and Qatar reopened on 9 January 2021. ",
+                    "public_timestamp": "2021-01-11T11:43:02.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to the UAE, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-01-11T19:47:32.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in United Arab Emirates (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-13T14:11:46.000Z"
+                },
+                {
+                    "note": "Additional information on the requirement for pre-departure COVID-19 PCR testing for tourist and visitors travelling to Dubai (\u2018Summary\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2021-01-14T14:25:42.000Z"
+                },
+                {
+                    "note": "Additional information on quarantine requirements for travelling to Abu Dhabi and reopening of schools in UAE (\u2018Summary\u2019, 'Coronavirus' and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2021-01-20T13:37:32.000Z"
+                },
+                {
+                    "note": "From 1pm on 29 January, direct flights from the UAE to England and Scotland are prohibited. Visitors who have been in or transited through the UAE in the previous 10 days cannot enter England and Scotland. From 4am on 29 January visitors who have been in or transited through the UAE in the previous 10 days cannot enter Wales. From 4am on 30 January visitors who have been in or transited through the UAE in the previous 10 days cannot enter Northern Ireland. ",
+                    "public_timestamp": "2021-01-28T20:42:13.000Z"
+                },
+                {
+                    "note": "Update to information on a change of PCR testing requirement for travellers to Dubai and change of rules for entering Abu Dhabi by land (\u2018Summary\u2019 \u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages).",
+                    "public_timestamp": "2021-02-01T16:25:30.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in UAE (\u2018Coronavirus page\u2019)",
+                    "public_timestamp": "2021-02-11T10:12:25.000Z"
+                },
+                {
+                    "note": "Removal of information on travellers to Abu Dhabi who have participated in the national vaccination programme ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-02-12T16:03:04.000Z"
+                },
+                {
+                    "note": "Update to information on entry to the UK from UAE ('Summary' page)",
+                    "public_timestamp": "2021-02-16T17:26:44.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from the United Arab Emirates ('Summary' page)",
+                    "public_timestamp": "2021-02-19T16:03:46.000Z"
+                },
+                {
+                    "note": "Update to information on arrival to/departures from Dubai and Abu Dhabi.  Update to information on waiver of visa fines for visitors to Dubai. ('Summary' and 'Entry requirements' pages)\r\n",
+                    "public_timestamp": "2021-02-23T14:51:34.000Z"
+                },
+                {
+                    "note": "From 4am 9 April direct flights from the UAE to Scotland will no longer be prohibited ('Summary' page)",
+                    "public_timestamp": "2021-04-08T16:07:15.000Z"
+                },
+                {
+                    "note": "Updated information on requirements to Abu Dhabi; travellers from the UK that are travelling to Abu Dhabi are exempt from quarantine requirements ('Summary' and \u2018Entry Requirements\u2019 page)",
+                    "public_timestamp": "2021-05-06T09:41:55.000Z"
+                },
+                {
+                    "note": "Addition of information on Ramadan dates for 2022 ('Local laws and customs' page)",
+                    "public_timestamp": "2021-06-01T09:33:05.000Z"
+                },
+                {
+                    "note": "From 8 June, direct flights can arrive in England from the UAE, but they must arrive at dedicated terminals at Heathrow and Birmingham airports. Different requirements may apply for arrivals into Scotland, Wales and Northern Ireland. ('Returning to the UK')",
+                    "public_timestamp": "2021-06-04T14:29:13.000Z"
+                },
+                {
+                    "note": "The UK has been removed from the Abu Dhabi 'Green List' for travellers with effect from 13 June 2021 (Entry requirements)",
+                    "public_timestamp": "2021-06-13T12:10:53.000Z"
+                },
+                {
+                    "note": "New information and advice on using the \u2018Green Pass\u2019 on the \u2018ALHOSN App\u2019 for entry to public places ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-17T11:27:37.000Z"
+                },
+                {
+                    "note": "New information on the temporary suspension of the Green Pass on the ALHOSN app for entry to public places in Abu Dhabi ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-18T11:28:21.000Z"
+                },
+                {
+                    "note": "Update to information on entry to Abu Dhabi and restrictions in place on public spaces and services ('Entry requirements' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-07-07T15:41:24.000Z"
+                },
+                {
+                    "note": "Updated information on the rules for entering and remaining in Abu Dhabi that come into effect on 19 July (See 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-07-16T18:07:55.000Z"
+                },
+                {
+                    "note": "Additional update on the rules for entering and remaining in Abu Dhabi that come into effect on 19 July (See 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-07-18T16:23:44.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in United Arab Emirates ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-27T14:36:48.000Z"
+                },
+                {
+                    "note": "From 4am on Sunday 8 August the United Arab Emirates will move to the amber list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-05T09:06:25.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the United Arab Emirates, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2021-08-06T10:51:07.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for entry to Adu Dhuabi; all vaccinated visitors can travel quarantine-free to Abu Dhabi and unvaccinated travellers, including those exempt from vaccination, arriving into Abu Dhabi from green list destinations must take a PCR test on arrival ('Entry requirements' page)",
+                    "public_timestamp": "2021-09-10T16:32:54.000Z"
+                },
+                {
+                    "note": "Update to information on getting a COVID-19 vaccine if you live in the UAE and update on restrictions on public spaces and services ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-15T09:28:36.000Z"
+                },
+                {
+                    "note": "Update to information on procedures to enter Abu Dhabi emirate from within the UAE ('Entry requirements' page)",
+                    "public_timestamp": "2021-09-23T16:10:20.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 procedures for travel between the UK and UAE and COVID-19 rules and restrictions whilst staying in the UAE ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-01T13:08:13.000Z"
+                },
+                {
+                    "note": "Update to information on terrorism ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-11-16T14:57:03.000Z"
+                },
+                {
+                    "note": "New information on procedures for entry to Abu Dhabi; EDE scanners have been reintroduced for overland travel to Abu Dhabi ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-21T11:04:33.000Z"
+                },
+                {
+                    "note": "Updated information on procedures for entering Abu Dhabi ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-29T14:10:11.000Z"
+                },
+                {
+                    "note": "Update to information on testing before arrival ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-31T19:46:19.000Z"
+                },
+                {
+                    "note": "Update to information on testing and quarantine rules from 3 January ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-02T12:07:49.000Z"
+                },
+                {
+                    "note": "Update to information on cruise ships ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-07T15:26:03.000Z"
+                },
+                {
+                    "note": "Information on Houthi attack in Abu Dhabi on 17 January ('Safety and security' page)",
+                    "public_timestamp": "2022-01-18T16:07:35.000Z"
+                },
+                {
+                    "note": "Updated information following a missile attack in Abu Dhabi on 17 January 2022 (\u2018Summary\u2019 and \u2018Safety and Security\u2019 pages).  ",
+                    "public_timestamp": "2022-01-19T21:25:51.000Z"
+                },
+                {
+                    "note": "Updated information following a missile attack in Abu Dhabi on 24 January 2022 (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages).",
+                    "public_timestamp": "2022-01-24T16:18:23.000Z"
+                },
+                {
+                    "note": "Updated information on travellers wanting to travel into UAE with medication ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-26T13:24:47.000Z"
+                },
+                {
+                    "note": "Update to Summary and Safety and security pages",
+                    "public_timestamp": "2022-01-28T18:34:47.000Z"
+                },
+                {
+                    "note": "Additional information on UAE's current political situation ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-01-31T11:43:38.000Z"
+                },
+                {
+                    "note": "Updated information on UAE's current political situation ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-02-02T10:46:54.000Z"
+                },
+                {
+                    "note": "Updated information on entry and borders ('Entry requirements' pages)",
+                    "public_timestamp": "2022-03-01T11:20:43.000Z"
+                },
+                {
+                    "note": "Updated information on 'Safety and security', 'Local laws and customs' and 'Entry requirements' pages.",
+                    "public_timestamp": "2022-03-04T16:16:44.000Z"
+                },
+                {
+                    "note": "Updated information on 'Safety and security' and 'Local laws and customs' pages",
+                    "public_timestamp": "2022-03-11T10:58:00.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements in relation to COVID-19 and public spaces and services ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-03-18T17:29:55.000Z"
+                },
+                {
+                    "note": "Following the death of the President of the United Arab Emirates, the country is observing a period of mourning until 22 June.   Residents and visitors to the UAE should show respect during this time.  British Embassy offices in Abu Dhabi and Dubai will reopen on Tuesday 17 May  ('Summary' page) ",
+                    "public_timestamp": "2022-05-14T07:41:55.000Z"
+                },
+                {
+                    "note": "Updated information on safety assessment and information about being pregnant and giving birth in the UAE ('Summary', \u2018Safety and Security\u2019, \u2018Terrorism\u2019 and \u2018Local laws and customs\u2019 pages)",
+                    "public_timestamp": "2022-05-27T10:18:00.000Z"
+                },
+                {
+                    "note": "Updated information on travelling within the UAE, 2023 Ramadan dates, drugs offences in the UAE and the use of Emergency Travel Documents ('Summary', \u2018Coronavirus\u2019 , \u2018Local laws and customs\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-07-15T13:08:19.000Z"
+                },
+                {
+                    "note": "Children under 16 years of age arriving in Dubai do not need to take a COVID-19 PCR test before they travel and addition of link to IATA Travel Centre website ('Entry requirements' page).\r\n\r\n",
+                    "public_timestamp": "2022-08-18T11:04:59.000Z"
+                },
+                {
+                    "note": "Updated Information on new mask mandates due to changes introduced across UAE on 28 September ('Coronavirus' page).",
+                    "public_timestamp": "2022-09-28T14:47:21.000Z"
+                },
+                {
+                    "note": "Updated information on the Qatar World Cup 2022 and Non-vaccinated visitors to events, tourist attractions and cultural sites in Abu Dhabi may enter with a \u2018green pass\u2019 on the AlHosn app('Summary' and 'Coronavirus' pages).",
+                    "public_timestamp": "2022-10-07T15:56:06.000Z"
+                },
+                {
+                    "note": "Updated information on the Qatar World Cup 2022 transfer from UAE by road via Saudi Arabia ('Summary' page).",
+                    "public_timestamp": "2022-10-20T09:15:21.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures in the UAE and Entry Requirements in to the UAE ('Coronavirus\u2019 and 'Entry Requirements\u2019 page).",
+                    "public_timestamp": "2022-11-18T17:47:39.000Z"
+                },
+                {
+                    "note": "Updated information  for those travelling to the FIFA World Cup in Qatar (Summary\u2019 page).",
+                    "public_timestamp": "2022-12-09T18:13:03.000Z"
+                },
+                {
+                    "note": "Removal of information about the FIFA World Cup in Qatar ('Summary' page).",
+                    "public_timestamp": "2023-01-06T12:43:30.000Z"
+                },
+                {
+                    "note": "Minor updates to clarify language ('Safety and security', 'Local laws and customs' and 'Entry requirements' pages).",
+                    "public_timestamp": "2023-03-03T15:21:48.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                    "public_timestamp": "2023-06-22T08:43:08.000Z"
+                },
+                {
+                    "note": "Information on the need to get permits for media activity in the UAE and the risk if permission is not obtained (\u2018Local laws and customs\u2019 page). ",
+                    "public_timestamp": "2023-10-25T12:46:30.000Z"
+                },
+                {
+                    "note": "Updated assessment that the risk of terrorist attacks happening in the UAE is very likely (\u2018Terrorism\u2019 page).",
+                    "public_timestamp": "2023-10-29T14:28:28.000Z"
+                },
+                {
+                    "note": "Update to include information relevant for the period of COP28 in Dubai 30 November \u2013 12 December ('Summary' page). ",
+                    "public_timestamp": "2023-11-08T12:35:56.000Z"
+                }
+            ],
+            "country": {
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates",
+                "synonyms": [
+                    "UAE",
+                    "Dubai",
+                    "Abu Dhabi"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/united-arab-emirates/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/united-arab-emirates/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for the UAE\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>The COP28 Summit takes place in Dubai 30 November to 12 December. If you are attending COP28, check <a rel=\"external\" href=\"https://www.cop28.com/en/\">the COP28 website</a> for attendance requirements, including information on accreditation and visas.</p>\n\n<p>All visitors to Dubai during this time can expect to see an increased security presence and road closures. The high number of attendees may create a pressure on availability of accommodation and transport.</p>\n\n<p>Pre-planned and authorised demonstrations are likely, including within the summit area. Spontaneous or unauthorised demonstrations are illegal in the UAE.</p>\n\n<p>Posting material online that is critical of the UAE government, companies or individuals or that is culturally insensitive, is illegal. [See <a href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates/local-laws-and-customs#photographymedia\">Photography/Media section of local laws and customs</a> for more information.]</p>\n\n<p>A number of missiles and unmanned aerial systems (drones) were launched into the UAE from Yemen in early 2022, targeting infrastructure and high profile locations, some of which were in populated areas. Most of these missiles and drones were intercepted and destroyed but there were a small number of casualties. On 17 January 2022, the UAE authorities confirmed a Houthi attack on civilian facilities in Abu Dhabi, which caused the death of three civilians. On 24 January 2022, the UAE authorities announced that their air defence forces had intercepted and destroyed two Houthi ballistic missiles targeting the UAE and that there were no casualties. On 31 January 2022, the UAE authorities announced their air defence forces had intercepted and destroyed a ballistic missile targeting the UAE and that there were no casualties.</p>\n\n<p>There is a possibility of an increased threat against Western interests, including against UK citizens. You should remain vigilant and keep up to date with the latest developments, including via the media and <a href=\"/foreign-travel-advice/united-arab-emirates/email-signup\">this travel advice</a>.</p>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>)\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Around 1.5 million British nationals visit the UAE every year. Most visits are trouble-free.</p>\n\n<p>Terrorists are very likely to try to carry out attacks in the UAE. See <a href=\"/foreign-travel-advice/united-arab-emirates/terrorism\">Terrorism</a></p>\n\n<p>If an incident does occur, you should monitor local media reports and follow the advice of the local authorities. See <a href=\"/foreign-travel-advice/united-arab-emirates/safety-and-security\">Safety and Security</a> and <a href=\"/foreign-travel-advice/united-arab-emirates/terrorism\">Terrorism</a>.</p>\n\n<p>If you\u2019re planning to travel with prescribed or over the counter medicines for personal use, you\u2019ll need to meet the UAE\u2019s specific requirements for your medicine to be allowed into the country. See <a href=\"/foreign-travel-advice/united-arab-emirates/entry-requirements#medication\">Medication</a></p>\n\n<p>The UAE is a Muslim country. Laws and customs are very different to those in the UK. You should respect local traditions, customs, laws and religions at all times. There may be serious penalties for doing something that might not be illegal in the UK. See <a href=\"/foreign-travel-advice/united-arab-emirates/local-laws-and-customs\">Local laws and customs</a></p>\n\n<p>You can contact the emergency services by calling 999 (police), 997 (fire) or 998 (ambulance).</p>\n\n<p>If you\u2019re in the UAE and need emergency help from the UK government, contact <a href=\"https://www.gov.uk/world/organisations/british-embassy-abu-dhabi\">the British Embassy in Abu Dhabi</a> or <a href=\"https://www.gov.uk/world/organisations/british-embassy-dubai\">the British Embassy in Dubai</a>.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for the United Arab Emirates on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/233/united-arab-emirates#COVID-19\">TravelHealthPro website</a></p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<p>You should contact your airline - <a rel=\"external\" href=\"https://www.emirates.com/uk/english/help/covid-19/dubai-travel-requirements/\">Emirates</a> <a rel=\"external\" href=\"https://www.etihad.com/en-gb/travel-updates/all-destinations-travel-guides\">Etihad Airways</a> or <a rel=\"external\" href=\"https://www.britishairways.com/en-gb/information/incident/coronavirus/latest-information\">British Airways</a> or local health authorities for <a rel=\"external\" href=\"https://www.dha.gov.ae/en/Covid19/Pages/Coronavirus.aspx\">Dubai</a> and <a rel=\"external\" href=\"https://www.seha.ae/screening-locations/\">Abu Dhabi</a> for information on testing facilities.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-within-the-united-arab-emirates\">Travel within the United Arab Emirates</h2>\n\n<p>COVID-19 cases continue to be recorded in the UAE and public health measures are in place in response to the outbreak. These can vary between each Emirates and the ease of movement between regions may be affected. The local rules may change, including at short notice. You should check them carefully before you travel and whilst you are in the UAE, and ensure you comply.</p>\n\n<p>The UAE authorities have stated that any violation of instructions and procedures put in place to limit the spread of COVID-19 will be treated as a crime punishable by law.</p>\n\n<p>The rules for entering and remaining in Abu Dhabi and Dubai may change. You should check the current requirements on the <a rel=\"external\" href=\"https://www.etihad.com/en-gb/travel-updates/all-destinations-travel-guides\">Etihad Airways website</a> or <a rel=\"external\" href=\"https://www.emirates.com/uk/english/help/covid-19/dubai-travel-requirements/\">Emirates airline website</a>.</p>\n\n<h2 id=\"public-spaces-and-services\">Public spaces and services</h2>\n\n<p>Shops, restaurants, tourist attractions and religious establishments across the UAE are open and operating as normal. There may be restrictions and requirements in place to help contain the spread of COVID-19; please check and follow local guidelines. The rules for masks changed on 7 November. The wearing of masks is only mandatory in medical facilities and centres for people with disabilities. Wearing of masks is optional for all other open and closed facilities and spaces. Further information is available on the <a rel=\"external\" href=\"https://wam.ae/en/details/1395303098773\">Emirates News Agency website</a>.</p>\n\n<p>The\u00a0<a rel=\"external\" href=\"https://alhosnapp.ae/en/home/\">AlHosn app</a>\u00a0is the UAE\u2019s official app related to COVID-19.  With effect from 7 November it is no longer necessary to have a \u2018green pass\u2019 on the \u2018Al Hosn\u2019 App to enter public facilities and sites. The Al Hosn App use will be limited to proving vaccination and test results. Further information is available on the <a rel=\"external\" href=\"https://wam.ae/en/details/1395303098773\">Emirates News Agency website</a>.</p>\n\n<p>Some schools may close or move to remote learning if there are outbreaks of COVID-19. In Abu Dhabi, students aged 16 years and above are required to be vaccinated to enter school.</p>\n\n<h2 id=\"healthcare-in-the-united-arab-emirates\">Healthcare in the United Arab Emirates</h2>\n\n<p>You should keep up to date with local public health measures and comply with instructions. If you fail to do so you risk being fined or imprisoned.</p>\n\n<p>Information about the UAE\u2019s approach can be found on the website of the Ministry of Health and Prevention through its <a rel=\"external\" href=\"https://mohap.gov.ae/en/covid-19\">COVID-19 Information Centre</a>. You can also keep up to date with information via official sources such as the <a rel=\"external\" href=\"https://u.ae/en#/\">UAE Government Portal</a>, <a rel=\"external\" href=\"https://mediaoffice.ae/news/2020/Apirl/23-04/High-Comitteee\">Dubai Media Office</a> and <a rel=\"external\" href=\"https://wam.ae/en/\">Emirates News Agency</a>.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a></p>\n\n<p>View <a href=\"/foreign-travel-advice/united-arab-emirates/health\">Health</a> for further details on healthcare in the UAE.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<p>If you need urgent consular assistance whilst in the UAE contact:</p>\n\n<ul>\n  <li><a href=\"/world/organisations/british-embassy-dubai\">British Embassy Dubai</a></li>\n  <li><a href=\"/world/organisations/british-embassy-abu-dhabi\">British Embassy Abu Dhabi</a></li>\n</ul>\n\n<p>All telephone numbers are available 24/7.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h2 id=\"crime\">Crime</h2>\n\n<p>Over 1.5 million British visitors travel to the UAE every year and more than 100,000 British nationals are resident there. The vast majority of visits are trouble-free, but you should take sensible precautions to protect yourself and your belongings. Don\u2019t accept lifts from strangers. Use only licensed taxis or other recognised forms of public transport including the \u2018Careem\u2019 and \u2018Uber\u2019 apps. In Dubai authorised taxis are painted cream with different coloured roofs \u2013 taxis with pink roofs have female drivers. In Abu Dhabi taxis are painted silver/grey.</p>\n\n<p>Personal attacks, including sexual assault and rape, are relatively rare, but do happen. The UAE imposes life imprisonment for males who rape a female and the death penalty can be applied in certain cases.  However, UAE law places a high burden of proof on the victim to demonstrate that the sexual relations were not consensual, especially when the victim had consumed alcohol or where the alleged attacker was known to the victim. If the sexual relations are determined to have been consensual, either party may still face prosecution for the offence of sex outside marriage in certain circumstances. See <a href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates/local-laws-and-customs\">Local Laws and customs</a> page</p>\n\n<p>Female visitors and residents should take care when walking or travelling alone, and should use a reputable taxi company, particularly at night. Drink spiking can occur. Don\u2019t accept drinks from strangers or leave drinks unattended.</p>\n\n<h2 id=\"beach-safety\">Beach safety</h2>\n\n<p>Rip currents can occur at any beach, and can sweep even the strongest swimmer out to sea. Always comply with warning signs, especially red flags, and only swim from approved beaches.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>If you\u2019re visiting the UAE, you can drive a rental car using your UK driving licence. If you intend to drive a private vehicle as a visitor, you should check that you\u2019re covered under the vehicle\u2019s insurance.</p>\n\n<p>If you\u2019re applying for residence in the UAE, you can use your UK licence until your residence permit is issued, after which you\u2019ll need to immediately get a UAE driving licence from the traffic department.</p>\n\n<p>Driving standards in the UAE are not always as disciplined as in the UK and there is a high rate of traffic accidents. Speeding is common.</p>\n\n<p>It is a criminal offence in the UAE to drink and drive, no matter how small the amount. Your insurance is also likely to be invalidated in the event of an accident. Offensive gestures and bad language directed at other drivers can lead to fines, a jail sentence, and possibly deportation. Flashing your lights in the UAE can mean a driver is coming through, rather than giving way.</p>\n\n<p>If you have an accident you should follow the rules of the Emirate in which you are travelling. In Abu Dhabi, if no one has been hurt and vehicle damage is minor, drivers should move vehicles to the side of the road to avoid blocking traffic; otherwise, the vehicles should not be moved. In Dubai, you should only move your vehicle if it is causing an obstruction to other motorists. In the other Emirates, you may only move your car if the accident is minor and both parties agree who is responsible. In all cases, call the police. It is an offence to leave the scene of an accident before the police have arrived.</p>\n\n<p>Excursions to the desert can be dangerous unless you\u2019re in a properly equipped 4 x 4 vehicle. Always travel with other cars, take a supply of water and a mobile telephone, and leave a copy of your travel plans with friends or relatives.</p>\n\n<p>Pedestrians should take great care. Only cross roads using designated pedestrian crossings, failure to comply can lead to prosecution. Vehicles often don\u2019t stop at zebra crossings marked on the roads.</p>\n\n<h2 id=\"sea-travel\">Sea travel</h2>\n\n<p>Many areas of the Gulf are highly sensitive, including near maritime boundaries and the islands of Abu Musa and the Tunbs in the southern Gulf. Vessels entering these areas have been detained and inspected. Mariners should make careful enquiries before entering these waters.</p>\n\n<p>You should consider how regional tensions may affect your route. Vessels operating in the Gulf of Oman, Northern Arabian Sea, Gulf of Aden and Bab El Mandeb regions may be at increased risk of maritime attack.</p>\n\n<p>Be careful when travelling by tourist boat. The safety of these vessels may not be up to UK standards. Make sure life jackets are available for all passengers.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Events in the Middle East can affect local public opinion. Follow news reports and be alert to local and regional developments, which might trigger public disturbances.</p>\n\n<p>Since 2018, numerous missiles have been launched into Saudi Arabia from Yemen, including attacks on aviation interests. Most have been intercepted and destroyed but there have been a small number of casualties. Claims have been made in public media suggesting that there may also be attempts to target missiles and unmanned aerial systems (drones) aimed at the UAE.</p>\n\n<p>A number of missiles and unmanned aerial systems (drones) were launched into the UAE from Yemen in early 2022, targeting infrastructure and high profile locations, some of which were in populated areas. Most missiles and drones were intercepted and destroyed but there were a small number of casualties. On 17 January 2022, the UAE authorities confirmed a Houthi attack on civilian facilities in Abu Dhabi, which caused the death of three civilians. On 24 January 2022, the UAE authorities announced that their air defence forces had intercepted and destroyed two Houthi ballistic missiles targeting the UAE and that there were no casualties. On 31 January 2022, the UAE authorities announced their air defence forces had intercepted and destroyed a ballistic missile targeting the UAE and that there were no casualties.</p>\n\n<p>Further attacks are  likely. In the event of any incidents, you should monitor local media reports and follow the advice of the local authorities.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorists are very likely to try to carry out attacks in the UAE. Attacks could be indiscriminate, including in places visited by foreigners.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>Terrorists continue to issue statements threatening to carry out attacks in the Gulf region. These include references to attacks on western interests, including residential compounds, military, oil, transport and aviation interests as well as crowded places, including restaurants, hotels, beaches, shopping centres and mosques. You should maintain a high level of security awareness, particularly in public places and at public events.</p>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>UAE laws and customs are very different to those in the UK. Be aware of your actions to ensure that they don\u2019t offend, especially during the holy month of Ramadan or if you intend to visit religious areas. There may be serious penalties for doing something that might not be illegal in the UK. You are strongly advised to familiarise yourself with, and respect local laws and customs.</p>\n\n<p>In 2023, the holy month of Ramadan is expected to start on 22 March and finish on 21 April.   See <a href=\"https://www.gov.uk/travelling-during-ramadan\">Travelling during Ramadan</a></p>\n\n<p>You can read more about living in the UAE <a href=\"https://www.gov.uk/living-in-the-united-arab-emirates#social-ethics-and-traditions-in-uae\">here</a>.</p>\n\n<h3 id=\"importing-goods\">Importing goods</h3>\n<p>Importing pork products and pornography into the UAE is illegal. Videos, books, and magazines may be subject to scrutiny and may be censored.</p>\n\n<h3 id=\"drugs\">Drugs</h3>\n<p>There is zero tolerance for drugs-related offences. The penalties for trafficking, smuggling and the possession of drugs (including residual amounts) are severe. Sentences for drug trafficking can include the death penalty. Possession of even the smallest amount of illegal drugs can lead to a minimum three-month prison term or a fine of between AED 20,000 and AED100,000. The Emirati authorities count the presence of drugs in the blood stream as possession. Some herbal highs, like Spice, are illegal in the UAE. Possessing and concealing money from drugs related offences, and performing transactions using money from drug-related offences are also crimes, which could lead to imprisonment and a fine.</p>\n\n<p>Many people stop off in UAE airports on their way to other destinations. UAE airports have excellent technology and security, so transiting passengers carrying even residual amounts of drugs may be arrested.</p>\n\n<p>Some skincare products and E-cigarette refills may contain ingredients that are illegal in the UAE such as CBD oil. If found in possession of such products, they will be confiscated and you may face criminal charges. A list of narcotic, psychotropic and controlled drugs where this rule applies, allowed quantities and documents to present can be found on the <a rel=\"external\" href=\"https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use\">UAE Ministry of Health website</a>.</p>\n\n<h3 id=\"alcohol\">Alcohol</h3>\n<p>UAE Residents can drink alcohol at home and in licensed venues.   Liquor licences are still required for Residents in Dubai but are no longer required for Residents in Abu Dhabi and other Emirates (save for Emirate of Sharjah) to purchase alcohol for personal consumption.</p>\n\n<p>In Dubai, tourists are able to obtain a temporary liquor licence for the duration of a month from the two official liquor distributors in Dubai. Tourists will be provided with a code of conduct document and will be asked to confirm they understand rules and regulations in relation to purchasing, transporting and consuming liquor in Dubai. This licence is only for use in the Emirate where it is issued.</p>\n\n<p>Liquor licences are not available to non-residents in the other Emirates, but it is possible for tourists and visitors to buy and drink alcohol in licensed venues, such as hotels, restaurants and clubs. However, you should be aware that it is a punishable offence under UAE law to drink or be under the influence of alcohol in public. British nationals have been arrested and charged under this law, often in cases where they have come to the attention of the police for a related offence, such as disorderly or offensive behaviour.</p>\n\n<p>Generally, the legal age for drinking alcohol is 18 in Abu Dhabi, but a Ministry of Tourism by-law prevents hotels from serving alcohol to those under the age of 21. In Dubai and all other emirates besides Sharjah, the drinking age is 21. Drinking alcohol in Sharjah is illegal.</p>\n\n<h3 id=\"dress-code\">Dress code</h3>\n\n<p>Women should dress modestly when in public areas like shopping malls. Clothes should cover the tops of the arms and legs, and underwear should not be visible. Swimming attire should be worn only on beaches or at swimming pools.</p>\n\n<p>Cross-dressing is illegal.</p>\n\n<h3 id=\"hotels\">Hotels</h3>\n\n<p>It is normal practice for hotels to take a photocopy of your passport or Emirates ID. You can\u2019t stay in a hotel if you\u2019re under 18 years old and not accompanied by an adult.\u00a0\u00a0</p>\n\n<h3 id=\"offensive-behaviour\">Offensive behaviour</h3>\n\n<p>Swearing and making rude gestures (including online) are considered obscene acts and offenders can be jailed or deported. Take particular care when dealing with the police and other officials.</p>\n\n<p>Public displays of affection are frowned upon, and there have been several arrests for kissing in public.</p>\n\n<h3 id=\"sexual-relationships-outside-marriage\">Sexual relationships outside marriage</h3>\n\n<p>If you become pregnant and give birth to a child in the UAE outside marriage, to obtain a local birth certificate both you and your partner will need to ensure that you either get married or you and/or your partner must singly or jointly acknowledge the child and provide identification papers and travel documents in accordance with the laws of your country considering the applicable laws of that nation. If you become pregnant outside of marriage, you may not be covered by your medical insurance, and you should consult with your medical insurance provider before giving birth in the UAE.</p>\n\n<p>Consensual sexual relationships between a male and female outside marriage where both are over the age of 18 years, including extra-marital sexual relationships, is generally permitted under UAE law.  However, in the case of an extra-marital consensual sexual relationship, if either person\u2019s spouse or parent/guardian files a criminal complaint, then both parties of an extra-marital consensual relationship shall be liable to a jail sentence for a period not less than six months.</p>\n\n<p>If either person in a sexual relationship is under the age of 18 years, he/she is deemed a minor, and the other person over the age of 18 will be prosecuted for having a sexual relationship with a minor. If both people are under 18 years of age they will both be prosecuted but punishment is likely to be limited to a caution, parental supervision, judicial supervision, professional training or psychiatric treatment.</p>\n\n<h3 id=\"same-sex-relationships\">Same-sex relationships</h3>\n\n<p>All homosexual sex is illegal and same-sex marriages are not recognised.</p>\n\n<p>The UAE is in many respects a tolerant society and private life is respected, although there have been some reports of individuals being punished for homosexual activity, particularly where there is any public element, or the behaviour has caused offence. This applies both to expatriate residents and to tourists. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT community before you travel.</p>\n\n<h3 id=\"photographymedia\">Photography/media</h3>\n\n<p>Photography of certain government buildings and military installations isn\u2019t allowed. Don\u2019t photograph people without their permission. Men have been arrested for photographing women on beaches. Hobbies like bird watching and plane spotting, may be misunderstood - particularly near military sites, government buildings and airports.</p>\n\n<p>Posting material (including videos and photographs) online that is critical of the UAE government, companies or individuals, or related to incidents in the UAE, or appearing to abuse/ridicule/criticise the country or its authorities, or that is culturally insensitive, may be considered a crime punishable under UAE law. There have been cases of individuals being detained, prosecuted and/or convicted for posting this type of material.</p>\n\n<p>If you wish to carry out media activity related to the production, transmission and/or distribution of printed, digital, audio, video and/or visual information, you will be required to obtain the appropriate permission from the Emirati authorities in advance. Failure to do so could result in arrest and deportation from the UAE.</p>\n\n<p>Further information about how to obtain the necessary permits to carry out media activity in the UAE and bring media equipment into the UAE can be accessed by registering on the <a rel=\"external\" href=\"https://eservices.mcy.gov.ae/#/app/MediaLicenseServices/mediaLicense/review/732735\">Media Regulatory Office website</a>.</p>\n\n<h3 id=\"fundraisingcharitable-acts\">Fundraising/charitable acts</h3>\n\n<p>If you\u2019re considering undertaking or promoting fundraising or other acts of charity in (or while passing through) the UAE, bear in mind that these activities, including where conducted online and via social media, are heavily regulated. You should be fully aware of the legal requirements and seek professional advice as necessary. Non-compliance can incur criminal penalties, including heavy fines and/or imprisonment.</p>\n\n<h3 id=\"buyingproperty\">Buying\u00a0property</h3>\n\n<p>If you want to buy property in the UAE, you should seek appropriate professional advice, as you would in the UK.\u00a0A list of lawyers for Abu Dhabi and Dubai is available on the <a href=\"/guidance/how-to-buy-property-in-the-uae\">British Embassy website</a>.</p>\n\n<h3 id=\"financial-crime\">Financial crime</h3>\n\n<p>Financial crimes, including fraud and the non-payment of bills (including hotel bills) can often result in imprisonment and/or a fine. Bank accounts and other assets can also be frozen.</p>\n\n<p>Bail is generally not available to non-residents of the UAE who are arrested for financial crimes. Those convicted will not generally be released from jail until the debt is paid or waived and they may even remain in jail after a debt has been paid if there is an outstanding sentence to be served.</p>\n\n<h3 id=\"weapons-and-related-equipment\">Weapons and related equipment</h3>\n\n<p>Weapons, ammunition, body protection and related equipment (like cleaning kits, gun belts, etc), however small the quantity and whatever the purpose, all require permission before entering or transiting the UAE.</p>\n\n<h3 id=\"technical-equipment\">Technical equipment</h3>\n\n<p>Equipment like satellite phones, listening or recording devices, radio transmitters, powerful cameras or binoculars, may require a licence for use in the UAE. Seek advice from the UAE Embassy in London.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to UAE.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in UAE set and enforce entry rules. If you\u2019re unsure how the UAE\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>COVID-19 entry requirements may change at short notice, and all travellers to the UAE are strongly encouraged to check the specifics before departure with their airline before they travel. Further details are available on <a rel=\"external\" href=\"https://www.britishairways.com/en-gb/information/incident/coronavirus/latest-information\">British Airways</a>, <a rel=\"external\" href=\"https://www.emirates.com/uk/english/help/flying-to-and-from-dubai/\">Emirates</a> and <a rel=\"external\" href=\"https://www.etihad.com/en-gb/travel-updates/all-destinations-travel-guides\">Etihad</a> websites. Further information is also available on the <a rel=\"external\" href=\"https://www.iatatravelcentre.com/world.php\">IATA Travel Centre website</a>.</p>\n\n<p>All passengers travelling to the UAE are no longer required to present a COVID\u201119 vaccination certificate or perform PCR tests.</p>\n\n<p>Passengers travelling from or through the UAE are only required to comply with the transit requirements and travel requirements of their final destination and will only need to have proof of COVID-19 vaccination and/or a negative COVID-19 PCR test if required at their final destination.</p>\n\n<p>Further information about COVID-19 updates is available on the <a rel=\"external\" href=\"https://covid19.ncema.gov.ae/en/News/List\">UAE Coronavirus (COVID-19) updates webpage</a> and on the <a rel=\"external\" href=\"https://covid19.ncema.gov.ae/en/News/Details/1393\">National Emergency Crisis and Disasters Management Authority website</a>. Further information about testing facilities in the UAE is available on the <a rel=\"external\" href=\"https://u.ae/en/information-and-services/justice-safety-and-the-law/handling-the-covid-19-outbreak/travelling-amid-covid-19/quarantine-guidelines-for-travellers-to-the-uae\">UAE Government Portal</a>.  You should not use the NHS testing service to get a test in order to facilitate your travel to another country. You should arrange to take a private test.</p>\n\n<h2 id=\"cruise-ships\">Cruise ships</h2>\n\n<p>A small number of cruise operators have restarted calls into some ports in the UAE. You should talk to your cruise operator about arranging COVID-19 PCR testing if necessary.</p>\n\n<p>If you are planning to travel on an international cruise that is due to call at any port in the UAE, contact your travel company for the latest information.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<p>You should consider checking with your airline or travel company to make sure your passport and other travel documents meet their requirements. For further information <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">contact the embassy, high commission or consulate of the country or territory you\u2019re travelling to</a>.</p>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>Your passport should be valid for a minimum period of 6 months from the date of entry into the UAE. If you hold a residence permit, your passport must be valid for at least 3 months in order to travel to the UAE.</p>\n\n<p>If you\u2019re transiting the UAE (and not passing through Immigration) your passport only needs to have a minimum of 3 months validity from the date of transit.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>Holders of full British passports will be granted a free of charge visitor/tourist visa upon arrival in the UAE. No application in advance of travel is needed. Your passport will be stamped with the visa as you pass through Immigration. The visa issued at the airport for British passport holders is valid for up to 40 days.</p>\n\n<p>The UAE Ministry of Foreign Affairs and International Cooperation (MOFAIC) has a visa hotline: +971 (0)9 208 3344.</p>\n\n<p>If you have any questions on the validity or expiry of your visa, contact UAE Immigration directly. You can find out further information about visas on the <a rel=\"external\" href=\"https://www.gdrfad.gov.ae/en\">General Directorate of Residency and Foreigners Affairs website</a> for Dubai or the <a rel=\"external\" href=\"https://smartservices.ica.gov.ae/echannels/web/client/default.html#/login\">Federal Authority for Identity and Citizenship website</a> for the rest of the UAE.</p>\n\n<p>If you\u2019re living outside the UAE, contact the <a rel=\"external\" href=\"http://www.uae-embassy.ae/Embassies/uk/Content/591\">nearest UAE Embassy</a> for advice.</p>\n\n<p>All individuals who wish to remain in the UAE beyond the validity of their visa must contact the <a rel=\"external\" href=\"https://www.gdrfad.gov.ae/en\">General Directorate of Residency and Foreigners Affairs website</a> for Dubai or the <a rel=\"external\" href=\"https://smartservices.ica.gov.ae/echannels/web/client/default.html#/login\">Federal Authority for Identity and Citizenship website</a> for the rest of the UAE well in advance or they may be subject to fines for overstaying.</p>\n\n<h3 id=\"living-and-working-in-the-uae\">Living and working in the UAE</h3>\n\n<p>If you have entered Dubai on a visit visa and you wish to work then you should get a probationary work permit, valid for up to 3 months, from the Ministry of Labour. If you don\u2019t get this permit and are caught working while on a visit visa, then you risk being jailed or fined and deported.</p>\n\n<p>For further information, including on how to stay in the UAE for longer than 60 days, visit the websites of the [https://www.mofaic.gov.ae/en/missions/london), the <a rel=\"external\" href=\"https://gdrfad.gov.ae/en\">Naturalisation and Residency Department \u2013 Dubai</a> or the <a rel=\"external\" href=\"https://beta.smartservices.ica.gov.ae/echannels/web/client/default.html#/login\">UAE Federal E-Government Portal</a>.</p>\n\n<p>If you apply for a residence visa, you will have to take a blood test. Those testing positive for HIV or hepatitis are detained and then deported. There is no appeal process.</p>\n\n<p>UAE employers may ask foreign employees to deposit their passports with the company as part of the terms and conditions of employment. While this is not an unusual practice, it is illegal under UAE labour law.</p>\n\n<p>You should cancel your work visa before leaving the UAE permanently. If you don\u2019t do this, you risk being reported for leaving the UAE without permission and could be arrested if you return to the UAE, even if you are in transit to another country. Failure to repay debts or resolve any outstanding cases against you may also result in your arrest on return or transit through the UAE.</p>\n\n<p>If you have any doubt about your status before returning to the UAE seek advice from a <a href=\"https://www.gov.uk/government/publications/united-arab-emirates-list-of-lawyers\">local lawyer</a>.</p>\n\n<h3 id=\"medication\">Medication</h3>\n\n<p>If you\u2019re planning to travel with any prescribed or over the counter medicines for personal use, you\u2019ll need to meet the UAE\u2019s specific requirements for your medicine to be allowed into the country.</p>\n\n<p>If you\u2019re entering the country with medication that the UAE classes as narcotic, psychotropic, controlled or semi-controlled, approval is needed from the UAE authorities.</p>\n\n<p>Approval should be requested in advance. To gain approval prior to travelling, you can apply for a permit online using the <a rel=\"external\" href=\"https://mohap.gov.ae/en/services/issue-of-permit-to-import-medicines-for-personal-use\">electronic application form</a> on the UAE Ministry of Health website. The UAE authorities advise that applications are normally processed within 5 working days.</p>\n\n<p>If you arrive in the UAE without prior approval or the required documentation, the medication will not be allowed into the UAE and you may be prosecuted under UAE law. If you need more information on controlled medicines or the process for obtaining permission, you should contact the UAE Ministry of Health by emailing <a href=\"mailto:info@moh.gov.ae\">info@moh.gov.ae</a> or calling +971 800 11111.</p>\n\n<p>If you\u2019re travelling in transit through a UAE airport and do not intend entering the UAE, or are entering the UAE with other types of medicine, you\u2019re not required to go through this approval process.</p>\n\n<p>In all cases, there are limits on the amount of medication that can be brought into the UAE legally. The Ministry of Health advise that you can bring up to 3 months\u2019 supply of medication as a visitor, reduced to one month\u2019s supply if the medication is included in the list requiring approval.</p>\n\n<h3 id=\"previous-travel-to-israel\">Previous travel to Israel</h3>\n\n<p>UAE immigration authorities have advised that British nationals with valid or expired Israeli visas or stamps in their passports should not face any difficulties entering the UAE as long as they don\u2019t intend to work. If you do intend to work, further checks may be required and there is a risk that entry may be refused.</p>\n\n<p>If you are a British-Israeli dual national and have any concerns about entering the UAE, contact the <a rel=\"external\" href=\"https://sp.mofaic.gov.ae/EN/DiplomaticMissions/Embassies/London/Pages/home.aspx\">Embassy of the United Arab Emirates in London</a>.</p>\n\n<h3 id=\"regular-exit-requirements\">Regular exit requirements</h3>\n\n<p>Visitors must have legal status in the UAE when they depart. If you are subject to a travel ban, involved in legal proceedings, have unpaid debt or are a child subject to a custody dispute, you may be prevented from leaving the country.</p>\n\n<p>Thermal scanning is in operation at airports. Departing passengers may be subject to testing, quarantine and medical treatment in the UAE.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/united-arab-emirates/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the National Travel Health Network and Centre (NaTHNaC) on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">TravelHealthPro website</a>. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"http://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website. You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. In the UAE, some prescribed and over the counter medicines are considered controlled substances and can\u2019t be brought into the country without prior permission from the UAE Ministry of Health. See <a href=\"/foreign-travel-advice/united-arab-emirates/entry-requirements#Medication\">Medication</a></p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h2 id=\"other-health-risks\">Other health risks</h2>\n\n<p>For the latest information and advice, see the website of the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/233/united-arab-emirates#CIoutBreaks\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h2 id=\"medical-treatment\">Medical treatment</h2>\n<p>Healthcare facilities in the UAE are generally comparable with those in the UK, but visitors may be prevented from using them without travel insurance or without the means to settle any medical fees. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 999 and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.\u00a0</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the FCDO in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, send the Travel Advice team <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=United%20Arab%20Emirates&amp;post=United%20Arab%20Emirates%20travel%20advice%20team\">a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=United%20Arab%20Emirates&amp;post=United%20Arab%20Emirates%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-11-08T12:35:56Z",
+            "updated_at": "2023-11-08T12:35:56Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-21T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/united-arab-emirates",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/united-arab-emirates",
+                    "base_path": "/foreign-travel-advice/united-arab-emirates",
+                    "content_id": "753268f3-f9fb-44bb-bcb2-84a570ea637e",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T12:35:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "United Arab Emirates travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/united-arab-emirates",
+                    "api_url": "https://www.gov.uk/api/content/world/united-arab-emirates",
+                    "base_path": "/world/united-arab-emirates",
+                    "content_id": "11bfa14a-4962-479e-aa7c-2c3994406feb",
+                    "description": "Services if you're visiting, studying, working or living in United Arab Emirates. Includes information about trading with and doing business in the UK and United Arab Emirates.",
+                    "details": {
+                        "internal_name": "UK help and services in United Arab Emirates",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:40Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in United Arab Emirates",
+                    "web_url": "https://www.gov.uk/world/united-arab-emirates",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/travelling-during-ramadan",
+                    "api_url": "https://www.gov.uk/api/content/guidance/travelling-during-ramadan",
+                    "base_path": "/guidance/travelling-during-ramadan",
+                    "content_id": "5e37ed0c-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2019-05-07T11:17:31Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Travelling during Ramadan",
+                    "web_url": "https://www.gov.uk/guidance/travelling-during-ramadan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/living-in-the-united-arab-emirates",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-the-united-arab-emirates",
+                    "base_path": "/guidance/living-in-the-united-arab-emirates",
+                    "content_id": "5d8c351d-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-03-18T08:50:42Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in the United Arab Emirates",
+                    "web_url": "https://www.gov.uk/guidance/living-in-the-united-arab-emirates",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/qatar",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/qatar",
+                    "base_path": "/foreign-travel-advice/qatar",
+                    "content_id": "3d94082a-6e41-4c09-ba52-1b282943caae",
+                    "details": {
+                        "change_description": "Information that you must get health insurance before travelling to Qatar for 30 or more days and that all visitors are advised to get travel insurance before entering Qatar ('Entry requirements' page).",
+                        "country": {
+                            "name": "Qatar",
+                            "slug": "qatar",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-22T14:38:46Z",
+                    "schema_name": "travel_advice",
+                    "title": "Qatar travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/qatar",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/oman",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/oman",
+                    "base_path": "/foreign-travel-advice/oman",
+                    "content_id": "aa62bc84-6fd0-4665-8b9a-4c4ab5977e8a",
+                    "details": {
+                        "change_description": "Removal of reference to Tropical Cyclone Tej and update on wadi flash floods ('Natural disasters' page).",
+                        "country": {
+                            "name": "Oman",
+                            "slug": "oman",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-26T10:36:43Z",
+                    "schema_name": "travel_advice",
+                    "title": "Oman travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/oman",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-the-united-arab-emirates",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-the-united-arab-emirates",
+                    "base_path": "/world/living-in-the-united-arab-emirates",
+                    "content_id": "dc7bc99c-0091-44f5-be35-49071ba69edb",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in the United Arab Emirates",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/united-arab-emirates",
+                                "api_url": "https://www.gov.uk/api/content/world/united-arab-emirates",
+                                "base_path": "/world/united-arab-emirates",
+                                "content_id": "11bfa14a-4962-479e-aa7c-2c3994406feb",
+                                "description": "Services if you're visiting, studying, working or living in United Arab Emirates. Includes information about trading with and doing business in the UK and United Arab Emirates.",
+                                "details": {
+                                    "internal_name": "UK help and services in United Arab Emirates",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:40Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in United Arab Emirates",
+                                "web_url": "https://www.gov.uk/world/united-arab-emirates",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:21:48Z",
+                    "schema_name": "taxon",
+                    "title": "Living in the United Arab Emirates",
+                    "web_url": "https://www.gov.uk/world/living-in-the-united-arab-emirates",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-the-united-arab-emirates",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-the-united-arab-emirates",
+                    "base_path": "/world/travelling-to-the-united-arab-emirates",
+                    "content_id": "351a2323-b6f7-4ac3-a490-802d3fd923f0",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to the United Arab Emirates",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/united-arab-emirates",
+                                "api_url": "https://www.gov.uk/api/content/world/united-arab-emirates",
+                                "base_path": "/world/united-arab-emirates",
+                                "content_id": "11bfa14a-4962-479e-aa7c-2c3994406feb",
+                                "description": "Services if you're visiting, studying, working or living in United Arab Emirates. Includes information about trading with and doing business in the UK and United Arab Emirates.",
+                                "details": {
+                                    "internal_name": "UK help and services in United Arab Emirates",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:40Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in United Arab Emirates",
+                                "web_url": "https://www.gov.uk/world/united-arab-emirates",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:21:59Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to the United Arab Emirates",
+                    "web_url": "https://www.gov.uk/world/travelling-to-the-united-arab-emirates",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-08T12:35:56Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1699446956.352-10.13.21.247-53557",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "United Arab Emirates travel advice",
+        "updated_at": "2023-11-15T10:56:35Z",
+        "withdrawn_notice": {}
+    }
+}

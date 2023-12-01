@@ -1,0 +1,1083 @@
+{
+    "Country Slug": "maldives",
+    "Country Name": "Maldives",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/maldives",
+        "content_id": "99e0a892-9daa-443c-b96c-97ba9e28a2c8",
+        "description": "FCDO travel advice for Maldives. Includes safety and security, insurance, entry requirements and legal differences.",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary - addition of information about the availability of consular support",
+                    "public_timestamp": "2019-01-17T11:07:59.212Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised information on political protests; Natural disasters section -  addition of information on flooding; Health section - revised guidance on sources of health information before travel",
+                    "public_timestamp": "2019-01-30T15:13:59.282Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full and reissued with minor editorial amendments",
+                    "public_timestamp": "2019-06-03T14:40:49.413Z"
+                },
+                {
+                    "note": "Summary - addition of link to information for those affected by Thomas Cook ceasing trading",
+                    "public_timestamp": "2019-09-25T10:52:36.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Thomas Cook ceasing to trade",
+                    "public_timestamp": "2019-10-21T09:58:10.000Z"
+                },
+                {
+                    "note": "Summary - Information on coronavirus",
+                    "public_timestamp": "2020-02-01T12:48:35.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice about arrests made in relation to a knife attack on foreign residents in Hulhumale",
+                    "public_timestamp": "2020-02-06T11:18:35.000Z"
+                },
+                {
+                    "note": "Terrorism - factual update on a recent knife attack in Hulhumale; Local laws and customs - addition of information and advice on local dress standards",
+                    "public_timestamp": "2020-02-10T14:46:40.000Z"
+                },
+                {
+                    "note": "Health - factual update on precautionary measures in place in response to coronavirus (COVID-19); Terrorism - factual update on recent knife attacks in Hulhumale",
+                    "public_timestamp": "2020-02-18T16:31:39.000Z"
+                },
+                {
+                    "note": "Addition of information about precautionary measures for coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages). ",
+                    "public_timestamp": "2020-03-05T11:50:46.000Z"
+                },
+                {
+                    "note": "Update to information about precautionary measures for coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages).",
+                    "public_timestamp": "2020-03-09T16:28:18.000Z"
+                },
+                {
+                    "note": "Update to information about precautionary measures for coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages) - the Foreign and Commonwealth Office (FCO) advise against all but essential travel to Kuredu, Vilemendhu, Batalaa and Kuramathi Island Resorts. ",
+                    "public_timestamp": "2020-03-10T20:13:03.000Z"
+                },
+                {
+                    "note": "Removal of information on quarantine in a number of resorts and updated advice for people with travel plans to resort islands ('Health' and 'Summary pages)",
+                    "public_timestamp": "2020-03-12T17:01:43.000Z"
+                },
+                {
+                    "note": "Update on restrictions in response to coronavirus ('Health' and 'Summary')",
+                    "public_timestamp": "2020-03-13T18:50:18.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-16T15:26:59.000Z"
+                },
+                {
+                    "note": "The Government of Maldives announced a ban on entry into Maldives of anyone who has left or transited the UK in the last 14 days, with effect from 11.59 pm on 18 March ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-17T16:36:11.000Z"
+                },
+                {
+                    "note": "The Government of Maldives announced a ban on entry into Maldives of anyone who has left or transited the UK in the last 14 days, with effect from 11.59 pm on 18 March. In addition, from 17 March, guest houses and city hotels on all islands across Maldives are banned from accepting any new bookings for 14 days ('Summary' and 'Health' pages).",
+                    "public_timestamp": "2020-03-18T12:57:39.000Z"
+                },
+                {
+                    "note": "Effective from 20 March, entry of all safari boats, yachts and other passenger vessels arriving to Maldives from an overseas location is restricted indefinitely. ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T12:33:29.000Z"
+                },
+                {
+                    "note": "Update to information about travel restrictions introduced in response to the coronavirus (COVID-19) pandemic ('Coronavirus' and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-03-24T18:58:09.000Z"
+                },
+                {
+                    "note": "Addition of link to the British High Commission Male Twitter for the latest available information on flight departure options ('Return to the UK' page)",
+                    "public_timestamp": "2020-03-25T14:14:31.000Z"
+                },
+                {
+                    "note": "The Government of Maldives has temporarily suspended visas on-arrival for all nationalities, effective from 27 March, in response to coronavirus (COVID-19) ('Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-03-25T19:33:54.000Z"
+                },
+                {
+                    "note": "Update to local measures ('Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-03-27T17:29:17.000Z"
+                },
+                {
+                    "note": "Update to information about travel restrictions and local measures introduced to combat the spread of coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-30T12:49:35.000Z"
+                },
+                {
+                    "note": "Update to information about flight restrictions and local curfew measures ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-01T12:01:26.000Z"
+                },
+                {
+                    "note": "Update to information and advice about flight restrictions ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-02T15:28:37.000Z"
+                },
+                {
+                    "note": "There are no regular commercial options available to return to the UK from Maldives. Qatar Airways intends to operate a flight from Male\u2019 to Doha on 21 April. Please contact the Qatar Airways airline direct ('Coronavirus' and 'Return to the UK' pages) ",
+                    "public_timestamp": "2020-04-08T11:01:11.000Z"
+                },
+                {
+                    "note": "Removal of advice about daily curfew imposed in Male', Hulhumale' and Villingili which has now been lifted (\"Coronavirus\" Section)",
+                    "public_timestamp": "2020-04-10T04:10:14.000Z"
+                },
+                {
+                    "note": "Public Health Emergency declared on 12 March extended until 30 April (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-04-10T17:46:01.000Z"
+                },
+                {
+                    "note": "Addition of information about the Qatar flight on 21 April where onward connections to the UK will be available from Doha ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-14T10:28:52.000Z"
+                },
+                {
+                    "note": "Addition of information on a curfew in the Greater Male\u2019 area from 15 April.  ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-15T13:45:12.000Z"
+                },
+                {
+                    "note": "Updated information on curfew which has now been extended for an additional 24 hours and is set to expire on 17 April at 1430 local time. ('Coronavirus' page) ",
+                    "public_timestamp": "2020-04-16T16:47:14.000Z"
+                },
+                {
+                    "note": "Update to 'Coronavirus and 'Return to UK' pages",
+                    "public_timestamp": "2020-04-17T15:11:08.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about travel arrangements and flight options in the ('Coronavirus' page) and ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-22T10:25:44.000Z"
+                },
+                {
+                    "note": "Updated information on curfew and return to the UK ('Coronavirus' 'Return to the UK')",
+                    "public_timestamp": "2020-04-27T19:25:27.000Z"
+                },
+                {
+                    "note": "Updated information to Local measures section and health screening on (Coronavirus page) and (Return to the UK page)",
+                    "public_timestamp": "2020-04-30T15:20:22.000Z"
+                },
+                {
+                    "note": "Updated information to local measures and health screening ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-02T09:09:10.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information to local measures and health screening ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-02T12:41:32.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information to flight options ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-02T17:56:51.000Z"
+                },
+                {
+                    "note": "Updated information to flight options ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-05T14:31:12.000Z"
+                },
+                {
+                    "note": "Removal of information to flight options (\u2018Summary\u2019 and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-14T15:20:02.000Z"
+                },
+                {
+                    "note": "Addition of information about a flight back to the UK on 21 May ('Return to UK' page)",
+                    "public_timestamp": "2020-05-17T08:27:16.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:17:17.000Z"
+                },
+                {
+                    "note": "Update to information and advice on occasional flight availability and registering with the British High Commission if you are still in the Maldives ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-21T11:25:22.000Z"
+                },
+                {
+                    "note": "Addition of information of a one-off flight on 28 May to Colombo, with onward connection to London Heathrow ('Return to the UK' page).",
+                    "public_timestamp": "2020-05-21T15:34:39.000Z"
+                },
+                {
+                    "note": "Updated information about the extension of Public Health Emergency to 29 June ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-28T12:52:51.000Z"
+                },
+                {
+                    "note": "Addition of information about Sri Lankan Airlines' flights on 4 and 11 June from Male' to Colombo, with onward connection to London Heathrow ('Summary' and 'Return to the UK' page).",
+                    "public_timestamp": "2020-06-02T10:24:29.000Z"
+                },
+                {
+                    "note": "Removal of previous flight details ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-06-05T13:56:00.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T13:03:04.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of the curfew in the Greater Male' area to 26 June and updated information on other local measures in response to COVID-19 ('Staying during coronavirus' page).",
+                    "public_timestamp": "2020-06-12T12:08:03.000Z"
+                },
+                {
+                    "note": "Addition of information on Sri Lankan Airlines commercial flight from Male' to Colombo with onward connection to London Heathrow on 18 June ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-06-16T11:52:11.000Z"
+                },
+                {
+                    "note": "Addition of information on flight from Male\u2019 to Colombo with onward connection to London Heathrow on 25 June ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-22T10:34:32.000Z"
+                },
+                {
+                    "note": "Addition of information on weekly flights from Male\u2019 to Colombo with onward connection to London Heathrow from 2 July until 30 July ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-25T14:40:13.000Z"
+                },
+                {
+                    "note": "Addition of information on Emirates and Etihad airlines flights from Male\u2019 to Colombo  from 16 July and update to information and advice on future easing of coronavirus (COVID-19) restrictions, including movement between resorts and islands, accommodation and reopening of borders and visa services ('Summary', 'Return to the UK', 'Staying during coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-02T15:06:47.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of a Public Health Emergency until 14 July ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-07-03T15:25:58.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-08T13:06:16.000Z"
+                },
+                {
+                    "note": "Addition of information on the lifting of entry restrictions into Maldives for anyone who has left or transited the UK and other selected countries in the last 14 days. Extension of the public health emergency until 7 August ('Entry requirements' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-07-15T10:18:25.000Z"
+                },
+                {
+                    "note": "Update to information on screening, quarantine requirements and the resumption of visa on arrival services ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-15T15:34:02.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements. ('Entry Requirements' page)",
+                    "public_timestamp": "2020-07-21T12:49:34.000Z"
+                },
+                {
+                    "note": "Updated information about travel restrictions due to COVID19 and the reopening of some resorts and guest houses ('Coronavirus' page) and updated information about passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-05T13:41:43.000Z"
+                },
+                {
+                    "note": "Updated information about the extension of the Public Health Emergency until 6 September ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-10T09:29:34.000Z"
+                },
+                {
+                    "note": "Update to information about terrorist incidents in the Maldives ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-08-17T14:05:36.000Z"
+                },
+                {
+                    "note": "Update to information about terrorist incidents in the Maldives \r\n('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-08-18T13:36:10.000Z"
+                },
+                {
+                    "note": " Update to information on travel in the Greater Male area.  Minor editorial changes to Terrorism section.  ('Coronavirus' and 'Terrorism' page)",
+                    "public_timestamp": "2020-08-24T12:22:49.000Z"
+                },
+                {
+                    "note": "Addition of information on negative COVID-19 PCR testing requirements from 10 September ('Summary' and 'Entry requirements' pages) and updating of information on accommodation ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-02T14:16:27.000Z"
+                },
+                {
+                    "note": "Updated information on Maldives Public Health Emergency\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-09-07T09:24:37.000Z"
+                },
+                {
+                    "note": "Additional information added on screening on arrival in the Maldives\r\n('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-15T12:31:37.000Z"
+                },
+                {
+                    "note": "Updated information on the Public Health Emergency; it has been extended until 5 November. Removal of information on vehicles being banned from 8pm to 5am (local time) ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-07T09:40:01.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements for entry to the Maldives ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-10-15T10:07:20.000Z"
+                },
+                {
+                    "note": "Updated information on Public Health Emergency curfew, reopening of guest houses and removal of information on Male' Airport's closing times ('Coronavirus' page)  ",
+                    "public_timestamp": "2020-10-22T09:26:00.000Z"
+                },
+                {
+                    "note": "Maldives is now exempt from FCDO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-10-22T16:22:08.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of the public health emergency until 5 December ('Coronavirus' page)",
+                    "public_timestamp": "2020-11-05T11:30:54.000Z"
+                },
+                {
+                    "note": "Addition of information on changes to curfew times and rules on gatherings in public ('Coronavirus' page) ",
+                    "public_timestamp": "2020-11-09T11:05:25.000Z"
+                },
+                {
+                    "note": "Updated information on tourists travelling around Maldives ('Coronavirus' page)",
+                    "public_timestamp": "2020-11-24T10:09:36.000Z"
+                },
+                {
+                    "note": "Updated information on Public Health Emergency; now in place until 4 January 2021. Updated information on amount of days for mandatory home quarantine upon arrival when travelling from Greater Male\u2019 ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-07T11:12:42.000Z"
+                },
+                {
+                    "note": "Updated information on entry restrictions, screening on arrival and quarantine arrangements ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-27T12:30:31.000Z"
+                },
+                {
+                    "note": "Updated information on the extension of Maldives' public health emergency and on COVID-19 restrictions for public places and services ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-04T12:14:41.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from Maldives on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T01:25:43.000Z"
+                },
+                {
+                    "note": "New information on the self isolation period for all non-tourist passengers arriving to Maldives ('Summary' page). Updated information on COVID-19 measures; there is a curfew in Greater Male' area and a ban on public and mass gatherings ('Coronavirus' page).",
+                    "public_timestamp": "2021-01-27T10:19:17.000Z"
+                },
+                {
+                    "note": "Update to information on curfew hours and restrictions on vehicles in the Greater Male' area. Update on the mandatory use of masks on all inhabited islands. ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-02T16:54:07.000Z"
+                },
+                {
+                    "note": "Update on the extension of the Public Health Emergency until 5 March. ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-04T09:40:54.000Z"
+                },
+                {
+                    "note": "Update to information on curfews and gatherings outside ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-17T16:59:28.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Maldives (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-24T14:48:54.000Z"
+                },
+                {
+                    "note": "New information under 'Restrictions in response to coronavirus' and 'Travel in Maldives' ('Entry requirements' and 'Coronavirus' pages).",
+                    "public_timestamp": "2021-03-08T09:33:41.000Z"
+                },
+                {
+                    "note": "Update to information on the curfew in the Greater Male\u2019 area from 11pm to 4:30am local time.  Update to information on the opening of public spaces such as parks or sports grounds ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-29T11:51:19.000Z"
+                },
+                {
+                    "note": "Curfew in the Greater Male' area (which includes Male', Vilimale' and Hulhumale') removed ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-01T17:26:20.000Z"
+                },
+                {
+                    "note": "Updated information on Maldives public health emergency situation, this is in now in place until 5 May 2021 ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-06T11:31:01.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of the Maldives public health emergency until 5 June 2021 and restriction on inter-island travel ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-04T12:06:40.000Z"
+                },
+                {
+                    "note": "Information on a curfew that has been put in place for the Greater Male' area ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-06T11:17:15.000Z"
+                },
+                {
+                    "note": "Addition of information about explosion in Male\u2019 on the evening of 6 May.  (See 'Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-05-06T21:49:13.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to the Maldives, based on the current assessment of COVID-19 risks. From 4am on 12 May, direct flights from the Maldives to England will be prohibited, and the Maldives will be on the banned travel list (red list). (\u2018Summary \u2019) (\u2018Coronavirus\u2019) (Returning to the UK\u2019)",
+                    "public_timestamp": "2021-05-07T16:44:57.000Z"
+                },
+                {
+                    "note": "Update to information on the explosion in Male\u2019 on the evening of 6 May (\u2018Summary\u2019 and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2021-05-10T10:22:05.000Z"
+                },
+                {
+                    "note": "Updated information on the curfew in the Greater Male\u2019 area, all non-tourist passengers arriving in Maldives by air are required to self-isolate for 14 days and from 13 May, on-arrival tourist visas for those arriving from South Asian countries will be temporarily halted ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-05-12T09:24:32.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions in the Greater Male\u2019 area ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-25T11:48:36.000Z"
+                },
+                {
+                    "note": "From 8 June, direct flights can arrive in England from the Maldives, but they must arrive at dedicated terminals at Heathrow and Birmingham airports. Different requirements may apply for arrivals into Scotland, Wales and Northern Ireland. ('International Travel') ('Returning to the UK')",
+                    "public_timestamp": "2021-06-04T14:24:49.000Z"
+                },
+                {
+                    "note": "Update to information on the Public Health Emergency and changes to curfew hours ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-15T14:47:38.000Z"
+                },
+                {
+                    "note": "Updated information on Greater Male' area curfew and restrictions ('Coronavirus' page) and new information on entry requirements for travellers arriving in Maldives from South Asian countries, effective from 15 July 2021 ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-01T12:19:29.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of the Public Health Emergency until 2 August.   Update to information on quarantine and testing requirements for non-tourist travellers from the UK ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-07-12T10:16:29.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Maldives ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-07-26T14:16:19.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-30T13:05:56.000Z"
+                },
+                {
+                    "note": "Addition of information on demonstrating your COVID-19 vaccination status for entry to the Maldives",
+                    "public_timestamp": "2021-08-05T09:40:46.000Z"
+                },
+                {
+                    "note": "Updated information on Maldives\u2019 Public Health Emergency; restrictions are in place for those who have not received two doses of a COVID-19 vaccine and unvaccinated visitors (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-08-12T16:35:59.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 22 September the Maldives will move to the amber list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. ('Summary' page)\r\n\r\n",
+                    "public_timestamp": "2021-09-17T16:44:55.000Z"
+                },
+                {
+                    "note": "Update to information on commercial travel to and from Maldives, and update on PCR testing requirements ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-09-27T11:15:43.000Z"
+                },
+                {
+                    "note": "Updated information on negative PCR result requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-09-27T15:50:51.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the Maldives, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-09-28T11:56:41.000Z"
+                },
+                {
+                    "note": "Updated information on PCR testing requirements for children under the age of one ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-05T15:00:15.000Z"
+                },
+                {
+                    "note": "Updated information on\u00a0entry restrictions due to the Omicron variant (\"Summary\" and \"Entry Requirements\" pages).\u00a0\r\n\r\n",
+                    "public_timestamp": "2021-11-28T05:37:40.000Z"
+                },
+                {
+                    "note": "Updated information on the national vaccination programme and entry restrictions due to the Omicron variant ('Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2022-01-18T10:34:21.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for travellers recently recovered from Covid-19 ('Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2022-02-08T14:48:58.000Z"
+                },
+                {
+                    "note": "Removal of information on ban for travellers travelling from South Africa, Botswana, Namibia, Zimbabwe, Mozambique, Lesotho and Eswatini ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-11T15:33:07.000Z"
+                },
+                {
+                    "note": "Update to information on local COVID-19 restrictions and entry requirements for Maldives ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-03-15T13:10:31.000Z"
+                },
+                {
+                    "note": "Update to information on requirements for completing the Traveller Declaration form ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-29T15:07:54.000Z"
+                },
+                {
+                    "note": "Updated information on travel in Maldives ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-07-08T14:50:38.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T08:50:39.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-10-20T11:04:02.000Z"
+                }
+            ],
+            "country": {
+                "name": "Maldives",
+                "slug": "maldives",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/maldives/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<p>Read all the advice in this guide and see <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/maldives/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Maldives set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"http://www.maldiveshighcommission.uk\">Maldivian High Commission in the UK</a>.</p>\n\n<p>All travellers to Maldives must complete a <a rel=\"external\" href=\"https://imuga.immigration.gov.mv/ethd\">Traveller Declaration Form (IMUGA)</a> within 96 hours of arrival and departure.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Maldives.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>Your passport must have an \u2018expiry date\u2019 at least 6 months after the date you arrive in Maldives. <a href=\"https://www.gov.uk/government/publications/damaged-and-faulty-passports/damaged-british-passports-accessible#definitions-of-damage-or-fraudulent-tampering\">Make sure your passport is not damaged</a> or you may be stopped by immigration.\u00a0</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You will get a 30-day visa on arrival if you enter Maldives as a tourist.</p>\n\n<p>If you intend to work in Maldives, you must <a rel=\"external\" href=\"https://www.immigration.gov.mv/work-visa/\">get a work visa before you travel</a>.</p>\n\n<p>For further information on entry requirements and visas, contact the <a rel=\"external\" href=\"http://www.immigration.gov.mv/\">Maldives immigration department</a>.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/139/maldives\">vaccinations and certificates you need in TravelHealthPro\u2019s Maldives guide.</a> \u00a0\u00a0\u00a0</p>\n\n<p>Depending on your circumstances, these may include a yellow fever certificate.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.maldiveshighcommission.uk/index.php/maldives/customs-information\">goods you can take into or out of Maldives</a>. You must declare anything that may be prohibited or subject to tax or duty. \u00a0</p>\n\n<p>It is illegal to bring in anything deemed contrary to Islam, including \u2018idols for worship\u2019, bibles, pork and pork products, and alcohol.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.\u00a0</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-maldives\">Terrorism in Maldives\u00a0\u00a0</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are likely to try and carry out attacks in Maldives.</p>\n</div>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.</p>\n\n<p>The Maldivian authorities have disrupted a number of terrorist attack plans since 2017, and have made several arrests relating to attack planning, recruitment of terrorist fighters and spreading extremist ideology. There have been anti-Western protests by extremists on some islands, including expressions of support for Daesh.</p>\n\n<p>Examples of recent significant attacks include:</p>\n\n<ul>\n  <li>in 2021, a high-profile politician and a number of bystanders were injured by the detonation of an improvised explosive device (<abbr title=\"improvised explosive device\">IED</abbr>) in central Mal\u00e9</li>\n  <li>in 2020 there was an arson attack on a police speedboat in Laamu Gan</li>\n  <li>in 2020, knife attacks that injured 3 foreigners in Hulhumal\u00e9 were claimed by Daesh supporters</li>\n</ul>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Political protests take place occasionally in Mal\u00e9. Avoid any protests or rallies to ensure your safety and security. \u00a0</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Crime levels are low in the exclusive resort islands, but petty crime does happen. Do not leave items unattended on the beach or in unlocked hotel rooms.</p>\n\n<p>Outside the resorts, there are incidents of gang-related violence including knife crime, mainly in Mal\u00e9 and in Hulhumal\u00e9. Avoid empty roads when on foot, particularly after dark.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<p>Maldives is an Islamic country. It is illegal to publicly observe a religion other than Islam. Make sure that your actions do not offend, especially during Ramadan or when visiting religious areas around mosques. Violations of local laws may lead to a prison sentence.</p>\n\n<p>Ramadan is a holy month for Muslims. The dates vary by year and country. In 2024 Ramadan is expected to take place between 11 March and 10 April in Maldives. During this time, do not\u00a0eat, drink or smoke in public in the daytime, outside of holiday resorts. Get more advice when you arrive from your tour guide, hotel or business contacts.</p>\n\n<h3 id=\"alcohol-laws-and-bans\">Alcohol laws and bans</h3>\n\n<p>Alcoholic drinks are only available on resort islands. Do not take any alcohol out of your resort. You can be arrested and deported for possessing and drinking alcohol, or being intoxicated outside resorts and on inhabited islands.\u00a0\u00a0 \u00a0</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Maldives has strong anti-drugs laws. Importing or possessing drugs carries severe penalties, up to and including life imprisonment.</p>\n\n<h3 id=\"wildlife-animal-products-and-souvenirs\">Wildlife, animal products and souvenirs</h3>\n\n<p>It is illegal to take tortoiseshell jewellery or ornaments, or pieces of coral out of Maldives.\u00a0</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex relations are illegal and if you are convicted, you could get a fine or a lengthy prison sentence. \u00a0\u00a0\u00a0</p>\n\n<p>Read more <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h3 id=\"local-dress-standards\">Local dress standards</h3>\n\n<p>You should be sensitive to local dress standards when outside holiday resorts, including on beaches used by locals. Men and women should:</p>\n\n<ul>\n  <li>have shoulders covered</li>\n  <li>avoid short or tight-fitting shorts</li>\n  <li>have arms and upper legs covered when bathing</li>\n</ul>\n\n<p>Nudism and topless sunbathing are not allowed anywhere, including on resort islands.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<h3 id=\"swimming-safety\">Swimming safety</h3>\n\n<p>The sea around Maldives can have strong tidal currents and a number of tourists drown every year. Always take local advice before going into the sea.</p>\n\n<h3 id=\"scuba-diving\">Scuba diving</h3>\n\n<p>Many resort islands are more than an hour away from the nearest decompression chamber. Make sure you understand how your dive operator would get you to one of the 3 hyperbaric chambers in the islands.\u00a0</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive a car in Maldives, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a>.</p>\n\n<p>You\u2019ll need to have both the <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">correct version of the international driving permit (<abbr title=\"international driving permit\">IDP</abbr>)</a> and your UK driving licence with you in the car.\u00a0</p>\n\n<p>Hire car companies often have stricter requirements for their customers, such as a year of driving experience and minimum age 20 or 21.</p>\n\n<h3 id=\"sea-travel\">Sea travel</h3>\n\n<p>There is a high risk of <a href=\"https://www.gov.uk/guidance/sea-river-and-piracy-safety\">piracy and armed robbery</a> in the Gulf of Aden and Indian Ocean.</p>\n\n<p>There have been attacks on local fishing sailing vessels (dhows)\u00a0in the Gulf of Aden and Horn of Africa. The international Naval Counter Piracy Forces advise all sailing yachts to stay out of the <a rel=\"external\" href=\"http://www.mschoa.org/on-shore/home\">designated High Risk Area</a> because of the risk of hijack or hostage-taking for ransom by criminal groups.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"flooding\">Flooding</h3>\n\n<p>Flash flooding can affect low-lying islands during periods of heavy rain. Follow the advice of the local authorities.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 102 and ask for an ambulance.</p>\n\n<p>Contact your insurance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/139/maldives\">latest information on recommended vaccinations and health risks in TravelHealthPro\u2019s Maldives guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-maldives\">Healthcare facilities in Maldives</h2>\n\n<p>Medical facilities are limited \u2013 the only fully equipped hospitals are in Mal\u00e9 and Hulhumal\u00e9. Most resort islands are within reach of a doctor or have their own medical facilities, but many are several hours\u2019 travel away from emergency treatment.</p>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/maldives-list-of-medical-facilities\">English-speaking doctors in Maldives.</a></p>\n\n<p>There is also <a href=\"https://www.gov.uk/guidance/living-in-maldies\">guidance on healthcare</a> if you\u2019re living in Maldives.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-maldives\">Emergency services in Maldives</h2>\n\n<p>Ambulance: 102</p>\n\n<p>Fire: 118</p>\n\n<p>Police: 119</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding\u00a0<a href=\"https://www.gov.uk/government/publications/maldives-list-of-lawyers\">lawyers</a>\n</li>\n  <li>dealing with a\u00a0<a href=\"https://www.gov.uk/government/publications/maldives-bereavement-death-abroad\">death in Maldives</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/maldives-prisoner-pack\">arrested or imprisoned in Maldives</a>\n</li>\n  <li>getting help if you\u2019re a\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re\u00a0<a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/maldives/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Maldives&amp;post=Maldives%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you\u2019re in Maldives and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-high-commission-colombo\">British High Commission Colombo</a> who provide consular assistance for Maldives.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-20T11:04:02Z",
+            "updated_at": "2023-10-20T11:04:02Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-13T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/maldives",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/maldives",
+                    "base_path": "/foreign-travel-advice/maldives",
+                    "content_id": "99e0a892-9daa-443c-b96c-97ba9e28a2c8",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-20T11:04:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "Maldives travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/maldives",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/maldives",
+                    "api_url": "https://www.gov.uk/api/content/world/maldives",
+                    "base_path": "/world/maldives",
+                    "content_id": "f5e0dcef-4bf0-43db-8a36-a02840aaba90",
+                    "description": "Services if you're visiting, studying, working or living in Maldives. Includes information about trading with and doing business in the UK and Maldives.",
+                    "details": {
+                        "internal_name": "UK help and services in Maldives",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:59Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Maldives",
+                    "web_url": "https://www.gov.uk/world/maldives",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/mauritius",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/mauritius",
+                    "base_path": "/foreign-travel-advice/mauritius",
+                    "content_id": "51cc8ddf-0dc6-453a-b721-940068671aff",
+                    "details": {
+                        "change_description": "Information about attitudes towards the LGBT+ community in Mauritius  (\u2018Local laws and customs\u2019 page).",
+                        "country": {
+                            "name": "Mauritius",
+                            "slug": "mauritius",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-14T09:21:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "Mauritius travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/mauritius",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sri-lanka",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sri-lanka",
+                    "base_path": "/foreign-travel-advice/sri-lanka",
+                    "content_id": "c90dd329-ea2a-413a-b927-a67bd3cbbb84",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Sri Lanka",
+                            "slug": "sri-lanka",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-31T12:14:12Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sri Lanka travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sri-lanka",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/seychelles",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/seychelles",
+                    "base_path": "/foreign-travel-advice/seychelles",
+                    "content_id": "969f0558-e381-4a34-a8a5-91d106d89050",
+                    "details": {
+                        "change_description": "Information about the decreased but continuing risk of piracy in the region (\u2018Sea travel\u2019 heading on the \u2018Safety and security\u2019 page).",
+                        "country": {
+                            "name": "Seychelles",
+                            "slug": "seychelles",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-14T10:06:58Z",
+                    "schema_name": "travel_advice",
+                    "title": "Seychelles travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/seychelles",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/united-arab-emirates",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/united-arab-emirates",
+                    "base_path": "/foreign-travel-advice/united-arab-emirates",
+                    "content_id": "753268f3-f9fb-44bb-bcb2-84a570ea637e",
+                    "details": {
+                        "change_description": "Update to include information relevant for the period of COP28 in Dubai 30 November \u2013 12 December ('Summary' page). ",
+                        "country": {
+                            "name": "United Arab Emirates",
+                            "slug": "united-arab-emirates",
+                            "synonyms": [
+                                "UAE",
+                                "Dubai",
+                                "Abu Dhabi"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T12:35:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "United Arab Emirates travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/united-arab-emirates",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/mexico",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/mexico",
+                    "base_path": "/foreign-travel-advice/mexico",
+                    "content_id": "34dafa2b-24e5-4625-b542-bf5e0bb8cd80",
+                    "details": {
+                        "change_description": "Advise against all but essential travel to the city of Acapulco following Hurricane Otis ('Warnings and insurance' page; \u2018Regional Travel\u2019 page)",
+                        "country": {
+                            "name": "Mexico",
+                            "slug": "mexico",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-29T09:29:10Z",
+                    "schema_name": "travel_advice",
+                    "title": "Mexico travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/mexico",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-maldives",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-maldives",
+                    "base_path": "/world/living-in-maldives",
+                    "content_id": "f047a365-ad8b-444d-a875-29f327873648",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Maldives",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/maldives",
+                                "api_url": "https://www.gov.uk/api/content/world/maldives",
+                                "base_path": "/world/maldives",
+                                "content_id": "f5e0dcef-4bf0-43db-8a36-a02840aaba90",
+                                "description": "Services if you're visiting, studying, working or living in Maldives. Includes information about trading with and doing business in the UK and Maldives.",
+                                "details": {
+                                    "internal_name": "UK help and services in Maldives",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:59Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Maldives",
+                                "web_url": "https://www.gov.uk/world/maldives",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:39Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Maldives",
+                    "web_url": "https://www.gov.uk/world/living-in-maldives",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-maldives",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-maldives",
+                    "base_path": "/world/travelling-to-maldives",
+                    "content_id": "955653db-42f3-4a2e-8294-93802a000514",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Maldives",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/maldives",
+                                "api_url": "https://www.gov.uk/api/content/world/maldives",
+                                "base_path": "/world/maldives",
+                                "content_id": "f5e0dcef-4bf0-43db-8a36-a02840aaba90",
+                                "description": "Services if you're visiting, studying, working or living in Maldives. Includes information about trading with and doing business in the UK and Maldives.",
+                                "details": {
+                                    "internal_name": "UK help and services in Maldives",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:59Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Maldives",
+                                "web_url": "https://www.gov.uk/world/maldives",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:38Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Maldives",
+                    "web_url": "https://www.gov.uk/world/travelling-to-maldives",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-20T11:04:02Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1697799842.880-10.13.22.118-22099",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Maldives travel advice",
+        "updated_at": "2023-11-15T11:01:17Z",
+        "withdrawn_notice": {}
+    }
+}

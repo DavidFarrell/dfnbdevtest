@@ -1,0 +1,1159 @@
+{
+    "Country Slug": "morocco",
+    "Country Name": "Morocco",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/morocco",
+        "content_id": "7584a0dd-accf-4901-a8a6-bc964dc1412f",
+        "description": "Latest FCDO travel advice for Morocco including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Updated information regarding potential for demonstrations ('Safety and security' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Safety and security section (Crime and Hiking) - revised information; 2 foreign nationals were murdered while hiking near Mount Toubkal in December ",
+                    "public_timestamp": "2018-12-19T13:12:07.810Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Crime and Hiking) and Terrorism section - update to factual information following murder of 2 foreign nationals while hiking near Mount Toubkal in December  ",
+                    "public_timestamp": "2018-12-20T17:40:50.168Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Crime) and Terrorism section - update to factual information following murder of 2 foreign nationals while hiking near Mount Toubkal in December",
+                    "public_timestamp": "2018-12-21T13:17:58.422Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) \u2013 addition of information about International Driving Permit changes from 28 March 2019",
+                    "public_timestamp": "2019-03-18T14:06:31.991Z"
+                },
+                {
+                    "note": "Latest update: Summary and Terrorism section - updated information and advice on the threat from terrorism in Morocco, reflecting an increased threat",
+                    "public_timestamp": "2019-03-20T13:00:59.708Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements (Passports) - updated information on passport validity",
+                    "public_timestamp": "2019-04-16T14:29:43.098Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full and re-issued with amendments throughout ",
+                    "public_timestamp": "2019-06-25T13:23:50.747Z"
+                },
+                {
+                    "note": "Summary - advice following the announcement that Thomas Cook has ceased trading",
+                    "public_timestamp": "2019-09-23T01:54:26.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Thomas Cook ceasing to trade",
+                    "public_timestamp": "2019-10-17T11:31:44.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) following a confirmed case of the virus in Morocco ('Health' and 'Summary' page)",
+                    "public_timestamp": "2020-03-03T14:35:01.000Z"
+                },
+                {
+                    "note": "Summary and Health - introduction of travel and transport restrictions in response to coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-13T22:24:37.000Z"
+                },
+                {
+                    "note": "Update to closure of air and sea borders and suspension of ferry links in response to the  coronavirus (COVID-19) pandemic.",
+                    "public_timestamp": "2020-03-14T12:28:05.000Z"
+                },
+                {
+                    "note": "The government of Morocco has closed air and sea borders to anyone travelling from a number of countries. It has also suspended passenger ferry links with Spain and Gibraltar. Further imminent suspensions are likely and could include flights from the UK and other countries reporting cases of coronavirus. ",
+                    "public_timestamp": "2020-03-14T17:01:42.000Z"
+                },
+                {
+                    "note": "Entry restrictions following outbreak of coronavirus (Summary) ",
+                    "public_timestamp": "2020-03-14T19:31:35.000Z"
+                },
+                {
+                    "note": "Summary - Following the attack on the coalition base at Taji in Iraq on 11 March, and subsequent US airstrikes, tensions may be raised across the region. There is a possibility of an increased threat against Western interests, including against UK citizens. You should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice. ",
+                    "public_timestamp": "2020-03-14T20:18:01.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Morocco. ",
+                    "public_timestamp": "2020-03-15T16:38:21.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-17T14:06:22.000Z"
+                },
+                {
+                    "note": "Addition of links to the British Embassy Rabat Twitter and Facebook channels for the latest available information on flight departure options for British nationals wishing to leave Morocco ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-18T12:35:12.000Z"
+                },
+                {
+                    "note": "Addition of advice to British tourists who are still in Morocco following the suspension of commercial flights. ('Summary', 'Coronavirus')",
+                    "public_timestamp": "2020-03-25T19:44:11.000Z"
+                },
+                {
+                    "note": "Latest update: update to information on measures in response to coronavirus (COVID-19) (\u2018Return to UK\u2019 pages).",
+                    "public_timestamp": "2020-04-01T23:53:17.000Z"
+                },
+                {
+                    "note": "Update to information on measures in response to coronavirus (COVID-19). ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-04-09T17:52:43.000Z"
+                },
+                {
+                    "note": "Updated information and advice for those wishing to return to the UK including update to Embassy contact email details ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-15T16:33:00.000Z"
+                },
+                {
+                    "note": "Updated contact information for those requiring an emergency loan ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-19T16:20:56.000Z"
+                },
+                {
+                    "note": "Updated information to reflect that all seats have now been allocated on a commercial flight on 24 April ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-22T16:41:54.000Z"
+                },
+                {
+                    "note": "Addition of information on two special commercial flights from Casablanca on 2 May and ban on night-time movements during Ramadan. ('Coronavirus' and 'Return to the UK' pages)  ",
+                    "public_timestamp": "2020-04-27T16:40:57.000Z"
+                },
+                {
+                    "note": "Addition of cost and baggage information on two special commercial flights from Casablanca Airport to London Heathrow Airport on 2 May  ('Return to the UK' page). ",
+                    "public_timestamp": "2020-04-28T08:45:49.000Z"
+                },
+                {
+                    "note": "Information on the \u201ccertificate of movement\u201d and notification that the final two special commercial flights to the UK on 2 May are fully booked (\u201cCoronavirus\u201d and \u201c'Return to the UK\u201d' pages). ",
+                    "public_timestamp": "2020-04-30T19:03:18.000Z"
+                },
+                {
+                    "note": "Latest update: Notification that embassy-organised flights to UK have ended and advice for travelers with cars and camper-vans (\u201c'Return to the UK\u201d' pages). ",
+                    "public_timestamp": "2020-05-03T12:42:11.000Z"
+                },
+                {
+                    "note": "Information on ferry departures to France for British tourists in campervans (\u201c'Return to the UK\u201d' pages). ",
+                    "public_timestamp": "2020-05-09T09:03:58.000Z"
+                },
+                {
+                    "note": "Updated information on ferry departures to France for British tourists in campervans. ('Return to the UK' page) ",
+                    "public_timestamp": "2020-05-11T16:52:42.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-14T11:43:01.000Z"
+                },
+                {
+                    "note": "Addition of information on ferry sailings and advice to tourists overstaying visa due to flight suspension/border closures (\u201cReturn to the UK\u201d and \u201cEntry Requirements\u201d pages)",
+                    "public_timestamp": "2020-05-16T22:07:41.000Z"
+                },
+                {
+                    "note": "Update to ferry information ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-23T11:02:37.000Z"
+                },
+                {
+                    "note": "Addition of information on a further two special commercial flights from Casablanca to London Stansted on Friday 5 June ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-29T18:01:02.000Z"
+                },
+                {
+                    "note": "Addition of information on special commercial flights from Casablanca to London ('Return to the UK' page).",
+                    "public_timestamp": "2020-06-02T11:32:10.000Z"
+                },
+                {
+                    "note": "Addition of information on final special commercial flight from Casablanca to Luton on Saturday 6 June ('Return to the UK' page).",
+                    "public_timestamp": "2020-06-03T13:26:18.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:39:42.000Z"
+                },
+                {
+                    "note": "Update to information on future flights for those remaining in Morocco ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T13:47:35.000Z"
+                },
+                {
+                    "note": "Update to information on extension of State of Health Emergency and addition of information on the categorising of provinces/prefectures into zones ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-11T14:02:33.000Z"
+                },
+                {
+                    "note": "Update to information on assistance to British nationals ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-12T21:19:27.000Z"
+                },
+                {
+                    "note": "Addition of information on a special commercial flight to the UK on 26 June  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-19T11:53:26.000Z"
+                },
+                {
+                    "note": "Change of destination to London Stansted Airport for the special commercial flight to the UK on 26 June (Return to the UK)",
+                    "public_timestamp": "2020-06-23T07:54:47.000Z"
+                },
+                {
+                    "note": "Updated information that the special commercial flight to the UK on 26 June is now fully booked. ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-23T16:02:28.000Z"
+                },
+                {
+                    "note": "Additional information for British nationals staying in Morocco during coronavirus ('Staying during coronavirus' page) ",
+                    "public_timestamp": "2020-06-24T23:01:46.000Z"
+                },
+                {
+                    "note": "Updated information about the end of the repatriation flight operation by the British Embassy ('Returning to the UK' page) ",
+                    "public_timestamp": "2020-06-29T13:05:35.000Z"
+                },
+                {
+                    "note": "Addition of information about ferries to mainland Europe ('Returning to the UK' page) ",
+                    "public_timestamp": "2020-07-02T09:36:44.000Z"
+                },
+                {
+                    "note": "Editorial review to improve Coronavirus page and remove Return to the UK section.  Updated information on entry.  ('Entry requirements' section)",
+                    "public_timestamp": "2020-07-10T17:16:02.000Z"
+                },
+                {
+                    "note": "Update to information on support from the British Embassy Rabat, requirements on entry and exit ('Coronavirus'  and 'Entry requirements' pages) and editorial review changes ('Safety and security' and 'Local laws and customs' pages)",
+                    "public_timestamp": "2020-07-14T16:54:32.000Z"
+                },
+                {
+                    "note": "Updated information on local measures to restrict the spread of coronavirus (COVID-19) ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-21T14:16:52.000Z"
+                },
+                {
+                    "note": "Updated information on overstaying visas - penalties will be reintroduced from 10 August (\"Entry Requirements\" section)",
+                    "public_timestamp": "2020-07-25T07:13:32.000Z"
+                },
+                {
+                    "note": "Updated information on overstaying visas - foreigners in Morocco on an expired visit visa must leave the country by 10 August (\"Entry Requirements\" section)",
+                    "public_timestamp": "2020-07-25T16:26:04.000Z"
+                },
+                {
+                    "note": "Updated information on prohibition of movement into/out of Tangier, Tetouan, Meknes, Fes, Casablanca, Berechid, Settat and Marrakech (\u201cCoronavirus\u201d section - \"Travel in Morocco\")",
+                    "public_timestamp": "2020-07-26T20:52:06.000Z"
+                },
+                {
+                    "note": "Updated information about travelling in Morocco ('Coronavirus' page) and addition of information when using public transport ('Safety and security' page)",
+                    "public_timestamp": "2020-07-29T10:57:00.000Z"
+                },
+                {
+                    "note": "Updated requirements for travel within Morocco to ports and airports and public transport restrictions ('Coronavirus' pages)",
+                    "public_timestamp": "2020-07-29T17:44:51.000Z"
+                },
+                {
+                    "note": "Updated information about requirements when entering Morocco due to COVID19 ('Summary' and 'Entry requirements' pages), updated information about visas and foreign visitors to return home by 10 August ('Entry requirements' page) and updated information about international flights and the extension to the State of Health Emergency until 10 August ('Coronavirus' page) ",
+                    "public_timestamp": "2020-08-07T13:50:26.000Z"
+                },
+                {
+                    "note": "If you're eligible to enter Morocco, you must complete a passenger health form online. ('Entry requirements' section)",
+                    "public_timestamp": "2020-08-07T16:15:40.000Z"
+                },
+                {
+                    "note": "Update to British Embassy contact details for travel authorisation letters (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-08-20T11:23:47.000Z"
+                },
+                {
+                    "note": "Update to information on the movement of the province of Beni Mellal from regional pandemic designated zone 1 to zone 2 ('Coronavirus page')",
+                    "public_timestamp": "2020-08-27T11:39:47.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for Morocco\r\n('Entry Requirements page')",
+                    "public_timestamp": "2020-09-15T10:17:15.000Z"
+                },
+                {
+                    "note": "Updated information on entry and travel restrictions in Morocco\r\n('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-18T12:40:01.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements in Morocco \r\n('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-01T14:35:16.000Z"
+                },
+                {
+                    "note": "Update to information on the State of Health Emergency. ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-12T14:25:49.000Z"
+                },
+                {
+                    "note": "Additional information on ferry routes in Morocco ('Entry requirements' page)",
+                    "public_timestamp": "2020-10-23T09:36:24.000Z"
+                },
+                {
+                    "note": "Updated information on Entry requirements to Morocco (See 'Entry requirements' page)",
+                    "public_timestamp": "2020-11-11T18:14:56.000Z"
+                },
+                {
+                    "note": "New information on obtaining medication in Morocco ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-09T14:23:35.000Z"
+                },
+                {
+                    "note": "New information on suspension of flights between the UK and Morocco from 20 December until further notice ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-21T19:18:58.000Z"
+                },
+                {
+                    "note": "Addition of new information on nationwide night time curfew and other local Coronavirus (COVID-19) measures ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-23T12:02:24.000Z"
+                },
+                {
+                    "note": "New information on international flights; the Moroccan Government has suspended all direct flights from Morocco and the UK until further notice, this affects travel from the UK to Morocco via third countries ('Summary', 'Coronavirus, and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-29T17:48:05.000Z"
+                },
+                {
+                    "note": "New information on refusal of entry for passengers arriving in Morocco by air, travelling from the UK via a third country ('Summary', 'Coronavirus, and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-31T13:39:00.000Z"
+                },
+                {
+                    "note": "Revised information on the State of Health Emergency and a night time curfew. (\u2018Coronavirus\u2019 page)  ",
+                    "public_timestamp": "2021-01-15T18:46:35.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-10T16:59:57.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Morocco (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-17T15:57:28.000Z"
+                },
+                {
+                    "note": "New information on the suspension of all flights between Morocco and France and Spain with effect from 11pm on 30 March (\u2018Coronavirus' page)",
+                    "public_timestamp": "2021-03-29T18:31:58.000Z"
+                },
+                {
+                    "note": "New information on the operation of \u201cspecial flights\u201d between Morocco and France (\u2018Coronavirus' page)",
+                    "public_timestamp": "2021-04-06T16:55:51.000Z"
+                },
+                {
+                    "note": "New information on flights departing from Morocco (\u2018Coronavirus' page)",
+                    "public_timestamp": "2021-04-27T13:01:06.000Z"
+                },
+                {
+                    "note": "New information on flights departing from Morocco (\u2018Coronavirus' page)",
+                    "public_timestamp": "2021-04-27T16:04:11.000Z"
+                },
+                {
+                    "note": "Removal of Turkey from the list of countries that you may use as a route to the UK ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-20T12:11:56.000Z"
+                },
+                {
+                    "note": "Curfew hours have changed following the Government of Morocco\u2019s announcement of new easement measures.  ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-24T14:29:06.000Z"
+                },
+                {
+                    "note": "Direct flights between the UK and Morocco recommence on 15 June (Coronavirus)",
+                    "public_timestamp": "2021-06-12T11:47:36.000Z"
+                },
+                {
+                    "note": "From 15 June, direct flights between the UK and Morocco resume; you will need to provide proof that you have been fully vaccinated against COVID-19, with the second dose administered at least two weeks prior to travel, or a negative PCR test result before boarding your flight or ferry to Morocco (Summary and Coronavirus)",
+                    "public_timestamp": "2021-06-13T16:52:01.000Z"
+                },
+                {
+                    "note": "Update to information on resumption of direct flights between the UK and Morocco.  Addition of information on requirement to present a completed Public Health Passenger form on arrival  ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-06-21T14:45:53.000Z"
+                },
+                {
+                    "note": "Update to PCR testing requirements for travel from the UK to Morocco ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-07-07T10:08:21.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Morocco, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-07-08T16:52:08.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Morocco ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-08-03T14:46:45.000Z"
+                },
+                {
+                    "note": "Further restrictive measures have been introduced by the Moroccan authorities to minimise the spread of COVID-19, including the introduction of a nationwide curfew and restrictions of movement to / from Casablanca, Agadir and Marrakech (See \u2018Coronavirus\u2019 section for full details)",
+                    "public_timestamp": "2021-08-03T18:12:01.000Z"
+                },
+                {
+                    "note": "Information about green cards if you\u2019re planning to drive in Morocco (\u2018Safety and security\u2019 page)\r\n",
+                    "public_timestamp": "2021-08-09T14:20:25.000Z"
+                },
+                {
+                    "note": "Information about changes to COVID-19 restrictive measures (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-10-01T15:38:42.000Z"
+                },
+                {
+                    "note": "Updated information on demonstrating your COVID-19 status at the border and in domestic settings ('Entry requirements' and \u2018Coronavirus\u2019 pages)\r\n",
+                    "public_timestamp": "2021-10-07T14:16:47.000Z"
+                },
+                {
+                    "note": "Updated information on suspension of direct flights between Morocco and the UK from midnight on 20 October ('Coronavirus' page)",
+                    "public_timestamp": "2021-10-20T11:35:52.000Z"
+                },
+                {
+                    "note": "New information on COVID-19 restrictions; from 21 October you will need a  vaccine pass to enter public places including hotels, restaurants and shops (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-10-20T15:48:19.000Z"
+                },
+                {
+                    "note": "New information on suspension of direct flights and the introduction of additional restrictive measures for travellers from the UK to Morocco (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-10-21T19:01:22.000Z"
+                },
+                {
+                    "note": "New information on flights available to travellers seeking to return to the UK (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-10-24T09:56:05.000Z"
+                },
+                {
+                    "note": "New information on available seats on TUI flights for British travellers seeking to return to the UK (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-10-27T16:02:25.000Z"
+                },
+                {
+                    "note": "Removal of information on available seats on TUI flights for British travellers seeking to return to the UK (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-10-29T18:15:34.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-03T12:18:02.000Z"
+                },
+                {
+                    "note": "Removal of references to curfew restrictions and vaccine passes for travel around Morocco ('Coronavirus' page)",
+                    "public_timestamp": "2021-11-11T16:23:05.000Z"
+                },
+                {
+                    "note": "Addition of reference to requirement for a temperate check and rapid antigen test upon arrival in Morocco (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-11-15T16:33:34.000Z"
+                },
+                {
+                    "note": "Updated information on children under 6 being exempt from the PCR testing requirement for entry into Morocco (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-11-18T16:35:21.000Z"
+                },
+                {
+                    "note": "Updated information on children under 12 being exempt from the PCR testing requirement for entry into Morocco (\u2018Entry requirements\u2019 page) and suspension of flights between Morocco and France (\u2018Coronavirus\u2019 page). ",
+                    "public_timestamp": "2021-11-26T18:01:39.000Z"
+                },
+                {
+                    "note": "Updated  information on the  suspension of all flights to Morocco from 11:59pm on Monday 29 November for two weeks ('Coronavirus' and 'Entry Requirements' pages).",
+                    "public_timestamp": "2021-11-28T16:17:59.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of all flights and ferries to Morocco from 11:59pm on Monday 29 November for two weeks and airlines flying out of Morocco during this time ('Coronavirus' page).",
+                    "public_timestamp": "2021-12-01T11:36:40.000Z"
+                },
+                {
+                    "note": "Updated information following the extension of the suspension of all flights and ferries to Morocco ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-10T10:43:34.000Z"
+                },
+                {
+                    "note": "Updated information following an extension to 31 January of the suspension of all flights and ferries in to and out of Morocco ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-29T11:31:32.000Z"
+                },
+                {
+                    "note": "Updated information following the Moroccan government\u2019s announcement to reopen Moroccan airspace to commercial flights ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-01-28T14:02:59.000Z"
+                },
+                {
+                    "note": "Updated information containing specific requirements for entry following the Moroccan government\u2019s announcement to reopen Moroccan airspace to commercial flights, and that the suspension of ferry services is extended until 11:59pm on 6th February. ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-02-02T14:51:19.000Z"
+                },
+                {
+                    "note": "Updated information on the exemption for children under the age of 18 from the requirement to show a vaccine pass to enter Morocco.  Addition of information on the requirement for all passengers to complete a passenger health form before arrival ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-04T10:37:53.000Z"
+                },
+                {
+                    "note": "Updated information on the definition of a valid vaccine pass required to enter and leave Morocco (\u2018Entry requirements' page)",
+                    "public_timestamp": "2022-02-04T17:33:52.000Z"
+                },
+                {
+                    "note": "Updated information on the current suspension of ferry services being extended until further notice (\u2018Entry requirements' page)",
+                    "public_timestamp": "2022-02-05T08:11:48.000Z"
+                },
+                {
+                    "note": "Updated information on non-acceptance of COVID-19 recovery passes and testing requirements to enter Morocco (\u2018Entry requirements' page)",
+                    "public_timestamp": "2022-02-11T10:45:14.000Z"
+                },
+                {
+                    "note": "Clarification of vaccine pass requirements for entering and leaving Morocco (\u2018Entry requirements' page)",
+                    "public_timestamp": "2022-02-18T16:11:09.000Z"
+                },
+                {
+                    "note": "Change from routine to random COVID-19 testing on arrival into Morocco (\u2018Entry requirements' page)",
+                    "public_timestamp": "2022-03-04T16:43:51.000Z"
+                },
+                {
+                    "note": "Updated information on the re-opening of ferry services and requirement for either a vaccine pass or a PCR test to be produced upon entry (\u2018Entry requirements\u2019 page)\r\n",
+                    "public_timestamp": "2022-04-29T16:05:24.000Z"
+                },
+                {
+                    "note": "Updated information on the re-opening of the borders with Ceuta and Melilla and on the requirement for either a vaccine pass OR a PCR test to be produced upon entry to Morocco (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-05-18T17:41:08.000Z"
+                },
+                {
+                    "note": "Updated information on vaccine conditions for entry to Morocco.(\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-05-19T14:38:44.000Z"
+                },
+                {
+                    "note": "Addition of information on what to do if your British passport is lost or stolen in Morocco (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-07-07T15:34:29.000Z"
+                },
+                {
+                    "note": "Clarification of vaccination requirements for entry to Morocco for travellers aged 12-18 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-07-20T14:33:15.000Z"
+                },
+                {
+                    "note": "Updated information that PCR and vaccine pass requirements lifted for entry to Morocco for all travellers (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-10-03T13:15:27.000Z"
+                },
+                {
+                    "note": "Updated information on a ban on all travellers from China ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2023-01-05T11:07:14.000Z"
+                },
+                {
+                    "note": "Removal of outdated information ('Summary' page).",
+                    "public_timestamp": "2023-02-14T14:04:05.000Z"
+                },
+                {
+                    "note": "Removal of outdated information ('Entry Requirements' page).",
+                    "public_timestamp": "2023-03-29T12:20:08.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:14:06.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. ",
+                    "public_timestamp": "2023-06-23T14:44:38.000Z"
+                },
+                {
+                    "note": "Latest update: There have been wildfires in the vicinity of Tangier. Wildfires are highly dangerous and unpredictable. Follow local guidance. ",
+                    "public_timestamp": "2023-08-13T01:27:13.000Z"
+                },
+                {
+                    "note": "Latest update: Information on wildfires in the vicinity of Tangier ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-08-13T05:47:35.000Z"
+                },
+                {
+                    "note": "Information on the risks of using taxis booked via mobile phone apps (under 'Transport risks' on the 'Safety and security' page).",
+                    "public_timestamp": "2023-08-31T13:06:53.000Z"
+                },
+                {
+                    "note": "Information on the reported shooting of two tourists on jet skis who had allegedly strayed into Algerian waters ('Safety and security' page).",
+                    "public_timestamp": "2023-09-01T14:46:57.000Z"
+                },
+                {
+                    "note": "Information on the reported shooting of two jet skiers who had allegedly strayed into Algerian waters ('Safety and security' page).",
+                    "public_timestamp": "2023-09-05T16:01:41.000Z"
+                },
+                {
+                    "note": "Information on the reported shooting of jet skiers who had allegedly strayed into Algerian waters ('Safety and security' page).",
+                    "public_timestamp": "2023-09-05T16:11:29.000Z"
+                },
+                {
+                    "note": "Addition of information regarding 6.8 earthquake (warnings and insurance)",
+                    "public_timestamp": "2023-09-08T23:27:31.000Z"
+                },
+                {
+                    "note": "Addition of information on travel and contact options following the 6.8m earthquake (\u2018Warnings and Insurance\u2019 page)",
+                    "public_timestamp": "2023-09-09T13:00:08.000Z"
+                },
+                {
+                    "note": "Addition of more information about travel and accommodation (\u2018Warnings and Insurance\u2019 Page)",
+                    "public_timestamp": "2023-09-09T18:52:35.000Z"
+                },
+                {
+                    "note": "Information on restrictions for visitors trying to undertake any kind of search and rescue work without the explicit authorisation from the Moroccan government to do so ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-09-13T11:25:19.000Z"
+                },
+                {
+                    "note": "Updated information regarding visa requirements, borders, and flights following the earthquake ('Warnings and insurance', 'Entry requirements' and 'Safety and security' pages). ",
+                    "public_timestamp": "2023-09-26T13:26:19.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information regarding planned demonstrations in Rabat and Casablanca (\u2018Political situation\u2019)\r\n",
+                    "public_timestamp": "2023-10-14T13:00:16.000Z"
+                },
+                {
+                    "note": "Updated information regarding potential for demonstrations ('Safety and security' page).",
+                    "public_timestamp": "2023-10-16T14:03:39.000Z"
+                },
+                {
+                    "note": "Updated information regarding potential for demonstrations ('Safety and security' page).",
+                    "public_timestamp": "2023-10-19T09:40:24.000Z"
+                }
+            ],
+            "country": {
+                "name": "Morocco",
+                "slug": "morocco",
+                "synonyms": [
+                    "Sahel"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/morocco/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.\u00a0</p>\n\n<h2 id=\"earthquake-in-morocco\">Earthquake in Morocco</h2>\n\n<p>An earthquake of magnitude 6.8 hit Morocco near Marrakesh on 8 September. Further aftershocks are possible. Follow the advice of local authorities, and the local media.</p>\n\n<h3 id=\"if-you-need-help\">If you need help</h3>\n\n<p>If you are in Morocco and you need consular assistance call our 24-hour helpline and select the option for \u2018consular services for British nationals\u2019:</p>\n\n<ul>\n  <li>For domestic calls from Morocco, call British Embassy Rabat +212 (0) 537 63 33 33</li>\n  <li>For international calls to the UK , call +44 (0) 207 008 5000</li>\n</ul>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<div class=\"example\">\n<p>Follow and contact FCDO travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also <a href=\"https://www.gov.uk/foreign-travel-advice/morocco/email-signup\">sign up to get email notifications</a> when this advice is updated.</p>\n</div>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Morocco set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">contact Morocco\u2019s embassy in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Visit TravelHealthPro (from the UK\u2019s National Travel Health Network and Centre) for <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">general COVID-19 advice for travellers</a>.</p>\n\n<h3 id=\"demonstrating-your-covid-19-status\">Demonstrating your COVID-19 status</h3>\n\n<p>Morocco accepts the UK\u2019s <a href=\"https://www.gov.uk/guidance/demonstrating-your-covid-19-status\">proof of COVID-19 vaccination record</a> at the border. Your NHS appointment card from vaccination centres cannot be used to demonstrate your vaccine status.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>The embassy of Morocco in the UK advise that your passport should be valid for at least 3 months on your date of entry to Morocco. If your passport does not meet this requirement, you may face difficulties and you should check with the Moroccan authorities and your travel provider before travelling.</p>\n\n<p>Make sure <a href=\"https://www.gov.uk/government/publications/damaged-and-faulty-passports\">your passport isn\u2019t damaged</a>. Some travellers have been refused entry when travelling on damaged passports.</p>\n\n<p>Moroccan citizens who reside in the UK and travel to Morocco, may not be allowed to return to the UK unless they present evidence of their UK immigration status. This can include their UK biometric residence permit card or a valid UK entry clearance.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>British nationals don\u2019t need a visa to enter Morocco for the purpose of tourism for up to 90 days. British nationals who stay longer than 90 days need to go to a local police station to request an extension.</p>\n\n<p>When entering the country, make sure your passport is stamped. Some travellers have experienced difficulties leaving the country because their passport has no entry stamp.</p>\n\n<h2 id=\"arriving-by-private-boat\">Arriving by private boat</h2>\n\n<p>If you\u2019re arriving by private boat, you must enter the country at a <a rel=\"external\" href=\"https://www.anp.org.ma/en/\">recognised port of entry</a>. Entry through other ports is illegal.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, check the vaccinations and vaccination certificates you may need on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/154/morocco\">TravelHealthPro</a>.</p>\n\n<h2 id=\"taking-money-into-morocco\">Taking money into Morocco</h2>\n\n<p>Most major credit cards are accepted in larger towns. ATMs are widely available in cities and most main towns. There is no limit on the amount of foreign cash you can bring into the country. You won\u2019t be able to change Scottish or Northern Irish bank notes. It\u2019s difficult to exchange travellers\u2019 cheques.</p>\n\n<p>The Moroccan Dirham (MAD) is non-convertible. You can import or export up to a maximum of 2,000 MAD to or from Morocco.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-morocco\">Terrorism in Morocco</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are very likely to try to carry out attacks in Morocco.</p>\n</div>\n\n<p>Two tourists were murdered while hiking near Mount Toubkal in 2018. Moroccan authorities arrested four individuals in connection with the murders, including one who had links to \u201can extremist group\u201d.</p>\n\n<p>There is an increased threat linked to the number of Moroccans sympathetic or belonging to Daesh (formerly ISIL) and other extremist groups. Authorities regularly disrupt terrorist cells.</p>\n\n<p>Places at higher risk of attack include:</p>\n\n<ul>\n  <li>crowded areas</li>\n  <li>government installations</li>\n  <li>transportation networks</li>\n  <li>businesses with Western interests</li>\n  <li>areas where foreign nationals and tourists are known to gather</li>\n</ul>\n\n<p>Be vigilant in these areas and follow any specific advice of the local security authorities.</p>\n\n<p>Protective security measures, including security guards, may be present in areas, including hotels and sites popular with tourists.</p>\n\n<h2 id=\"kidnap\">Kidnap</h2>\n\n<p>While there have been no recent kidnappings of foreign nationals in Morocco, it cannot be ruled out. There is a threat of kidnapping by groups operating in North Africa, particularly from:</p>\n\n<ul>\n  <li>Libya</li>\n  <li>Mauritania</li>\n  <li>groups originating in the Sahel</li>\n</ul>\n\n<p>This includes Al Qaeda in the Islamic Maghreb (AQ-IM) and Daesh-affiliated groups, who may travel illegally across the border. There is a heightened risk of kidnap in the border and remote desert areas of North Africa. This has been done for financial gain and for political leverage.</p>\n\n<p>Terrorist groups have kidnapped:</p>\n\n<ul>\n  <li>foreigners</li>\n  <li>government officials</li>\n  <li>civilians</li>\n</ul>\n\n<p>Those working in the tourism, humanitarian aid work, journalism or business sectors are viewed as legitimate targets. If you\u2019re kidnapped, the reason for your presence is unlikely to serve as a protection or secure your safe release.</p>\n\n<p>The policy of the British Government is not to make substantive concessions to hostage takers. The British Government considers that paying ransoms and releasing prisoners increases the risk of further hostage taking. The Terrorism Act (2000) also makes payments to terrorists illegal.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>There is a currently a heightened chance of demonstrations and protests occurring across the country. You should avoid these gatherings, and be aware of the potential for protests to occur spontaneously. Protests can happen at short notice and are generally heavily policed. Demonstrations are mostly peaceful but there has been isolated violence. Demonstrations and protests may lead to increased travel disruption in affected areas.</p>\n\n<p>Follow any media reporting and instructions from local security authorities. Avoid political gatherings and demonstrations.</p>\n\n<h2 id=\"borders\">Borders</h2>\n\n<h3 id=\"western-sahara\">Western Sahara</h3>\n\n<p>See our <a href=\"https://www.gov.uk/foreign-travel-advice/western-sahara\">travel advice for Western Sahara</a> if you plan to travel to this disputed territory.</p>\n\n<h3 id=\"algerian-border\">Algerian border</h3>\n\n<p>It is illegal to cross an international border without authorisation. The land and maritime border between Morocco and Algeria is closed. The border is patrolled and monitored closely by the authorities. Do not attempt to cross the border.</p>\n\n<p>If you are in a boat or jet ski, ensure you know where the maritime border is and remain clearly within Moroccan waters. Ensure you have enough fuel to return to shore. As happened in August 2023, individuals entering Algerian waters illegally are likely to be intercepted and investigated.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Incidents of violent crime occasionally happen. There have been incidents involving the use of knives against tourists in street attacks, thefts and burglaries in major cities and along beaches. Avoid quiet areas, particularly after dark. Don\u2019t carry large amounts of money or valuables around with you.</p>\n\n<h3 id=\"petty-crime\">Petty crime</h3>\n\n<p>Petty crime is common, especially in tourist areas like the medina quarter (historical district) of towns/cities and on beaches. Crimes include:</p>\n\n<ul>\n  <li>\n    <p>pickpocketing</p>\n  </li>\n  <li>\n    <p>bag snatching</p>\n  </li>\n  <li>\n    <p>drive-by motorcycle theft of visible jewellery and handbags</p>\n  </li>\n</ul>\n\n<p>Be vigilant when asking for directions and using ATMs as crime and aggressive begging can happen. Credit card fraud and scams like substituting inferior goods for those that were bought are common. Remain alert to potential confidence tricks.</p>\n\n<h2 id=\"harassment-of-tourists\">Harassment of tourists</h2>\n\n<p>Harassment of tourists by people posing as official tourist guides is common.</p>\n\n<p>When visiting the medina quarter (historical district) of a town or city, make sure any guide you use is operating with the agreement of the local tourist authorities, and displays an official badge.</p>\n\n<h2 id=\"marriage-fraud\">Marriage fraud</h2>\n\n<p>Be cautious when travelling to Morocco for a relationship, or to meet someone you met on the internet. There have been incidents of marriage fraud and attempted extortion affecting British nationals. Make sure you keep your return ticket, passport and personal belongings safe.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"islamic-laws-and-customs\">Islamic laws and customs</h3>\n\n<p>Morocco is a Muslim country, which follows Islamic laws and customs. You should:</p>\n\n<ul>\n  <li>be aware of your actions to ensure they don\u2019t offend, especially during the holy month of Ramadan or if you intend to visit religious areas (see below)</li>\n  <li>respect local traditions, customs, laws and religions</li>\n  <li>avoid public displays of affection, particularly outside the main tourist areas and near religious places</li>\n</ul>\n\n<p>Sexual relations outside marriage are punishable by law. Hotels can ask couples to show evidence of marriage while checking-in and, if you don\u2019t have proof, they can insist on separate rooms.</p>\n\n<h3 id=\"ramadan\">Ramadan</h3>\n\n<p>Ramadan is a holy month for Muslims. The dates vary by year and country, check when Ramadan is in Morocco before you go. During this time, do not:</p>\n\n<ul>\n  <li>eat, drink, smoke or chew gum in public in the daytime, including in your car</li>\n  <li>play loud music or dance</li>\n  <li>swear in public</li>\n</ul>\n\n<p>Get more advice when you arrive from your tour guide, hotel or business contacts.</p>\n\n<p>You should also:</p>\n\n<ul>\n  <li>check opening hours of shops and restaurants</li>\n  <li>be aware that if hotels and restaurants are providing food or drink in fasting hours, they may separate you from Islamic guests, for example with screens</li>\n  <li>follow local dress codes \u2013 clothing that doesn\u2019t meet local dress codes may cause more offence at this time</li>\n  <li>be aware that driving may be erratic, particularly when people are trying to get home at dusk</li>\n</ul>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Homosexuality is illegal in Morocco. Be sensitive to local laws and customs and avoid public displays of affection. Complaints can lead to prosecution. See FCDO\u00a0 <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a> .</p>\n\n<h3 id=\"women-travellers\">Women travellers</h3>\n\n<p>Women, especially when travelling alone, may receive unwanted attention from men.  Consider wearing loose-fitting clothing which cover the arms, legs and chest. See our <a href=\"https://www.gov.uk/guidance/advice-for-women-travelling-abroad\">FCDO advice for woman travellers</a>.</p>\n\n<h3 id=\"alcohol-laws-and-bans\">Alcohol laws and bans</h3>\n\n<p>Alcohol is served in licensed hotels, bars and in tourist areas. Drinking alcohol in the street and anywhere other than a licensed restaurant or bar is illegal and can lead to arrest.</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Possession, use or trafficking in illegal drugs is a serious offence and can result in a lengthy prison sentence and a heavy fine.</p>\n\n<h3 id=\"sending-passports-in-the-post\">Sending passports in the post</h3>\n\n<p>In Morocco, it\u2019s illegal to send passports through the post. British passports sent to or through Morocco by post or courier companies will be confiscated by the Moroccan authorities.</p>\n\n<h3 id=\"bibles-and-religious-literature\">Bibles and religious literature</h3>\n\n<p>It is illegal to carry bibles in Arabic, to attempt to distribute any non-Muslim or evangelical literature, or to be involved in any such activity.</p>\n\n<h3 id=\"using-cameras\">Using cameras</h3>\n\n<p>Avoid taking any photographs near sensitive political or military sites.</p>\n\n<h3 id=\"pornographic-material\">Pornographic material</h3>\n\n<p>It\u2019s illegal to possess pornographic material. Possession of recorded writings, printed matter, cassettes and videocassettes and any type of material contrary to morality and public order are prohibited in the Moroccan territory.</p>\n\n<h3 id=\"flying-drones\">Flying drones</h3>\n\n<p>You\u2019ll need permission from the authorities to fly a drone. Contact the <a rel=\"external\" href=\"https://www.aviationcivile.gov.ma/\">Directorate General for Civial Aviation</a> (in French) for more information about the rules.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you\u2019re planning to hire a car, check with your car hire company for information on their requirements before you travel.</p>\n\n<p>Many taxis bookable via mobile phone apps may be unregulated and unlicensed. Drivers may not be registered with the authorities and their vehicle may not have the appropriate levels of insurance for carrying passengers. Such taxis may at times be stopped by the police, who may ask you get out of the car.</p>\n\n<p>You should:</p>\n\n<ul>\n  <li>think carefully before using such unregulated or unlicensed taxis</li>\n  <li>use normal \u2018Petits\u2019 or \u2018Grands Taxis\u2019 where possible</li>\n  <li>avoid sharing taxis with other passengers that you do not know</li>\n  <li>insist against sharing if your driver tries to pick up other passengers during your journey</li>\n</ul>\n\n<h3 id=\"international-driving-permit\">International Driving Permit</h3>\n\n<p>You need either a 1968 <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">International Driving Permit (IDP)</a> or a valid UK driving licence to drive in Morocco for up to one year. 1949 IDP is not accepted anymore. You cannot buy an IDP outside the UK, so get one before you travel. You can buy an IDP in person from some UK post offices - <a rel=\"external\" href=\"https://www.postoffice.co.uk/identity/international-driving-permit#bf-full-width\">find your nearest post office branch</a> that offers this service.</p>\n\n<p>If you are staying in Morocco for longer than one year, you need to apply for a <a rel=\"external\" href=\"https://consulat.ma/en/driving-license\">Moroccan Driving License</a>.</p>\n\n<h3 id=\"car-insurance\">Car insurance</h3>\n\n<p>A <a href=\"https://www.gov.uk/vehicle-insurance/driving-abroad\">green card</a>, which can be obtained from your car insurer, is proof that you have vehicle insurance when driving abroad. You need to carry a green card to prove you have the minimum insurance cover in Morocco.</p>\n\n<h2 id=\"road-conditions\">Road conditions</h2>\n\n<p>Drive carefully, especially when:</p>\n\n<ul>\n  <li>driving at night, which be particularly dangerous  due to poor lighting</li>\n  <li>the weather conditions are poor on secondary routes and mountain roads</li>\n  <li>overtaking lorries and trucks that are overloaded and when there is no hard shoulder</li>\n</ul>\n\n<h2 id=\"road-accidents\">Road accidents</h2>\n\n<p>If you\u2019re involved in a road accident, complete a form (\u2018constat amiable\u2019), to be signed by both parties. Blank forms are available on arrival at Tangier port from the insurance company booths and from tobacconists in all cities.</p>\n\n<p>If you\u2019re involved in a road accident resulting in a fatality and the Moroccan authorities consider you responsible, you may be detained pending a trial hearing.</p>\n\n<h2 id=\"vehicle-documentation\">Vehicle documentation</h2>\n\n<p>If you enter Morocco with a vehicle, the registration number will be recorded. If you\u2019re not in possession of the same vehicle when leaving Morocco, you\u2019ll be refused exit and detained. You\u2019ll need to provide evidence of motor insurance to border control when entering and exiting Morocco. Always carry your insurance, license and registration documents with you.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>Morocco is in an earthquake zone. Minor earthquakes happen occasionally. The last major earthquake was in 2023, which killed almost 3000 people. Familiarise yourself with safety procedures in the event of an earthquake and take note of any instructions in hotel rooms.</p>\n\n<p>There is more information on what to do during an earthquake on the US <a rel=\"external\" href=\"https://www.ready.gov/earthquakes\">Centres for Disease Control and Prevention website.</a></p>\n\n<h3 id=\"flooding\">Flooding</h3>\n\n<p>Heavy rain can cause flash flooding in some areas, particularly in the mountains or near rivers during winter months. Walking and driving can be dangerous in flooded areas. If flooding does happen in your area, follow local media and instructions of the local authorities.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 150 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on health risks and find out what vaccinations you need for  Morocco on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/154/morocco\">TravelHealthPro</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>TravelHealthPro explains <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"pharmacies-and-prescriptions\">Pharmacies and prescriptions</h2>\n\n<p>Contact the nearest pharmacy if you have a British issued medical prescription and would like to get medication in Morocco. If the medication is not available in Morocco, the pharmacy will ask you to get another prescription from local doctors to provide you with an alternative medication. Pharmacies are available 24/7 in every city and district.</p>\n\n<h2 id=\"healthcare-facilities-in-morocco\">Healthcare facilities in Morocco</h2>\n\n<p>View a list of <a href=\"https://www.gov.uk/government/publications/morocco-list-of-medical-facilities\">English speaking doctors in Morocco</a>.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">FCDO guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">guidance on TravelHealthPro</a>.</p>\n\n<h2 id=\"henna-tattoos\">Henna tattoos</h2>\n\n<p>Henna tattoos are common but some can contain the chemical para-phenylenediamine (PPD) which can cause a painful allergic reaction including swelling and an itchy rash in some people.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-morocco\">Emergency services in Morocco</h2>\n\n<p>Ambulance: 150</p>\n\n<p>Fire: 150</p>\n\n<p>Police: 190</p>\n\n<p>Local Gendarmerie: 177</p>\n\n<p>If you need emergency medical assistance during your trip, dial 150 and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> provides guidance on how to help yourself stay safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Morocco&amp;serviceType=lawyers\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Morocco&amp;serviceType=funeralDirectors\">funeral directors</a> and <a href=\"https://www.gov.uk/government/publications/morocco-translators-and-interpreters/list-of-english-speaking-translators-and-interpreters-in-morocco\">translators and interpreters</a> in Morocco</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/morocco-bereavement-information-pack/morocco-bereavement-death-abroad\">death</a> in Morocco</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/morocco-prisoner-pack\">arrested</a> in Morocco</li>\n  <li>getting help <a href=\"https://www.gov.uk/guidance/victim-of-crime-abroad\">if you\u2019re a victim of crime</a>\n</li>\n  <li>what to do if <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">you\u2019re in hospital</a>\n</li>\n  <li>\n<a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">if you are affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<p>Find more <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a>.</p>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/morocco/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>Find more <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/embassies\">British embassy, consulate or high commission</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Morocco&amp;post=Morocco%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-19T09:40:24Z",
+            "updated_at": "2023-10-19T09:40:24Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-15T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/morocco",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/morocco",
+                    "base_path": "/foreign-travel-advice/morocco",
+                    "content_id": "7584a0dd-accf-4901-a8a6-bc964dc1412f",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T09:40:24Z",
+                    "schema_name": "travel_advice",
+                    "title": "Morocco travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/morocco",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/morocco",
+                    "api_url": "https://www.gov.uk/api/content/world/morocco",
+                    "base_path": "/world/morocco",
+                    "content_id": "15eede88-02f7-4aaa-8ea3-1c517bf49a38",
+                    "description": "Services if you're visiting, studying, working or living in Morocco. Includes information about trading with and doing business in the UK and Morocco.",
+                    "details": {
+                        "internal_name": "UK help and services in Morocco",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:06Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Morocco",
+                    "web_url": "https://www.gov.uk/world/morocco",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/western-sahara",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/western-sahara",
+                    "base_path": "/foreign-travel-advice/western-sahara",
+                    "content_id": "18d6ade3-900d-44ab-b251-ee5f791ba4b4",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                        "country": {
+                            "name": "Western Sahara",
+                            "slug": "western-sahara",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:19:14Z",
+                    "schema_name": "travel_advice",
+                    "title": "Western Sahara travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/western-sahara",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/travelling-during-ramadan",
+                    "api_url": "https://www.gov.uk/api/content/guidance/travelling-during-ramadan",
+                    "base_path": "/guidance/travelling-during-ramadan",
+                    "content_id": "5e37ed0c-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2019-05-07T11:17:31Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Travelling during Ramadan",
+                    "web_url": "https://www.gov.uk/guidance/travelling-during-ramadan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/turkey",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/turkey",
+                    "base_path": "/foreign-travel-advice/turkey",
+                    "content_id": "385d62b6-1fb3-4b29-80f3-cef2efa73cce",
+                    "details": {
+                        "change_description": "Removal of information about disruption to Turkish Airlines flights on 1 November.",
+                        "country": {
+                            "name": "Turkey",
+                            "slug": "turkey",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T15:12:12Z",
+                    "schema_name": "travel_advice",
+                    "title": "Turkey travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/turkey",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tunisia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tunisia",
+                    "base_path": "/foreign-travel-advice/tunisia",
+                    "content_id": "29351cb7-7523-4ab7-8adf-8d2e2c8768b1",
+                    "details": {
+                        "change_description": "Removal of information about escape of prisoners ('Summary' page).",
+                        "country": {
+                            "name": "Tunisia",
+                            "slug": "tunisia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T13:12:29Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tunisia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tunisia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/egypt",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/egypt",
+                    "base_path": "/foreign-travel-advice/egypt",
+                    "content_id": "52e41c89-6f2c-4db6-9370-6d41fb44fd0f",
+                    "details": {
+                        "change_description": "Addition of information to reflect the opening of the Rafah border crossing with Egypt on 1 November ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "Egypt",
+                            "slug": "egypt",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T11:14:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Egypt travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/egypt",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-morocco",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-morocco",
+                    "base_path": "/world/living-in-morocco",
+                    "content_id": "aa050e71-92fd-42ee-9086-6a4e4ccc8fd7",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Morocco",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/morocco",
+                                "api_url": "https://www.gov.uk/api/content/world/morocco",
+                                "base_path": "/world/morocco",
+                                "content_id": "15eede88-02f7-4aaa-8ea3-1c517bf49a38",
+                                "description": "Services if you're visiting, studying, working or living in Morocco. Includes information about trading with and doing business in the UK and Morocco.",
+                                "details": {
+                                    "internal_name": "UK help and services in Morocco",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:06Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Morocco",
+                                "web_url": "https://www.gov.uk/world/morocco",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:58Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Morocco",
+                    "web_url": "https://www.gov.uk/world/living-in-morocco",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-morocco",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-morocco",
+                    "base_path": "/world/travelling-to-morocco",
+                    "content_id": "03a81c3b-33af-4b32-bf56-76f519c9c38d",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Morocco",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/morocco",
+                                "api_url": "https://www.gov.uk/api/content/world/morocco",
+                                "base_path": "/world/morocco",
+                                "content_id": "15eede88-02f7-4aaa-8ea3-1c517bf49a38",
+                                "description": "Services if you're visiting, studying, working or living in Morocco. Includes information about trading with and doing business in the UK and Morocco.",
+                                "details": {
+                                    "internal_name": "UK help and services in Morocco",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:06Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Morocco",
+                                "web_url": "https://www.gov.uk/world/morocco",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:58Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Morocco",
+                    "web_url": "https://www.gov.uk/world/travelling-to-morocco",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-19T09:40:24Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1697708424.530-10.13.22.118-31530",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Morocco travel advice",
+        "updated_at": "2023-11-15T10:56:36Z",
+        "withdrawn_notice": {}
+    }
+}

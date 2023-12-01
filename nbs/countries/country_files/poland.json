@@ -1,0 +1,1316 @@
+{
+    "Country Slug": "poland",
+    "Country Name": "Poland",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/poland",
+        "content_id": "5931cad1-dc75-4c21-b84e-c176441e0190",
+        "description": "FCDO travel advice for Poland. Includes safety and security, insurance, entry requirements and legal differences.  ",
+        "details": {
+            "alert_status": [],
+            "change_description": "Updated information about Polish borders ('Safety and security' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary - addition of information and advice on large marches planned in Polish cities, especially Warsaw, on Sunday 11 November to celebrate the centenary of Poland's independence; addition of information on a public holiday on 12 November",
+                    "public_timestamp": "2018-11-08T12:51:15.654Z"
+                },
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; removal of information about 11 November commemorations and 12 November public holiday; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU; Health section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:25:41.983Z"
+                },
+                {
+                    "note": "Latest update: Summary - there may be increased security in place over the Christmas and New Year period, including at Christmas markets and other major events that might attract large crowds; you should remain vigilant and follow the advice of local authorities",
+                    "public_timestamp": "2018-12-03T14:27:34.398Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about possible increased security over the Christmas and New Year period",
+                    "public_timestamp": "2019-01-04T14:51:36.642Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T17:20:46.737Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:16:21.141Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T18:30:14.818Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T13:51:51.869Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Poland",
+                    "public_timestamp": "2019-03-25T18:55:34.018Z"
+                },
+                {
+                    "note": "Latest update: Summary - Gdansk Pride will take place on 25 May 2019; the march will start in central Gdansk at 2pm; large crowds are expected; recent Pride events have passed without incident, but you should exercise caution and follow the advice of local authorities\r\n",
+                    "public_timestamp": "2019-05-16T12:00:28.757Z"
+                },
+                {
+                    "note": "Summary - removal of information on Gdansk Pride march ",
+                    "public_timestamp": "2019-07-10T13:22:46.000Z"
+                },
+                {
+                    "note": "Summary - The Equality March will take place in Plock on Saturday 10 August",
+                    "public_timestamp": "2019-08-09T11:00:48.000Z"
+                },
+                {
+                    "note": "Summary - Rangers take on Legia Warsaw in a UEFA Europa League play-off match in Warsaw on Thursday 22 August; addition of link to information and advice page from the British Embassy Warsaw for travelling fans",
+                    "public_timestamp": "2019-08-21T10:42:38.000Z"
+                },
+                {
+                    "note": "Summary - removal of link to information and advice page for the Legia Warsaw v Rangers match on 22 August",
+                    "public_timestamp": "2019-09-02T14:30:46.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice about celebrations for Independence Day on 11 November",
+                    "public_timestamp": "2019-11-08T10:50:16.000Z"
+                },
+                {
+                    "note": "Summary \u2013 addition of information and advice about Christmas markets and events over the festive period; removal of information about Independence Day on 11 November",
+                    "public_timestamp": "2019-11-12T17:59:45.000Z"
+                },
+                {
+                    "note": "Summary \u2013 removal of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2020-01-06T13:26:54.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T18:50:12.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus following a confirmed case in Poland ('Health' page)",
+                    "public_timestamp": "2020-03-04T17:30:41.000Z"
+                },
+                {
+                    "note": "Update to information about precautionary measures introduced by the Polish authorities for coronavirus (COVID-19) ('Health','Entry requirements' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-10T15:35:23.000Z"
+                },
+                {
+                    "note": "Addition of information on suspension of LOT flights to London City until 24 April.  Addition of information on closures in response to coronavirus ('Health' page)",
+                    "public_timestamp": "2020-03-12T08:46:22.000Z"
+                },
+                {
+                    "note": "Updated information: cancellation of trains to and from Czech Republic and Slovakia (\u2018Health\u2019 pages)",
+                    "public_timestamp": "2020-03-13T18:09:23.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Poland, due to travel restrictions implemented by the Polish Government related to the coronavirus (COVID-19) pandemic. Should they wish to travel to Poland, we recommend that all British travellers ensure they fall within the permitted categories of travel.  Due to Poland closing its borders from midnight on Saturday 14 March, we now advise against all but essential travel to Poland. Any British travellers in the country who wish to leave by air or rail should make arrangements to do so before then.",
+                    "public_timestamp": "2020-03-14T00:33:55.000Z"
+                },
+                {
+                    "note": "Foreign and Commonwealth Office (FCO) advise against all but essential travel to Poland, due to the announcement that Poland will close its borders from midnight on Saturday 14 March in response to the coronavirus pandemic. Any British travellers in the country who wish to leave by air or rail should make arrangements to do so before then.\r\n \r\nAny British travellers that still wish to travel to Poland, should ensure they fall within the categories of traveller that will be permitted by the Polish Government (see Summary and Health)\r\n",
+                    "public_timestamp": "2020-03-14T00:48:36.000Z"
+                },
+                {
+                    "note": "Updated information on measures in place in response to the coronavirus (COVID-19) pandemic.",
+                    "public_timestamp": "2020-03-14T14:57:14.000Z"
+                },
+                {
+                    "note": "Updated information on measures in place in response to the coronavirus (COVID-19) pandemic.",
+                    "public_timestamp": "2020-03-15T00:31:05.000Z"
+                },
+                {
+                    "note": "Updated information on travel options in response to Polish government measures in place in response to the coronavirus (COVID-19) pandemic.",
+                    "public_timestamp": "2020-03-15T11:08:06.000Z"
+                },
+                {
+                    "note": "Updated information on travel options in response to Polish government measures in place in response to the coronavirus (COVID-19) pandemic (Summary and Health).",
+                    "public_timestamp": "2020-03-15T16:30:08.000Z"
+                },
+                {
+                    "note": "Updated information on travel options in response to Polish government measures in place in response to the coronavirus (COVID-19) pandemic (Summary and Health).",
+                    "public_timestamp": "2020-03-16T22:17:54.000Z"
+                },
+                {
+                    "note": "Updated information on travel options in response to Polish government measures in place in response to the coronavirus (COVID-19) pandemic ('Summary' and 'Health' pages).",
+                    "public_timestamp": "2020-03-17T14:35:23.000Z"
+                },
+                {
+                    "note": "Updated information on further travel options in response to Polish government measures in place in response to the coronavirus (COVID-19) pandemic ('Summary' and 'Health' pages).",
+                    "public_timestamp": "2020-03-17T21:08:51.000Z"
+                },
+                {
+                    "note": "Updated information on further limiting of travel options in response to the coronavirus (COVID-19) pandemic ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T16:39:41.000Z"
+                },
+                {
+                    "note": "Further restrictions on movement announced by the Polish government ('Coronavirus' page). ",
+                    "public_timestamp": "2020-03-24T20:42:05.000Z"
+                },
+                {
+                    "note": " announced by thFurther restrictions on movement and transportation announced by the Polish government. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-25T17:18:44.000Z"
+                },
+                {
+                    "note": "Announcement of further restrictions on movement and transportation announced by the Polish government. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-25T19:46:11.000Z"
+                },
+                {
+                    "note": "Set up of embassy email for LOT customers ('Return to the UK')",
+                    "public_timestamp": "2020-03-27T17:39:30.000Z"
+                },
+                {
+                    "note": "Hotels and short term accommodation establishments will be closed from Thursday 2 April and the last flight out of Poland is scheduled for Sunday 5 April. Updated information on local measures taken against the spread of coronavirus ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-31T19:50:32.000Z"
+                },
+                {
+                    "note": "Hotels and short term accommodation establishments will be closed to new guests from Thursday 2 April. Last flight out of Poland is scheduled for Sunday 5 April. Updated information on local measures taken against the spread of coronavirus ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-01T22:53:19.000Z"
+                },
+                {
+                    "note": "Updated information on last planned flights from Poland to the UK on Sunday 5 April and limited alternative travel options.  Individuals wishing to depart on these flights are advised to register as soon as possible. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-04T01:11:37.000Z"
+                },
+                {
+                    "note": "Updated information on registration process for last planned flights from Poland to the UK, which depart on Sunday 5 April. Individuals wishing to depart on these flights are advised to register as soon as possible. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-04T14:10:58.000Z"
+                },
+                {
+                    "note": "Updated information on routes available for those wishing to return to the UK: flight options from Poland no longer available, but road options remain ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-05T14:00:25.000Z"
+                },
+                {
+                    "note": "Updated information on extension of restrictive measures due to Coronavirus, including for international travel ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-09T14:22:28.000Z"
+                },
+                {
+                    "note": "Update to information regarding reduction of available bus and train services ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-15T17:20:35.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about local measures on the ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-20T15:05:38.000Z"
+                },
+                {
+                    "note": "Updated information and advice on measures introduced to prevent the spread of coronavirus and returning to the UK. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-24T16:58:33.000Z"
+                },
+                {
+                    "note": "Updated information and advice on measures introduced to prevent the spread of coronavirus and returning to the UK. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-29T17:09:09.000Z"
+                },
+                {
+                    "note": "Updated information on local measures to combat the spread of Coronavirus and returning to the UK (Coronavirus and Return to the UK)",
+                    "public_timestamp": "2020-05-08T19:40:58.000Z"
+                },
+                {
+                    "note": "Update to information and advice on local measures to combat the spread of Coronavirus ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-14T16:28:19.000Z"
+                },
+                {
+                    "note": "Update to information on Moving around in Poland ('Staying during coronavirus' page) and Self isolations rules (\u2018Entry requirements\u2019 page).\r\n\r\n",
+                    "public_timestamp": "2020-05-19T14:46:31.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:58:46.000Z"
+                },
+                {
+                    "note": "Addition of information on LOT repatriation flight, extension of travel ban and updates to entry requirements (\u2018Return to the UK\u2019 and \u2018Entry Requirements\u2019 page)",
+                    "public_timestamp": "2020-05-23T15:52:42.000Z"
+                },
+                {
+                    "note": "Removal of information on 27 May LOT repatriation flight, addition of information on the extension of the international travel ban (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-05-26T17:16:17.000Z"
+                },
+                {
+                    "note": "Updated information on lifting social distancing measures ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-27T12:42:58.000Z"
+                },
+                {
+                    "note": "Update to information on the lifting of local measures ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-29T18:14:23.000Z"
+                },
+                {
+                    "note": "Update to information on the lifting of local measures ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-05T19:12:49.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:38:28.000Z"
+                },
+                {
+                    "note": "Addition of information about the reopening of international air transport on 16 June ('Return to the UK' page) and the reopening of Poland's borders for EU citizens from 13 June ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-11T11:00:16.000Z"
+                },
+                {
+                    "note": "Addition of information about the reopening of international air transport on 16 June and the reopening of Poland's borders for EU citizens from 13 June (Return to UK' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-06-16T16:58:59.000Z"
+                },
+                {
+                    "note": "Flights between Poland and the UK are suspended until at least 30 June.  From 17 June flights permitted between Poland and most members of the European Economic Area and Switzerland, apart from the United Kingdom, Sweden and Portugal. Other international flights remain suspended until 30 June ('Return to UK' page)\r\n",
+                    "public_timestamp": "2020-06-16T22:00:18.000Z"
+                },
+                {
+                    "note": "Updated information about flights from Poland ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-19T14:20:34.000Z"
+                },
+                {
+                    "note": "Updated information about self-isolation rules and entering Poland ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-26T09:35:54.000Z"
+                },
+                {
+                    "note": "Updated information about coach services to leave Poland ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-29T16:03:01.000Z"
+                },
+                {
+                    "note": "Updated information about train and coach services to leave Poland ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-29T16:04:16.000Z"
+                },
+                {
+                    "note": "Updated information on flights leaving Poland (see 'Return to the UK'  and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-06-30T19:38:06.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-01T14:54:36.000Z"
+                },
+                {
+                    "note": "Updated information on Entry Requirements in relation to coronavirus ('Entry Requirements' page)",
+                    "public_timestamp": "2020-07-02T16:24:16.000Z"
+                },
+                {
+                    "note": "From 4 July, Poland is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:43:28.000Z"
+                },
+                {
+                    "note": "Addition of information on the running of daily flights between Poland and the UK and new rules for outdoor events ('Summary' and 'Coronavirus' pages)\r\n\r\n",
+                    "public_timestamp": "2020-07-10T13:29:04.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus measures in shops ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-17T12:31:31.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures including social distancing, use of face masks, implementation of local restrictions at short notice, changes to entry requirements and land border controls ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-10T10:16:02.000Z"
+                },
+                {
+                    "note": "Updated information about measures to limit the spread of COVID19 including the use of facemasks in public places ('Coronavirus' page) and updated information about entry requirements during COVID19 ('Entry requirements' page) ",
+                    "public_timestamp": "2020-08-13T14:10:39.000Z"
+                },
+                {
+                    "note": "Addition of information about public demonstrations ('Safety and security' page)",
+                    "public_timestamp": "2020-08-14T09:53:42.000Z"
+                },
+                {
+                    "note": "Update to information on self-isolation requirements for travellers to Poland ('Summary' page)",
+                    "public_timestamp": "2020-08-21T09:27:30.000Z"
+                },
+                {
+                    "note": "Update on increased restrictions in Krakow\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-08-28T15:19:16.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)\r\n",
+                    "public_timestamp": "2020-09-07T13:38:44.000Z"
+                },
+                {
+                    "note": "FCDO now advises against all non-essential travel to Poland, based on the current assessment of COVID-19 risks in the country. ('Summary' page)",
+                    "public_timestamp": "2020-10-01T17:20:55.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Poland in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-05T10:19:34.000Z"
+                },
+                {
+                    "note": "New information on amber zone restrictions in place from 10 October including mandatory mask wearing in public, outdoors and indoors ('Coronavirus' page).",
+                    "public_timestamp": "2020-10-09T12:00:52.000Z"
+                },
+                {
+                    "note": "Update to information on restrictions in place in amber and red zones ('Coronavirus' page).",
+                    "public_timestamp": "2020-10-16T13:34:43.000Z"
+                },
+                {
+                    "note": "Updated information reflecting red zone, COVID-19 restrictions enforce in Poland ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-23T13:40:12.000Z"
+                },
+                {
+                    "note": "Updated information reflecting protests currently taking place across Poland following a court ruling on abortion ('Safety and Security' page).",
+                    "public_timestamp": "2020-10-29T13:09:26.000Z"
+                },
+                {
+                    "note": "Update to information regarding coronavirus restrictions (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-11-05T10:52:06.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T10:55:07.000Z"
+                },
+                {
+                    "note": "Addition of information on marches planned for Independence Day on Wednesday 11 November ('Safety and security' page)",
+                    "public_timestamp": "2020-11-09T17:02:34.000Z"
+                },
+                {
+                    "note": "Update to information on public demonstrations in Poland (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2020-11-12T17:15:58.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period ('Summary' page).",
+                    "public_timestamp": "2020-11-19T17:06:46.000Z"
+                },
+                {
+                    "note": " Addition of information on shops opening and rules on private gatherings over Christmas (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-11-27T16:11:28.000Z"
+                },
+                {
+                    "note": "Addition of information on the New Year\u2019s Eve curfew and new self-isolation requirements when entering Poland.  Update to  information on local restrictions ('Summary',\u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-18T17:08:33.000Z"
+                },
+                {
+                    "note": "Flights from UK to Poland suspended from midnight 21 December ('Summary' page)",
+                    "public_timestamp": "2020-12-21T11:24:59.000Z"
+                },
+                {
+                    "note": "Additional information about flights from UK to Poland being suspended from midnight 21 December until at least 6 January ('Summary' & 'Coronavirus' page)",
+                    "public_timestamp": "2020-12-21T22:08:27.000Z"
+                },
+                {
+                    "note": "Addition of information on entry restrictions for UK nationals and non-EU/EEA nationals resident in the UK, extension of flight suspension until 6 January 2021 and new Coronavirus (COVID-19) restrictions on services and accommodation ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-23T15:49:57.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page)",
+                    "public_timestamp": "2020-12-29T18:04:40.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements from 1 January 2021 (\u2018Summary\u2019 and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-31T18:38:38.000Z"
+                },
+                {
+                    "note": "Updated information on flight suspensions (Summary and Coronavirus)",
+                    "public_timestamp": "2021-01-05T18:39:05.000Z"
+                },
+                {
+                    "note": "Addition of information on UK Nationals, their spouses and children being added to the list of those exempt from the entry ban ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-08T17:38:41.000Z"
+                },
+                {
+                    "note": "Flights between the UK and Poland are no longer suspended but remain subject to commercial decisions by airlines (\u2018Summary\u2019 and \u2018Coronavirus\u2019).",
+                    "public_timestamp": "2021-01-13T18:23:57.000Z"
+                },
+                {
+                    "note": "Updated information on the Polish government's strict sanitary rules and restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-15T11:45:11.000Z"
+                },
+                {
+                    "note": "Information for people living in Poland about COVID-19 vaccine ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-19T17:30:22.000Z"
+                },
+                {
+                    "note": "You do not have to quarantine on arrival if you can present a negative Covid-19 test certificate issued within 48 hours before crossing the Polish border.",
+                    "public_timestamp": "2021-01-23T21:51:14.000Z"
+                },
+                {
+                    "note": "Updated information on nationwide sanitary rules and restrictions; Shops, shopping malls and retail parks are now open but sanitary measures are still in place ('Summary' and 'Coronavirus' pages) ",
+                    "public_timestamp": "2021-02-01T11:20:42.000Z"
+                },
+                {
+                    "note": "Updated information on Poland's local laws ('Local laws and customs' page)",
+                    "public_timestamp": "2021-02-01T14:47:38.000Z"
+                },
+                {
+                    "note": "Updated information on hotels, sport and cultural facilities ('Coronavirus' page). ",
+                    "public_timestamp": "2021-02-12T11:05:56.000Z"
+                },
+                {
+                    "note": "Updated entry restrictions and clarification of rules concerning facemasks (\u2018Summary\u2019, \u2018Entry requirements\u2019 and 'Coronavirus' pages).",
+                    "public_timestamp": "2021-02-25T17:18:59.000Z"
+                },
+                {
+                    "note": "Addition of information on the requirement for visitors to Poland to hold a negative COVID-19 test certificate, issued within the 48 hours prior to arrival (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-03-12T17:12:41.000Z"
+                },
+                {
+                    "note": "Updated information on Poland's COVID-19 restrictions; From 20 March until at least 9 April tighter restrictions will be in place on non-essential retail, cultural institutions and hotels in Poland ('Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-03-19T09:57:37.000Z"
+                },
+                {
+                    "note": "Additional information on COVID-19 vaccines in Poland ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-25T10:23:53.000Z"
+                },
+                {
+                    "note": "Poland has introduced further restrictions due to COVID-19 ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-26T16:26:43.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine and self-isolation requirements in Poland due to COVID-19 ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-03-30T11:54:58.000Z"
+                },
+                {
+                    "note": "Update to information on self-isolation and testing requirements if you're arriving in Poland from an EU / Schengen country ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-03-31T13:40:59.000Z"
+                },
+                {
+                    "note": "Tighter restrictions introduced on 27 March have been extended and will now be in place until at least 18 April (\u2019Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-04-07T13:19:53.000Z"
+                },
+                {
+                    "note": "Tighter restrictions introduced on 27 March have been extended and will now be in place until at least 25 April (\u2019Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-04-15T11:36:54.000Z"
+                },
+                {
+                    "note": "Information on how to register for COVID-19 vaccination without a PESEL (national identification) number and coronavirus restrictions now vary by region. The Polish Government's website to explains which regions have tighter rules (\u2019Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-04-23T14:40:58.000Z"
+                },
+                {
+                    "note": "Updated information on Poland's COVID-19 restrictions; the Polish Government has announced the easing of some COVID-19 restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-29T14:05:46.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for those attending the UEFA Europa League Final and updated information on the easing of Poland's COVID-19 restrictions (\u2018Entry requirements\u2019 and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-05-19T11:06:12.000Z"
+                },
+                {
+                    "note": "Information on demonstrating your COVID-19 vaccination status; Poland will accept the NHS app or an NHS letter as proof of vaccination (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-05-24T10:32:41.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-03T14:21:50.000Z"
+                },
+                {
+                    "note": "Information on easing of restrictions on indoor and outdoor events, including the reopening of nightclubs and discos from 26 June. Information on the process to be released from quarantine following arrival from the UK (\u2018Coronavirus\u2019 & \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-06-11T15:29:23.000Z"
+                },
+                {
+                    "note": "Compulsory 7 day quarantine applies if you arrive in Poland from the UK from midnight on 22 June; You will need a negative covid test result to be released after those 7 days; If you have been fully vaccinated with an EU approved vaccine and 14 days have passed since your last dose, you will be exempt from quarantine;  You will need to prove evidence of your vaccination status (Coronavirus and Entry requirements)",
+                    "public_timestamp": "2021-06-22T21:51:14.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements in Poland; if you have been fully vaccinated with an EU approved vaccine and 14 days have passed since your last dose, you will be exempt from quarantine, you will need to prove evidence of your vaccination status and children up to the age of 12 travelling with fully vaccinated adults are exempt from quarantine ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-24T15:48:28.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Poland, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2021-07-16T08:14:18.000Z"
+                },
+                {
+                    "note": "Addition of information on the easing of restrictions in Poland (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-19T15:23:16.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Poland (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T09:01:06.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Poland (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-07-27T14:34:12.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:42:58.000Z"
+                },
+                {
+                    "note": "Updated information on the requirement to complete a passenger locater form prior to entry to Poland and removal of information regarding demonstrations in Poland ('Entry requirements' and \u2018Safety & security\u2019 pages)",
+                    "public_timestamp": "2021-08-11T09:50:53.000Z"
+                },
+                {
+                    "note": "Updated information following the announcement of a state of emergency in certain areas near Poland\u2019s border with Belarus.  (\u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2021-09-03T13:51:03.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T12:17:39.000Z"
+                },
+                {
+                    "note": "Information on what licences and documents you should always have while driving in Poland ('Safety and security' page) ",
+                    "public_timestamp": "2021-09-30T10:18:40.000Z"
+                },
+                {
+                    "note": "Information on children's quarantine requirements on arrival in Poland ('Entry requirements' page) and updated information on driving a British car abroad ('Safety and security' page)",
+                    "public_timestamp": "2021-10-21T12:01:26.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-03T10:51:17.000Z"
+                },
+                {
+                    "note": "Clarification on children requirements for entry to Poland ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-03T16:35:57.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-11T14:17:30.000Z"
+                },
+                {
+                    "note": "Addition of information about COVID-19 restrictions with effect from 1 December, including new quarantine rules for individuals travelling from the UK who are not fully vaccinated ('Coronavirus' and 'Entry requirements' page). ",
+                    "public_timestamp": "2021-11-30T16:38:57.000Z"
+                },
+                {
+                    "note": "Addition of information about limited access to areas close to the Belarusian border until 1 March 2022 (\u2018Summary and  \u2018Safety and security\u2019 pages).  ",
+                    "public_timestamp": "2021-12-03T11:30:19.000Z"
+                },
+                {
+                    "note": "Addition of information about new COVID-19 restrictions being brought in from 15 December 2021, including the requirement for a pre-departure test for all arrivals from the UK  ('Coronavirus'  and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-13T16:10:42.000Z"
+                },
+                {
+                    "note": "Addition of information on the Polish national vaccination programme and the requirement for a pre-departure test for all arrivals 12 years and older from the UK, regardless of vaccination status (\u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-14T18:09:20.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:16:11.000Z"
+                },
+                {
+                    "note": "Updated information on requirement for PCR tests to be taken 24 hours before arrival as part of the new COVID-19 restrictions brought in on 15 December 2021 (\u2018'Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-12-16T15:37:26.000Z"
+                },
+                {
+                    "note": "Addition of information on PCR tests 24 hours before arrival as part of the new COVID-19 restrictions brought in on 15 December 2021 (\u2018Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-12-20T12:34:12.000Z"
+                },
+                {
+                    "note": "Additional information on the requirement to have evidence of a negative pre-departure test (\u2018Entry requirements' page)",
+                    "public_timestamp": "2021-12-21T17:14:05.000Z"
+                },
+                {
+                    "note": "Updated information on self-isolation if you live with someone who has tested positive for COVID-19 and fines for breaking Polish driving laws (\u2018Coronavirus' and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2022-01-20T10:01:06.000Z"
+                },
+                {
+                    "note": "Updated information on the length of self-isolation and demonstrating your COVID-19 status on arrival (\u2018Coronavirus' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-01-24T11:01:16.000Z"
+                },
+                {
+                    "note": "Removal of information about arrivals from southern Africa (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-26T16:22:59.000Z"
+                },
+                {
+                    "note": "Updates on travel from Ukraine to Poland; and COVID-19 quarantine and self-isolation requirements, including on arrival in Poland (Summary, Safety and security, Coronavirus and Entry requirements)",
+                    "public_timestamp": "2022-02-13T12:03:38.000Z"
+                },
+                {
+                    "note": "Update on arrival in Poland if you\u2019re fully vaccinated (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-02-21T11:56:37.000Z"
+                },
+                {
+                    "note": "There are multiple reports of widespread military activity in Ukraine. You should not attempt to cross into Ukraine from Poland. ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-02-24T05:26:21.000Z"
+                },
+                {
+                    "note": "Update to information on transiting through Poland (\u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-02-24T16:35:19.000Z"
+                },
+                {
+                    "note": "Information on the suspension of the obligation to quarantine on arrival from Ukraine and update if you are transiting through Poland (\u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-02-25T09:54:32.000Z"
+                },
+                {
+                    "note": "Information on crossing the border from Ukraine, including delays and limited accommodation in Poland in the vicinity of the border (See `Safety and Security\u2019 page) ",
+                    "public_timestamp": "2022-02-26T09:47:08.000Z"
+                },
+                {
+                    "note": "Information on Polish reception points and temporary travel documents. (See `Safety and Security\u2019 page) ",
+                    "public_timestamp": "2022-02-26T14:55:48.000Z"
+                },
+                {
+                    "note": "Information on Polish reception points after crossing the border, travelling without travel documentation, and a UK consular presence in Przemysl. (See `Safety and Security\u2019 page) ",
+                    "public_timestamp": "2022-02-26T17:08:36.000Z"
+                },
+                {
+                    "note": "Update of information on limited access along parts of the Poland/Belarus border; public spaces, services and quarantine and self-isolation requirements; and updated Consular Contact Centre number (see \u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2022-03-02T10:06:02.000Z"
+                },
+                {
+                    "note": "Updated advice on entry into Ukraine from Poland ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-03-07T15:42:15.000Z"
+                },
+                {
+                    "note": "Information on Russian military strikes within 20km of the Polish border ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-03-14T11:57:25.000Z"
+                },
+                {
+                    "note": "Updated information on initial consular assistance for those arriving in Southern Poland from Ukraine.  ('Safety and security' pages)",
+                    "public_timestamp": "2022-03-16T16:55:53.000Z"
+                },
+                {
+                    "note": "Update to COVID-19 guidance following relaxation of most Polish government restrictions ('Coronavirus\u2019, 'Safety and security' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-03-29T13:48:06.000Z"
+                },
+                {
+                    "note": "Addition of information on flight delays and cancellations at Polish airports ('Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-04-27T12:15:53.000Z"
+                },
+                {
+                    "note": "Removal of information on flight delays and cancellations at Polish airports ('Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-04-29T08:38:02.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:32:27.000Z"
+                },
+                {
+                    "note": "Update regarding access along parts of the Poland/Belarus border and testing positive for COVID-19 or developing symptoms ('Summary', 'Coronavirus' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-07-04T14:43:13.000Z"
+                },
+                {
+                    "note": "Removal of incorrect information about consular assistance to those with dual nationality ('Summary' page).",
+                    "public_timestamp": "2022-09-05T15:57:05.000Z"
+                },
+                {
+                    "note": "Review of information with updates to the Summary, Coronavirus, Safety and Security, Local Laws and Customs, Entry Requirements and Health pages. ",
+                    "public_timestamp": "2022-12-05T09:06:37.000Z"
+                },
+                {
+                    "note": "Updated information on the Poland/Belarus border ('Safety and security' page).",
+                    "public_timestamp": "2023-02-22T15:20:04.000Z"
+                },
+                {
+                    "note": "Updated information on the Poland/Belarus border ('Safety and security' page).",
+                    "public_timestamp": "2023-02-22T15:20:04.000Z"
+                },
+                {
+                    "note": "Updated information on the Poland/Belarus border and road death statistics ('Safety and security' page).",
+                    "public_timestamp": "2023-05-23T15:01:53.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:43:05.000Z"
+                },
+                {
+                    "note": "Information about wearing facemasks and healthcare in Poland and on entry and exit requirements for dual nationals ('Coronavirus' and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2023-07-04T10:17:26.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-07-26T22:23:53.000Z"
+                },
+                {
+                    "note": "Information about access to the Poland-Ukraine border (\u2018Safety and security' page).",
+                    "public_timestamp": "2023-08-21T12:46:17.000Z"
+                },
+                {
+                    "note": "Information about taking photographs of military or other security installations ('Safety and security' page).",
+                    "public_timestamp": "2023-09-19T15:27:02.000Z"
+                },
+                {
+                    "note": "Updated information about Polish borders ('Safety and security' page).",
+                    "public_timestamp": "2023-10-25T12:27:23.000Z"
+                }
+            ],
+            "country": {
+                "name": "Poland",
+                "slug": "poland",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/poland/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"ukraine-poland-border\">Ukraine-Poland border</h2>\n\n<p>The <a href=\"https://www.gov.uk/foreign-travel-advice/ukraine\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all travel to Ukraine</a>. The Russian invasion of Ukraine is ongoing. Russian military strikes have taken place in Ukraine within 20km of the Polish border. Do not attempt to cross into Ukraine from Poland, there is a real risk to life if you do. Access to the border is restricted. See <a href=\"https://www.gov.uk/foreign-travel-advice/poland/safety-and-security\">safety and security</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/poland/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Poland set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact <a rel=\"external\" href=\"https://www.gov.pl/web/unitedkingdom/embassy-consulates\">Poland\u2019s embassy or consulate in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel provider for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to get treatment there.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">TravelHealthPro\u2019s general COVID-19 advice for travellers</a>.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To travel to Poland, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a>.</p>\n\n<p>To enter Poland (and all Schengen countries) your passport must:</p>\n\n<ul>\n  <li>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports issued after 1 October 2018 are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</li>\n  <li>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</li>\n</ul>\n\n<p>Contact the <a rel=\"external\" href=\"https://www.gov.pl/web/unitedkingdom/embassy-london\">Polish embassy in the UK</a> if your passport does not meet both these requirements.</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document, or try to use a passport that has been reported lost or stolen.</p>\n\n<h3 id=\"dual-nationals\">Dual Nationals</h3>\n\n<p>If you are also a Polish national (dual nationality), you must enter and exit Poland using a Polish passport or Polish national identity card. There are regular cases of Polish border guards allowing dual nationals to enter on their British passport, but only allowing exit using a valid Polish passport or Polish ID card.</p>\n\n<p>Children born to Polish national or British-Polish dual national parents in the UK are automatically granted Polish citizenship, regardless of the child\u2019s place of birth, and the requirement to exit Poland using valid Polish documentation will apply.</p>\n\n<p>Find more information on <a rel=\"external\" href=\"https://www.gov.pl/web/wielkabrytania/paszporty?page=1&amp;size=10\">how to apply for a Polish passport in the UK before travelling to Poland from the Polish Embassy in London</a> (in Polish). Check with the Polish Embassy in London if in doubt about your circumstances.</p>\n\n<h2 id=\"passport-stamping\">Passport stamping</h2>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped.</p>\n</div>\n\n<p>If you\u2019re a visitor, your passport must be stamped when you enter or leave the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (which includes Poland). Border guards will use passport stamps to check you haven\u2019t  overstayed the <a href=\"https://www.gov.uk/travel-to-eu-schengen-area#:~:text=You%20do%20not%20need%20a,or%20for%20certain%20other%20reasons\">90-day visa-free limit</a> for stays in the Schengen area. If your passport was not stamped, border guards will presume you have overstayed the visa-free limit.</p>\n\n<p>If your passport was not stamped, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.</p>\n\n<p>If you live in Poland, read our <a href=\"https://www.gov.uk/guidance/living-in-poland#passports-and-travel\">Living in Poland guide</a> for passport stamping information.</p>\n\n<p>At the Polish border, you may need to:</p>\n\n<ul>\n  <li>show a return or onward ticket</li>\n  <li>show you have enough money for your stay</li>\n</ul>\n\n<h3 id=\"residents\">Residents</h3>\n\n<p>If you live in Poland, see our <a href=\"https://www.gov.uk/guidance/living-in-poland#passports-and-travel\">Living in Poland guide</a> for entry requirements and the <a rel=\"external\" href=\"https://www.strazgraniczna.pl/pl/aktualnosci/8885,Wielka-Brytania-poza-UE.html\">Polish Border Guards guidance</a>.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel to countries in the <a rel=\"external\" href=\"https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf\">Schengen area</a> (including Poland) for up to 90 days in any 180-day period without a visa. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>to attend business meetings, cultural or sports events</li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>If you are travelling to Poland and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.</p>\n\n<p>To stay longer, to work or study, for business travel or for other reasons, you will need to meet the Polish government\u2019s entry requirements. Check with the <a rel=\"external\" href=\"https://www.gov.pl/web/unitedkingdom/visas\">Polish Embassy</a> what type of visa and/or work permit you may need.</p>\n\n<p>If you are <a href=\"https://www.gov.uk/guidance/travel-to-poland-for-work\">travelling to Poland for work</a>, read the guidance on visas and permits.</p>\n\n<p>If you stay in Poland with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/180/poland\">check the vaccinations and certificates you need in TravelHealthPro\u2019s Poland guide</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about goods that can be brought into and taken out of Poland. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h3 id=\"taking-food-and-drink-into-the-eu\">Taking food and drink into the EU</h3>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food needed for medical reasons.\u00a0<a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a>\u00a0on the European Commission website.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/staysafe/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out more about the <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">global threat from terrorism</a>.</p>\n\n<h3 id=\"terrorism-in-poland\">Terrorism in Poland</h3>\n\n<p>Terrorist attacks in Poland cannot be ruled out.</p>\n\n<h2 id=\"ukraine-border\">Ukraine border</h2>\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to Ukraine due to the Russian invasion. There have been Russian military strikes in Ukraine within 20km of the Polish border. In 2022, there was an explosion in Przewod\u00f3w near the Ukrainian border killing 2 Polish nationals. Do not attempt to cross into Ukraine from Poland.</p>\n\n<p>If you have arrived in Poland from Ukraine and are in need of assistance, call +48 22 311 0000 or +44 1908 516666 and select the option for \u2018consular services for British nationals\u2019. You can also send an enquiry using the <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Poland&amp;post=British%20Embassy%20Warsaw%20\">web contact form</a>.</p>\n\n<p>The main border crossing points to enter Poland from Ukraine can be found on the <a rel=\"external\" href=\"https://dpsu.gov.ua/en/AT-THE-BORDER-WITH-REPUBLIC-OF-POLAND/\">Ukrainian government website</a>. Prepare for potential long delays at border crossings.</p>\n\n<p>Access to within 15 metres of the Polish border with Ukraine is restricted. Follow this limitation at all times outside of designated border crossing points and follow the instructions of Polish authorities if you are in this area.</p>\n\n<h2 id=\"belarus-border\">Belarus border</h2>\n\n<p><a href=\"http://www.gov.uk/foreign-travel-advice/belarus\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all travel to Belarus</a>. There is limited access along parts of Poland\u2019s border with Belarus. The Kuzni\u0441a-Bruzgi road border crossing is currently closed. In February, traffic was suspended at the Bobrowniki border crossing until further notice. More border checkpoints may close or implement restrictions at short notice and other disruption is possible.</p>\n\n<p>Access to within 200 metres of the border with Belarus is still limited. You should abide by this limitation at all times and follow the instructions of Polish authorities if you are in this area.</p>\n\n<h2 id=\"slovakia-border\">Slovakia border</h2>\n\n<p>Temporary border checks have been introduced at Poland\u2019s border with Slovakia. You should allow extra time for crossing the border, and be ready to show your passport or residency card if you are asked to do so by the border police. Checks may also involve vehicle inspections. Check <a rel=\"external\" href=\"https://www.strazgraniczna.pl/\">Polish Border Guards guidance</a> (in Polish).</p>\n\n<h2 id=\"political-situation-and-demonstrations\">Political situation and demonstrations</h2>\n\n<p>Public demonstrations are common. Marches and gatherings are mostly peaceful and well-policed, but take extra care in crowded places. Demonstrations can attract violence. Monitor local media and follow the instructions of local authorities.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"racially-motivated-attacks\">Racially motivated attacks</h3>\n\n<p>Most visitors do not experience any difficulties. Serious crime against foreigners is rare, but crimes do occur and in some cases attacks have been racially motivated.</p>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Be alert to street crime and petty theft. Foreigners can be seen as easy targets. Keep valuables and cash out of sight, especially:</p>\n\n<ul>\n  <li>in crowded areas</li>\n  <li>in tourist spots</li>\n  <li>at main rail stations and on all train services and overnight sleeper trains</li>\n</ul>\n\n<h3 id=\"unofficial-taxi-drivers\">Unofficial taxi drivers</h3>\n\n<p>Unofficial taxi drivers often overcharge. Passengers have been attacked, including sexual assaults, in unofficial taxis and cars booked using ride share apps. See further <a rel=\"external\" href=\"https://ksp.policja.gov.pl/pl/dzialania/aktualnosci/60915,Kampania-spoleczna-pt-Swiadomosc-Komendy-Stolecznej-Policji.html\">advice from the Polish police (in Polish)</a>.</p>\n\n<p>Do not use unofficial taxis. Official taxis will:</p>\n\n<ul>\n  <li>have the name and telephone number of the taxi company on the door and top of the taxi</li>\n  <li>show a rate card on the window of the vehicle</li>\n</ul>\n\n<p>Taxis with a crest but no company name are not official.</p>\n\n<p>Take precautions, particularly at night or if you are alone.</p>\n\n<h3 id=\"drink-and-food-spiking\">Drink and food spiking</h3>\n\n<p>Victims of spiked drinks have been robbed in bars and clubs. Be careful about taking drinks from strangers or leaving your drink or food unattended.</p>\n\n<h3 id=\"overcharging-in-bars\">Overcharging in bars</h3>\n\n<p>Check your bill carefully when buying drinks in bars and nightclubs. Visitors have been overcharged large amounts when paying for drinks by debit or credit card.</p>\n\n<h3 id=\"sexual-assault\">Sexual assault</h3>\n\n<p>There is advice for  <a href=\"http://www.gov.uk/government/publications/poland-information-for-victims-of-rape-and-sexual-assault\">victims of rape or sexual assault in Poland</a>.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"dual-nationals\">Dual nationals</h3>\n\n<p>Dual Polish-British nationals will be treated as a Polish national if arrested or detained by the Polish authorities.</p>\n\n<h3 id=\"alcohol-laws\">Alcohol laws</h3>\n\n<p>It is illegal to drink alcohol in public places. If caught, you might be fined.</p>\n\n<p>If you are drunk in a public place, you could be taken to a clinic to be medically assessed. You will have to stay there until you are sober, including overnight. You will have to pay for the cost of your stay.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Small towns and rural areas can be less tolerant towards LGBT+ travellers. There are gay and LGBT+-friendly restaurants, clubs and bars in many towns and cities including Warsaw, Krakow, Wroclaw, Poznan, Gdansk and Sopot.</p>\n\n<p>Same-sex relationships are legal and same sex partners can live together, but same-sex marriages and civil partnerships are not recognised under Polish law.</p>\n\n<p>Read more <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h3 id=\"jaywalking\">Jaywalking</h3>\n\n<p>You could be fined if you are caught jaywalking.</p>\n\n<h3 id=\"photography\">Photography</h3>\n\n<p>Avoid taking photographs of military or other security installations and other buildings or items of national infrastructure where there are signs prohibiting photography.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"wear-reflective-clothing\">Wear reflective clothing</h3>\n\n<p><a rel=\"external\" href=\"https://ec.europa.eu/transport/road_safety/going_abroad/poland/other_en.htm\">Walkers and cyclists</a> must wear a reflective item at night in non built-up areas. You may be held responsible if you are involved in an accident and not wearing a reflective item.  You could be fined 100 Polish zloty (around \u00a320) if you don\u2019t have a reflective item.</p>\n\n<h3 id=\"public-transport\">Public transport</h3>\n\n<p>Validate a public transport ticket at the start of a journey. You will be fined if you travel on an invalid or unvalidated ticket.</p>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Poland, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/poland/\">RAC guide</a>.</p>\n\n<p>Poland is a major east-west transit route for heavy vehicles. The road network is being constantly upgraded, and roadworks are frequent, particularly in summer. Even some main roads between major towns and cities can be narrow and poorly surfaced, making driving after dark particularly challenging.</p>\n\n<h3 id=\"car-hire\">Car hire</h3>\n\n<p>Most car rental companies will not allow you to take your hire car across the Poland/Ukraine border.</p>\n\n<h3 id=\"licences-and-permits\">Licences and permits</h3>\n\n<p>You can drive in Poland with your UK photocard driving licence without the need for an international driving permit (<abbr title=\"international driving permit\">IDP</abbr>).</p>\n\n<p>If you\u2019re living in Poland, check the <a href=\"https://www.gov.uk/guidance/living-in-poland\">Living in Poland guide</a> for information on the rules for residents.</p>\n\n<p>When driving, always have your:</p>\n\n<ul>\n  <li>driving licence</li>\n  <li>ID</li>\n  <li>car registration papers</li>\n  <li>car ownership papers</li>\n  <li>insurance papers</li>\n</ul>\n\n<p>You will need to show these documents if you are stopped by the police or if you cross non-Schengen borders. This includes rental vehicles. If you do not have these papers the police may take your vehicle and charge you for this. If you drive a vehicle in Poland it must meet local technical requirements.</p>\n\n<h3 id=\"driving-a-british-car-abroad\">Driving a British car abroad</h3>\n\n<p>You may need a UK sticker to drive your car outside the UK. From 2021 UK stickers have replaced GB stickers. Check <a href=\"https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers\">guidance on displaying number plates</a> for more information on what to do if you are driving outside the UK.</p>\n\n<h3 id=\"tolls\">Tolls</h3>\n\n<p>You may need to pay a road toll on some parts of motorways, expressways and national roads. More information is available on the <a rel=\"external\" href=\"https://etoll.gov.pl/en/\">toll operator website</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Telephone 112 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/180/poland\">vaccinations and health risks in TravelHealthPro\u2019s Poland guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-poland\">Healthcare facilities in Poland</h2>\n\n<p>Public medical facilities in Poland are similar to those in the UK. Private medical facilities are less expensive than the UK.</p>\n\n<p>You can view a list of <a href=\"https://www.gov.uk/government/publications/poland-list-of-medical-facilities/poland-doctors\">English speaking doctors in Poland</a>.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>)</a> or <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>)</a> before leaving the UK. If you already have an <abbr title=\"European Health Insurance Card\">EHIC</abbr>, it will still be valid as long as it remains in date.</p>\n\n<p>The <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Poland nationals. If you do not have your card with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> is not an alternative to travel insurance and have both before you travel. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Global Health Insurance Card\">GHIC</abbr> and <abbr title=\"European Health Insurance Card\">EHIC</abbr> cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-poland\">Emergency services in Poland</h2>\n\n<p>Ambulance: 999</p>\n\n<p>Fire: 998</p>\n\n<p>Police: 997</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a href=\"https://www.gov.uk/government/publications/poland-list-of-lawyers/list-of-lawyers-in-poland\">lawyers</a>, <a href=\"https://www.gov.uk/government/publications/poland-list-of-funeral-directors/poland-funeral-directors\">funeral directors</a>, and <a href=\"https://www.gov.uk/government/publications/poland-list-of-translators-and-interpreters/poland-list-of-translators\">translators and interpreters</a> in Poland</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/poland-bereavement-pack-information\">death</a> in Poland</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/poland-prisoner-pack\">arrested</a> in Poland</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/poland/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/organisations/british-embassy-warsaw\">British embassy, consulate or high commission</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Poland&amp;post=British%20Embassy%20Warsaw%20\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-poland\">Overseas Business Risk</a> service\u00a0offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-25T12:27:23Z",
+            "updated_at": "2023-10-25T12:27:56Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-22T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/poland",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/poland",
+                    "base_path": "/foreign-travel-advice/poland",
+                    "content_id": "5931cad1-dc75-4c21-b84e-c176441e0190",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-25T12:27:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Poland travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/poland",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/poland",
+                    "api_url": "https://www.gov.uk/api/content/world/poland",
+                    "base_path": "/world/poland",
+                    "content_id": "ce2effd7-fa80-468c-a90d-5e0769068189",
+                    "description": "Services if you're visiting, studying, working or living in Poland. Includes information about trading with and doing business in the UK and Poland, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Poland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T16:42:14Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Poland",
+                    "web_url": "https://www.gov.uk/world/poland",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/living-in-poland",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-poland",
+                    "base_path": "/guidance/living-in-poland",
+                    "content_id": "5ebfe187-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-01-11T13:14:38Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Poland",
+                    "web_url": "https://www.gov.uk/guidance/living-in-poland",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/russia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/russia",
+                    "base_path": "/foreign-travel-advice/russia",
+                    "content_id": "821537bc-8189-4347-b04d-3c3029f8c947",
+                    "details": {
+                        "change_description": "Information on the restriction of entry for cars registered in Russia (Under \u2018Leaving Russia'; 'By Road\u2019 on the 'Warnings and insurance' page). ",
+                        "country": {
+                            "name": "Russia",
+                            "slug": "russia",
+                            "synonyms": [
+                                "arctic"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:32:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "Russia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/russia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/syria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/syria",
+                    "base_path": "/foreign-travel-advice/syria",
+                    "content_id": "85c16f75-3380-497e-a915-4d77256cde37",
+                    "details": {
+                        "change_description": "Information on a 7.8 major earthquake that hit the Gazientep region of Southeast Turkey on 6 February 2023 which has also severely impacted cities in Northern Syria including Idlib and Aleppo ('Summary' page).",
+                        "country": {
+                            "name": "Syria",
+                            "slug": "syria",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-02-06T15:30:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Syria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/syria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/usa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/usa",
+                    "base_path": "/foreign-travel-advice/usa",
+                    "content_id": "f2cecaae-77ce-4df3-bf27-7783c3975706",
+                    "details": {
+                        "change_description": "Removal of information on an active shooter in Maine ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "USA",
+                            "slug": "usa",
+                            "synonyms": [
+                                "United States",
+                                "America",
+                                "Arctic",
+                                "Puerto Rico",
+                                "US Virgin Islands",
+                                "Florida",
+                                "Orlando",
+                                "American Samoa",
+                                "Guam",
+                                "Hawaii"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:23:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "USA travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/usa",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-poland",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-poland",
+                    "base_path": "/world/living-in-poland",
+                    "content_id": "c3e1b8af-7e81-4169-b3ef-362759d34057",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Poland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/poland",
+                                "api_url": "https://www.gov.uk/api/content/world/poland",
+                                "base_path": "/world/poland",
+                                "content_id": "ce2effd7-fa80-468c-a90d-5e0769068189",
+                                "description": "Services if you're visiting, studying, working or living in Poland. Includes information about trading with and doing business in the UK and Poland, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Poland",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:42:14Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Poland",
+                                "web_url": "https://www.gov.uk/world/poland",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T17:01:04Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Poland",
+                    "web_url": "https://www.gov.uk/world/living-in-poland",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-poland",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-poland",
+                    "base_path": "/world/travelling-to-poland",
+                    "content_id": "a49436f2-f0ee-4926-ab38-8938970b2fea",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Poland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/poland",
+                                "api_url": "https://www.gov.uk/api/content/world/poland",
+                                "base_path": "/world/poland",
+                                "content_id": "ce2effd7-fa80-468c-a90d-5e0769068189",
+                                "description": "Services if you're visiting, studying, working or living in Poland. Includes information about trading with and doing business in the UK and Poland, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Poland",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:42:14Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Poland",
+                                "web_url": "https://www.gov.uk/world/poland",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:30Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Poland",
+                    "web_url": "https://www.gov.uk/world/travelling-to-poland",
+                    "withdrawn": false
+                }
+            ],
+            "topical_events": [
+                {
+                    "api_path": "/api/content/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "api_url": "https://www.gov.uk/api/content/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "base_path": "/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "content_id": "bfa79635-ffda-4b5d-8266-a9cd3a03649c",
+                    "document_type": "topical_event",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-02-22T20:38:46Z",
+                    "schema_name": "topical_event",
+                    "title": "Russian invasion of Ukraine: UK government response",
+                    "web_url": "https://www.gov.uk/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-25T12:27:23Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698236876.062-10.13.20.67-31342",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Poland travel advice",
+        "updated_at": "2023-11-15T10:52:11Z",
+        "withdrawn_notice": {}
+    }
+}

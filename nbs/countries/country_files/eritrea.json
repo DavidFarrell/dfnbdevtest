@@ -1,0 +1,867 @@
+{
+    "Country Slug": "eritrea",
+    "Country Name": "Eritrea",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/eritrea",
+        "content_id": "6b47e9b9-0942-48b5-8ee1-778699ac95f0",
+        "description": "Latest FCDO travel advice for Eritrea including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-26T16:47:07.750Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Local travel) and summary - change to advice against travel; FCO advice against all travel to within 25km of Eritrea's land borders now excludes the border crossings at Debay Sima \u2013 Burre, Serha \u2013 Zalambessa and Kesadika (Adi Kuala) \u2013 Rama, plus the main paved roads leading to those crossings; Entry requirements section (Visas) - addition of information on entry stamps, which are not being issued at the newly re-opened land-border crossings from Ethiopia; Safety and security section (Crime) - updated information on incidents of crime",
+                    "public_timestamp": "2018-12-07T14:18:13.655Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information about the availability of consular support",
+                    "public_timestamp": "2018-12-20T18:15:01.851Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Crime and Local travel) - revised information; increased reporting of crime in Asmara; new border crossing open with Ethiopia",
+                    "public_timestamp": "2019-02-04T10:03:32.646Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security section (Local travel) - revised information; border crossings  between Eritrea and Ethiopia closed",
+                    "public_timestamp": "2019-05-31T12:00:41.885Z"
+                },
+                {
+                    "note": "Latest update: Summary - there are currently drinking water supply problems being experienced across Eritrea due to the closure by the Eritrean Government of many of the water purification and bottling plants; you should be aware of this shortage when planning your visit",
+                    "public_timestamp": "2019-06-25T15:05:03.018Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full. The \u2018Summary\u2019 page has updated information on the availability of bottled water  ",
+                    "public_timestamp": "2020-02-26T16:34:06.000Z"
+                },
+                {
+                    "note": "Addition of information on new measures in place to monitor coronavirus (COVID-19) ('Health' 'Entry requirements' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-02T17:18:09.000Z"
+                },
+                {
+                    "note": "Update to information on screening and quarantine measures in response to coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-05T17:56:10.000Z"
+                },
+                {
+                    "note": "Update made to Corona virus advice ('Health' page)",
+                    "public_timestamp": "2020-03-11T14:35:03.000Z"
+                },
+                {
+                    "note": "Update to Summary and Health sections with further information in relation to outbreak of COVID-19",
+                    "public_timestamp": "2020-03-17T21:28:49.000Z"
+                },
+                {
+                    "note": "Given the rapidly changing situation in Eritrea we are temporarily withdrawing a limited number of UK staff and their dependents from our Embassy. The Embassy will continue to carry out essential work including providing 24/7 consular assistance and support to British people in Eritrea (Summary).",
+                    "public_timestamp": "2020-03-20T00:14:33.000Z"
+                },
+                {
+                    "note": "Coronavirus (COVID-19) case confirmed in Eritrea. Measures introduced by authorities including restrictions on travel from and to the country. ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-22T18:45:56.000Z"
+                },
+                {
+                    "note": "Closure of Asmara International Airport from 25 March for two weeks. ('Summary', 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-26T18:02:08.000Z"
+                },
+                {
+                    "note": "Update to Eritrea registeration number and suspension of all entry visas ('Coronavirus', 'Return to the UK' and 'Entry requirements')",
+                    "public_timestamp": "2020-03-27T11:44:58.000Z"
+                },
+                {
+                    "note": "Further information on flights out of Asmara (\"Return to UK\" section)",
+                    "public_timestamp": "2020-04-05T10:33:24.000Z"
+                },
+                {
+                    "note": "Further information on flights out of Asmara ('Return to UK' section)",
+                    "public_timestamp": "2020-04-13T16:25:43.000Z"
+                },
+                {
+                    "note": "Given the rapidly changing situation in Eritrea we are temporarily withdrawing all UK staff from our Embassy. The Embassy will continue to carry out essential work including providing 24/7 consular assistance and support to British nationals in Eritrea. Removal of information about a flight which departed Eritrea on 18 April. ('Summary' and 'Return to UK' pages)",
+                    "public_timestamp": "2020-04-18T19:12:05.000Z"
+                },
+                {
+                    "note": "Routine revision and update.",
+                    "public_timestamp": "2020-04-27T15:06:56.000Z"
+                },
+                {
+                    "note": "Updated info about how to register interest in returning to the UK",
+                    "public_timestamp": "2020-05-04T21:06:59.000Z"
+                },
+                {
+                    "note": "Updated information on options for returning to the UK ('Return to the UK' page) ",
+                    "public_timestamp": "2020-05-11T17:29:26.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2020-05-18T15:24:18.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T14:54:15.000Z"
+                },
+                {
+                    "note": "Addition of information about charter flight from Asmara to Frankfurt during the week commencing 1 June ('Return to the UK' page).",
+                    "public_timestamp": "2020-05-26T14:36:59.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and republished without amendment.",
+                    "public_timestamp": "2020-06-02T14:54:38.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:10:58.000Z"
+                },
+                {
+                    "note": "Update to information and advice on future travel options and movement restrictions during coronavirus (COVID-19) ('Return to the UK' and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-06-08T14:33:07.000Z"
+                },
+                {
+                    "note": "Update to information and advice on availability of water and food in Eritrea ('Summary' page) and to sea travel section ('Safety and security' page)",
+                    "public_timestamp": "2020-06-16T13:12:53.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full and re-issued without amendment",
+                    "public_timestamp": "2020-06-24T15:53:52.000Z"
+                },
+                {
+                    "note": "Addition of information on charter flight from Asmara to Rome on 10 July ('Return to the UK' page)",
+                    "public_timestamp": "2020-07-02T11:32:06.000Z"
+                },
+                {
+                    "note": "Addition of information on a possible charter flight from Asmara in September ('Return to the UK' page)",
+                    "public_timestamp": "2020-09-02T15:36:31.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-09-07T16:23:06.000Z"
+                },
+                {
+                    "note": "Explosions reported in Asmara (Summary)",
+                    "public_timestamp": "2020-11-15T10:43:13.000Z"
+                },
+                {
+                    "note": "Explosions reported in Asmara on 14 November ('Summary')",
+                    "public_timestamp": "2020-11-15T15:51:37.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all travel to the town of Senefe, and the Serha-Zalambessa and Kesadika (Adi Kuala) border crossing points. ('Summary' page)",
+                    "public_timestamp": "2020-11-17T08:59:51.000Z"
+                },
+                {
+                    "note": "Updated information on Eritrea\u2019s borders and options for leaving Eritrea ('Summary', \u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2020-11-18T20:14:50.000Z"
+                },
+                {
+                    "note": "Updated contact information for those wishing to leave Eritrea ('Summary' page)",
+                    "public_timestamp": "2020-11-21T11:44:42.000Z"
+                },
+                {
+                    "note": "Updated information on reported explosions on 14, 26, 27 and 28 November in Asmara ('Summary' page)",
+                    "public_timestamp": "2020-11-30T13:13:15.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Eritrea (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-01T17:06:42.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Eritrea ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-25T10:16:19.000Z"
+                },
+                {
+                    "note": "Updated information on international travel, accommodation and public places and services; some international flights have resumed and the internal travel ban has been lifted ('Coronavirus' page). Removal on advice on basic foodstuffs being scarce ('Summary' page)",
+                    "public_timestamp": "2021-06-11T15:43:42.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 30 June Eritrea will move to the red list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-06-24T19:14:48.000Z"
+                },
+                {
+                    "note": "Information regarding temporary closure of the British Embassy leading to limited ability to offer consular assistance. Revised contact details. (Summary, Safety and Security)",
+                    "public_timestamp": "2021-07-16T03:05:21.000Z"
+                },
+                {
+                    "note": "Removal of information on the closure of the British Embassy ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-09-03T08:49:08.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Eritrea will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland ('Summary' and 'Coronavirus' pages).",
+                    "public_timestamp": "2021-10-07T17:09:52.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Eritrea, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-11T08:58:31.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all travel to within 25km of Eritrea\u2019s land borders ('Summary' page).  Full review of the entire advice with amendments to the 'Entry requirements', 'Coronavirus', 'Local laws and customs', 'Health' and 'Money' sections.  ",
+                    "public_timestamp": "2022-04-12T14:23:21.000Z"
+                },
+                {
+                    "note": "New information that the Eritrean Government has announced a national call up of its local militia, in response to the conflict in Tigray ('Summary' and 'Safety and security' pages).  ",
+                    "public_timestamp": "2022-09-16T10:28:06.000Z"
+                },
+                {
+                    "note": "Information on the national call up of militia (Summary page) and (Safety and security page)",
+                    "public_timestamp": "2022-09-16T12:43:53.000Z"
+                },
+                {
+                    "note": "Information on coronavirus entry requirements ('Entry requirements' page) and coronavirus exit requirements ('Coronavirus' page)",
+                    "public_timestamp": "2022-11-28T09:31:03.000Z"
+                },
+                {
+                    "note": "Information on Eritrea\u2019s land border with Sudan, local security measures and air travel, and update to Embassy contact telephone number ('Safety and security', 'Entry requirements' and 'Coronavirus' pages).",
+                    "public_timestamp": "2023-06-06T14:03:38.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T11:12:23.000Z"
+                }
+            ],
+            "country": {
+                "name": "Eritrea",
+                "slug": "eritrea",
+                "synonyms": [
+                    "Sahel"
+                ]
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "192d50e1-2d5c-4096-b78c-cfc4295cc216",
+                "url": "https://assets.publishing.service.gov.uk/media/62558a17d3bf7f6004339d6b/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/eritrea/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/62558a0c8fa8f54a9055161a/FCDO__TA__016_-_Eritrea_Travel_Advice_Ed4__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth--development-office-fcdo-advises-against-all-travel-to-within-25km-of-eritreas-land-borders\">The Foreign, Commonwealth &amp; Development Office (FCDO) advises against all travel to within 25km of Eritrea\u2019s land borders.</h3>\n\n<p>Eritrea\u2019s land borders with Djibouti and Ethiopia are closed. Eritrea\u2019s land border with Sudan is operational in response to the conflict in Sudan.</p>\n\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/eritrea/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Eritrea\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the FCDO\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>On 14 September 2022, the Eritrean Government announced a national call up of militia in response to the conflict in northern Ethiopia.\u00a0While the call up has now ended following the peace deal between the Ethiopian Government and the Tigray People\u2019s Liberation Front (TPLF), extra security measures may still be in place around Asmara and the rest of Eritrea.\u00a0You should remain vigilant to the local security situation during your stay.</p>\n\n<p>All foreign nationals, including diplomats, must apply in advance for a travel permit to leave the Asmara region. See\u00a0<a href=\"/foreign-travel-advice/eritrea/safety-and-security#travel-permits\">Travel Permits</a> and <a href=\"/foreign-travel-advice/eritrea/safety-and-security#consular-assistance\">Consular Assistance</a>.</p>\n\n<p>Consular support is severely limited in parts of Eritrea. If you\u2019re in Eritrea and you need urgent help (for example, you\u2019ve been attacked, arrested or someone has died), call the British Embassy in Asmara on +291 1 202 838 . If you\u2019re in the UK and worried about a British national in Eritrea, call 020 7008 5000. See <a href=\"https://www.gov.uk/foreign-travel-advice/eritrea/safety-and-security#consular-assistance\">Consular Assistance</a></p>\n\n<p>The Eritrean authorities consider all British nationals holding either Eritrean or PFDJ identity documents (including out of date documents) as Eritrean nationals. The British Embassy is unable to offer consular assistance to dual nationals in Eritrea. See <a href=\"/foreign-travel-advice/eritrea/entry-requirements#dual-nationals\">Dual nationals</a>.</p>\n\n<p>Although there\u2019s no recent history of terrorism in Eritrea, attacks can\u2019t be ruled out. See <a href=\"/foreign-travel-advice/eritrea/terrorism\">Terrorism</a>.</p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for Eritrea on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/74/eritrea#COVID-19\">TravelHealthPro website</a>.</p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<p>You should contact the Consular Affairs Office of the Ministry of Foreign Affairs on +291 1 127 022 for information on testing facilities.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>Eritrea\u2019s land borders with Djibouti and Ethiopia are closed.  Eritrea\u2019s land border with Sudan is operational in response to the conflict in Sudan. Asmara International Airport is operational.</p>\n\n<p>Your passport should be valid for at least six months from your date of departure to be able to leave Eritrea.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n\n<p>See <a href=\"/foreign-travel-advice/eritrea/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Eritrea.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-eritrea\">Travel in Eritrea</h2>\n\n<p>An internal travel ban has been lifted. Public transport (buses and taxis) are operating normally. Private vehicles are allowed on the roads.</p>\n\n<p>All foreign nationals, including diplomats, must apply in advance for a travel permit to leave the Asmara region. Check-points are in place between main towns. See <a href=\"https://www.gov.uk/foreign-travel-advice/eritrea/safety-and-security#travel-permits\">Travel Permits</a> and <a href=\"https://www.gov.uk/foreign-travel-advice/eritrea/safety-and-security#consular-assistance\">Consular Assistance</a>.</p>\n\n<h2 id=\"accommodation\">Accommodation</h2>\n\n<p>Hotels are open.</p>\n\n<h2 id=\"public-places-and-services\">Public places and services</h2>\n\n<p>Most shops, businesses, restaurants and recreation facilities have re-opened following the easing of lockdown. A night-time curfew has been lifted. Mask wearing is no longer mandatory.</p>\n\n<h2 id=\"healthcare-in-eritrea\">Healthcare in Eritrea</h2>\n\n<p>For contact details for English speaking doctors <a href=\"https://www.gov.uk/government/publications/eritrea-doctors\">visit our list of healthcare providers</a>.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a></p>\n\n<p>View <a href=\"/foreign-travel-advice/eritrea/health\">Health</a> for further details on healthcare in Eritrea.</p>\n\n<p>See also the guidance on <a href=\"/guidance/healthcare-support-for-when-you-are-unable-to-return-to-the-uk-during-coronavirus-covid-19\">healthcare if you\u2019re waiting to return to the UK</a>.</p>\n\n<h2 id=\"finance\">Finance</h2>\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"help-and-support\">Help and support</h2>\n<p>If you\u2019re in Eritrea and in need of urgent help, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-asmara\">British Embassy</a>.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<div class=\"call-to-action\">\n\n  <p>For further UK government guidance on support you can access whilst abroad, visit our <a href=\"/guidance/coronavirus-covid-19-staying-where-you-are-if-you-cannot-return-to-the-uk\">waiting to return guidance</a>. This includes guidance on finance, health, and staying connected.</p>\n\n</div>\n\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h3 id=\"crime\">Crime</h3>\n\n<p>Though Asmara is a relatively safe city, there  have been increased incidences of criminality over the last 2 years. You should take sensible precautions with your personal safety. Do not walk around late at night alone. Keep valuables, particularly cameras and passports, out of sight. Keep a photocopy of the personal details page of your passport in a safe place, or with friends or family in the UK.</p>\n\n<p>A large proportion of the population has access to arms under the government of Eritrea\u2019s civilian militia programme. We have no evidence that these weapons increase the threat of violent crime.</p>\n\n<h3 id=\"local-security-measures\">Local security measures</h3>\n\n<p>On 14 September 2022, the Eritrean Government announced a national call up of militia in response to the conflict in northern Ethiopia.\u00a0 While the call up has now ended following the peace deal between the Ethiopian Government and the Tigray People\u2019s Liberation Front (TPLF), extra security measures may be in place around Asmara and the rest of Eritrea.\u00a0 You should remain vigilant to the local security situation during your stay. Local travel</p>\n\n<h3 id=\"local-travel\">Local travel</h3>\n\n<p>There are extensive mine fields in Eritrea, especially in border areas. Driving on main roads away from border areas is generally safe.</p>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advise against all travel within 25km of Eritrea\u2019s border with Ethiopia. All border crossings between Ethiopia and Eritrea are currently closed - travellers should check local advice before proceeding to the border.  In the border area use main paved roads and avoid driving on non-metalled roads and walking or hiking in the countryside. In September 2011, a landmine exploded on the road between Senafe and Afoma, to the east of Senafe, killing 5 people.</p>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advise against all travel within 25 km of Eritrea\u2019s border with Djibouti. All border crossings between Djibouti and Eritrea are currently closed. In 2008 there was fighting between Djibouti and Eritrea after an incursion of Eritrean forces into the disputed Djibouti border region. Though relations have improved, the situation remains unresolved.</p>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advise against all travel to within 25km of Eritrea\u2019s border with Sudan. The border with Sudan is operational in response to the Sudanese conflict. There are ongoing reports of banditry in and around the border area.</p>\n\n<p>Avoid travelling after dark in rural areas. Road signage and barriers are scarce, road surfaces are uneven \u2013 causing erratic driving. Tight blind bends and steep drops are common. In many parts of the country, roads are difficult or impassable during the rainy season.</p>\n\n<p>Due to the proximity of the Hanish islands in the Red Sea to the ongoing conflict in Yemen, it is highly unlikely that permission would be granted to visit the southwestern Hanish islands that belong to Eritrea.</p>\n\n<h3 id=\"travel-permits\">Travel Permits</h3>\n\n<p>All foreign nationals must apply in advance for a travel permit to leave Asmara and the surrounding province of zoba Maekel. There are checkpoints outside of Asmara where your travel permit will be checked. Those working outside Asmara also need a travel permit to leave their area of residence or work. Applications in Asmara are handled by the relevant Ministry. For business travellers, applications are dealt with by the Ministry of Trade and Industry. Applications outside Asmara are handled by the local Zoba (Region) Administration Offices. Permission may take several days to be granted and is sometimes refused or delayed.</p>\n\n<p>Tourists wishing to travel outside Asmara should apply for a travel permit at the Ministry of Tourism located on Harnet Avenue in Asmara. Processing usually takes around 24 hours. When applying for permission to travel outside of Asmara, you should supply details of the car you\u2019ll be travelling in. There have been reports of tourists not being permitted to use public transport to travel outside of Asmara and have to rent a car or use a private taxi.</p>\n\n<p>Restrictions on travel by foreign nationals apply equally to foreign diplomats. Staff from the British Embassy are therefore unable to easily provide consular assistance to British nationals outside of Asmara.</p>\n\n<h3 id=\"air-travel\">Air travel</h3>\n\n<p>The <a href=\"https://www.gov.uk/guidance/uk-air-safety-list\">UK Air Safety List</a> lists all known airlines in Eritrea that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the\u00a0Department for Transport, based on advice from the <a rel=\"external\" href=\"https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates\">UK Civil Aviation Authority</a>.</p>\n\n<h3 id=\"sea-travel\">Sea travel</h3>\n\n<p>Mariners must seek permissions and entry visas before attempting to land in Eritrea.  This includes all islands in the Red Sea that belong to Eritrea. There have been cases of mariners being detained in the last 3 years for ignoring this.</p>\n\n<p>Due to the proximity of the Hanish islands in the Red Sea to the ongoing conflict in Yemen, it is highly unlikely permission would be granted to visit the southwestern Hanish islands that belong to Eritrea. Those landing without a permit have previously been detained.</p>\n\n<p>Recent piracy attacks off the coast of Somalia and in the Gulf of Aden, highlight that the threat of piracy related activity and armed robbery in the Gulf of Aden and Indian Ocean remains significant.</p>\n\n<p>Reports of attacks on local fishing dhows in the area around the Gulf of Aden and Horn of Africa continue.</p>\n\n<p>The combined threat assessment of the international Naval Counter Piracy Forces remains that all sailing yachts under their own passage should remain out of the designated High Risk Area or face the risk of being hijacked and held hostage for ransom.  For more information and advice, see our <a href=\"https://www.gov.uk/guidance/sea-river-and-piracy-safety\">Piracy and armed robbery at sea</a> page.</p>\n\n<h3 id=\"consular-assistance\">Consular Assistance</h3>\n\n<p>Consular support is severely limited in parts of Eritrea. Constraints on travel within Eritrea means the British Embassy in Asmara is unable to offer consular assistance easily to British nationals outside the greater Asmara area.</p>\n\n<p>There are obstacles to the provision of consular assistance even in Asmara. The Eritrean authorities may not inform the relevant Embassy if a foreign national is in need of help and there have been recent instances where the Eritrean authorities have refused consular access to detained foreign nationals.</p>\n\n<p>The Eritrean authorities consider all British nationals holding either Eritrean or PFDJ identity documents (including out of date documents) as Eritrean nationals. The British Embassy is unable to gain consular access to, or obtain information on dual nationals if detained by the authorities or otherwise in need of assistance.</p>\n\n<p>If you are in Eritrea and you need urgent help (for example, you\u2019ve been attacked, arrested or someone has died), call the British Embassy on +291 1 202 838.</p>\n\n<p>If you\u2019re in the UK and worried about a British national in Eritrea, call 020 7008 5000.</p>\n\n<p>If you need advice which is not covered by reading our travel advice then you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Ethiopia&amp;post=British%20Embassy%20Addis%20Ababa\">contact us online</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Although there\u2019s no recent history of terrorism in Eritrea, attacks can\u2019t be ruled out.</p>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>Be vigilant at all times, especially in crowded areas and public places like transport hubs, hotels, restaurants and bars and during major gatherings like sporting or religious events. Previous terrorist attacks in the region have targeted places where football matches are being viewed.</p>\n\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Photographing government buildings and military installations is not allowed. If in doubt, ask first.  You need a permit to take photographs of the \u2018tank graveyard\u2019 in Asmara. You can apply for one at the <a rel=\"external\" href=\"http://www.eritrea.be/MoT.htm\">Ministry of Tourism</a>.</p>\n\n<p>Internet access is highly restricted in Eritrea, mainly limited to hotels and a small number of internet cafes. Telephone networks are often unreliable and may only work for limited periods each day outside Asmara and larger towns. There are no agreements between Eritrean and international mobile telephone providers: international SIM cards will not work in Eritrea. There is no 3G in the country. A resident\u2019s permit is required to buy a local SIM card and this can take several weeks. There have been unconfirmed reports that phone calls made on the local mobile phone network are recorded.</p>\n\n<p>All electronic items (laptops, mobile phones, cameras etc) should be declared upon arrival. Failure to do so may result in their confiscation by Eritrean customs officials when you depart.</p>\n\n<p>Dress modestly, especially in lowland and predominantly Muslim areas. Shorts and T-shirts are likely to draw attention.</p>\n\n<p>Homosexual behaviour is illegal, punishable by a prison term. Be discreet. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT community before you travel.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Eritrea.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Eritrea set and enforce entry rules. If you\u2019re unsure how Eritrea\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"entry-to-eritrea\">Entry to Eritrea</h2>\n\n<p>Eritrea\u2019s land borders with Djibouti and Ethiopia are closed and are not expected to re-open in the near future. Eritrea\u2019s land border with Sudan is operational in response to the conflict in Sudan. See  <a href=\"https://www.gov.uk/foreign-travel-advice/eritrea/coronavirus#international-travel\">International Travel</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for passengers entering Eritrea.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>If you are visiting Eritrea your passport should be valid for a minimum of six months from the date you arrive, and have at least two clear pages adjoining one another in your passport.</p>\n\n<p>If you are a resident in Eritrea your passport must be valid for six months from the date you arrive.</p>\n\n<h3 id=\"visas\">Visas</h3>\n<p>For information about entry requirements, contact the local immigration authorities or the nearest Eritrean Embassy. You should also check with your airline or travel company for the latest information.</p>\n\n<h3 id=\"dual-nationals\">Dual nationals</h3>\n\n<p>The Eritrean authorities class dual British/Eritrean nationals entering Eritrea as Eritrean nationals. The Eritrean authorities consider all British nationals holding either Eritrean or PFDJ identity documents (including out of date documents) as Eritrean nationals. The British Embassy is unable to gain consular access to, or obtain information on dual nationals if detained by the authorities or otherwise in need of assistance. Dual nationals entering Eritrea on an Eritrean identity card rather than an Eritrean passport will need an exit permit from the Immigration Office in Asmara to leave the country.</p>\n\n<h3 id=\"foreign-currency\">Foreign currency</h3>\n\n<p>Foreign visitors must declare all foreign currency over 10,000 US dollars or equivalent on entering the country. There is no limit on the amount that can be brought in. Make sure you have had your completed foreign currency declaration form approved and stamped before you leave the airport.</p>\n\n<p>If you declared currency on arrival, when you leave you will have to show that any foreign currency missing was exchanged at a branch of \u2019Himbol\u2019, the State foreign currency exchange. If you spend any US dollars at an official hotel you must get a receipt to present along with the currency declaration form when you leave the country.</p>\n\n<p>You are not permitted to take more than 1,000 Nafka (ERN) out of Eritrea.</p>\n\n<p>If you fail to comply with these regulations you may face prosecution leading to a heavy fine, as well as a delay to your departure.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/74/eritrea#Vaccine_recommendations\">TravelHealthPro website</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>Eritrea is a completely cash-based economy. There are no credit card or ATMs facilities in Eritrea. You will need to pay for everything in cash.</p>\n\n<p>Eritrea\u2019s national currency is the Nakfa (ERN), currently pegged at a rate of 15 Nakfa to one US dollar.  Nakfa are not convertible outside Eritrea.</p>\n\n<p>You are not permitted to take more than 1,000 Nafka out of Eritrea. You should convert any excess Nakfa back to hard currency at one of the \u2019Himbol\u2019 exchanges in town, as there are limits to what can be converted at the \u2019Himbol\u2019 branch at the airport. You will need the original currency transaction receipt.</p>\n\n<p>If you are exiting Eritrea and you hold in excess of the 1,000 maximum limit, it will be confiscated. Where the amount exceeds ERN 5,000 you may face prosecution leading to a heavy fine, as well as a delay to your departure.</p>\n\n<p>Most hotels in Eritrea will require you to settle your hotel bill in US dollars. It is illegal to use foreign currency to make purchases except at a limited number of officially recognised hotels. You should get a receipt for any such purchases.\n\u2003</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/eritrea/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a> of the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h3 id=\"local-medical-care\">Local medical care</h3>\n\n<p>Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>There\u00a0are three public hospitals in Asmara. Public hospitals in other towns are often poorly equipped. \u00a0Elsewhere medical facilities are even more limited. If you\u2019re travelling away from the large towns, carry a comprehensive medical pack with you. See <a href=\"https://www.gov.uk/government/publications/eritrea-doctors/eritrea-list-of-medical-facilities\">list of Eritrea medical facilities</a>.</p>\n\n<p>There is a limited range of medicines available in Eritrea, and many available are produced locally. If you\u2019re taking prescription medicines, you should\u00a0make sure\u00a0that you have a sufficient supply for the length of your stay in Eritrea and to manage any unforeseen events.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 122244 and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>.  Versions prior to 2 September 2020 will be archived as FCO travel advice.  If you can\u2019t find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Eritrea&amp;post=Eritrea%20travel%20advice%20team\">send the Travel Advice Team a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Eritrea&amp;post=Eritrea%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-06-22T11:12:23Z",
+            "updated_at": "2023-06-22T11:12:23Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-30T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/eritrea",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/eritrea",
+                    "base_path": "/foreign-travel-advice/eritrea",
+                    "content_id": "6b47e9b9-0942-48b5-8ee1-778699ac95f0",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T11:12:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Eritrea travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/eritrea",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/eritrea",
+                    "api_url": "https://www.gov.uk/api/content/world/eritrea",
+                    "base_path": "/world/eritrea",
+                    "content_id": "d2082943-6eb7-4be2-bc42-c507f2571175",
+                    "description": "Services if you're visiting, studying, working or living in Eritrea. Includes information about trading with and doing business in the UK and Eritrea.",
+                    "details": {
+                        "internal_name": "UK help and services in Eritrea",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:35Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Eritrea",
+                    "web_url": "https://www.gov.uk/world/eritrea",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/ethiopia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/ethiopia",
+                    "base_path": "/foreign-travel-advice/ethiopia",
+                    "content_id": "d36e7377-4160-4e4d-a103-83980eaf9dc9",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Ethiopia",
+                            "slug": "ethiopia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-01T17:19:37Z",
+                    "schema_name": "travel_advice",
+                    "title": "Ethiopia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/ethiopia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sudan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sudan",
+                    "base_path": "/foreign-travel-advice/sudan",
+                    "content_id": "deee5c29-5006-4280-bb46-44c0bd7a6a11",
+                    "details": {
+                        "change_description": "Information on the risk of protests in Sudan due to the current conflict in Israel and the Occupied Palestinian Territories (\u2018safety and security\u2019 page).",
+                        "country": {
+                            "name": "Sudan",
+                            "slug": "sudan",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-27T14:33:59Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sudan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sudan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/somalia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/somalia",
+                    "base_path": "/foreign-travel-advice/somalia",
+                    "content_id": "992befc4-32a3-4a1a-a034-c9cb2ff42bad",
+                    "details": {
+                        "change_description": "Information on localised political disputes in Somaliland ('Safety and security' page).",
+                        "country": {
+                            "name": "Somalia",
+                            "slug": "somalia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-21T10:52:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Somalia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/somalia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/iran",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/iran",
+                    "base_path": "/foreign-travel-advice/iran",
+                    "content_id": "05bc5265-c585-4b5c-b813-c8f245ddfc7f",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Iran",
+                            "slug": "iran",
+                            "synonyms": [
+                                "Teheran",
+                                "Teran",
+                                "Terhan"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-06T15:54:03Z",
+                    "schema_name": "travel_advice",
+                    "title": "Iran travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/iran",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/eswatini",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/eswatini",
+                    "base_path": "/foreign-travel-advice/eswatini",
+                    "content_id": "cb0448b6-91b4-44fd-b54f-508b554971d1",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.\r\n\r\n",
+                        "country": {
+                            "name": "Eswatini",
+                            "slug": "eswatini",
+                            "synonyms": [
+                                "Swaziland"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T11:16:31Z",
+                    "schema_name": "travel_advice",
+                    "title": "Eswatini travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/eswatini",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-eritrea",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-eritrea",
+                    "base_path": "/world/living-in-eritrea",
+                    "content_id": "3d46dd4f-0de0-47cc-a1e1-dbf7c91d80fe",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Eritrea",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/eritrea",
+                                "api_url": "https://www.gov.uk/api/content/world/eritrea",
+                                "base_path": "/world/eritrea",
+                                "content_id": "d2082943-6eb7-4be2-bc42-c507f2571175",
+                                "description": "Services if you're visiting, studying, working or living in Eritrea. Includes information about trading with and doing business in the UK and Eritrea.",
+                                "details": {
+                                    "internal_name": "UK help and services in Eritrea",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:35Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Eritrea",
+                                "web_url": "https://www.gov.uk/world/eritrea",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:05Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Eritrea",
+                    "web_url": "https://www.gov.uk/world/living-in-eritrea",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-eritrea",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-eritrea",
+                    "base_path": "/world/travelling-to-eritrea",
+                    "content_id": "349ce84c-1bfe-4d45-b060-0f5fff02ebb4",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Eritrea",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/eritrea",
+                                "api_url": "https://www.gov.uk/api/content/world/eritrea",
+                                "base_path": "/world/eritrea",
+                                "content_id": "d2082943-6eb7-4be2-bc42-c507f2571175",
+                                "description": "Services if you're visiting, studying, working or living in Eritrea. Includes information about trading with and doing business in the UK and Eritrea.",
+                                "details": {
+                                    "internal_name": "UK help and services in Eritrea",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:35Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Eritrea",
+                                "web_url": "https://www.gov.uk/world/eritrea",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:04Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Eritrea",
+                    "web_url": "https://www.gov.uk/world/travelling-to-eritrea",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-06-22T11:12:23Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1687432343.939-10.13.20.17-39625",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Eritrea travel advice",
+        "updated_at": "2023-11-15T10:55:46Z",
+        "withdrawn_notice": {}
+    }
+}

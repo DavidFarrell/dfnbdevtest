@@ -1,0 +1,924 @@
+{
+    "Country Slug": "afghanistan",
+    "Country Name": "Afghanistan",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/afghanistan",
+        "content_id": "5a292f20-a9b6-46ea-b35f-584f8b3d7392",
+        "description": "Latest FCDO travel advice for Afghanistan including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [
+                "avoid_all_travel_to_whole_country"
+            ],
+            "change_description": "Information about the risk of detention in Afghanistan (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary and Terrorism section - on 20 November 2018, a suicide attack on a wedding hall in Kabul killed approximately 55 people and injured over 85; the majority of the victims were Islamic scholars observing Mawlid al-Nabi (translated as \u2018Birth of the Prophet\u2019)",
+                    "public_timestamp": "2018-11-22T16:05:37.674Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section (Kabul) and summary - on 28 November 2018, a complex attack on the G4S compound in Kabul killed at least 10 people, including one British national, and injured at least 35 others ",
+                    "public_timestamp": "2018-11-30T17:24:42.051Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information about the availability of consular support",
+                    "public_timestamp": "2019-01-11T10:51:13.581Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information about consular support ",
+                    "public_timestamp": "2019-02-27T11:37:45.049Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) \u2013 addition of information about driving licence requirements",
+                    "public_timestamp": "2019-03-11T16:47:14.578Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section - You should be particularly vigilant on public or religious holidays, and in and around landmark locations and places where large public crowds can gather",
+                    "public_timestamp": "2019-03-20T14:30:45.215Z"
+                },
+                {
+                    "note": "Terrorism section (Kabul) and summary - updated information and advice reflecting an overall increased threat to Western interests in Kabul",
+                    "public_timestamp": "2019-07-17T14:54:13.000Z"
+                },
+                {
+                    "note": "Safety and security section (Political situation) and summary - Presidential elections are scheduled for 28 September 2019; political events, rallies and polling stations have been the target of violent attacks during previous elections; you should avoid all political demonstrations and public gatherings; keep up to date with developments in the security situation, including through monitoring local media",
+                    "public_timestamp": "2019-08-19T09:27:40.000Z"
+                },
+                {
+                    "note": "Afghanistan - Presidential elections scheduled for 28 September 2019",
+                    "public_timestamp": "2019-08-19T09:31:53.000Z"
+                },
+                {
+                    "note": "Summary - change to advice against travel; the FCO now advise against all travel to the provinces of Herat, Samangan, Balkh, Ghowr, Sar-e Pol, Daykondi, Parvan, Bamian (except Bamian City, where the FCO continue to advise against all but essential travel) and Kabul (except Kabul city\u2019s Enhanced Security Zone and Hamid Karzai International Airport, where the FCO continue to advise against all but essential travel); Terrorism section and summary - updated information and advice to reflect an overall increased threat to Western interests",
+                    "public_timestamp": "2019-08-21T17:00:19.000Z"
+                },
+                {
+                    "note": "Safety and security section (Political situation) - updated information on the presidential election of 28 September 2019;  Terrorism section - updated factual information on recent terror incidents",
+                    "public_timestamp": "2019-10-28T10:02:07.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - Following the death of Iranian General Qasem Soleimani in a US strike in Baghdad on 3 January, British nationals in the region should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice.",
+                    "public_timestamp": "2020-01-04T10:58:07.000Z"
+                },
+                {
+                    "note": "Summary - amendments to existing information on increased tensions in the region",
+                    "public_timestamp": "2020-01-06T16:46:27.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) following a confirmed case in the country ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-02-28T13:21:46.000Z"
+                },
+                {
+                    "note": "Addition of information on screening measures at some entry ports in response to coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-05T15:49:11.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-16T17:30:31.000Z"
+                },
+                {
+                    "note": "Update to information about visa process in response to the coronavirus (COVID-19) pandemic ('Entry Requirements' and 'Summary' pages).",
+                    "public_timestamp": "2020-03-18T13:39:33.000Z"
+                },
+                {
+                    "note": "British nationals living and working in Afghanistan wishing to leave, should contact their airline or travel company and insurance provider as soon as you are able, and keep up to date with the latest developments. International travel has become significantly more difficult.('Summary')",
+                    "public_timestamp": "2020-03-21T12:41:31.000Z"
+                },
+                {
+                    "note": "British nationals in Afghanistan wishing to leave are strongly advised to do so now. Commercial routes are heavily reduced and could be suspended altogether. ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-23T14:12:02.000Z"
+                },
+                {
+                    "note": "British nationals in Afghanistan wishing to leave are strongly advised to do so now. Commercial routes are heavily reduced and could be suspended altogether. ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-24T16:45:17.000Z"
+                },
+                {
+                    "note": "Updated advice for British nationals living in the UK but currently travelling in Afghanistan to return now, while there are still very limited commercial routes available ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-26T17:37:41.000Z"
+                },
+                {
+                    "note": "Update to information on restrictions during coronavirus (COVID-19) ('Summary', 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-29T20:24:40.000Z"
+                },
+                {
+                    "note": "Update to local measures and advice for people wishing to return to the UK from Afghanistan ('Coronavirus' and \u2019Return to the UK\u2019 pages)\r\n",
+                    "public_timestamp": "2020-04-07T11:58:48.000Z"
+                },
+                {
+                    "note": "Latest update: Update to advice for people wishing to leave Afghanistan ('Coronavirus' and \u2019Return to the UK\u2019 pages) \r\n",
+                    "public_timestamp": "2020-04-17T19:59:37.000Z"
+                },
+                {
+                    "note": "Updated advice for those wishing to leave Afghanistan ('Coronavirus' and \u2019Return to the UK\u2019 pages) ",
+                    "public_timestamp": "2020-04-21T17:29:44.000Z"
+                },
+                {
+                    "note": "Latest update: Addition of information on one-off commercial flight from Kabul to Doha on Saturday 16 May (\u2018Return to the UK\u2019 page) ",
+                    "public_timestamp": "2020-05-13T05:40:39.000Z"
+                },
+                {
+                    "note": "Addition of information regarding Qatar Airways, who will operate two commercial flights from Kabul to the UK, via Doha on Saturday 23 & 30 May 2020. For information on how to book, (\u201cReturn to the UK\u201d)",
+                    "public_timestamp": "2020-05-17T13:06:55.000Z"
+                },
+                {
+                    "note": "Update to information on Qatar Airways who will operate four commercial flights from Kabul to the UK, via Doha on 23 & 30 May and 6 & 13 June ('Summary' and 'Return to the UK' pages) ",
+                    "public_timestamp": "2020-05-20T17:41:26.000Z"
+                },
+                {
+                    "note": "Addition of information on Qatar Airways flights from Kabul on Saturday 30 May and 6, 13, 20 and 27 June 2020 ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-28T15:58:11.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:33:33.000Z"
+                },
+                {
+                    "note": "Addition of information on extra Qatar Airways flights in July to the UK and resumption of flights by Emirates Airline from 25 June (''Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-06-09T13:26:32.000Z"
+                },
+                {
+                    "note": "Updated information on resumption of commercial flights to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-23T16:32:10.000Z"
+                },
+                {
+                    "note": "Addition of information on the resumption of international flights to and from Kabul.   Requirement for Emirates and Fly Dubai passengers to provide a negative COVID-19 test certificate ('Return to the UK' page)",
+                    "public_timestamp": "2020-07-10T15:52:16.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-28T15:38:45.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 negative certificate requirements, the current political situation and terrorism and kidnapping incidents ('Coronavirus', 'Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-08-04T14:38:32.000Z"
+                },
+                {
+                    "note": "Update to information on Emergency Travel Documents ('Entry requirements' page)",
+                    "public_timestamp": "2020-11-13T12:51:58.000Z"
+                },
+                {
+                    "note": "Information on recent terrorist attacks ('Terrorism')",
+                    "public_timestamp": "2020-11-27T18:33:26.000Z"
+                },
+                {
+                    "note": "Information on pre-departure test requirements for in-bound passengers to England. (\u2018Coronavirus\u2019) COVID-19 situation in Afghanistan (\u2018Coronavirus\u2019). Transiting UAE (\u2018Safety & Security\u2019). Criminal Kidnaps (\u2018Safety & Security\u2019). Entry Rules in Response to COVID-19 (\u2018Entry Requirements\u2019).\r\n",
+                    "public_timestamp": "2021-01-29T17:11:56.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Afghanistan ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-18T16:08:01.000Z"
+                },
+                {
+                    "note": "Addition of information on the NATO announcement that its forces would leave Afghanistan within a few months ('Safety and security' page). ",
+                    "public_timestamp": "2021-04-15T12:29:23.000Z"
+                },
+                {
+                    "note": "The FCDO now advise against all travel to the remaining parts of the country where we previously advised against all but essential travel: the Enhanced Security Zone in Kabul, Hamid Karzai International Airport, Kabul Panjshir province, and the city of Bamian in Bamian province (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-04-21T19:28:06.000Z"
+                },
+                {
+                    "note": "Addition of information on transit countries from Afghanistan which are on the UK COVID-19 Red list and require hotel quarantine (\"Summary\" page).",
+                    "public_timestamp": "2021-05-11T18:57:24.000Z"
+                },
+                {
+                    "note": "Update on entry requirements to Afghanistan, negative Covid-19 PCR Test now required, though advice against travel to whole country still remains (See 'Summary' and 'Entry Clearance' pages).",
+                    "public_timestamp": "2021-05-21T16:58:30.000Z"
+                },
+                {
+                    "note": "From 4am on Tuesday 8 June Afghanistan will move to the red list for entering England. There are limits to the assistance the FCDO can provide in a crisis and you should not rely on the FCDO being able to evacuate you from Afghanistan in an emergency. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-06-04T09:48:32.000Z"
+                },
+                {
+                    "note": "Addition of information on an attack on 8 June 2021 ('Terrorism' page)",
+                    "public_timestamp": "2021-06-15T10:01:25.000Z"
+                },
+                {
+                    "note": "Updated advice for any British nationals still in Afghanistan. The level of consular assistance the British Embassy can provide is extremely limited, including in a crisis. Ensure travel documents are up to date, and that you have the necessary visas for onward travel (See \u2018Summary\u2019)",
+                    "public_timestamp": "2021-07-14T18:58:39.000Z"
+                },
+                {
+                    "note": "Addition of information on the government imposed national curfew in place in 31 of Afghanistan's 34 provinces, from 10pm to 4am every day ('Summary' page)",
+                    "public_timestamp": "2021-07-28T15:45:39.000Z"
+                },
+                {
+                    "note": "Update to information on the security situation ('Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-08-02T15:58:24.000Z"
+                },
+                {
+                    "note": "The FCDO advise all British nationals in Afghanistan to leave now by commercial means ('Summary' page)",
+                    "public_timestamp": "2021-08-06T13:14:09.000Z"
+                },
+                {
+                    "note": "Update to request that British nationals in Afghanistan inform the British Embassy in Kabul of their departure plans ",
+                    "public_timestamp": "2021-08-06T18:12:52.000Z"
+                },
+                {
+                    "note": "Update to urge British nationals in Afghanistan to leave now by commercial means. The British Embassy is reducing staff.",
+                    "public_timestamp": "2021-08-12T19:09:26.000Z"
+                },
+                {
+                    "note": "Additional phone number for British nationals to inform the British Embassy Kabul of their departure plans ('Summary' page)",
+                    "public_timestamp": "2021-08-15T06:16:15.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of most operations at the British Embassy in Kabul and the latest uncertain political situation plus information on COVID-19 testing when leaving Afghanistan (See 'Summary' 'Coronavirus' 'Safety and security' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-08-16T19:19:23.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 testing when leaving Afghanistan and Emergency Travel Documents (See 'Entry requirements' pages)",
+                    "public_timestamp": "2021-08-18T02:37:33.000Z"
+                },
+                {
+                    "note": "You should not travel to Afghanistan.  Commercial flights are not currently operating.  If you are able to leave safely by other means, you should do so immediately.   Number to call if requiring assistance  ('Summary', 'Coronavirus', 'Safety and security', 'Terrorism', 'Entry requirements', 'Health' pages)",
+                    "public_timestamp": "2021-08-19T20:06:42.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and republished with a minor amendment to the 'Regions' sub-section of the 'Terrorism' page.",
+                    "public_timestamp": "2021-08-20T12:05:56.000Z"
+                },
+                {
+                    "note": "Addition of information about the Home Office's Afghan Citizens' resettlement scheme",
+                    "public_timestamp": "2021-08-21T01:12:55.000Z"
+                },
+                {
+                    "note": "Addition of information about terrorist threat and advice not to travel to Kabul International Airport ",
+                    "public_timestamp": "2021-08-25T20:51:54.000Z"
+                },
+                {
+                    "note": "Addition of information about explosions in the vicinity of the Kabul Hamid Karzai International Airport. ",
+                    "public_timestamp": "2021-08-26T18:16:03.000Z"
+                },
+                {
+                    "note": "Addition of information about a terrorist attack in the vicinity of the Kabul Hamid Karzai International Airport.",
+                    "public_timestamp": "2021-08-26T21:43:21.000Z"
+                },
+                {
+                    "note": "Addition of information following conclusion of military assisted departures",
+                    "public_timestamp": "2021-08-28T21:25:15.000Z"
+                },
+                {
+                    "note": "Updated information for British nationals remaining in Afghanistan (See 'Summary' page)",
+                    "public_timestamp": "2021-09-05T12:52:23.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed and republished with editorial amendments to the 'Summary' and 'Travel advice help and support' sections.",
+                    "public_timestamp": "2021-09-14T08:28:43.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Afghanistan will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland ('Summary' and 'Coronavirus' pages).",
+                    "public_timestamp": "2021-10-07T16:51:20.000Z"
+                },
+                {
+                    "note": "Update to Terrorism section: In light of the increased risks you are advised not to stay in hotels, particularly in Kabul (such as the Serena Hotel).",
+                    "public_timestamp": "2021-10-10T21:35:41.000Z"
+                },
+                {
+                    "note": "Update to Terrorism section: In light of recent attacks on places of worship and continued risks to religious sites. ",
+                    "public_timestamp": "2021-10-21T19:51:15.000Z"
+                },
+                {
+                    "note": "Update to 'Terrorism' section in light of the recent attack on the Sardar Mohammad Dawood Khan hospital in Kabul. Update to information on the local healthcare system in respect of treatment for COVID-19 in Afghanistan (\u2018Coronavirus page\u2019) and to information on use of foreign currency (\u2018Money page\u2019) ",
+                    "public_timestamp": "2021-11-05T16:52:56.000Z"
+                },
+                {
+                    "note": "Update to 'Safety and security' section in respect of commercial air travel. ",
+                    "public_timestamp": "2021-11-26T13:47:14.000Z"
+                },
+                {
+                    "note": "Adding links to advice pages for applying for UK visas and applying for a British passport, as well as other editorial amendments to the 'Summary' page.",
+                    "public_timestamp": "2021-12-20T17:32:09.000Z"
+                },
+                {
+                    "note": "Update to information on terrorism in Afghanistan ('Terrorism' page)",
+                    "public_timestamp": "2021-12-24T12:39:24.000Z"
+                },
+                {
+                    "note": "Substantive updates to information on Safety and Security, Local Laws and Customs ('Safety and Security', 'Local Laws and Customs' pages)",
+                    "public_timestamp": "2022-01-14T17:57:16.000Z"
+                },
+                {
+                    "note": "Addition of information on the risk of detention (\u2018Summary' and \u2018Safety and security\u2019 pages) ",
+                    "public_timestamp": "2022-02-18T10:15:02.000Z"
+                },
+                {
+                    "note": "Review and update on Entry Requirements and Terrorism pages.",
+                    "public_timestamp": "2022-04-12T12:56:36.000Z"
+                },
+                {
+                    "note": "Addition of information on a severe earthquake of magnitude 5.9 in the Gyan district and surrounding areas of Paktika on 22 June. Updated information on terrorist attacks in Afghanistan ('Summary', 'Natural disasters' and 'Terrorism' pages)",
+                    "public_timestamp": "2022-06-22T16:14:23.000Z"
+                },
+                {
+                    "note": "Updated information following the death of Al Qaida leader, Ayman al-Zawahiri (See 'Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2022-08-02T17:42:49.000Z"
+                },
+                {
+                    "note": "Updated information with contact details for British nationals in Afghanistan who need to speak to a consular officer (See 'Summary' page)",
+                    "public_timestamp": "2022-11-11T12:59:35.000Z"
+                },
+                {
+                    "note": "Updated with information about heightened security risks during Ramadan ('Summary' and 'Terrorism' pages).",
+                    "public_timestamp": "2023-03-22T14:27:03.000Z"
+                },
+                {
+                    "note": "New information about altitude sickness ('Health' page).",
+                    "public_timestamp": "2023-05-09T11:45:13.000Z"
+                },
+                {
+                    "note": "Information about the safety of airlines in Afghanistan (\u2018Safety and security\u2019 page). ",
+                    "public_timestamp": "2023-05-26T13:48:20.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T08:16:36.000Z"
+                },
+                {
+                    "note": "Information about the risk of detention in Afghanistan (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages).",
+                    "public_timestamp": "2023-10-20T17:25:38.000Z"
+                }
+            ],
+            "country": {
+                "name": "Afghanistan",
+                "slug": "afghanistan",
+                "synonyms": []
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "87a5796b-7c05-4777-b2bd-22e95d57767f",
+                "url": "https://assets.publishing.service.gov.uk/media/60814893d3bf7f013c8f44e0/FCDO__TA__001_-_Afghanistan_Travel_Advice_Ed2.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/afghanistan/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth--development-office-fcdo-advises-against-all-travel-to-afghanistan\">The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) advises against all travel to Afghanistan.</h3>\n\n<p>You should not travel to Afghanistan.</p>\n\n<p>Terrorists are very likely to try to carry out attacks in Afghanistan. There is a heightened threat of terrorist attacks in or around religious sites and during religious events and celebrations, such as the month of Ramadan.\u00a0 The security situation in Afghanistan is volatile. There is an ongoing and high threat of terrorist attacks throughout Afghanistan, including around airports.</p>\n\n<p>See\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/afghanistan/terrorism\">Terrorism</a>.</p>\n\n<p>Travel throughout Afghanistan is extremely dangerous and border crossings may not be open. See\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/afghanistan/safety-and-security\">Safety and security</a>.</p>\n\n<p>There is a significant risk of detention of British nationals. The British Government may not be notified about such detentions\u00a0 and there are considerable challenges in securing consular contact or access. You \u00a0may not be able to contact your next of kin and detention may be lengthy without clarity being given to your charge. See <a href=\"https://www.gov.uk/foreign-travel-advice/afghanistan/safety-and-security#detention\">Detention</a>.</p>\n\n<p>There are no British consular officials in Afghanistan and our ability to provide consular assistance is severely limited and cannot be delivered in person within Afghanistan. If you are a British national already resident in Afghanistan, you should carefully consider the risk to \u00a0your safety and security from staying there. The situation could change quickly and without warning.\u00a0</p>\n\n<p>If you choose to travel to or stay in Afghanistan against\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advice, you should keep a low profile. Be vigilant, try to avoid all crowds and public events including religious events, and take appropriate security precautions.</p>\n\n<p>If you are a British national in Afghanistan and need to speak to a consular officer, you can:</p>\n\n<ul>\n  <li>\n    <p>call the\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0on 020 7008 5000 (available 24 hours a day)</p>\n  </li>\n  <li>\n    <p><a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Afghanistan&amp;post=Afghanistan%20travel%20advice%20team\">submit an enquiry</a></p>\n  </li>\n  <li>\n    <p>contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>.</p>\n  </li>\n</ul>\n\n<p>British nationals may access consular services at our diplomatic missions in neighbouring countries.</p>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0cannot offer advice on the safety of travelling to any departure point within Afghanistan.</p>\n\n<p>If you are a British national in Afghanistan, and would like information about applying for UK visas for your family then visit <a href=\"https://www.gov.uk/apply-to-come-to-the-uk\">www.gov.uk/apply-to-come-to-the-uk</a>.</p>\n\n<p>If you would like information about applying for a British passport, or would like to check on your passport application, then visit <a href=\"https://www.gov.uk/overseas-passports\">www.gov.uk/overseas-passports</a> or call the passport advice line on +44 (0) 300 222 0000.</p>\n\n<p>If you plan to pass through another country to return to the UK, <a href=\"https://www.gov.uk/foreign-travel-advice\">check the travel advice for the country you\u2019re transiting</a>.</p>\n\n<p>Because the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to Afghanistan, your travel insurance may not apply there. Check with your insurance provider before travel.</p>\n\n<p>Afghanistan is in a major earthquake zone and remains at risk from powerful earthquakes, aftershocks, landslides and flooding. See <a href=\"/foreign-travel-advice/afghanistan/natural-disasters\">Natural disasters</a>.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>If you plan to travel, check the latest information on risk from COVID-19 for Afghanistan on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/1/afghanistan#COVID-19\">TravelHealthPro website</a>.</p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change.</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice.</p>\n\n<h2 id=\"healthcare-in-afghanistan\">Healthcare in Afghanistan</h2>\n\n<p><strong>Healthcare in Afghanistan is very limited.</strong> There are areas which have no medical facilities with ICU beds and ventilators.</p>\n\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to Afghanistan.</p>\n\n<p>If you choose to travel to Afghanistan against <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advice, monitor media reporting and make sure you have robust contingency plans in place. Be vigilant at all times, keep others informed including family and friends of your travel plans and consider your necessary routes in advance.</p>\n\n<h2 id=\"detention\">Detention</h2>\n\n<p>There is a heightened risk of British nationals being detained in Afghanistan. If you are a British national and you are detained in Afghanistan, you could face months or years of imprisonment. The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s ability to provide consular assistance is extremely limited and cannot be delivered in person within Afghanistan. The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s ability to secure information from the authorities could also be severely limited and you may not be able to contact your next of kin.</p>\n\n<p>The British government will have very limited ability to help you if you get into difficulty in Afghanistan. If you are a British national already resident in Afghanistan, you should carefully consider the risk to \u00a0your safety and security from staying \u00a0there.</p>\n\n<p>If you choose to travel to or stay in Afghanistan against\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advice, you should not rely on previous experience of travelling in Afghanistan or previous understanding of rules, laws and society. British nationals with previous experience of operating in Afghanistan have been detained in the country since August 2021.</p>\n\n<p>If you are found in possession of:</p>\n\n<ul>\n  <li>weapons</li>\n  <li>explosives</li>\n  <li>tracking devices</li>\n  <li>items that may be considered unusual</li>\n  <li>large quantities of money</li>\n</ul>\n\n<p>Or if:</p>\n\n<ul>\n  <li>you have worked in the military</li>\n  <li>you have connections to previously detained British nationals</li>\n</ul>\n\n<p>The Taliban are likely to suspect you of spying and may detain you. If you are found guilty of espionage or working to undermine Afghanistan\u2019s national security, the punishment may be execution. The Taliban are suspicious of foreigners working or travelling in Afghanistan, including humanitarian workers and journalists, and it\u2019s likely your work and movements will be closely monitored.</p>\n\n<p>Foreign nationals have been detained in Afghanistan without due process. Detention can be lengthy, damaging to health and welfare, and of uncertain outcome. You should avoid any activity which could be interpreted as seeking to achieve political change in Afghanistan through violence, or any activity inciting violence.</p>\n\n<h2 id=\"sensitive-sites-and-using-cameras\">Sensitive sites and using cameras</h2>\n\n<p>You may come under suspicion if you are near sensitive sites, have contact with people who are of interest to the authorities for any reason, or are taking photographs, including of locations or people that may not appear sensitive. It may not be immediately clear when taking photos could cause offence or suspicion. Avoid photographing local people without their agreement and pay close attention to local information and ways of doing things. Photographing certain buildings in Afghanistan is not allowed and may lead to detention, including:</p>\n\n<ul>\n  <li>government buildings</li>\n  <li>military installations</li>\n  <li>palaces</li>\n</ul>\n\n<h2 id=\"protests\">Protests</h2>\n\n<p>The current conflict in Israel and the Occupied Palestinian Territories has led to protests in Afghanistan that may turn violent. Be vigilant, avoid demonstrations and take appropriate security precautions. \u00a0</p>\n\n<p>Human trafficking is illegal. Under the UK Bribery Act 2010 it is an offence to offer, promise or give bribes anywhere in the world.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Afghanistan is now under Taliban control.</p>\n\n<p>People have been detained for involvement in demonstrations and for activities perceived as dissent.  Foreigners\u2019 activities are viewed with suspicion. You should not do anything which could be interpreted as seeking to achieve political change through violence, or any activity inciting violence.</p>\n\n<p>The political situation remains uncertain and could change rapidly. Keep up to date with developments about the security situation, including through monitoring local media.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>Road travel is highly dangerous.</p>\n\n<p>The situation at Afghanistan\u2019s border crossings remains volatile.  A number of borders remain closed and if opened, can be subject to unannounced closures at short notice. There have been clashes between Afghan and neighbouring forces at various border crossings.</p>\n\n<p>We advise against all travel to and around Afghanistan.</p>\n\n<h2 id=\"air-travel\">Air travel</h2>\n\n<p>There are no Afghan airlines that meet UK safety standards. The <a href=\"https://www.gov.uk/guidance/uk-air-safety-list\">UK Air Safety List</a> (ASL) lists all known airlines in Afghanistan that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the\u00a0Department for Transport, based on advice from the <a rel=\"external\" href=\"https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates\">UK Civil Aviation Authority</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorists are very likely to try to carry out attacks in Afghanistan.</p>\n\n<p>There is a high threat of terrorist attacks globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out how to reduce your risk from\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">terrorism</a>\u00a0while abroad.</p>\n\n<p>There is a heightened threat of terrorist attacks in or around religious sites and during religious events and celebrations, such as the month of Ramadan.</p>\n\n<p>Al Qaida (AQ), Daesh Khorasan Province (ISKP) and other militant groups have an active presence in Afghanistan. These groups hold strong anti-western views which could make any British interest or person a target. Daesh (ISKP) continues to be a serious threat and is fiercely hostile to the UK, other western countries and some religious minority communities. Daesh (ISKP) and other groups also target NGOs and humanitarian organisations.</p>\n\n<p>If you choose to travel to Afghanistan against\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advice, you should be aware terrorists have a strong desire to target public places frequented by foreigners. Be vigilant, try to avoid all crowds and public events including religious events, and take appropriate security precautions. An attack on Kabul International Airport in August 2021 killed at least 183 people. Further attacks against aviation and/or airports are very likely.</p>\n\n<p>In trying to target foreigners, restaurants and hotels (such as the Serena in Kabul) could be targeted.</p>\n\n<p>Daesh (ISKP) have claimed attacks\u00a0in a variety of locations such as hospitals, schools, places of worship, government, military and security establishments. Historically, government ministries (official buildings and agencies such as passport offices) have been targeted. Diplomatic premises may be attacked to undermine Taliban claims of security.</p>\n\n<p>It is likely that terrorists will continue with their tactic of planning attacks at busy and congested times of day, potentially coinciding with local or religious events or celebrations. In the past this has included attacks against schools, market places, religious minorities - including targeting Shia sites, communities and districts.</p>\n\n<p>Attacks in Afghanistan include roadside and suicide bombs either on foot or by vehicle, indirect rocket and mortar fire, direct fire (including shootings and rocket propelled grenades) as well as kidnappings and violent crime. Further attacks are very likely.</p>\n\n<p>If you are in Afghanistan, make sure your accommodation is secure and review your security measures regularly. Keep others, including family and friends, informed of your travel plans. You are strongly encouraged to avoid setting regular patterns of travel and behaviour making yourself the target of an attack.</p>\n\n<h2 id=\"kidnap\">Kidnap</h2>\n\n<p>There is a very high threat of being kidnapped in Afghanistan.</p>\n\n<p>British nationals are viewed as legitimate targets, including those engaged in tourism, humanitarian aid and some other development work, journalism or business sectors are viewed as legitimate targets. NGO workers have been kidnapped near their places of work. The International NGO Safety Organisation (INSO) issues regular security updates for NGOs. If you are kidnapped, the reason for your presence is unlikely to serve as a protection or secure your safe release.</p>\n\n<p>Over 100 westerners have been kidnapped in Afghanistan since 2001; a number of them have been British nationals.  Some foreign nationals remain in captivity.</p>\n\n<p>The motivation and desire to undertake kidnapping in Afghanistan is likely to continue. If you chose to go to Afghanistan against <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advice, you should take the utmost care, vary routines and avoid setting regular patterns of movement. You should take professional security advice.</p>\n\n<p>The long-standing policy of the UK government is not to make substantive concessions to hostage takers. The UK government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.</p>\n\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>There are no formal rule of law structures or processes in place in Afghanistan, and foreign nationals, including British nationals, have been detained without due process \u2013 see <a href=\"https://www.gov.uk/foreign-travel-advice/afghanistan/safety-and-security\">Safety and Security</a>.</p>\n\n<p>Afghanistan is an Islamic country and you should respect local traditions, customs, and religions at all times. Be particularly careful during the holy month of Ramadan or if you intend to visit religious areas. See our guidance on <a href=\"https://www.gov.uk/guidance/travelling-during-ramadan\">travelling during Ramadan</a>.</p>\n\n<p>The Taliban have decreed codes of behaviour and dress for both men and women and these codes can be strictly enforced. In public places women are expected to be fully covered, including their faces. Their bodies, arms and legs must be concealed by loose clothing, their hair covered with a headscarf and a veil must cover their face. Men are expected to dress modestly and should remain sensitive to Islamic culture. This includes not wearing clothing items such as sleeveless shirts or shorts.</p>\n\n<p>The Taliban have also decreed that women are not permitted to move around Afghanistan or travel without being accompanied by a mahram, (a husband, father or brother). This could affect a woman\u2019s ability to depart from Afghanistan unless escorted by a mahram.</p>\n\n<p>Homosexuality is strictly prohibited under the Taliban and has historically always been illegal in Afghanistan. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page for the LGBT community</a> before you travel. It is forbidden to seek to convert Muslims to other faiths.</p>\n\n<p>You are not allowed to use, or bring into the country narcotics, alcohol or pork products.</p>\n\n<p>Photographing certain buildings in Afghanistan including government or Taliban buildings, military installations and palaces is not allowed and may lead to detention. It may not be immediately clear when taking photos could cause offence or suspicion. Avoid photographing local people without their agreement and pay close attention to local information and ways of doing things.</p>\n\n<p>You should not buy or export historical antiquities without a receipt from an authorised supplier or dealer. When you leave Afghanistan you may be asked for proof that you bought the item. If you do not have a receipt, you could be detained and you may face a fine or prison sentence.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<p>You should not travel to Afghanistan. If you decide to travel to Afghanistan against FCDO travel advice, this page has information on travelling to Afghanistan.</p>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Afghanistan set and enforce entry rules. If you\u2019re unsure how Afghanistan\u2019s entry requirements apply to you, contact its\u00a0<a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<p>Consular services provided by the Afghan embassy in London are not valid in Afghanistan until further notice. Visas provided by the embassy may not be accepted when travelling to Afghanistan.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n<p>The FCDO advises against all travel to Afghanistan. All travellers are strongly advised to check current entry requirements with their travel operator, airline or their local\u00a0<a rel=\"external\" href=\"http://afghanistanembassy.org.uk/english/\">Afghan diplomatic mission</a>\u00a0before embarking on a visit.</p>\n\n<h2 id=\"visas\">Visas</h2>\n\n<p>Consular services provided by the Afghan embassy in London are not valid in Afghanistan until further notice. Visas provided by the embassy may not be accepted when travelling to Afghanistan.</p>\n\n<h2 id=\"proof-of-vaccination-status\">Proof of vaccination status</h2>\n\n<p>Many airlines require proof of vaccination to allow passengers to board and you are advised to check the requirements of your operator in advance.</p>\n\n<h2 id=\"if-youre-transiting-through-the-united-arab-emirates\">If you\u2019re transiting through the United Arab Emirates</h2>\n\n<p>Transiting is when you pass through one country on the way to your final destination.</p>\n\n<p>Further information about transiting through the United Arab Emirates can be found on the\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/united-arab-emirates\">Travel Advice pages for the UAE</a>.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<p>If you are visiting Afghanistan, we advise that your passport should be valid for six months  from the date you arrive. Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/afghanistan/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<h2 id=\"other-health-risks\">Other health risks</h2>\n\n<p>Diarrhoeal diseases and other gastrointestinal infections are common causes of ill health, becoming worse in the hotter months. Outbreaks of acute watery diarrhoea, measles and other viral infections regularly occur around the year.</p>\n\n<p>The dry dusty conditions in summer and winter can cause irritation to the eyes, throat, nose and skin.</p>\n\n<p>Respiratory tuberculosis is common in the Afghan population.</p>\n\n<p>Malaria is present except in the high mountainous regions of the country and in winter.</p>\n\n<p>Altitude sickness is a risk in parts of Afghanistan. More information about altitude sickness is available from <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/26/altitude-illness\">TravelHealthPro</a>.</p>\n\n<h2 id=\"local-medical-care\">Local medical care</h2>\n\n<p>We advise against all travel to Afghanistan. Only very limited medical facilities are available in Afghanistan and there is no guarantee that any local health care will be available.</p>\n\n<p>At present there is no public ambulance service offered in Kabul or the rest of the country. If you are in need of urgent attention you are advised to speak directly with a local medical practitioner and consider alternative transport options to hospital where safe to do so. You should contact your insurance/medical assistance company promptly if you\u2019re referred to a medical facility for treatment. Ambulance services may request payment or evidence of insurance before providing assistance.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>Afghanistan is in an active earthquake zone. You should familiarise yourself with <a rel=\"external\" href=\"http://www.ready.gov/earthquakes\">safety procedures</a> in the event of an earthquake. Read more information about your risks in the event of an earthquake, especially around buildings, from the <a rel=\"external\" href=\"http://www.intrescue.info/hub/index.php/advice/\">International Rescue Corps</a>. Consider signing up to the <a rel=\"external\" href=\"http://earthquake.usgs.gov/\">US Geological Survey</a> (USGS) 24/7 global monitoring agency.  USGS provide a newsfeed or <a rel=\"external\" href=\"https://twitter.com/USGSted\">@USGSted twitter feed</a> that distributes alerts for earthquakes with magnitudes over 5.5 or of significant impact.</p>\n\n<p>During heavy rains and winter periods, significant flooding can occur, particularly outside the capital.  During winter and spring, heavy snowfall often leads to avalanches in mountainous regions.  Afghanistan lacks the infrastructure to respond comprehensively to these events so you should be prepared for every eventuality.</p>\n\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "<p>On 2 November 2021, there was an announcement banning the use of foreign currency in Afghanistan. This stated that payments need to be settled in the Afghan currency (the Afghani \u2013 AFN).</p>\n\n<p>There are frequent shortages of local currency. Credit cards are not widely accepted for payment. You should check with the supplier before goods and services are received.</p>\n\n<p>Some ATMs and many banks continue to function, with restrictions on the levels of cash withdrawals. Customers should check with local branches. Some ATMs will accept foreign issued bank cards.</p>\n\n<p>Some international money transfer services continue to operate in Afghanistan. However, payouts will be made in local currency, even where the payee has requested this in foreign exchange.</p>\n\n<p>Banks are closed on Fridays and queues at other times may be lengthy, with infrequent opening hours.</p>\n\n<p>For information on financial support you can access while abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>You should not travel to Afghanistan. There  are currently no British consular officials in Afghanistan and our ability to provide consular assistance is severely limited and cannot be delivered in person within Afghanistan.</p>\n</div>\n\n<p>If you are a British national in Afghanistan and need to speak to a consular officer, you can:</p>\n\n<ul>\n  <li>\n    <p>call the\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0on 020 7008 5000 (available 24 hours a day)</p>\n  </li>\n  <li>\n    <p><a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Afghanistan&amp;post=Afghanistan%20travel%20advice%20team\">submit an enquiry</a></p>\n  </li>\n  <li>\n    <p>contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>.</p>\n  </li>\n</ul>\n\n<p>British nationals may access consular services at our diplomatic missions in neighbouring countries.</p>\n\n<h2 id=\"foreign-travel-checklist\">Foreign travel checklist</h2>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h2 id=\"travel-safety\">Travel safety</h2>\n\n<h3 id=\"we-advise-against-all-travel-to-afghanistan\">We advise against all travel to Afghanistan.</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we cannot provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p><a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h4 id=\"refunds-and-cancellations\">Refunds and cancellations</h4>\n\n<p>If you wish to cancel or change travel arrangements that you\u2019ve booked, you should contact your travel company.  The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or cannot offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel travel arrangements, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h4 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h4>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you cannot find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Afghanistan&amp;post=Afghanistan%20travel%20advice%20team\">send the Travel Advice Team a request</a>.</p>\n\n<h4 id=\"further-help\">Further help</h4>\n\n<p>If you\u2019re a British national and need assistance, <a href=\"https://www.gov.uk/foreign-travel-advice/afghanistan/travel-advice-help-and-support\">see how to contact us</a>.</p>\n\n<p>If you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can\u00a0<a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Afghanistan&amp;post=Afghanistan%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-10-20T17:25:38Z",
+            "updated_at": "2023-10-26T10:47:20Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-18T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/afghanistan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/afghanistan",
+                    "base_path": "/foreign-travel-advice/afghanistan",
+                    "content_id": "5a292f20-a9b6-46ea-b35f-584f8b3d7392",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-20T17:25:38Z",
+                    "schema_name": "travel_advice",
+                    "title": "Afghanistan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/afghanistan",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/afghanistan",
+                    "api_url": "https://www.gov.uk/api/content/world/afghanistan",
+                    "base_path": "/world/afghanistan",
+                    "content_id": "2b074f34-537c-4d6a-919a-3c64f4b793b8",
+                    "description": "Services if you're visiting, studying, working or living in Afghanistan. Includes information about trading with and doing business in the UK and Afghanistan.",
+                    "details": {
+                        "internal_name": "UK help and services in Afghanistan",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:07Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Afghanistan",
+                    "web_url": "https://www.gov.uk/world/afghanistan",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/iraq",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/iraq",
+                    "base_path": "/foreign-travel-advice/iraq",
+                    "content_id": "bba7f111-b07f-461d-9bab-8a7366aabd40",
+                    "details": {
+                        "change_description": "Information on drone and rocket attacks and the security situation across Iraq (\u2018Summary\u2019, \u2018Safety and security\u2019 and \u2018Terrorism\u2019 pages). ",
+                        "country": {
+                            "name": "Iraq",
+                            "slug": "iraq",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T18:55:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Iraq travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/iraq",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/syria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/syria",
+                    "base_path": "/foreign-travel-advice/syria",
+                    "content_id": "85c16f75-3380-497e-a915-4d77256cde37",
+                    "details": {
+                        "change_description": "Information on a 7.8 major earthquake that hit the Gazientep region of Southeast Turkey on 6 February 2023 which has also severely impacted cities in Northern Syria including Idlib and Aleppo ('Summary' page).",
+                        "country": {
+                            "name": "Syria",
+                            "slug": "syria",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-02-06T15:30:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Syria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/syria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/pakistan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/pakistan",
+                    "base_path": "/foreign-travel-advice/pakistan",
+                    "content_id": "ea339677-8843-4a8a-b5ad-dff327d70ce3",
+                    "details": {
+                        "change_description": "FCDO now also advises against all travel to within 10 miles of the border with Afghanistan (\u2018Summary\u2019 page).",
+                        "country": {
+                            "name": "Pakistan",
+                            "slug": "pakistan",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-31T16:20:58Z",
+                    "schema_name": "travel_advice",
+                    "title": "Pakistan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/pakistan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/algeria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/algeria",
+                    "base_path": "/foreign-travel-advice/algeria",
+                    "content_id": "b5c8e64b-3461-4447-9144-1588e4a84fe6",
+                    "details": {
+                        "change_description": "\"Updated information on wildfires across some parts of northern Algeria, including in populated areas (Summary page)\"",
+                        "country": {
+                            "name": "Algeria",
+                            "slug": "algeria",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-25T17:50:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "Algeria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/algeria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/iran",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/iran",
+                    "base_path": "/foreign-travel-advice/iran",
+                    "content_id": "05bc5265-c585-4b5c-b813-c8f245ddfc7f",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Iran",
+                            "slug": "iran",
+                            "synonyms": [
+                                "Teheran",
+                                "Teran",
+                                "Terhan"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-06T15:54:03Z",
+                    "schema_name": "travel_advice",
+                    "title": "Iran travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/iran",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-afghanistan",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-afghanistan",
+                    "base_path": "/world/living-in-afghanistan",
+                    "content_id": "9545e449-c2cc-4f1c-b668-4b9b0762e054",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Afghanistan",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/afghanistan",
+                                "api_url": "https://www.gov.uk/api/content/world/afghanistan",
+                                "base_path": "/world/afghanistan",
+                                "content_id": "2b074f34-537c-4d6a-919a-3c64f4b793b8",
+                                "description": "Services if you're visiting, studying, working or living in Afghanistan. Includes information about trading with and doing business in the UK and Afghanistan.",
+                                "details": {
+                                    "internal_name": "UK help and services in Afghanistan",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:07Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Afghanistan",
+                                "web_url": "https://www.gov.uk/world/afghanistan",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-23T13:09:45Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Afghanistan",
+                    "web_url": "https://www.gov.uk/world/living-in-afghanistan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-afghanistan",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-afghanistan",
+                    "base_path": "/world/travelling-to-afghanistan",
+                    "content_id": "b859689f-e569-4a1c-8b36-866f43c31aed",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Afghanistan",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/afghanistan",
+                                "api_url": "https://www.gov.uk/api/content/world/afghanistan",
+                                "base_path": "/world/afghanistan",
+                                "content_id": "2b074f34-537c-4d6a-919a-3c64f4b793b8",
+                                "description": "Services if you're visiting, studying, working or living in Afghanistan. Includes information about trading with and doing business in the UK and Afghanistan.",
+                                "details": {
+                                    "internal_name": "UK help and services in Afghanistan",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:07Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Afghanistan",
+                                "web_url": "https://www.gov.uk/world/afghanistan",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:13:32Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Afghanistan",
+                    "web_url": "https://www.gov.uk/world/travelling-to-afghanistan",
+                    "withdrawn": false
+                }
+            ],
+            "topical_events": [
+                {
+                    "api_path": "/api/content/government/topical-events/afghanistan-uk-government-response",
+                    "api_url": "https://www.gov.uk/api/content/government/topical-events/afghanistan-uk-government-response",
+                    "base_path": "/government/topical-events/afghanistan-uk-government-response",
+                    "content_id": "39084ee0-b77e-456b-93cb-f95a56f74b50",
+                    "document_type": "topical_event",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-08-26T12:59:31Z",
+                    "schema_name": "topical_event",
+                    "title": "Afghanistan: support for people affected",
+                    "web_url": "https://www.gov.uk/government/topical-events/afghanistan-uk-government-response",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-20T17:25:38Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698317240.221-10.13.21.84-38330",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Afghanistan travel advice",
+        "updated_at": "2023-11-15T10:52:17Z",
+        "withdrawn_notice": {}
+    }
+}

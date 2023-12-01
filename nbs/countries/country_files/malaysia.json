@@ -1,0 +1,1078 @@
+{
+    "Country Slug": "malaysia",
+    "Country Name": "Malaysia",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/malaysia",
+        "content_id": "126d47f7-5fd2-41ff-af17-b23564355e03",
+        "description": "Latest FCDO travel advice for Malaysia including on entry requirements, safety and security and local laws and customs.\r\n",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about political situation and demonstrations ('Safety and security' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-30T06:50:58.126Z"
+                },
+                {
+                    "note": "Latest update: Summary - A large public gathering is scheduled to take place in the Dataran Merdaka area of Kuala Lumpur on Saturday 8 December; checkpoints and other security measures may be in place; there is a separate public gathering in the Padang Timur area of Petaling Jaya (a Kuala Lumpur suburb) at the same time; you should exercise caution, monitor local information, and follow the advice of the local authorities",
+                    "public_timestamp": "2018-12-06T09:48:12.305Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about public gatherings on 8 December; addition of information about availability of consular support",
+                    "public_timestamp": "2018-12-14T16:11:08.817Z"
+                },
+                {
+                    "note": "Latest update: this advice has been reviewed in full with amendments in several sections; Safety and security section (Road travel) - updated information on driving licence requirements; Entry requirements section (Visas) - addition of advice on getting an entry stamp if travelling between Peninsular Malaysia and East Malaysia; Local laws and customs section - update to information on urine tests if suspected of using drugs",
+                    "public_timestamp": "2019-02-21T14:45:39.809Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on air pollution caused by ongoing forest fires; you should monitor the Air Pollutant Index Management System (APIMS) updates and health advisories issued by the Malaysian Department of Environment",
+                    "public_timestamp": "2019-09-19T12:26:25.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on forest fires in Indonesia",
+                    "public_timestamp": "2019-10-10T10:48:05.000Z"
+                },
+                {
+                    "note": "Summary and Health section - updated information and advice following an outbreak of coronavirus in China and elsewhere in the region, including Malaysia.",
+                    "public_timestamp": "2020-01-25T06:29:29.000Z"
+                },
+                {
+                    "note": "Health section and summary - updated information on coronavirus outbreak and suspension of some flights",
+                    "public_timestamp": "2020-02-05T18:38:26.000Z"
+                },
+                {
+                    "note": "Health section (Coronavirus) - addition of link to advice from the Department of Health and Social Care if returning to the UK from Malaysia",
+                    "public_timestamp": "2020-02-06T18:14:38.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to all of Malaysia, due to the ongoing coronavirus (COVID-19) pandemic and in line with restrictions imposed by the Malaysian that will come into effect on 18 March 2020. ",
+                    "public_timestamp": "2020-03-16T22:58:21.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to all of Malaysia, due to the ongoing coronavirus (COVID-19) pandemic and in line with restrictions imposed by the Malaysian government that will come into effect on 18 March 2020",
+                    "public_timestamp": "2020-03-16T23:20:11.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to all of Malaysia. If you are due to arrive in Malaysia between 18 March and 01 April, there is a risk of not being allowed into Malaysia. (\u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-17T18:52:57.000Z"
+                },
+                {
+                    "note": "Update to information on precautionary measures introduced for coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-18T18:05:00.000Z"
+                },
+                {
+                    "note": "Update to information on precautionary measures introduced for coronavirus (COVID-19) ('Summary' pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-19T14:03:03.000Z"
+                },
+                {
+                    "note": "Update to information on precautionary measures introduced for coronavirus (COVID-19) ('Summary' page)",
+                    "public_timestamp": "2020-03-21T16:50:58.000Z"
+                },
+                {
+                    "note": "Additional information on precautionary measures introduced for coronavirus (COVID-19) pandemic ('Summary' pages)",
+                    "public_timestamp": "2020-03-23T14:04:26.000Z"
+                },
+                {
+                    "note": "Updated information on travel restrictions introduced in relation to coronavirus (COVID-19) ('Coronavirus' and 'Summary' page)",
+                    "public_timestamp": "2020-03-25T13:07:18.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of the Movement Control Order that restricts the entry of foreign nationals until 14 April 2020 ('Coronavirus' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-25T18:01:21.000Z"
+                },
+                {
+                    "note": "Update to flights information ('Return to the UK')",
+                    "public_timestamp": "2020-03-31T12:39:35.000Z"
+                },
+                {
+                    "note": "From 3 April 2020, anyone (including British Nationals) entering the country under the new Movement Control Order immigration rules will be obliged to enter quarantine for 14 days in centres designated by the Government. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-04T05:24:48.000Z"
+                },
+                {
+                    "note": "Updated information on travel restrictions and visas in relation to coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-07T13:56:30.000Z"
+                },
+                {
+                    "note": "Updated information and advice on returning to the UK from Malaysia ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-09T16:37:51.000Z"
+                },
+                {
+                    "note": "Update to the date of the Movement Control Order that restricts the entry of foreign nationals until 28 April 2020 ('Summary', 'Coronavirus')",
+                    "public_timestamp": "2020-04-10T11:31:51.000Z"
+                },
+                {
+                    "note": "Update to information on flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-17T12:20:16.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on local measures and local medical care on the ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-21T10:25:13.000Z"
+                },
+                {
+                    "note": "Updated information to 'Flights' and 'Travelling to the airport' sections on Return to UK page.",
+                    "public_timestamp": "2020-04-22T10:57:38.000Z"
+                },
+                {
+                    "note": "Updated information on Coronavirus page.",
+                    "public_timestamp": "2020-04-24T09:21:31.000Z"
+                },
+                {
+                    "note": "Update to information and advice on extension of Movement Control Order and quarantine charges ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-24T09:26:58.000Z"
+                },
+                {
+                    "note": "Update to information and advice on Movement Control Order measures and returning to the UK ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-27T11:47:50.000Z"
+                },
+                {
+                    "note": "Update of information about flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-30T12:56:19.000Z"
+                },
+                {
+                    "note": "Update of information on extension of Movement Control Order until 12 May ('Summary' page)",
+                    "public_timestamp": "2020-05-05T16:19:19.000Z"
+                },
+                {
+                    "note": "Update of information on extension of Movement Control Order until 9 June.  ('Summary' and 'Entry requirements')",
+                    "public_timestamp": "2020-05-18T14:43:13.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:16:13.000Z"
+                },
+                {
+                    "note": "KLIA express train from Sentral station to international airport operating a limited service.  Change on need for written movement permit when travelling interstate by road or by air ('Return to the UK' page)   ",
+                    "public_timestamp": "2020-05-22T17:46:35.000Z"
+                },
+                {
+                    "note": "Updated information on moving around in Malaysia and visas ('Staying during coronavirus' and 'Entry requirement' pages)",
+                    "public_timestamp": "2020-06-01T11:52:53.000Z"
+                },
+                {
+                    "note": "Update to information on moving around in Malaysia ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-02T11:28:08.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:36:41.000Z"
+                },
+                {
+                    "note": "The Government of Malaysia has extended the Movement Control Order that restricts the entry of foreign nationals until 31 August 2020 (Summary; Entry requirements)",
+                    "public_timestamp": "2020-06-11T16:42:25.000Z"
+                },
+                {
+                    "note": "Updated information on travel within Malaysia and quarantine requirements in relation to coronavirus. ('Return to the UK', 'Staying during coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-06-15T16:11:31.000Z"
+                },
+                {
+                    "note": "Update to information and advice on flights ('Return to the UK' page) and visas ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-24T12:02:54.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) tests on arrival ('Entry requirements' page)",
+                    "public_timestamp": "2020-07-01T15:07:21.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-02T16:29:56.000Z"
+                },
+                {
+                    "note": "Editorial amendments to 'Summary', 'Coronavirus' and 'Entry requirements' sections.",
+                    "public_timestamp": "2020-07-03T11:05:18.000Z"
+                },
+                {
+                    "note": "From 4 July, Malaysia is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:40:30.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements when entering Malaysia ('Summary' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-07-23T10:43:59.000Z"
+                },
+                {
+                    "note": "Wearing a face mask in public spaces is compulsory.  Failure to do so may result in a fine of up to RM1,000. ('Coronavirus' section)",
+                    "public_timestamp": "2020-07-29T16:10:55.000Z"
+                },
+                {
+                    "note": "Malaysia is to be added to the list of exemptions from self-isolation requirements on entry to the UK; check specific guidance for England, Northern Ireland, Scotland and Wales.",
+                    "public_timestamp": "2020-08-07T11:05:28.000Z"
+                },
+                {
+                    "note": "Updated information on the use of face masks in crowded public spaces ('Coronavirus' page); and the addition of information on fines for overstaying your visa from 14 September ('Coronavirus' page) and the need to complete an application on the MYEntry online platform from 17 August to enter Malaysia ('Entry Requirements' page).",
+                    "public_timestamp": "2020-08-12T11:50:32.000Z"
+                },
+                {
+                    "note": "Updated information and advice about the threat from terrorism reflecting a reduced threat.  ('Summary' and 'Terrorism' section) ",
+                    "public_timestamp": "2020-08-13T12:48:43.000Z"
+                },
+                {
+                    "note": "Update to information on the Recovery Movement Control Order and visa overstays ('Coronavirus' page).",
+                    "public_timestamp": "2020-09-01T15:05:03.000Z"
+                },
+                {
+                    "note": "Addition of information on restricted entry requirements for British nationals entering Malaysia ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-09T16:13:31.000Z"
+                },
+                {
+                    "note": "Updated information for British nationals that want to transit to Malaysia and curfew restrictions for all businesses are in place.\r\n('Summary', 'Coronavirus' and 'Entry restrictions' pages)",
+                    "public_timestamp": "2020-09-22T16:02:39.000Z"
+                },
+                {
+                    "note": "Updated information on the Malaysian Government announcing localised restrictions in areas with increasing cases of COVID-19; travel between the state of Sabah and the rest of Malaysia has been restricted to essential travel only between 12 \u2013 25 October and wearing face masks in public places is no longer compulsory ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-08T11:40:13.000Z"
+                },
+                {
+                    "note": "Updated information on wearing face masks in public places; you must wear them ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-09T08:06:13.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions in Kuala Lumpur, Putrajaya, and the state of Selangor ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-13T12:19:47.000Z"
+                },
+                {
+                    "note": "Updated information on the Malaysian Government announcing localised restrictions in areas with increasing cases of COVID-19 ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-14T10:41:21.000Z"
+                },
+                {
+                    "note": "Updated information on travel between the state of Sabah and the rest of Malaysia ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-26T10:09:07.000Z"
+                },
+                {
+                    "note": "Additional information on COVID-19 procedures in Malaysia; anyone that is found breaking procedures may be detained or fined. New information on where to go for medication and information on prescriptions in Malaysia ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-04T10:35:14.000Z"
+                },
+                {
+                    "note": "Addition of information on the announcement that inter-state travel is now permitted in Malaysia ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-08T13:19:14.000Z"
+                },
+                {
+                    "note": "Addition of information on the announcement that quarantine has been reduced to 10 days in Malaysia ('Entry requirements' page)",
+                    "public_timestamp": "2020-12-15T10:53:11.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of coronavirus control measures to 31 March 2021, and extension of the special regime for overstays. ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-05T10:25:36.000Z"
+                },
+                {
+                    "note": "Addition of information on where to find clinics to administer Covid tests, following the announcement all travellers to the UK will need to be tested before travel, and on the increased restrictions announced by the Malaysian Government on 11 January. Also updated with new announcement on state of emergency. ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-12T15:19:10.000Z"
+                },
+                {
+                    "note": "Additional information on where to find clinics to administer COVID tests, following the announcement that all travellers to the UK will need to be tested before travel. The Malaysian Government on 11 January has announced increased restrictions and updated the information on the state of emergency ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-12T15:22:29.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from Malaysia on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T01:23:10.000Z"
+                },
+                {
+                    "note": "Information added on the operation of the Movement Control Order. (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-10T12:20:28.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Malaysia (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-24T13:10:42.000Z"
+                },
+                {
+                    "note": "New information on movement restrictions in Malaysia (\u2018Coronavirus\u2019 page)\r\n",
+                    "public_timestamp": "2021-03-04T10:17:39.000Z"
+                },
+                {
+                    "note": "New information on how to get COVID-19 vaccines if you live in Malaysia ('Coronavirus' page) ",
+                    "public_timestamp": "2021-04-01T15:13:42.000Z"
+                },
+                {
+                    "note": "Update to information on the threat of terrorism, reflecting an increased threat ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-04-02T01:03:57.000Z"
+                },
+                {
+                    "note": "Update following Malaysian Government announcement on visa overstays;  those who have overstayed on a social visit pass that has expired since 1 January 2020 must now leave the country by 21 April 2021 (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-04-13T12:40:29.000Z"
+                },
+                {
+                    "note": "Update following further Malaysian Government announcement on visa overstays; information for those who have overstayed on a social visit pass that has expired since 1 January 2020 and did not leave the country by 21 April 2021 (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-04-22T10:49:44.000Z"
+                },
+                {
+                    "note": "Addition of information on the Malaysian Government announcement that from 29 April the quarantine requirement for arrivals from the UK will be extended to 14 days (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-04-30T15:04:40.000Z"
+                },
+                {
+                    "note": "Updated information on new movement restrictions in Kuala Lumpur and Selangor (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-05-06T13:29:50.000Z"
+                },
+                {
+                    "note": "New information on Malaysia's nationwide movement restrictions (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-05-11T10:59:02.000Z"
+                },
+                {
+                    "note": "Updated information on the Movement Control Order in place across Malaysia, with strict controls on inter-state and inter-district movement (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-06-01T08:59:20.000Z"
+                },
+                {
+                    "note": "Updated information on the Movement Control Order in place across Malaysia, with strict controls on inter-state and inter-district movement, and even stricter controls in certain areas of capital Kuala Lumpur and Selangor state.  Update on visa overstays (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-02T10:15:47.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Malaysia ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-08-06T08:29:45.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all but essential travel the whole of Malaysia, based on the current assessment of COVID-19 risks (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-06T10:55:56.000Z"
+                },
+                {
+                    "note": "Additional information on COVID-19 controls, creation of an airport desk for dealing with overstays, and rules on carrying your passport (\u2018Coronavirus\u2019 page); transit rules via Malaysia and quarantine requirements (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2021-08-16T16:05:00.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Malaysia, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-06T16:55:03.000Z"
+                },
+                {
+                    "note": "Update on COVID-19 prevention measures in Malaysia and entry requirements (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-11-29T17:08:49.000Z"
+                },
+                {
+                    "note": "Update entry requirements in response to the COVID-19 Omicron variant (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-01T12:34:29.000Z"
+                },
+                {
+                    "note": "Updated information on the Langkawi tourism bubble, travel requirements in response to Omicron and vaccine certification (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-07T13:12:23.000Z"
+                },
+                {
+                    "note": "Updated information on travel requirements in response to Omicron (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-17T09:33:28.000Z"
+                },
+                {
+                    "note": "Information on flash flooding in Peninsular Malaysia (\u2018Summary\u2019 and \u2018Natural disasters\u2019 pages)",
+                    "public_timestamp": "2021-12-20T10:31:11.000Z"
+                },
+                {
+                    "note": "Updated information on travel in Malaysia (\u2018Coronavirus\u2019 page) and editorial changes",
+                    "public_timestamp": "2021-12-23T12:23:04.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Malaysia (\u2018Entry requirements\u2019 page), removal of information on December 2021 floods (\u2018Summary\u2019 and \u2018Natural Disasters\u2019 pages) and editorial changes",
+                    "public_timestamp": "2022-01-19T12:09:27.000Z"
+                },
+                {
+                    "note": "Update to information in the 'Entry requirements' section.",
+                    "public_timestamp": "2022-01-25T16:36:15.000Z"
+                },
+                {
+                    "note": "Update on entry requirements and domestic COVID-19 restrictions (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-03-31T13:00:09.000Z"
+                },
+                {
+                    "note": "Update on entry requirements and domestic COVID-19 restrictions (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-04-29T13:48:58.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for Malaysia (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-07-05T09:56:23.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements and domestic COVID-19 restrictions  (\u2018Entry requirements\u2019 and \u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2022-08-02T18:04:59.000Z"
+                },
+                {
+                    "note": "Updated information on being required to go through immigration when transiting between the two Kuala Lumpur terminals ('Entry requirements' page).",
+                    "public_timestamp": "2022-09-21T11:05:57.000Z"
+                },
+                {
+                    "note": "Updated information on customs and exchange control rules ('Entry requirements' page).",
+                    "public_timestamp": "2022-10-19T14:29:05.000Z"
+                },
+                {
+                    "note": "Updated information on safety and security ('Safety and security' page).",
+                    "public_timestamp": "2022-10-20T13:56:25.000Z"
+                },
+                {
+                    "note": "Updated information on Visas and ETDs and addition of information for travellers with limited mobility ('Entry requirements' and 'Local laws and Customs' pages).",
+                    "public_timestamp": "2022-11-23T11:19:28.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements ('Entry requirements' page).",
+                    "public_timestamp": "2022-12-30T11:15:41.000Z"
+                },
+                {
+                    "note": "Additional information on Covid-19 screening upon arrival and what to do if you test positive ('Entry requirements' page).",
+                    "public_timestamp": "2023-01-03T10:21:30.000Z"
+                },
+                {
+                    "note": "Information on travelling to Sabah ('Entry requirements' page).",
+                    "public_timestamp": "2023-01-06T16:35:21.000Z"
+                },
+                {
+                    "note": "Updated information on customs and exchange control rules ('Entry requirements' page).",
+                    "public_timestamp": "2023-01-10T09:14:02.000Z"
+                },
+                {
+                    "note": "Updated information for getting in touch with Malaysian state health authorities about COVID-19, previous security incidents, and UK Emergency Travel Documents ('Coronavirus', Terrorism\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2023-04-14T11:49:45.000Z"
+                },
+                {
+                    "note": "Updated information on drug screening on arrival when arriving from a country where possession and use of drugs is legal ('Entry requirements' page). Advice on pollution levels in major urban areas aggravating respiratory conditions and information on altitude sickness in Malaysian Borneo  ('Health' page).",
+                    "public_timestamp": "2023-05-12T14:27:01.000Z"
+                },
+                {
+                    "note": "Information on risks associated with terrorism in Malaysia ('Summary' and 'Terrorism' pages).",
+                    "public_timestamp": "2023-06-19T13:56:48.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T08:34:53.000Z"
+                },
+                {
+                    "note": "Information that there are no COVID-19 vaccination requirements for travellers entering Malaysia (\u2018Entry requirements\u2019 page). ",
+                    "public_timestamp": "2023-10-09T08:25:20.000Z"
+                },
+                {
+                    "note": "Information about political situation and demonstrations ('Safety and security' page).",
+                    "public_timestamp": "2023-11-03T14:04:49.000Z"
+                }
+            ],
+            "country": {
+                "name": "Malaysia",
+                "slug": "malaysia",
+                "synonyms": [
+                    "Borneo"
+                ]
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "64ac86c8-243b-494f-90c6-cb9bbac0f0c7",
+                "url": "https://assets.publishing.service.gov.uk/media/622087c78fa8f549069a663c/FCDO__TA__025_-_Malaysia_Travel_Advice_Ed2.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/malaysia/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/622087a6e90e0710a7b40178/FCDO__TA__025_-_Malaysia_Travel_Advice_Ed2__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth--development-office-advises-against-all-but-essential-travel-to\">The Foreign Commonwealth &amp; Development Office advises against all but essential travel to:</h3>\n<ul>\n  <li>All islands and dive sites off the coast of eastern Sabah from Kudat to Tawau, due to the threat of kidnapping</li>\n</ul>\n\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/malaysia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Malaysia\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Terrorist attacks in Malaysia can\u2019t be ruled out.</p>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. Bars and restaurants, hotels, markets, shopping malls hosting major international brand outlets, tourist attractions, places of worship and airports are all potential targets. You should be especially vigilant and maintain a high level of security awareness in crowded places and at large gatherings.</p>\n\n<p>There is a threat to foreigners of kidnapping in coastal areas of eastern Sabah from terrorist and criminal groups. The threat is particularly high between the towns of Sandakan and Tawau and on islands close to the Sulu Archipelago in the southern Philippines. See <a href=\"https://www.gov.uk/foreign-travel-advice/malaysia/terrorism\">Terrorism</a> and <a href=\"https://www.gov.uk/foreign-travel-advice/malaysia/safety-and-security\">Local travel \u2013 Sabah</a>.</p>\n\n<p>Commercial shipping companies have been advised to adopt heightened vigilance when navigating the Sulu and Celebes Seas. Most maritime incidents occur in the Sulu Sea in the area between Sabah (Malaysia) and Mindanao, the Sulu Islands and Palawan (Philippines). The Regional Co-operation Agreement on Combatting Piracy and Armed Robbery against Ships in Asia <a rel=\"external\" href=\"http://www.recaap.org/\">(ReCAAP)</a> advise all ships to re-route from the area where possible.</p>\n\n<p>Malaysia is a multicultural, majority Muslim country. See <a href=\"/foreign-travel-advice/malaysia/local-laws-and-customs\">Local laws and customs</a></p>\n\n<p>There is a risk of petty crime, especially bag snatching, throughout Malaysia. You should take sensible precautions. See <a href=\"/foreign-travel-advice/malaysia/safety-and-security#crime\">Crime</a></p>\n\n<p>You can contact the emergency services by calling 999 (police and ambulance) or 994 (fire).</p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. Consular support is limited in parts of Malaysia where the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has existing advice against all travel and all but essential travel (as set out above).</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n<p>Check the latest information on risk from COVID-19 for Malaysia on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/137/malaysia#COVID-19\">TravelHealthPro website</a></p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<p>See the latest <a rel=\"external\" href=\"http://covid-19.moh.gov.my/fasiliti-kesihatan/hospital-swasta-dan-klinik-swasta-berdaftar-untuk-covid19\">list of facilities providing tests in Malaysia</a>.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n<p>See <a href=\"/foreign-travel-advice/malaysia/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Malaysia.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-malaysia\">Travel in Malaysia</h2>\n\n<p>Check local government websites, social media channels, and media reporting for up to date information on any travel restrictions.</p>\n\n<p>For further clarification, you may <a rel=\"external\" href=\"https://www.rmp.gov.my/direktori/direktori-pdrm/bukit-aman\">refer to the Royal Malaysia Police directory</a> and contact the police department near you.</p>\n\n<p>You can get to and from the airport by taxi, or using the KLIA express train to/from Kuala Lumpur Sentral station. A bus service does operate from Kuala Lumpur Sentral, but infrequently.</p>\n\n<p>You must wear a face mask on public transport and in taxis.</p>\n\n<h2 id=\"public-spaces-and-services\">Public spaces and services</h2>\n\n<p>Mask wearing is a voluntary practice. However, the Ministry of Health continues to recommend that you must wear a mask in a crowded or badly ventilated area such as public transportation, medical facilities and elderly care homes. You may also be asked to still wear a face mask in some indoor areas.</p>\n\n<p>You must carry your passport at all times. As of 1 July 2022, you are required to submit your current passport to HMPO when making a renewal passport application. Ensure you obtain a photocopy of the data page and any relevant visas before submitting your current passport.</p>\n\n<p>You should follow local news for updates.</p>\n\n<p>If you are found to be in breach of any of the operating procedures in place you may be detained and fined. This has happened to foreign nationals.</p>\n\n<h2 id=\"healthcare-in-malaysia\">Healthcare in Malaysia</h2>\n\n<p>If you test positive for COVID-19 while in Malaysia, you should follow local procedures, available <a rel=\"external\" href=\"https://mysafetravel.gov.my/\">here</a>.</p>\n\n<p>If you have a question about COVID-19 in Malaysia, you can get in touch with the relevant Malaysian state health authorities using the contact details available <a rel=\"external\" href=\"https://covid-19.moh.gov.my/hotline\">here</a>.</p>\n\n<p>For contact details for English speaking doctors <a href=\"https://www.gov.uk/government/publications/malaysia-list-of-medical-facilities\">visit our list of healthcare providers</a>.</p>\n\n<p>If you need medication whilst in country visit a local pharmacy who will be able to give you advice. Pharmacies can be found in shopping centres in Malaysia. If a prescription is required they will give you information about local clinics.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a></p>\n\n<p>View <a href=\"/foreign-travel-advice/malaysia/health\">Health</a> for further details on healthcare in Malaysia</p>\n\n<p>See also the guidance on <a href=\"/guidance/healthcare-support-for-when-you-are-unable-to-return-to-the-uk-during-coronavirus-covid-19\">healthcare if you\u2019re waiting to return to the UK</a>.</p>\n\n<h2 id=\"finance\">Finance</h2>\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<p>If you need urgent consular assistance, contact your <a href=\"/world/embassies\">nearest British embassy, high commission or consulate</a>. All telephone numbers are available 24/7.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h2 id=\"political-situation\">Political Situation</h2>\n\n<p>Police have sometimes used tear gas and water cannons to control public protests. Monitor local and international media and avoid all demonstrations. Under Malaysian law it\u2019s illegal for foreign nationals to take part in demonstrations.</p>\n\n<h2 id=\"local-travel---sabah\">Local travel - Sabah</h2>\n\n<p>There is a threat to foreigners of kidnapping in coastal areas of eastern Sabah from terrorist and criminal groups. The threat is particularly high between the towns of Sandakan and Tawau and on islands close to the Sulu Archipelago in the southern Philippines. Foreigners have been kidnapped from the islands of Sipadan and Mataking. See <a href=\"https://www.gov.uk/foreign-travel-advice/malaysia/terrorism\">Kidnap</a>.</p>\n\n<p>The Malaysian authorities have designated the entire eastern portion of Sabah, extending from the northern town of Kudat to Tawau district near the Indonesian border, as the Eastern Sabah Security Zone. They have established the Eastern Sabah Security Command (ESSCOM) to co-ordinate security forces\u2019 activity in the area. The Malaysian security forces have strengthened their presence in the area and introduced measures to reduce the risk of unauthorised boat landings.</p>\n\n<p>The local authorities have imposed curfews on travel by water in coastal areas of eastern Sabah. For the most up-to-date information, visit the <a rel=\"external\" href=\"https://www.sabahtourism.com/?locale=en\">Sabah Tourism website</a>, check local media or ask local police.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Take sensible precautions to protect yourself from petty crime. Avoid carrying valuables and take particular care of your passport whilst walking, in aircraft, cafes, airport and railway terminals, and hotel rooms. Do not open your hotel room door to strangers, especially late at night. This applies particularly to women travelling alone. Credit card and ATM fraud is widespread. Take great care when using your card.</p>\n\n<p>Incidents of bag snatching are common, particularly in major cities and including by thieves on motorbikes. Bags with shoulder straps should either be carried with the bag towards the pavement rather than the road, or tucked under the arm. Do not wrap the strap around your arm or shoulder and do not try to hold on to your bag. People have been injured or killed by being pulled to the ground by their bag straps.</p>\n\n<p>Taxi coupon systems are in place at airports. In other areas, taxis should use a meter.</p>\n\n<p>There have been cases of assaults and robbery, particularly around bars and nightlife areas. You should remain vigilant and take sensible precautions.</p>\n\n<p>Be careful if you\u2019re offered a drink by a stranger, even in a reputable bar or restaurant. These approaches can involve spiked drinks, and have resulted in cases of robbery and assault.</p>\n\n<p>If you\u2019re a victim of crime, inform the local police and get a police report.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>You can drive in Malaysia with an <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">International Driving Permit (IDP)</a> for up to one year from your date of entry into Malaysia. From 1 February 2019, you can only get IDPs over the counter from 2,500 UK Post Offices. You will not be able to buy an IDP outside the UK, so get one before you travel.</p>\n\n<p>After a year, you will need to get a Malaysian driving licence. Further information is available from the <a rel=\"external\" href=\"http://www.jpj.gov.my/en/web/main-site/utama\">Malaysian Road Transport Department</a>.</p>\n\n<p>British nationals already in possession of a Malaysian driving licence can continue to renew their Malaysian driving licence as before.</p>\n\n<p>Road conditions in Peninsular Malaysia are generally good, but less so in East Malaysia. Vehicles (particularly motorcycles) do not always stop at traffic lights or pedestrian crossings. If you are involved in a road accident you\u2019re obliged by law to stay at the scene until the police have arrived. If a crowd gathers, it may be safer to leave the scene and report to the nearest police station.</p>\n\n<p>There have been a number of fatal bus crashes, particularly on overnight journeys.  Choose a reputable operator for your journey.</p>\n\n<p>If you rent a motorbike you should take the same safety precautions as in the UK. Malaysian law states that helmets must be worn.</p>\n\n<p>Driving under the influence of alcohol is a serious offence and the traffic police regularly carry out breath tests.  Anyone over the legal limit can face a heavy fine and/or a jail sentence and deportation.</p>\n\n<h2 id=\"sea-and-river-travel\">Sea and river travel</h2>\n\n<p>Piracy in South East Asian waters is an ongoing problem. There have been a number of attacks against ships in and around Malaysian waters, particularly in the Strait of Malacca and the waters between Sabah and the southern Philippines.  Be vigilant and take appropriate precautions. Reduce opportunities for theft, establish secure areas on board and report all incidents to the coastal and flag state authorities.</p>\n\n<p>Some passenger boats have sunk due to overloading and/or poor maintenance. Take care at all times when travelling by passenger ferry or speedboat and avoid travelling on vessels that are clearly overloaded or in poor condition. Make sure life jackets are available.</p>\n\n<h2 id=\"water-sports-and-scuba-diving\">Water sports and scuba diving</h2>\n\n<p>If you rent jet skis or any other type of water sports equipment, make sure adequate safety precautions are in place. Only use reputable licensed operators, insist on training before use and make sure you\u2019re insured.</p>\n\n<p>Check dive operators\u2019 credentials carefully and make sure you\u2019re insured. Check that safety equipment is available on the boat, including oxygen. Ask about contingency plans, which should include the ability to call for help while at sea and to evacuate divers to the nearest hyperbaric chamber if necessary.</p>\n\n<p>You should take great care if you\u2019re diving the sites of HMS Repulse and HMS Prince of Wales, which lie in international waters off Kuantan. They have been declared \u2018protected places\u2019 under the Protection of Military Remains Act 1986. You should only dive there on a \u2018look not touch\u2019 basis. Do not attempt to penetrate the wrecks, which lie in deep water. Make sure any boat operator you use holds a licence for diving at the wreck site.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorist attacks in Malaysia can\u2019t be ruled out.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. Bars and restaurants, hotels, markets, shopping malls hosting major international brand outlets, tourist attractions, places of worship and airports are all potential targets. You should be especially vigilant and maintain a high level of security awareness in crowded places and at large gatherings.</p>\n\n<p>On 28 June 2016, there was a grenade attack at a bar in the town of Puchong, injuring 8 people. Malaysian authorities have confirmed this was a terrorist attack by individuals with links to Daesh (formerly referred to as ISIL).</p>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<h2 id=\"kidnap\">Kidnap</h2>\n<p>There is a threat to foreigners of kidnapping in coastal areas of eastern Sabah from terrorist and criminal groups. The threat is particularly high between the towns of Sandakan and Tawau and on islands close to the Sulu Archipelago in the southern Philippines.</p>\n\n<p>The Abu Sayyaf Group (ASG), based in the Philippines, has previously kidnapped foreigners from the east coast of mainland Sabah, the islands and the surrounding waters. A number of hostages have been murdered by the group. Some groups operating in the southern Philippines, including ASG, have pledged allegiance to Daesh and are likely to regard Westerners as legitimate targets. In May 2021, Malaysian authorities arrested eight suspected ASG members who they suspect may have been planning kidnappings in Malaysia.</p>\n\n<p>Commercial shipping companies have been advised to adopt heightened vigilance when navigating the Sulu and Celebes Sea. Most maritime incidents occur in the Sulu Sea in the area between Sabah (Malaysia) and Mindanao, the Sulu Islands and Palawan (Philippines). Boats travelling to and from off-shore islands and dive sites are possible targets. The Malaysian authorities have increased security in the region in response to recent incidents.</p>\n\n<p>The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage taking. The Terrorism Act (2000) makes payments to terrorists illegal.</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Malaysia is a multicultural, majority Muslim country. You should familiarise yourself with, and respect, local laws and customs. You should respect local cultures, traditions and religions; and take care not to offend, especially during the holy month of Ramadan, other religious festivals or if you intend to visit religious sites. See <a href=\"https://www.gov.uk/travelling-during-ramadan\">Travelling during Ramadan</a></p>\n\n<p>You should also dress modestly, particularly in conservative and rural areas and when visiting places of worship, and government buildings. You may be refused entry if you are not appropriately dressed, including closed shoes. You should check the signs displayed at the entrance.</p>\n\n<p>If you are a Muslim you may be subject to local Shari\u2019a law.</p>\n\n<p>There are severe penalties for all drug offences; this includes amphetamine-type stimulants. Possession incurs a custodial sentence and possible whipping.</p>\n\n<p>You could be asked to take a urine test on arrival in Malaysia if you are suspected of having used drugs before your visit. Urine tests can also be taken when individuals are detained following raids on bars and nightclubs. If the test is positive, you could be detained, charged and/or deported and blacklisted.</p>\n\n<p>Importing unlicensed firearms and ammunition into Malaysia is prohibited and can carry the death penalty. This includes spent ammunition and souvenirs from war museums. You should not bring any replica weapons, firearms or ammunition into Malaysia. You may be detained and charged.</p>\n\n<p>Homosexual acts are illegal in Malaysia and punishable under federal law. You should avoid any behaviour which could attract unwanted attention, including public displays of affection. Openly gay and lesbian support groups exist. See our <a href=\"http://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT community before you travel.</p>\n\n<h2 id=\"travellers-with-limited-mobility\">Travellers with limited mobility</h2>\n\n<p>There are many interesting places in Malaysia that are accessible to all people. But wheelchair access is often limited due to uneven paving, street furniture and a lack of lifts, ramps, etc. This includes buses, public transit systems, and many taxis have limited storage space for wheelchairs. See our general information on\u00a0<a href=\"https://www.gov.uk/guidance/foreign-travel-for-disabled-people\">planning a safe trip for disabled travellers</a>.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Malaysia.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Malaysia set and enforce entry rules. If you\u2019re unsure how Malaysia\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 vaccination requirements for travellers entering Malaysia.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>If you are visiting Malaysia, your passport should be valid for 6 months from the date you arrive. If it is not, you may be refused entry and detained. You may also be refused entry and detained if your passport has any damage or has pages missing.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>British nationals do not need a visa to visit Malaysia. You will normally be given permission to stay for 90 days on arrival. Visas for longer stays or for non-tourist purposes must be obtained from the nearest <a rel=\"external\" href=\"http://www.kln.gov.my/web/guest/home\">Malaysian diplomatic mission</a> before you travel.</p>\n\n<p>The Malaysian authorities are running a vigorous campaign against illegal immigration. Do not overstay your visa, or violate the terms of entry. Even if you overstay for just a few days, you can be fined, detained, deported to the UK and blacklisted. Flight costs will be the responsibility of the individual. Conditions in prisons and immigration detention facilities can be poor with limited healthcare services.</p>\n\n<p>Please note the British High Commission is unable to provide any assistance for you to remain in Malaysia, including issuing any document to support your overstay.</p>\n\n<p>If you\u2019re travelling between Peninsular Malaysia and East Malaysia (sometimes known as Malaysian Borneo and comprising the states of Sabah and Sarawak) you will need to carry your passport. You must get an entry stamp in East Malaysia at your initial port of entry.</p>\n\n<p>You should make and keep safe a copy of your passport and visa in case your passport is lost. It may take time to obtain a replacement visa. If you cannot present your original valid visa on exit you may be treated as an overstayer, fined and blacklisted.</p>\n\n<h3 id=\"drug-screening-on-arrival\">Drug screening on Arrival</h3>\n\n<p>You could be asked to take a urine test on arrival in Malaysia if you are suspected of having used drugs before your visit.\u00a0This includes if you are travelling from a country where possession and use of drugs such as cannabis is legal. There are severe penalties for all drug offences in Malaysia, including possession of illegal drugs and the presence of drugs in your blood stream. See\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/malaysia/local-laws-and-customs\">Local laws and customs</a></p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/137/malaysia#Vaccine_recommendations\">TravelHealthPro website</a>.</p>\n\n<h3 id=\"dual-nationals\">Dual nationals</h3>\n\n<p>Malaysia doesn\u2019t recognise dual nationality. You can be refused entry if you\u2019re found to be holding a Malaysian passport and one of a different nationality. For those people with dual nationality (not including Malaysian), we advise entering and exiting with the same passport.</p>\n\n<h3 id=\"customs-and-exchange-control-rules\">Customs and Exchange control rules</h3>\n\n<p>Check the website of the <a rel=\"external\" href=\"http://www.customs.gov.my/en/tp/Pages/tp_ppel.aspx\">Malaysian Customs Service</a> for information on restricted or prohibited items that may not be brought into the country. If you are in any doubt about the legality of any items - including medications - you should declare them on entry.</p>\n\n<p>You can import or export up to the equivalent of US $10,000 in Malaysian Ringgit without prior approval. There are no limits on the amount of foreign currency you can import or export, but you must declare any amount in excess of US$ 10,000. Penalties include a fine of up to RM 1 million and up to 3 years\u2019 imprisonment. Further information can be found on the <a rel=\"external\" href=\"http://www.customs.gov.my/en/pages/main.aspx\">Royal Malaysian Customs Department</a> website.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/malaysia/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a>\nof the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h2 id=\"health-risks\">Health risks</h2>\n\n<p>Mosquito-borne diseases like <a rel=\"external\" href=\"http://travelhealthpro.org.uk/disease/42/dengue\">dengue fever</a> occur all year round. There has been an increase in the number of cases of dengue fever, including in Kuala Lumpur. You should take appropriate precautions to <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance\">avoid being bitten by mosquitoes</a></p>\n\n<p>The states of Perlis, Kedah, Penang and Sarawak have been declared as rabies infected. You should <a rel=\"external\" href=\"http://travelhealthpro.org.uk/factsheet/20/rabies\">take precautions to protect yourself</a> if you\u2019re travelling in these areas.</p>\n\n<p>UK health authorities have classified Malaysia as having a risk of Zika virus transmission. For more information and advice visit the <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/137/malaysia#Other_risks\">National Travel Health Network and Centre website</a>.</p>\n\n<p>High levels of air pollution in major urban areas in Malaysia may aggravate respiratory conditions. In recent years, between June and October, there has been a greater incidence of haze caused by forest fires in Indonesia. Haze can cause disruption to local travel, regional air travel, and to government and private schools. Monitor the <a rel=\"external\" href=\"http://apims.doe.gov.my\">Air Pollutant Index Management System (APIMS)</a> updates and health advisories issued by the <a rel=\"external\" href=\"http://www.doe.gov.my/\">Malaysian Department of Environment</a>.</p>\n\n<p>Altitude sickness is a risk in parts of Malaysia, including Mount Kinabalu in Malaysian Borneo. More information about altitude sickness is available from <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/26/altitude-illness\">TravelHealthPro</a> (from the UK\u2019s National Travel Health Network and Centre).</p>\n\n<h2 id=\"medical-treatment\">Medical treatment</h2>\n<p>Government and private hospitals charge for all services; private care is expensive. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 999 or 112 from a mobile and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>Malaysia is affected by seasonal storms, which occasionally result in heavy flooding. The timing of these storms depends on location in the country. Check local weather.</p>\n\n<p>Earthquakes are known in Malaysia, but rare.</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British Embassy, Consulate or High Commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h2 id=\"foreign-travel-checklist\">Foreign travel checklist</h2>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h2 id=\"travel-safety\">Travel safety</h2>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we cannot provide tailored advice for individual trips. If you are concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it is safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h2 id=\"refunds-and-cancellations\">Refunds and cancellations</h2>\n\n<p>If you wish to cancel or change a holiday that you have booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or cannot offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h2 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h2>\n\n<p>We are no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h2 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h2>\n\n<p>If you are looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you cannot find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Malaysia&amp;post=Malaysia%20travel%20advice%20team\">send the Travel Advice Team a request</a></p>\n\n<h2 id=\"further-help\">Further help</h2>\n\n<p>If you are a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Malaysia&amp;post=Malaysia%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-11-03T14:04:49Z",
+            "updated_at": "2023-11-03T14:04:49Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-11T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/malaysia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/malaysia",
+                    "base_path": "/foreign-travel-advice/malaysia",
+                    "content_id": "126d47f7-5fd2-41ff-af17-b23564355e03",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-03T14:04:49Z",
+                    "schema_name": "travel_advice",
+                    "title": "Malaysia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/malaysia",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/malaysia",
+                    "api_url": "https://www.gov.uk/api/content/world/malaysia",
+                    "base_path": "/world/malaysia",
+                    "content_id": "fe65ab39-553e-42f8-b5b2-b51c6a074daa",
+                    "description": "Services if you're visiting, studying, working or living in Malaysia. Includes information about trading with and doing business in the UK and Malaysia.",
+                    "details": {
+                        "internal_name": "UK help and services in Malaysia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:59Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Malaysia",
+                    "web_url": "https://www.gov.uk/world/malaysia",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/singapore",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/singapore",
+                    "base_path": "/foreign-travel-advice/singapore",
+                    "content_id": "06ffd544-1097-41b1-90b6-b9a74f78669e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Singapore",
+                            "slug": "singapore",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-07T13:49:30Z",
+                    "schema_name": "travel_advice",
+                    "title": "Singapore travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/singapore",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/thailand",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/thailand",
+                    "base_path": "/foreign-travel-advice/thailand",
+                    "content_id": "724a37c1-2f81-40b2-8640-d3d06e74d2bb",
+                    "details": {
+                        "change_description": "Advice on avoiding protests following Thailand\u2019s general election ('Safety and security' page).",
+                        "country": {
+                            "name": "Thailand",
+                            "slug": "thailand",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-14T11:43:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "Thailand travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/thailand",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/indonesia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/indonesia",
+                    "base_path": "/foreign-travel-advice/indonesia",
+                    "content_id": "e2c44bf1-0b96-4034-9ac8-96f6e0181a80",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Indonesia",
+                            "slug": "indonesia",
+                            "synonyms": [
+                                "Borneo",
+                                "Bali"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T08:44:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "Indonesia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/indonesia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/vietnam",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/vietnam",
+                    "base_path": "/foreign-travel-advice/vietnam",
+                    "content_id": "8f6e7323-3d10-46da-a1a7-c50b5fc5a5ea",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Vietnam",
+                            "slug": "vietnam",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-21T11:21:29Z",
+                    "schema_name": "travel_advice",
+                    "title": "Vietnam travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/vietnam",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/philippines",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/philippines",
+                    "base_path": "/foreign-travel-advice/philippines",
+                    "content_id": "9a7fcd1d-1be5-4342-89ff-a4bd8ecf93e3",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Philippines",
+                            "slug": "philippines",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-25T14:07:51Z",
+                    "schema_name": "travel_advice",
+                    "title": "Philippines travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/philippines",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-malaysia",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-malaysia",
+                    "base_path": "/world/living-in-malaysia",
+                    "content_id": "c2bdb5af-407b-4147-82e8-fe7f6096f57d",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Malaysia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/malaysia",
+                                "api_url": "https://www.gov.uk/api/content/world/malaysia",
+                                "base_path": "/world/malaysia",
+                                "content_id": "fe65ab39-553e-42f8-b5b2-b51c6a074daa",
+                                "description": "Services if you're visiting, studying, working or living in Malaysia. Includes information about trading with and doing business in the UK and Malaysia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Malaysia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:59Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Malaysia",
+                                "web_url": "https://www.gov.uk/world/malaysia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:36Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Malaysia",
+                    "web_url": "https://www.gov.uk/world/living-in-malaysia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-malaysia",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-malaysia",
+                    "base_path": "/world/travelling-to-malaysia",
+                    "content_id": "bc0cd691-bc67-452f-a5b3-bc0b8ed28df6",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Malaysia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/malaysia",
+                                "api_url": "https://www.gov.uk/api/content/world/malaysia",
+                                "base_path": "/world/malaysia",
+                                "content_id": "fe65ab39-553e-42f8-b5b2-b51c6a074daa",
+                                "description": "Services if you're visiting, studying, working or living in Malaysia. Includes information about trading with and doing business in the UK and Malaysia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Malaysia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:59Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Malaysia",
+                                "web_url": "https://www.gov.uk/world/malaysia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:36Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Malaysia",
+                    "web_url": "https://www.gov.uk/world/travelling-to-malaysia",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-03T14:04:49Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1699020289.674-10.13.21.84-43290",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Malaysia travel advice",
+        "updated_at": "2023-11-15T10:45:14Z",
+        "withdrawn_notice": {}
+    }
+}

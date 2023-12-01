@@ -1,0 +1,1022 @@
+{
+    "Country Slug": "finland",
+    "Country Name": "Finland",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/finland",
+        "content_id": "f14f4107-1731-4dd8-a890-8defe459e15a",
+        "description": "FCDO travel advice for Finland. Includes safety and security, insurance, entry requirements and legal differences.\r\n\r\n\r\n\r\n\r\n",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about restrictions on vehicles with Russian licence plates (\u2018Entry requirements\u2019 page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU; Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:18:58.171Z"
+                },
+                {
+                    "note": "Latest update: Summary - Political demonstrations are planned in the T\u00f6\u00f6l\u00f6 district of Helsinki on Thursday 6 December; you should avoid any demonstrations, remain vigilant and follow advice from the local authorities",
+                    "public_timestamp": "2018-12-05T09:10:41.410Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about political demonstrations on 6 December",
+                    "public_timestamp": "2018-12-07T15:41:49.002Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T18:06:58.980Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:02:15.450Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T17:40:23.693Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T11:36:27.786Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Finland.",
+                    "public_timestamp": "2019-03-25T18:00:59.687Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2019-07-04T08:20:49.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on strikes planned for Monday 25 November",
+                    "public_timestamp": "2019-11-22T15:11:08.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on recent strikes ",
+                    "public_timestamp": "2019-11-27T11:23:04.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T17:30:08.000Z"
+                },
+                {
+                    "note": "Health and Summary - addition of information and advice on coronavirus, following a confirmed case in Lapland",
+                    "public_timestamp": "2020-01-30T14:41:03.000Z"
+                },
+                {
+                    "note": "Updated information and advice on coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-02-28T11:32:22.000Z"
+                },
+                {
+                    "note": "Added the number for a public Coronavirus hotline and replaced a link to updated news about Coronavirus in Finland.",
+                    "public_timestamp": "2020-03-05T11:03:58.000Z"
+                },
+                {
+                    "note": "Update to information on restrictions in place in response to coronavirus ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-13T23:46:10.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-16T17:15:05.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-16T21:43:41.000Z"
+                },
+                {
+                    "note": "Addition of information on a state of emergency and the closure of Finnish borders ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-17T19:58:11.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements ('Coronavirus' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-21T12:56:16.000Z"
+                },
+                {
+                    "note": "Addition of information on coronavirus measures in Uusimaa region ('Coronavirus' page) ",
+                    "public_timestamp": "2020-03-27T12:30:19.000Z"
+                },
+                {
+                    "note": "Updated advice for people wishing to return to the UK from Finland (\u2019Return to the UK\u2019  pages)",
+                    "public_timestamp": "2020-04-08T10:02:57.000Z"
+                },
+                {
+                    "note": "Updated information on local measures and travel restrictions to combat the spread of coronavirus ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-12T17:42:17.000Z"
+                },
+                {
+                    "note": "Addition of information on wearing facemasks on flights in the Entry and borders section (Coronavirus page). ",
+                    "public_timestamp": "2020-05-13T09:45:33.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T15:14:12.000Z"
+                },
+                {
+                    "note": "Addition of information about the use of facemasks on flights ('Return to the UK' page) and updated information on the lifting of social restrictions ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-04T08:56:59.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:00:49.000Z"
+                },
+                {
+                    "note": "Addition of information on self-isolating for 14 days on entry into Finland ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-09T15:55:22.000Z"
+                },
+                {
+                    "note": "Addition of information about lifting restrictions to internal borders ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-06-16T10:03:43.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-02T10:06:28.000Z"
+                },
+                {
+                    "note": "Update to information on the use of face masks ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-03T09:13:11.000Z"
+                },
+                {
+                    "note": "From 4 July, Finland is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2020-07-03T14:17:46.000Z"
+                },
+                {
+                    "note": "Addition of information on the lifting of some border restrictions ('Entry requirements' page)",
+                    "public_timestamp": "2020-07-09T15:23:59.000Z"
+                },
+                {
+                    "note": "Updated information on entry to Finland ('Entry requirements' page).",
+                    "public_timestamp": "2020-07-24T12:54:56.000Z"
+                },
+                {
+                    "note": "Addition of information about the use of facemasks in public places ('Coronavirus' page) and quarantine requirements when entering Finland ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-14T10:29:56.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T13:51:13.000Z"
+                },
+                {
+                    "note": "New information on The Finnish Government announcing the change of using a new testing based model on 23 November\r\n('Entry requirements' page)",
+                    "public_timestamp": "2020-09-15T15:20:47.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Finland in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-02T15:22:52.000Z"
+                },
+                {
+                    "note": "Addition of information on the recommendation for all persons aged 15 or above to wear face masks in public spaces in the Helsinki region ('Coronavirus' page)\r\n\r\n",
+                    "public_timestamp": "2020-10-16T15:09:01.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T11:59:05.000Z"
+                },
+                {
+                    "note": "Updated information on self-isolation requirements in Finland (\u2018Summary' and 'Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-11-19T13:43:02.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period ('Summary' page).\r\n",
+                    "public_timestamp": "2020-11-19T16:54:10.000Z"
+                },
+                {
+                    "note": "Updated information on new the testing model announced by the Finnish government and the length of the self-isolation period ('Entry requirements' page)",
+                    "public_timestamp": "2020-11-20T13:18:52.000Z"
+                },
+                {
+                    "note": "Information on restrictions for air passengers travelling from the United Kingdom.",
+                    "public_timestamp": "2020-12-21T06:35:55.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page).",
+                    "public_timestamp": "2020-12-29T17:59:37.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Finland; suspension of passenger flights from the UK (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2020-12-31T20:54:32.000Z"
+                },
+                {
+                    "note": "Updated information on suspension of passenger flights from the UK (\u2018Summary\u2019 and \u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2021-01-12T14:12:59.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Finland (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-13T15:43:19.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from Finland on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T00:58:12.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of passenger flights from the United Kingdom to Finland (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-01-20T14:40:54.000Z"
+                },
+                {
+                    "note": "Updated information on the resumption of passenger flights from the UK to Finland. New information on health measures, that all travellers will have to undergo on arrival (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-01-26T10:45:33.000Z"
+                },
+                {
+                    "note": "Updated links to Finnish Border Guard website (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-02-02T12:39:30.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Finland (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-16T11:11:30.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions and travelling in Finland (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-03-02T10:21:39.000Z"
+                },
+                {
+                    "note": "Addition of information on wearing of facemasks on public transport in Finland (see 'Coronavirus' page)",
+                    "public_timestamp": "2021-03-12T17:47:24.000Z"
+                },
+                {
+                    "note": "Updated information on health measures on arrival to Finland ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-26T09:49:22.000Z"
+                },
+                {
+                    "note": "Updated information on domestic COVID-19 measures ('Coronavirus' page).",
+                    "public_timestamp": "2021-04-20T15:24:57.000Z"
+                },
+                {
+                    "note": "Updated information on domestic restrictions in Finland's regions ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-14T15:29:30.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for travellers from the UK ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-28T15:23:02.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-06T12:20:52.000Z"
+                },
+                {
+                    "note": "Addition of information on demonstrating COVID-19 vaccination status upon entry to Finland ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-12T14:53:25.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Finland (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T09:18:11.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Finland (\u2018Coronavirus\u2019 page) and updated information on entry requirements from the UK ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-22T11:23:50.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:24:38.000Z"
+                },
+                {
+                    "note": "Updated  information on entry requirements for fully vaccinated and non-fully vaccinated travellers ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-30T16:07:42.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 vaccines for British nationals living in Finland (Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-08-12T11:50:08.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 30 August Finland will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-26T18:26:54.000Z"
+                },
+                {
+                    "note": "Finland has moved to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-31T13:19:22.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T11:59:51.000Z"
+                },
+                {
+                    "note": "Update to information now that certificates of recovery are no longer accepted for entry into Finland for British nationals entering Finland from the UK. Update to information and advice on entry rules for under 18s. ('Entry requirements' page) \r\n",
+                    "public_timestamp": "2021-10-28T16:12:08.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-02T17:13:33.000Z"
+                },
+                {
+                    "note": "Removal of face mask requirement for travel on trains in Finland ('Coronavirus' page)",
+                    "public_timestamp": "2021-11-03T14:48:22.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-11-11T13:29:10.000Z"
+                },
+                {
+                    "note": "Update to information on entering Finland with under 18 year olds and demonstrating your COVID-19 status.  New information added on entry to Finland for minors who are with an adult who is not their legal guardian. ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-16T10:15:44.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-11-26T11:19:20.000Z"
+                },
+                {
+                    "note": "Updated facemask guidance in the Helsinki Metropolitan area (\u2018Coronavirus\u2019 page). Updated information on voluntary distancing advice for non-vaccinated travellers and guidance on how to book a COVID-19 test (\u2018Entry requirements\u2019 page). ",
+                    "public_timestamp": "2021-12-02T10:20:53.000Z"
+                },
+                {
+                    "note": "Updated entry requirements for fully vaccinated, non-fully vaccinated travellers and under 18 year olds (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-13T10:43:51.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:05:31.000Z"
+                },
+                {
+                    "note": "Updated information about testing requirements on arrival in Finland and updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T18:01:30.000Z"
+                },
+                {
+                    "note": "Updated information about testing requirements on arrival in Finland and updated information on pre-arrival testing requirements from 21 December ('Entry requirements' page).",
+                    "public_timestamp": "2021-12-17T11:29:31.000Z"
+                },
+                {
+                    "note": "Updated information about pre-arrival testing requirements ('Entry requirements' page).",
+                    "public_timestamp": "2021-12-20T16:19:28.000Z"
+                },
+                {
+                    "note": "Updated information about pre-arrival testing requirements ('Entry requirements' page).",
+                    "public_timestamp": "2021-12-20T22:51:27.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Finland (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-21T13:14:19.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for all UK travellers born in 2006 or earlier from 1 January 2022 ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-30T12:06:14.000Z"
+                },
+                {
+                    "note": "Updated information on wearing a facemask in indoor spaces ('Coronavirus' page)",
+                    "public_timestamp": "2022-01-19T16:37:16.000Z"
+                },
+                {
+                    "note": "Updated information on Finland's entry requirements;  removal requirement for vaccinated travellers to have a negative test ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-16T13:13:33.000Z"
+                },
+                {
+                    "note": "Updated information on travelling to Finland from Russia (\u2019Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-03-02T15:05:02.000Z"
+                },
+                {
+                    "note": "Adding information on travel to Finland from Russia ('Safety and security' page)",
+                    "public_timestamp": "2022-03-11T11:23:25.000Z"
+                },
+                {
+                    "note": "Updated information on travel to Finland from Russia (\u2018Coronavirus\u2019 and 'Safety and security' pages)",
+                    "public_timestamp": "2022-03-25T16:04:54.000Z"
+                },
+                {
+                    "note": "Updated information on travel to Finland from Russia ('Safety and security' page)",
+                    "public_timestamp": "2022-03-28T11:13:26.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:20:57.000Z"
+                },
+                {
+                    "note": "Update to information on using proof of recovery from COVID-19 to enter Finland ('Entry requirements' page)",
+                    "public_timestamp": "2022-06-17T15:05:07.000Z"
+                },
+                {
+                    "note": "Removal of COVID-19 travel restrictions and entry requirements from 1 July ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-06-30T23:09:35.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:17:29.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-08-15T13:09:29.000Z"
+                },
+                {
+                    "note": "Information about restrictions on vehicles with Russian licence plates (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2023-10-30T16:20:27.000Z"
+                }
+            ],
+            "country": {
+                "name": "Finland",
+                "slug": "finland",
+                "synonyms": [
+                    "arctic",
+                    "Lapland"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/finland/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/finland/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Finland set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://finlandabroad.fi/web/gbr/frontpage\">Embassy of Finland in London</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Finland.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To travel to Finland, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a>.</p>\n\n<p>To enter Finland (and all Schengen countries) your passport must:</p>\n\n<ul>\n  <li>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports issued after 1 October 2018 are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</li>\n  <li>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</li>\n</ul>\n\n<p>Contact the <a rel=\"external\" href=\"https://finlandabroad.fi/web/gbr/frontpage\">Embassy of Finland in London</a> if your passport does not meet both these requirements.</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport if you need to</a>.</p>\n\n<p>You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.</p>\n\n<h3 id=\"make-sure-you-get-your-passport-stamped\">Make sure you get your passport stamped</h3>\n\n<p>If you\u2019re a visitor, your passport must be stamped when you enter or leave the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (which includes Finland).</p>\n\n<p>Border guards will use passport stamps to check you haven\u2019t overstayed the <a href=\"https://www.gov.uk/travel-to-eu-schengen-area#:~:text=You%20do%20not%20need%20a,or%20for%20certain%20other%20reasons\">90-day visa-free limit</a> for stays in the Schengen area. If your passport was not stamped, border guards will presume you have overstayed the visa-free limit.</p>\n\n<p>If your passport was not stamped, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.</p>\n\n<p>Read about <a href=\"https://www.gov.uk/guidance/living-in-finland#passports-and-travel\">passport stamping if you live in Finland</a> for passport stamping information.</p>\n\n<p>At Finnish border control, you may also need to:</p>\n\n<ul>\n  <li>show proof of your accommodation, for example, a hotel booking confirmation or proof of address for a second home</li>\n  <li>show a return or onward ticket</li>\n  <li>prove that you have enough money for your stay \u2013 the amount varies depending on your accommodation</li>\n</ul>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel to countries in the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (including Finland) for up to 90 days in any 180-day period without a visa. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>to attend business meetings, cultural or sports events</li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>If you\u2019re travelling to Finland and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.</p>\n\n<p>To stay longer (for example, to work, study or for business), you must meet the Finnish government\u2019s entry requirements. Check which type of visa or work permit you need with the <a rel=\"external\" href=\"https://finlandabroad.fi/web/gbr/frontpage\">Embassy of Finland in London</a>.</p>\n\n<h2 id=\"travelling-with-children\">Travelling with children</h2>\n\n<p>Minors can enter Finland with an adult who is not their legal guardian (such as a grandparent). You should <a rel=\"external\" href=\"https://raja.fi/en/document-required-for-a-minor-to-travel\">carry a letter of consent from their parents or legal guardians</a>.</p>\n\n<h2 id=\"travelling-from-russia\">Travelling from Russia</h2>\n\n<p>British nationals travelling from Russia to Finland can only enter the country by road (this includes public buses, taxis and private vehicles). See <a rel=\"external\" href=\"https://raja.fi/en/guidelines-for-travellers-at-border-crossings\">a list of crossing points</a> and <a rel=\"external\" href=\"https://www.rajaliikenne.fi/?lang=en\">current waiting times</a> from the Finnish Border Guard.</p>\n\n<p>For more information, please see our <a href=\"https://www.gov.uk/foreign-travel-advice/russia/returning-to-the-uk\">Russia Travel Advice</a>.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/80/finland\">vaccinations and certificates you need in TravelHealthPro\u2019s Finland guide</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://tulli.fi/en/private-persons/travelling/going-through-customs\">goods that can be brought into and taken out of Finland</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h3 id=\"taking-food-and-drink-into-the-eu\">Taking food and drink into the EU</h3>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food. <a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a> on the European Commission website.</p>\n\n<h3 id=\"restrictions-on-russian-vehicles\">Restrictions on Russian vehicles</h3>\n\n<p>There are restrictions on vehicles with Russian licence plates in Finland. See <a rel=\"external\" href=\"https://um.fi/press-releases/-/asset_publisher/ued5t2wDmr1C/content/rajoituksia-venajalle-rekisteroityjen-autojen-tuontiin/35732\">Finland\u2019s Ministry of Foreign Affairs for more information</a>.</p>\n\n<h2 id=\"taking-money-into-finland\">Taking money into Finland</h2>\n\n<p>If you have over 10,000 euros or the same amount in other currencies, you must declare this to Finnish Customs. See <a rel=\"external\" href=\"https://www.suomi.fi/services/declaring-cash-when-travelling-to-or-from-eu-nations-finnish-customs/5dc6e849-7d54-4847-83bd-7094033c380c#:~:text=If%20you%20have%20over%20%E2%82%AC,cheques%20and%20negotiable%20promissory%20notes\">guidance on declaring cash from the Finnish government</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-finland\">Terrorism in Finland</h3>\n\n<p>Terrorist attacks in Finland cannot be ruled out.</p>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. In 2017, two people were killed and several were stabbed  in an incident in Turku.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Tourists may be targeted by pickpockets in the tourist season in crowded areas. Take precautions and keep your personal belongings, including passports and money, safe.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Do not use, buy or carry  illegal drugs. Possessing even the smallest quantities can lead to up to 10 years imprisonment.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Finland, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/finland/\">RAC Finland guide</a>.</p>\n\n<p>You need\u00a0a UK driving licence\u00a0to drive in Finland.</p>\n\n<p>Hire car companies often have stricter requirements for their customers, such as a year of driving experience, minimum age and holding an International Driving Permit.</p>\n\n<p>You may need a UK sticker to drive your car outside the UK. Since 2021, UK stickers have replaced GB stickers. Check the government guidance on <a href=\"https://www.gov.uk/displaying-number-plates/flags-identifiers-and-stickers\">displaying stickers outside the UK</a> for more information.</p>\n\n<h3 id=\"drink-driving-laws\">Drink-driving laws</h3>\n\n<p>Drink-driving is a serious offence in Finland, and you could be imprisoned if found guilty. The drink-drive limit in Finland is significantly lower than the limit in England.</p>\n\n<h2 id=\"arctic-travel\">Arctic travel</h2>\n\n<p>Most visiting British nationals travel safely around the Arctic each year. However, consular assistance and support to British nationals is limited by the capacity of national and local authorities. Make sure you have appropriate travel insurance and accessible funds to cover the cost of any medical treatment or potential repatriation.</p>\n\n<p>Before you visit:</p>\n\n<ul>\n  <li>consider the remote nature of certain destinations and access to medical facilities, search and rescue and evacuation options</li>\n  <li>have emergency plans in place, particularly if you are an independent traveller.</li>\n</ul>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 and ask for an ambulance.</p>\n\n<p>Contact your insurance company  promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/80/finland\">vaccinations and health risks in TravelHealthPro\u2019s Finland guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"organ-donation-laws\">Organ donation laws</h2>\n\n<p>In Finland, doctors may remove organs, tissues and cells to treat another person if there is no evidence the deceased would have objected. Read more <a rel=\"external\" href=\"https://finlex.fi/en/laki/kaannokset/2001/en20010101\">information on Finland\u2019s Ministry of Justice Finlex website</a>.</p>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-finland\">Healthcare facilities in Finland</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/medical-facilitiespractitioners-in-finland\">English-speaking doctors in Finland</a></p>\n\n<p>There is also <a href=\"https://www.gov.uk/guidance/healthcare-in-finland\">guidance on healthcare if you\u2019re living in Finland</a>.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>)</a> before leaving the UK. If you already have a <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>)</a>, it will still be valid as long as it remains in date.</p>\n\n<p>The <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Finnish nationals. If you do not have your card with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> is not an alternative to travel insurance and you should have both before you travel. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Global Health Insurance Card\">GHIC</abbr> and <abbr title=\"European Health Insurance Card\">EHIC</abbr> cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-finland\">Emergency services in Finland</h2>\n\n<p>Telephone: 112 (for ambulance, fire, police)</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a href=\"https://www.gov.uk/government/publications/finland-list-of-lawyers\">lawyers</a>, <a href=\"https://www.gov.uk/government/publications/funeral-directors-in-finland\">funeral directors</a>  and <a href=\"https://www.gov.uk/government/publications/translators-and-interpreters-in-finland\">translators and interpreters</a> in Finland</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/finland-bereavement-packinformation\">death</a> in Finland</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/finland-prisoner-pack\">arrested</a> in Finland</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/finland/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact <a href=\"https://www.gov.uk/world/organisations/british-embassy-helsinki\">British embassy in Helsinki</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Finland&amp;post=Finland%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-finland\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-30T16:20:27Z",
+            "updated_at": "2023-10-30T16:20:27Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2012-12-31T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/finland",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/finland",
+                    "base_path": "/foreign-travel-advice/finland",
+                    "content_id": "f14f4107-1731-4dd8-a890-8defe459e15a",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:20:27Z",
+                    "schema_name": "travel_advice",
+                    "title": "Finland travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/finland",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/finland",
+                    "api_url": "https://www.gov.uk/api/content/world/finland",
+                    "base_path": "/world/finland",
+                    "content_id": "d11b924a-7053-4f05-a1d1-be06c4b1e857",
+                    "description": "Services if you're visiting, studying, working or living in Finland. Includes information about trading with and doing business in the UK and Finland, and your rights as a result of Brexit.",
+                    "details": {
+                        "internal_name": "UK help and services in Finland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2019-07-24T16:51:11Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Finland",
+                    "web_url": "https://www.gov.uk/world/finland",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/living-in-finland",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-finland",
+                    "base_path": "/guidance/living-in-finland",
+                    "content_id": "5ec3f742-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-03-11T09:27:12Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Finland",
+                    "web_url": "https://www.gov.uk/guidance/living-in-finland",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sweden",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sweden",
+                    "base_path": "/foreign-travel-advice/sweden",
+                    "content_id": "9772ac3f-b0ea-4787-b859-9a091e1f8af6",
+                    "details": {
+                        "change_description": "Removal of information about extreme weather warning for parts of Sweden ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "Sweden",
+                            "slug": "sweden",
+                            "synonyms": [
+                                "Arctic",
+                                "Stockholm",
+                                "Gothenburg"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-22T09:15:24Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sweden travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sweden",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/norway",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/norway",
+                    "base_path": "/foreign-travel-advice/norway",
+                    "content_id": "5db38510-b08a-4e4c-b84f-ca2d62353ab6",
+                    "details": {
+                        "change_description": "Information about restrictions on vehicles with Russian licence plates and advice on political demonstrations (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+                        "country": {
+                            "name": "Norway",
+                            "slug": "norway",
+                            "synonyms": [
+                                "arctic",
+                                "Oslo",
+                                "Scandinavia"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:20:03Z",
+                    "schema_name": "travel_advice",
+                    "title": "Norway travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/norway",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/germany",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/germany",
+                    "base_path": "/foreign-travel-advice/germany",
+                    "content_id": "c3d72e08-e00f-4b62-98d5-010ea1520e50",
+                    "details": {
+                        "change_description": "Removal of information about an incident at Hamburg airport.",
+                        "country": {
+                            "name": "Germany",
+                            "slug": "germany",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-06T11:39:34Z",
+                    "schema_name": "travel_advice",
+                    "title": "Germany travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/germany",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/iceland",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/iceland",
+                    "base_path": "/foreign-travel-advice/iceland",
+                    "content_id": "0e0f3be9-5805-43c5-9535-b42a88219ea6",
+                    "details": {
+                        "change_description": "Update regarding  information on earthquakes and volcanic activity ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "Iceland",
+                            "slug": "iceland",
+                            "synonyms": [
+                                "arctic"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-11T10:42:42Z",
+                    "schema_name": "travel_advice",
+                    "title": "Iceland travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/iceland",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-finland",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-finland",
+                    "base_path": "/world/living-in-finland",
+                    "content_id": "b92abb29-3a48-4863-bd4b-1d93eadaa6d2",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Finland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/finland",
+                                "api_url": "https://www.gov.uk/api/content/world/finland",
+                                "base_path": "/world/finland",
+                                "content_id": "d11b924a-7053-4f05-a1d1-be06c4b1e857",
+                                "description": "Services if you're visiting, studying, working or living in Finland. Includes information about trading with and doing business in the UK and Finland, and your rights as a result of Brexit.",
+                                "details": {
+                                    "internal_name": "UK help and services in Finland",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2019-07-24T16:51:11Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Finland",
+                                "web_url": "https://www.gov.uk/world/finland",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T16:52:03Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Finland",
+                    "web_url": "https://www.gov.uk/world/living-in-finland",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-finland",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-finland",
+                    "base_path": "/world/travelling-to-finland",
+                    "content_id": "4f631255-4b54-4d55-b5aa-a6b39a090bc7",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Finland",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/finland",
+                                "api_url": "https://www.gov.uk/api/content/world/finland",
+                                "base_path": "/world/finland",
+                                "content_id": "d11b924a-7053-4f05-a1d1-be06c4b1e857",
+                                "description": "Services if you're visiting, studying, working or living in Finland. Includes information about trading with and doing business in the UK and Finland, and your rights as a result of Brexit.",
+                                "details": {
+                                    "internal_name": "UK help and services in Finland",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2019-07-24T16:51:11Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Finland",
+                                "web_url": "https://www.gov.uk/world/finland",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:14Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Finland",
+                    "web_url": "https://www.gov.uk/world/travelling-to-finland",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-30T16:20:27Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698682826.986-10.13.20.67-25170",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Finland travel advice",
+        "updated_at": "2023-11-15T11:08:31Z",
+        "withdrawn_notice": {}
+    }
+}
