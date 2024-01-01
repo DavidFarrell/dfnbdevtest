@@ -1,0 +1,1118 @@
+{
+    "Country Slug": "rwanda",
+    "Country Name": "Rwanda",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/rwanda",
+        "content_id": "25d2eeab-5494-4fe7-b558-b478c873923d",
+        "description": "Latest FCDO travel advice for Rwanda including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+            "change_history": [
+                {
+                    "note": "Latest update: This advice has been reviewed in full with amendments throughout",
+                    "public_timestamp": "2018-12-05T10:48:30.411Z"
+                },
+                {
+                    "note": "Latest update: Summary - on 15 December near Kitabi, on the edge of the Nyungwe Forest National Park, a military incursion killed a number of civilians; if you\u2019re travelling near the DRC/Rwanda and Burundi/Rwanda borders or through Nyungwe Forest, make sure you check this travel advice and the travel advice for DRC and Burundi",
+                    "public_timestamp": "2018-12-18T14:24:49.984Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Local travel) - The Ministry of Health in Rwanda has established new policies for every traveller wishing to enter Rwanda from Ebola-affected areas of DRC; you should provide advance notice of your intention to travel to Rwanda to the Rwandan Ministry of Health; you will need to comply with quarantine procedures for a period of 21 days before onward travel within or through Rwanda is permitted",
+                    "public_timestamp": "2019-01-09T16:27:46.316Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Local travel) - Rwanda has changed its own travel advice, which advises Rwandan nationals against travel from Rwanda to Uganda; this does not affect travel by other internationals including British Nationals, but does mean additional checks may take place at the border",
+                    "public_timestamp": "2019-04-02T09:35:23.369Z"
+                },
+                {
+                    "note": "Latest update: Summary and Health section - factual update; on 11 June 2019 the Ugandan Ministry of Health confirmed an outbreak of Ebola in Kasese District in western Uganda",
+                    "public_timestamp": "2019-06-12T16:58:42.148Z"
+                },
+                {
+                    "note": "Health section and summary - updated information on Ebola cases in the Democratic Republic of Congo, reflecting a confirmed case in Goma, close to the DRC-Rwanda border, on 14 July; Safety and security section (Local travel) - editorial amendments",
+                    "public_timestamp": "2019-07-16T12:52:32.000Z"
+                },
+                {
+                    "note": "Health section - revised information on Ebola outbreak in the Democratic Republic of Congo; on 17 July 2019, the World Health Organisation declared the outbreak to be a Public Health Emergency of International Concern (PHEIC)",
+                    "public_timestamp": "2019-07-18T11:44:29.000Z"
+                },
+                {
+                    "note": "Summary and Health section - revised information on outbreak of Ebola ",
+                    "public_timestamp": "2019-07-31T15:40:15.000Z"
+                },
+                {
+                    "note": "Summary and Health section - revised information on outbreak of Ebola",
+                    "public_timestamp": "2019-08-02T08:35:24.000Z"
+                },
+                {
+                    "note": "Summary and Health section - revised information on outbreak of Ebola",
+                    "public_timestamp": "2019-08-16T14:03:05.000Z"
+                },
+                {
+                    "note": "Summary: Safety and Security section - updated advice regarding a continued risk to the security situation deteriorating near the DRC or Burundi border.",
+                    "public_timestamp": "2019-10-06T11:26:11.000Z"
+                },
+                {
+                    "note": "Safety and Security section and Summary - updated advice regarding a continued risk to the security situation deteriorating near the DRC or Burundi border",
+                    "public_timestamp": "2019-10-09T15:39:24.000Z"
+                },
+                {
+                    "note": "Health - addition of link to Public Health England guidance for humanitarian or healthcare workers travelling to countries at risk of Ebola",
+                    "public_timestamp": "2019-10-18T13:52:27.000Z"
+                },
+                {
+                    "note": "Safety and security \u2013 addition of factual information on an attack in Kamembe Town on 19 October 2019",
+                    "public_timestamp": "2019-10-22T09:47:48.000Z"
+                },
+                {
+                    "note": "Safety and security section (Grenade attacks) - updated factual information on the most recent grenade attack",
+                    "public_timestamp": "2019-10-23T10:57:41.000Z"
+                },
+                {
+                    "note": "Safety and security (Local travel, Gorilla trekking) and Summary - factual update on the security situation near the border with the Democratic Republic of Congo (DRC) and Burundi",
+                    "public_timestamp": "2019-11-06T13:49:03.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full. The \u2018Entry requirements' page has updated information about visa fees",
+                    "public_timestamp": "2020-03-02T16:41:52.000Z"
+                },
+                {
+                    "note": "Addition of information about a new visa scheme  ('Entry requirements' page)",
+                    "public_timestamp": "2020-03-10T17:21:44.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) ('Health', 'Entry requirements' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-11T18:05:44.000Z"
+                },
+                {
+                    "note": "Summary and Health \u2013 updated information on coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-14T12:45:51.000Z"
+                },
+                {
+                    "note": "Summary and Health \u2013 updated information on coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-18T20:27:56.000Z"
+                },
+                {
+                    "note": "Given the rapidly changing situation in Rwanda we are temporarily withdrawing a limited number of UK staff and their dependents from our High Commission.  The High Commission will continue to carry out essential work including providing 24/7 consular assistance and support to British people in Rwanda (Summary).",
+                    "public_timestamp": "2020-03-20T00:27:37.000Z"
+                },
+                {
+                    "note": "Update to information aboout the suspension of flights to and from Kigali International Airport from 2359 on 20 March ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-20T11:23:34.000Z"
+                },
+                {
+                    "note": "Update to information about the suspension of flights to and from Kigali International Airport from 23:59 on 20 March, closure of borders and introduction of restrictions and quarantine measures on 21 March ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-22T17:27:56.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) and information about returning to the UK (\u2018Coronavirus\u2019 and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-03-31T21:34:58.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) and information about returning to the UK (\u2018Coronavirus\u2019 and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-04-21T18:00:55.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19). ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-01T17:32:48.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of Coronavirus (COVID-19) from 4 May (Coronavirus, Return to the UK and Safety and security)",
+                    "public_timestamp": "2020-05-04T19:47:42.000Z"
+                },
+                {
+                    "note": "Updated information and advice on grenade attacks ('Safety and Security' page), visa and passport validity requirements ('Entry requirements' page) and Ebola border restrictions ('Health' page)",
+                    "public_timestamp": "2020-05-12T15:42:05.000Z"
+                },
+                {
+                    "note": "Addition of information on emergency flight from Kigali to Addis Ababa scheduled for 23 May. ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-18T16:38:55.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T12:05:37.000Z"
+                },
+                {
+                    "note": "Removal of information about flight from Kigali to Addis Ababa planned for 23 May. All flights to and from Kigali International Airport are suspended until 1 June. A curfew is in place; movement is prohibited between 9pm and 5am ('Return to the UK' and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-05-23T16:17:21.000Z"
+                },
+                {
+                    "note": "Information about flight scheduled to depart on 30 May from Kigali to Addis Ababa ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-26T11:14:36.000Z"
+                },
+                {
+                    "note": "Information about flight scheduled to depart on 30 May from Kigali to Addis Ababa ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-26T11:14:36.000Z"
+                },
+                {
+                    "note": "Removal of information about flight scheduled to depart on 30 May from Kigali to Addis Ababa ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-06-01T09:35:34.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:48:48.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June and flights to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T15:07:55.000Z"
+                },
+                {
+                    "note": "Removal of information on emergency flight to Addis Ababa which departed on 13 June ('Return to the UK' page).",
+                    "public_timestamp": "2020-06-15T12:15:19.000Z"
+                },
+                {
+                    "note": "Addition of information about a flight from Kigali to Addis Ababa on 25 June ('Return to the UK' page).",
+                    "public_timestamp": "2020-06-17T14:10:13.000Z"
+                },
+                {
+                    "note": "Removal of information about a flight from Kigali to Addis Ababa on 25 June ('Summary and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-07-01T08:59:04.000Z"
+                },
+                {
+                    "note": "New information on an emergency flight from Kigali to London, via Addis Ababa scheduled for 7 July. ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-07-06T16:30:10.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-16T09:20:52.000Z"
+                },
+                {
+                    "note": "Updated information on new entry requirements effective from 1 August (\u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages) ",
+                    "public_timestamp": "2020-07-28T09:53:06.000Z"
+                },
+                {
+                    "note": "Update to information on reopening of Kigali International Airport and new entry requirements effective from 1 August ('Summary' and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2020-07-31T13:15:15.000Z"
+                },
+                {
+                    "note": "Updated information about presenting a negative COVID-19 PCR test certificate when entering Rwanda ('Entry requirements' page) and updated information about Ebola in the region ('Health' page)",
+                    "public_timestamp": "2020-08-14T09:20:26.000Z"
+                },
+                {
+                    "note": "Updated information about presenting a negative COVID-19 PCR test certificate when entering Rwanda ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-17T10:12:36.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 preventative measures in Rwanda (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-08-28T15:23:12.000Z"
+                },
+                {
+                    "note": "Updated information on safety and security between Rwanda/Burundi borders and requirements for travel in Rwanda\r\n('Summary', 'Coronavirus' and 'Safety and security' pages)",
+                    "public_timestamp": "2020-09-15T10:09:33.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 preventative measures and local travel for tourists in Rwanda (\u2018Coronavirus\u2019 and 'Safety and security' pages). New information on LGBT issues within Rwanda ('Local laws and customs' page) ",
+                    "public_timestamp": "2020-10-08T09:38:41.000Z"
+                },
+                {
+                    "note": "Updated information on international travel, COVID-19 measures for event organisers and quarantine requirements  (\u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-28T13:41:42.000Z"
+                },
+                {
+                    "note": "Updated information on Ebola measures ('Health' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-19T10:06:40.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Rwanda. Rwanda is now on the list of countries and territories where self-isolation is not required on return to England, Wales, and Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-11-19T17:27:14.000Z"
+                },
+                {
+                    "note": "If you are returning to Scotland from Rwanda on or after 4am on 28 November, you do not need to self-isolate on your return. ('Summary' page)",
+                    "public_timestamp": "2020-11-26T18:26:46.000Z"
+                },
+                {
+                    "note": "Updated information on travel in Rwanda, the resumption of Gorilla trekking, and quarantine requirements. ('Coronavirus\u2019, \u2018Safety and security\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2020-12-17T17:13:47.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions in Rwanda ('Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-12-30T11:49:14.000Z"
+                },
+                {
+                    "note": "Update to information on restrictions in public places and on services ('Coronavirus' page).",
+                    "public_timestamp": "2021-01-06T11:07:06.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from Rwanda on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T01:07:50.000Z"
+                },
+                {
+                    "note": "The city of Kigali is in lockdown.  Kigali International Airport remains open.  Travel between Kigali and other provinces and districts of Rwanda are restricted.  Curfew outside of Kigali is from 6pm and 4am  ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-19T18:59:10.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to Rwanda. From 4am on 29 January, visitors who have been in or transited through Rwanda in the previous 10 days cannot enter Wales. From 1pm on 29 January, visitors who have been in or transited through Rwanda in the previous 10 days cannot enter England and Scotland. From 4am on 30 January, visitors who have been in or transited through Rwanda in the previous 10 days cannot enter Northern Ireland. ('Summary' page)",
+                    "public_timestamp": "2021-01-28T20:45:19.000Z"
+                },
+                {
+                    "note": "Updated information on Coronavirus restrictions, testing requirements and Ebola in the Democratic Republic of Congo ('Coronavirus', \u2018Entry requirements\u2019 and \u2018Health\u2019 pages).",
+                    "public_timestamp": "2021-02-11T11:55:49.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from Rwanda. ('Summary' page)\r\n",
+                    "public_timestamp": "2021-02-16T17:31:59.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus quarantine restrictions.  New information on Ebola in the Democratic Republic of Congo. (\u2018Summary\u2019, \u2018Entry requirements\u2019 and \u2018Health\u2019 pages)",
+                    "public_timestamp": "2021-02-16T17:56:42.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Rwanda (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-17T12:53:21.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from Rwanda ('Summary' page) ",
+                    "public_timestamp": "2021-02-19T15:47:33.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Rwanda",
+                    "public_timestamp": "2021-03-04T17:59:52.000Z"
+                },
+                {
+                    "note": "Updated information on entry restrictions and COVID-19 measures (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-03-12T16:09:37.000Z"
+                },
+                {
+                    "note": "Updated information on entry restrictions and COVID-19 measures in Rwanda (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-03-19T12:37:03.000Z"
+                },
+                {
+                    "note": "New information on how to get COVID-19 vaccines if you live in Rwanda ('Coronavirus' page) ",
+                    "public_timestamp": "2021-03-25T12:22:20.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-04-20T16:04:34.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures, entry to Rwanda from India and Ebola in the DRC (\u2018Coronavirus\u2019, \u2018Entry requirements\u2019 and \u2018Health\u2019 pages)",
+                    "public_timestamp": "2021-05-07T14:53:40.000Z"
+                },
+                {
+                    "note": "Update to information on the eruption of Mount Nyiragongo in Democratic Republic of Congo (DRC) near Goma, and near the border with Rwanda (\u2018Summary\u2019 and \u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2021-05-22T20:40:17.000Z"
+                },
+                {
+                    "note": "Update to information on the eruption of Mount Nyiragongo (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2021-05-24T14:37:35.000Z"
+                },
+                {
+                    "note": "Update to information on the eruption of Mount Nyiragongo (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2021-05-25T19:20:17.000Z"
+                },
+                {
+                    "note": "Updated information on the ongoing impact in Rwanda of the eruption of Mount Nyiragongo in the Democratic Republic of Congo (DRC) (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2021-05-26T15:32:29.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all but essential travel to the town of Gisenyi in Rubavu district, following the eruption of Mount Nyiragongo volcano in Democratic Republic of Congo (DRC) ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-05-27T14:25:06.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures in Rwanda ('Summary' and 'Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-06-04T15:23:24.000Z"
+                },
+                {
+                    "note": "In relation to the eruption of Mount Nyiragongo volcano in Democratic Republic of Congo (DRC), the FCDO no longer advises against all but essential travel to the town of Gisenyi in Rubavu district, for those already in Rwanda.  ",
+                    "public_timestamp": "2021-06-09T10:06:48.000Z"
+                },
+                {
+                    "note": "Updated information on the introduction of a lockdown in Gisenyi, Rubavu district and movement restrictions in other locations (\u2018Summary\u2019 and \u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-06-18T09:08:30.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions in response to COVID-19 and entry requirements, including mandatory quarantine for passengers arriving from Uganda (\u2019Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-06-23T16:10:30.000Z"
+                },
+                {
+                    "note": "Updated information on additional restrictions in Rwanda due to COVID-19 (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2021-06-30T15:51:48.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions in Rwanda due to COVID-19 including a lockdown in Kigali (\u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-07-16T19:42:53.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Rwanda (\u2018Coronavirus\u2019 page) \r\n",
+                    "public_timestamp": "2021-07-26T15:09:04.000Z"
+                },
+                {
+                    "note": "Updated information on the extension of lockdown in Kigali and eight other districts. Addition of information on what to do if you test positive for COVID-19 in Rwanda (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-07-29T12:10:30.000Z"
+                },
+                {
+                    "note": "From 1 to 15 August there is a nationwide curfew between the hours of 6pm and 4am. All businesses must close by 5pm.  All social gatherings are prohibited.  Restaurants and cafes can only provide takeaway services ('Coronavirus' and 'Safety and security' pages). ",
+                    "public_timestamp": "2021-08-01T11:48:15.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions ('Coronavirus' and 'Safety and security' page). ",
+                    "public_timestamp": "2021-08-13T08:49:59.000Z"
+                },
+                {
+                    "note": "Updated information on access to COVID-19 vaccinations ('Coronavirus' page)",
+                    "public_timestamp": "2021-08-17T09:32:51.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 ('Coronavirus' page)",
+                    "public_timestamp": "2021-08-27T10:23:43.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-02T15:25:18.000Z"
+                },
+                {
+                    "note": "Removal of information on the requirement for passengers arriving from Uganda and India to quarantine for 7 days ",
+                    "public_timestamp": "2021-09-07T15:05:18.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions and access to vaccines if you live in Rwanda (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-09-24T13:34:38.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Rwanda will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland. ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-10-07T17:04:49.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Rwanda, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-11T09:45:11.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures. Fully vaccinated travellers are no longer required to quarantine in hotels upon arrival, but all passengers must still take PCR tests on arrival. (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages) ",
+                    "public_timestamp": "2021-10-15T14:29:04.000Z"
+                },
+                {
+                    "note": "Updated information on Ebola in neighbouring Democratic Republic of Congo (DRC)(\u2018Summary\u2019 and \u2018Health\u2019 pages) ",
+                    "public_timestamp": "2021-10-28T11:46:44.000Z"
+                },
+                {
+                    "note": "Updated information on the Government of Rwanda\u2019s guidance for passengers arriving to and departing from Rwanda (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2021-11-05T12:02:09.000Z"
+                },
+                {
+                    "note": "Updated information on the Government of Rwanda\u2019s measures in response to COVID-19 including the reinstatement of the obligatory 24-hour quarantine in designated hotels for all people arriving into Rwanda, effective 1200 noon on Sunday 28 November (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages) ",
+                    "public_timestamp": "2021-11-26T20:20:47.000Z"
+                },
+                {
+                    "note": "Updated information on the Government of Rwanda\u2019s measures in response to the COVID-19 Omicron variant, including the temporary suspension of direct flights between Rwanda and southern Africa and updated guidance for people arriving to and departing from Rwanda. (See \u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages) ",
+                    "public_timestamp": "2021-11-29T18:18:07.000Z"
+                },
+                {
+                    "note": "Updated information on how to get a COVID-19 vaccine if you live in Rwanda ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-08T13:50:35.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine and testing for arriving passengers ('Coronavirus' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-12-15T17:14:31.000Z"
+                },
+                {
+                    "note": "Updated information on public health measures in response to COVID-19, and quarantine exemptions for some tourists ('Coronavirus', 'Safety and security\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-12-20T15:05:36.000Z"
+                },
+                {
+                    "note": "Updated information on public health measures in response to COVID-19 and quarantine and testing requirements, taking effect on 10 January ('Coronavirus', and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-01-07T18:58:25.000Z"
+                },
+                {
+                    "note": "Updated information on the end of the Ebola outbreak in the DRC ('Health\u2019 page)",
+                    "public_timestamp": "2022-01-13T10:57:46.000Z"
+                },
+                {
+                    "note": "Updated information COVID-19 measures including around testing on arrival ('Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-01-28T14:03:12.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures including around lifting of the curfew on movement and the requirement for rapid testing on day 3 after arrival, the opening of land borders and the requirement to present COVID-19 tests before attending events ('Coronavirus\u2019, \u2018Safety and security\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-03-09T15:53:21.000Z"
+                },
+                {
+                    "note": "Full review of Rwanda's entry requirements ('Entry requirements' page) and edits to 'Coronavirus' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-03-17T09:36:13.000Z"
+                },
+                {
+                    "note": "Updated information on the threat from terrorism (See \u2018Summary\u2019 and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2022-03-30T12:24:45.000Z"
+                },
+                {
+                    "note": "Updated information on PCR and rapid test requirements for entry and departure ('Entry requirements' page)",
+                    "public_timestamp": "2022-04-12T16:05:47.000Z"
+                },
+                {
+                    "note": "Updated information on the use of face masks (\u2018Coronavirus\u2019 page) and on PCR and rapid test requirements for entry and departure ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-16T12:43:59.000Z"
+                },
+                {
+                    "note": "Updated information on security at the DRC border in the North West (\u201cSafety and Security\u201d page) ",
+                    "public_timestamp": "2022-06-11T13:05:59.000Z"
+                },
+                {
+                    "note": "Updated information requirements for entry and departure for all travellers; Requirements for entry and departure for Commonwealth Heads of Government Meeting (CHOGM) delegates (Entry requirements)",
+                    "public_timestamp": "2022-06-15T17:15:24.000Z"
+                },
+                {
+                    "note": "Updated information requirements for entry and departure for all travellers and requirements for entry and departure for Commonwealth Heads of Government Meeting (CHOGM) delegates ('Entry requirements page' page)",
+                    "public_timestamp": "2022-06-16T13:47:21.000Z"
+                },
+                {
+                    "note": "Updated information on the Commonwealth Heads of Government Meeting (\u2018Summary\u2019) and security at the DRC border (\u2018Safety and Security\u2019 page) ",
+                    "public_timestamp": "2022-06-18T15:32:29.000Z"
+                },
+                {
+                    "note": "Addition of information on an attack on a public passenger bus on Nyamagabe-Rusizi road in Nyungwe Forest, Nyamgabe District by suspected militants ('Safety and security' page)",
+                    "public_timestamp": "2022-06-21T08:33:45.000Z"
+                },
+                {
+                    "note": "Removal of information on the Commonwealth Heads of Government Meeting in Kigali ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-07-08T11:42:03.000Z"
+                },
+                {
+                    "note": "Updated information on possible demonstrations in Goma in July ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-07-14T09:21:26.000Z"
+                },
+                {
+                    "note": "Updated information on no longer requiring proof of a negative COVID-19 test or a Passenger Locator Form before arrival ('Entry requirements' page).",
+                    "public_timestamp": "2022-08-24T08:43:35.000Z"
+                },
+                {
+                    "note": "Updated information on flooding in the north west of Rwanda ('Summary' page).",
+                    "public_timestamp": "2023-05-04T15:24:36.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:26:55.000Z"
+                }
+            ],
+            "country": {
+                "name": "Rwanda",
+                "slug": "rwanda",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/rwanda/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/rwanda/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Rwanda\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Rwanda is generally safe and crime levels are relatively low, but street crime does occur. There have been reports of burglary, theft and mugging in Kigali in recent months. You should take precautions with valuables and remain vigilant. See <a href=\"/foreign-travel-advice/rwanda/safety-and-security#crime\">Crime</a></p>\n\n<p>The security situation near the border with the Democratic Republic of Congo (DRC) and Burundi remains unstable, and there has previously been armed attacks in Rwanda\u2019s Nyungwe Forest and Volcanoes National Parks and neighbouring areas.  If you\u2019re travelling near the DRC or Burundi borders, you should be aware of the risk of attacks and Government of Rwanda security operations. Exercise caution and keep up to date with developments on the current situation, including via your tour operator, the local media and this travel advice. See <a href=\"/foreign-travel-advice/rwanda/safety-and-security#local-travel\">Local travel</a></p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n\n<p>Terrorist attacks in Rwanda can\u2019t be ruled out. See <a href=\"/foreign-travel-advice/rwanda/terrorism\">Terrorism</a></p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n<p>Check the latest information on risk from COVID-19 for Rwanda on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/187/rwanda#COVID-19\">TravelHealthPro website</a>.</p>\n\n<p>See the TravelHealthPro website for further advice on travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic.</p>\n\n<p>The Government of Rwanda continues to encourage the use of voluntary COVID-19 testing facilities.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>Kigali Airport is open. Commercial flights to and from Rwanda are running as normal.</p>\n\n<p>Check with your travel company / airline, and the website of the <a rel=\"external\" href=\"https://www.primature.gov.rw/index.php?id=2\">Office of the Prime Minister</a>, and the <a rel=\"external\" href=\"https://twitter.com/PrimatureRwanda\">Twitter account of the Office of the Prime Minister</a> for the latest information.</p>\n\n<p>The Government of Rwanda has published updated <a rel=\"external\" href=\"https://www.rbc.gov.rw/fileadmin/user_upload/annoucement/Info_note_for_passengers_arriving_in_Rwanda.pdf\">guidance for passengers arriving in and departing from Rwanda</a>.</p>\n\n<p>All Rwandan travellers aged 12 years and above must show proof of full vaccination before departing Rwanda by air.</p>\n\n<p>A COVID-19 test is no longer a requirement to depart Rwanda by air. However, COVID-19 testing (at own cost) is available for all travellers whose final destination requires one, at health centres and other designated sites. Travellers are advised to check with airlines about the COVID-19 requirements of the final destination and/or transit countries and plan for their RT-PCR test accordingly.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n\n<p>See <a href=\"/foreign-travel-advice/rwanda/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Rwanda.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19 in Rwanda before returning to the UK, the local authorities will expect the vast majority of people to self-isolate at home for 14 days or until you test negative for COVID-19. If you are visiting and staying in a hotel, you may be asked to self-isolate in your room, or to relocate to another hotel or another floor in your current hotel.</p>\n\n<p>If you test positive, the Rwanda Biomedical Centre (RBC) will follow up and offer further tests until you test negative. You will be expected to self-isolate after testing positive and the RBC will conduct checks to ensure self-isolation compliance.</p>\n\n<p>The RBC will monitor your symptoms and if they are serious, you may be moved to a treatment centre.</p>\n\n<p>Further information about what to do if you test positive for COVID-19 in Rwanda and how you can keep in contact with the health system can be found on the <a rel=\"external\" href=\"https://www.rbc.gov.rw/index.php?id=760\">RBC website</a>.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-rwanda\">Travel in Rwanda</h2>\n\n<p>Movements nationwide are no longer prohibited.</p>\n\n<p>The Office of the Prime Minister publishes communiques setting out details of measures in response to COVID-19, on their <a rel=\"external\" href=\"http://www.primature.gov.rw/\">website</a>, normally every two weeks, and on the <a rel=\"external\" href=\"https://twitter.com/PrimatureRwanda\">Twitter account of the Office of the Prime Minister</a>.</p>\n\n<p>All tourists are required to take a PCR test 72 hours prior to visiting Rwanda\u2019s national parks, apart from Akagera National Park, at their own cost. Tests can be booked by appointment via <a href=\"mailto:reservations@rdb.rwor\">reservations@rdb.rwor</a>, tel: +250 (0)788313800. Tourists visiting Akagera National Park and other tourist destinations are required to take a rapid antigen test, which are available at numerous walk-in clinics in Kigali for RWF 5,000. Tourists without a negative test result will not be admitted to the national parks.</p>\n\n<h2 id=\"accommodation\">Accommodation</h2>\n\n<p>Accommodation is open and available for bookings.</p>\n\n<h2 id=\"public-places-and-services\">Public places and services</h2>\n\n<p>The Government of Rwanda is taking measures to respond to COVID-19. Citizens and residents of Rwanda must be fully vaccinated in order to access public places. People attending any event must present a negative COVID-19 test result taken within 48 hours prior to meeting. Wearing face masks is no longer mandatory (but people are  encouraged to wear masks indoors).  More details about the <a rel=\"external\" href=\"https://twitter.com/PrimatureRwanda/status/1470901104972115970\">latest measures</a> have been published on the <a rel=\"external\" href=\"https://twitter.com/PrimatureRwanda\">Twitter account of the Office of the Prime Minister</a>.</p>\n\n<p>The Prime Minister\u2019s office publishes communiques setting out details of measures in response to COVID-19, including movement restrictions, on their <a rel=\"external\" href=\"http://www.primature.gov.rw/\">website</a>, normally every two weeks.</p>\n\n<h2 id=\"healthcare\">Healthcare</h2>\n\n<p>For contact details for English speaking doctors <a href=\"https://www.gov.uk/government/publications/rwanda-list-of-medical-facilities\">visit our list of healthcare providers</a>.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a>.</p>\n\n<p>View <a href=\"/foreign-travel-advice/rwanda/health\">Health</a> for further details on healthcare in Rwanda.</p>\n\n<p>See also the guidance on <a href=\"/guidance/healthcare-support-for-when-you-are-unable-to-return-to-the-uk-during-coronavirus-covid-19\">healthcare if you\u2019re waiting to return to the UK</a>.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a></p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<p>If you need urgent consular assistance, contact your <a href=\"/world/embassies\">nearest British embassy, high commission or consulate</a>. All telephone numbers are available 24/7.</p>\n\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h2 id=\"local-travel\">Local travel</h2>\n\n<p>The eastern part of the Democratic Republic of Congo (DRC) which neighbours Rwanda remains unstable, and conflict can flare up with little notice. There have been incidents of violent clashes on the DRC-Rwanda border in recent years, and armed incursions into the southwest of Rwanda. On 10 June 2022 artillery fire from within DRC hit Rwandan territory close to the border in Kinigi sector of Musanze district in the North West. This follows a similar incident in May. Tourists sites have not been affected and the Rwandan government have assured residents and visitors that the area remains secure, but given instability in DRC further such incidents cannot be ruled out.</p>\n\n<p>If you plan to visit areas close to the DRC or Burundi borders, such as popular tourist destinations including Volcanoes and Nyungwe National Parks, you should be alert to the risks and exercise caution.</p>\n\n<p>On 18 June, two people were killed and six were injured when suspected militants opened fire on a public passenger bus on Nyamagabe-Rusizi road, in Nyungwe Forest, Nyamgabe District.</p>\n\n<p>All travellers should keep up to date with developments on the current situation, including via your tour operator, the local media and this travel advice.</p>\n\n<p>The land border crossings between Rwanda and the DRC at Gisenyi/Goma and Cyangugu/Bukavu are open although the hours of operation may vary. If you\u2019re crossing regularly between Rwanda and the DRC you may encounter immigration difficulties if you have not regularised your residency status.</p>\n\n<h2 id=\"gorilla-trekking\">Gorilla trekking</h2>\n\n<p>Gorilla trekking is open in the Volcanoes National Park.</p>\n\n<p>If you plan to travel close to the border with the DRC you should remain aware of the risks, exercise caution, and keep up to date with developments on the current situation, including via your tour operator, the local media and this travel advice.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Levels of crime remain relatively low in Rwanda, but there are cases of  burglary, theft, bag snatching and mugging in Kigali.</p>\n\n<p>You should take sensible precautions. Take care when walking at night. Pre-arrange transport. Lock car doors when driving, don\u2019t leave valuables in cars when parked and don\u2019t leave cars unsupervised in the town centre. Don\u2019t carry large amounts of money or other valuables.</p>\n\n<p>Some off-limits military zones in Kigali may not be well-lit or signposted. You should take extra care when walking around less populated zones, particularly at night time.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>You can drive using a UK driving licence or an <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">International Driving Permit</a>\u00a0for up to one year, after which you should apply for a Rwandan licence. To apply for a local driving licence, you need to write a letter of application to the Commissioner Traffic and Road Safety attaching your existing licence and a copy of your visa or Foreign Resident ID card, and pay a fee.</p>\n\n<p>Roads from Kigali to all major towns are good. There can be landslides during the annual rains in late spring and autumn. Avoid road travel after dark as roads are unlit and driving standards are poor.</p>\n\n<p>Shared taxis (mini-vans) and motorbike taxis are the most common form of public transport within towns and around the country. However, they are also the most vulnerable to accidents.</p>\n\n<p>Public transport may be affected by COVID-19 prevention measures. See <a href=\"/foreign-travel-advice/rwanda/coronavirus\">Coronavirus</a></p>\n\n<h2 id=\"air-travel\">Air travel</h2>\n\n<p>Before using internal or regional flights that are not with major international carriers, you should check the airline\u2019s accreditation and see whether the airline operates in line with the International Civil Aviation Organisation\u2019s (ICAO) safety standards.</p>\n\n<h2 id=\"health-and-safety\">Health and safety</h2>\n\n<p>Levels of health and safety in Rwanda are lower than in the UK. There have been incidences of buildings and construction sites collapsing, causing deaths and serious injuries. Fire safety standards are also variable, with incidences of fire in residential and public places a continuing risk.</p>\n\n<p>There have been a number of building fires apparently caused by poor wiring and substandard electrical cables. Take extra care when using electronic equipment.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorist attacks in Rwanda can\u2019t be ruled out.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Photography of some government buildings is prohibited.</p>\n\n<p>Plastic bags have been banned for environmental reasons. Visible plastic bags will be confiscated on arrival at the airport.</p>\n\n<p>The week following Genocide Memorial Day on 7 April is designated an official week of mourning.</p>\n\n<p>The last Saturday of each month is Umuganda, which is a national day of community service, during which most normal services close down from 7am to 11am. The first and third Sunday of the month, the city of Kigali has a car free morning from 7am to 10am to promote exercise healthy living and to reduce car emissions. Other districts in the country have followed suit in the two consecutive Sundays.</p>\n\n<p>Local festivals may be affected by COVID-19 prevention measures. \nSee <a href=\"/foreign-travel-advice/rwanda/coronavirus\">Coronavirus</a></p>\n\n<h2 id=\"lgbt-issues\">LGBT issues</h2>\n<p>Homosexuality is not illegal in Rwanda but remains frowned on by many. LGBT individuals can experience discrimination and abuse, including from local authorities. There are no specific anti-discrimination laws that protect LGBT individuals. See our information and advice page for the LGBT community before you travel.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Rwanda.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Rwanda set and enforce entry rules. If you\u2019re unsure how Rwanda\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>The Government of Rwanda has published updated <a rel=\"external\" href=\"https://www.rbc.gov.rw/index.php?id=745\">guidance for passengers arriving in and departing from Rwanda</a>.</p>\n\n<p>Rwanda no longer requires proof of a negative COVID-19 test before arrival into Rwanda. completing a Passenger Locator Form is also no longer required.</p>\n\n<p>Certain meeting venues and national parks still require Covid tests. Testing is available at health facilities and other designated sites for 5,000 RWF (or US$5) for rapid antigen tests, and 50,000 RWF (or US$50) for PCR tests (required to access Virunga National Park). Rwandan citizens pay a subsidized cost for PCR tests of 30,000 RWF (or US$30)</p>\n\n<p>You should monitor the <a rel=\"external\" href=\"https://www.primature.gov.rw/index.php?id=2\">website of the office of the Prime Minister of Rwanda</a> and the <a rel=\"external\" href=\"https://twitter.com/PrimatureRwanda\">Twitter account of the Office of the Prime Minister</a> for further updates.</p>\n\n<p>You will need a visa to enter or travel through Rwanda as a visitor.</p>\n\n<p>See <a href=\"https://www.gov.uk/foreign-travel-advice/rwanda/entry-requirements#visas\">Visas</a> section below for more information on how to obtain a visa.</p>\n\n<h2 id=\"if-youre-fully-vaccinated\">If you\u2019re fully vaccinated</h2>\n\n<p>Entry requirements for Rwanda are the same for all travellers, regardless of COVID-19 vaccination status.</p>\n\n<p>See <a href=\"https://www.gov.uk/foreign-travel-advice/rwanda/entry-requirements#all-travellers\">All travellers</a> section</p>\n\n<h3 id=\"proof-of-vaccination-status\">Proof of vaccination status</h3>\n\n<p>You do not need to present proof that you have been fully vaccinated to enter Rwanda. However incoming travellers eligible for COVID-19 vaccinations (aged 12 years and above) are encouraged to be fully vaccinated before their travel.</p>\n\n<h2 id=\"if-youre-not-fully-vaccinated\">If you\u2019re not fully vaccinated</h2>\n\n<p>Entry requirements for Rwanda are the same for all travellers, regardless of COVID-19 vaccination status.</p>\n\n<p>See <a href=\"https://www.gov.uk/foreign-travel-advice/rwanda/entry-requirements#all-travellers\">All travellers</a> section</p>\n\n<h3 id=\"if-youve-had-covid-19-in-the-past-year\">If you\u2019ve had COVID-19 in the past year</h3>\n\n<p>Entry requirements for Rwanda are the same for all travellers, regardless if you\u2019ve had COVID-19 in the past year.</p>\n\n<p>See <a href=\"https://www.gov.uk/foreign-travel-advice/rwanda/entry-requirements#all-travellers\">All travellers</a> section</p>\n\n<h2 id=\"children-and-young-people\">Children and young people</h2>\n\n<p>Incoming travellers eligible for COVID-19 vaccinations (aged 12 years and above) are encouraged to be fully vaccinated before their travel.</p>\n\n<p>COVID-19 tests are not mandatory for entry for accompanied children under 5 years.</p>\n\n<h2 id=\"if-youre-transiting-through-rwanda\">If you\u2019re transiting through Rwanda</h2>\n\n<p>The Passenger Locator Form is no longer a requirement before departure. An additional COVID-19 test is no longer required upon arrival at Kigali International Airport for transiting/connecting travellers.</p>\n\n<h2 id=\"exemptions\">Exemptions</h2>\n\n<p>There are no exemptions to Rwanda\u2019s entry requirements.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>Your passport should be valid for at least 6 months from the date of entry into Rwanda. You\u2019ll need one blank page on your passport for entry stamps.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>You need a visa to enter Rwanda. Thirty-day tourist visas are free and available on arrival for citizens of member states of the Commonwealth (including the UK), as well as for those of the African Union and the Francophonie.</p>\n\n<p>You can also choose to get a visa in advance at any Rwandan diplomatic mission or <a rel=\"external\" href=\"http://www.migration.gov.rw/\">online</a>. Further information about visa requirements is available from the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">Rwandan High Commission</a>.</p>\n\n<p>If you\u2019re planning to apply for resident/business or missionary multiple entry visas on entry to Rwanda you will need to get UK police clearance before you travel. You can find details of how to do this on the <a rel=\"external\" href=\"https://www.acro.police.uk/s/\">ACRO Criminal Records Office website</a>. This usually takes a minimum of 10 working days to process.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/187/rwanda#Vaccine_recommendations\">TravelHealthPro website</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/rwanda/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a>\nof the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<div class=\"call-to-action\">\n  <p><strong>Coronavirus (COVID-19)</strong></p>\n\n  <p>Check the latest information on risk from COVID-19 for Rwanda on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/187/rwanda#COVID-19\">TravelHealthPro website</a></p>\n\n  <p>See the healthcare information in the <a href=\"/foreign-travel-advice/rwanda/coronavirus\">Coronavirus section</a> for information on what to do if you think you have coronavirus while in Rwanda.</p>\n</div>\n\n<h3 id=\"medical-treatment\">Medical treatment</h3>\n<p>According to Rwandan law, any person on Rwandan territory must have health insurance.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 112 and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n\n<p>Only limited medical facilities are available in Rwanda. In the event of serious accident or illness evacuation by air ambulance to Kenya or South Africa may be required. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<h3 id=\"ebola\">Ebola</h3>\n\n<p>Visitors should be aware that the Democratic Republic of Congo\u2019s (DRC) 13th Ebola outbreak was declared over on 16 December 2021. The outbreak began on 8 October 2021 in Beni, North Kivu province in eastern DRC. There have been no new cases since 30 October. North Kivu province borders Uganda and Rwanda. Further information and updates on Ebola can be found on the <a rel=\"external\" href=\"https://www.afro.who.int/health-topics/ebola-virus-disease\">WHO website</a> and the <a href=\"https://www.gov.uk/guidance/ebola-and-marburg-haemorrhagic-fevers-outbreaks-and-case-locations#current-incidents-and-outbreaks\">Public Health England (PHE) website</a>. Public Health England has <a href=\"https://www.gov.uk/government/publications/ebola-virus-disease-information-for-workers-in-at-risk-countries\">guidance</a> for humanitarian or healthcare workers travelling to countries at risk of Ebola.</p>\n\n<h3 id=\"other-health-risks\">Other health risks</h3>\n\n<p>There is a high risk of malaria in all areas of Rwanda, including Kigali.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>There are occasional earthquakes. You can find a real-time earthquake map and further information about earthquakes in Rwanda on the website of the US Geological Survey.\nIn the event of an earthquake, monitor local media reports and follow the advice of the local authorities. The <a rel=\"external\" href=\"http://www.ready.gov/earthquakes\">US Federal Emergency Management Agency</a> has advice on what to do before, during and after an earthquake.</p>\n\n<p>On 22 May 2021, Mount Nyiragongo volcano in Democratic Republic of Congo (DRC), close to the city of Goma, and near the border with Rwanda and the Rwandan city of Gisenyi, erupted. Subsequent seismic activity was felt in Rwanda.</p>\n\n<h3 id=\"rainy-season\">Rainy season</h3>\n\n<p>The rainy season in much of Rwanda runs from February to May and from September to December.  April being the height of the rainy season.  Heavy storms can cause disruption and damage including landslides and floods. You should monitor local media reports and follow the advice of local authorities.</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "<p>The Rwandan Franc is the dominant currency and you should expect to pay for transport and in smaller shops using cash.</p>\n\n<p>There are ATMs in Kigali, but not all of them accept foreign cards. Credit cards are increasingly accepted in larger bars, restaurants and in many supermarkets.</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, send the Travel Advice team <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Rwanda&amp;post=Rwanda%20travel%20advice%20team\">a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Rwanda&amp;post=Rwanda%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-06-22T10:26:55Z",
+            "updated_at": "2023-11-03T17:36:39Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-11T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/rwanda",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/rwanda",
+                    "base_path": "/foreign-travel-advice/rwanda",
+                    "content_id": "25d2eeab-5494-4fe7-b558-b478c873923d",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:26:55Z",
+                    "schema_name": "travel_advice",
+                    "title": "Rwanda travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/rwanda",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/rwanda",
+                    "api_url": "https://www.gov.uk/api/content/world/rwanda",
+                    "base_path": "/world/rwanda",
+                    "content_id": "f0b954ef-4599-4db4-91a3-4cde5e750f2e",
+                    "description": "Services if you're visiting, studying, working or living in Rwanda. Includes information about trading with and doing business in the UK and Rwanda.",
+                    "details": {
+                        "internal_name": "UK help and services in Rwanda",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:18Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Rwanda",
+                    "web_url": "https://www.gov.uk/world/rwanda",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/uganda",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/uganda",
+                    "base_path": "/foreign-travel-advice/uganda",
+                    "content_id": "77488676-da3d-4752-a6b2-f99c7691bf67",
+                    "details": {
+                        "change_description": "FCDO advises against all but essential travel to Jinja town.(\u2018Summary\u2019 page).",
+                        "country": {
+                            "name": "Uganda",
+                            "slug": "uganda",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-13T21:23:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "Uganda travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/uganda",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tanzania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tanzania",
+                    "base_path": "/foreign-travel-advice/tanzania",
+                    "content_id": "203432b1-e296-4ffe-9fc9-dcfe110c0d67",
+                    "details": {
+                        "change_description": "(CORRECTION) Terrorists are very likely to try to carry out attacks in Tanzania in the near future.",
+                        "country": {
+                            "name": "Tanzania",
+                            "slug": "tanzania",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T12:04:47Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tanzania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tanzania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sudan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sudan",
+                    "base_path": "/foreign-travel-advice/sudan",
+                    "content_id": "deee5c29-5006-4280-bb46-44c0bd7a6a11",
+                    "details": {
+                        "change_description": "Information on the risk of protests in Sudan due to the current conflict in Israel and the Occupied Palestinian Territories (\u2018safety and security\u2019 page).",
+                        "country": {
+                            "name": "Sudan",
+                            "slug": "sudan",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-27T14:33:59Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sudan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sudan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/democratic-republic-of-the-congo",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/democratic-republic-of-the-congo",
+                    "base_path": "/foreign-travel-advice/democratic-republic-of-the-congo",
+                    "content_id": "88122213-1a2f-420f-94f9-c622147d4300",
+                    "details": {
+                        "change_description": "Information about a recent increase in violence in eastern DRC ('Summary' page and 'Safety and security' page).",
+                        "country": {
+                            "name": "Democratic Republic of the Congo",
+                            "slug": "democratic-republic-of-the-congo",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-01T13:32:40Z",
+                    "schema_name": "travel_advice",
+                    "title": "Democratic Republic of the Congo travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/democratic-republic-of-the-congo",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/south-africa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/south-africa",
+                    "base_path": "/foreign-travel-advice/south-africa",
+                    "content_id": "e4649806-d58a-40f7-b86d-09a4376c25a0",
+                    "details": {
+                        "change_description": "Information on 'smash and grab' attacks on vehicles ('Safety and security' page).\r\n\r\nInformation on the less secure areas around international airports in Johannesburg and Cape Town ('Safety and security' page).\r\n\r\nAdditional information on asking for a life-jacket when participating in water sports ('Safety and security' page).\r\n\r\n",
+                        "country": {
+                            "name": "South Africa",
+                            "slug": "south-africa",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T12:12:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "South Africa travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/south-africa",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-rwanda",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-rwanda",
+                    "base_path": "/world/living-in-rwanda",
+                    "content_id": "f530389e-a54e-4057-89dd-9aa8627aa8ad",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Rwanda",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/rwanda",
+                                "api_url": "https://www.gov.uk/api/content/world/rwanda",
+                                "base_path": "/world/rwanda",
+                                "content_id": "f0b954ef-4599-4db4-91a3-4cde5e750f2e",
+                                "description": "Services if you're visiting, studying, working or living in Rwanda. Includes information about trading with and doing business in the UK and Rwanda.",
+                                "details": {
+                                    "internal_name": "UK help and services in Rwanda",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:18Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Rwanda",
+                                "web_url": "https://www.gov.uk/world/rwanda",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:41Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Rwanda",
+                    "web_url": "https://www.gov.uk/world/living-in-rwanda",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-rwanda",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-rwanda",
+                    "base_path": "/world/travelling-to-rwanda",
+                    "content_id": "6f9dfe8c-de1b-4d35-9365-9682382aad28",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Rwanda",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/rwanda",
+                                "api_url": "https://www.gov.uk/api/content/world/rwanda",
+                                "base_path": "/world/rwanda",
+                                "content_id": "f0b954ef-4599-4db4-91a3-4cde5e750f2e",
+                                "description": "Services if you're visiting, studying, working or living in Rwanda. Includes information about trading with and doing business in the UK and Rwanda.",
+                                "details": {
+                                    "internal_name": "UK help and services in Rwanda",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:18Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Rwanda",
+                                "web_url": "https://www.gov.uk/world/rwanda",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:41Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Rwanda",
+                    "web_url": "https://www.gov.uk/world/travelling-to-rwanda",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-06-22T10:26:55Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1699032999.231-10.13.21.84-40347",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Rwanda travel advice",
+        "updated_at": "2023-11-15T10:47:04Z",
+        "withdrawn_notice": {}
+    }
+}

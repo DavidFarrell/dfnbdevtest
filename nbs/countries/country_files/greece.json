@@ -1,0 +1,1620 @@
+{
+    "Country Slug": "greece",
+    "Country Name": "Greece",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/greece",
+        "content_id": "c5018a34-3aaa-40e4-b90f-cf73539a0978",
+        "description": "FCDO travel advice for Greece. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information on planned demonstrations in Athens  and major university cities, including Thessaloniki and Heraklion, on 17 November ('Warnings and insurance' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU",
+                    "public_timestamp": "2018-11-22T18:19:41.536Z"
+                },
+                {
+                    "note": "Latest update: Summary - On Wednesday 28 November there will be a 24-hour national strike by the General Confederation of Greek Labor (GSEE); there will be no metro, train, tram or trolley services in Athens, while buses will only run from 9am to 9pm; there will be no ferry services across Greece as from midnight; you should contact your ferry company or travel agent for more information\r\n",
+                    "public_timestamp": "2018-11-27T15:17:03.614Z"
+                },
+                {
+                    "note": "Latest update: this advice has been reviewed in full, with minor editorial amendments to the Summary and Health section",
+                    "public_timestamp": "2019-01-07T14:08:40.066Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T18:03:40.015Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T13:58:44.065Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T18:04:44.068Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T11:47:23.295Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Greece",
+                    "public_timestamp": "2019-03-25T18:29:53.603Z"
+                },
+                {
+                    "note": "Latest update: Summary - As of 7 April 2019, the Hellenic Police will begin implementing systematic passport control checks for all European citizens travelling to/from destinations outside the Schengen area (including the UK) in line with a 2017 Schengen Borders Code regulation; increased waiting times at passport control are possible on departure from and arrival into Greece; you should ensure you arrive at the airport in good time",
+                    "public_timestamp": "2019-04-03T13:08:20.450Z"
+                },
+                {
+                    "note": "Summary - As of 7 April 2019, the Hellenic Police will begin implementing systematic passport control checks for all European citizens travelling to/from destinations outside the Schengen area (including the UK). This is in line with the 2017 Schengen Borders Code regulation EU 2017/458, which will eventually be applied by all Schengen member states according to the individual timescales. Waiting times at passport control may be affected on departure from and arrival into Greece. You should ensure you arrive at the airport in good time. ",
+                    "public_timestamp": "2019-04-05T18:10:02.186Z"
+                },
+                {
+                    "note": "Latest update: Summary -  revised information on banking and cash",
+                    "public_timestamp": "2019-06-11T14:44:06.406Z"
+                },
+                {
+                    "note": "Summary - a reported 5.1 magnitude earthquake occurred on 19 July in Magoula, Attica region, and was felt strongly in Athens; local authorities are responding; if you\u2019re in the region you should follow the advice of local authorities; further information is available on the Greek General Secretariat for Civil Protection website",
+                    "public_timestamp": "2019-07-19T13:13:30.000Z"
+                },
+                {
+                    "note": "Safety and security section (Road travel) - updates to information and advice on vehicle hire",
+                    "public_timestamp": "2019-07-24T15:56:35.000Z"
+                },
+                {
+                    "note": "Natural disasters, Safety and security (Road travel) sections and Summary updated - factual information on Magoula earthquake on 19 July moved from Summary to Natural disasters section; updated advice and information on quad bike rental",
+                    "public_timestamp": "2019-08-08T10:38:15.000Z"
+                },
+                {
+                    "note": "Summary- The Greek authorities have reported a wildfire in Elafonisos in the Pelaponessus. They are evacuating nearby campsites and hotels. They have raised the wildfire alert to category 5, red alert. ",
+                    "public_timestamp": "2019-08-10T12:05:14.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on wildfires that are ongoing in the Psachna area of the island of Evia (north of Athens) and in the Corianthiakos Bay area of Thiva (north-west of Athens); smoke from the fire on Evia is also affecting Athens; local authorities have advised that anyone with breathing difficulties should remain indoors and switch off air-conditioning units; if you\u2019re in affected areas, follow the advice of the Greek authorities and monitor the website of the General Secretariat for Civil Protection for updates",
+                    "public_timestamp": "2019-08-13T13:41:52.000Z"
+                },
+                {
+                    "note": "Summary - updated information on a wildfire in Illea region, Manolada. The National road between Payras and Pyrgos has been closed.  You should follow the advice of Greek authorities and monitor the website of the General Secretariat for Civil Protection for updates",
+                    "public_timestamp": "2019-08-13T16:04:39.000Z"
+                },
+                {
+                    "note": "Summary - updated information on a wildfire in Lakki, Leros in the Dodecanese; nearby Lakki beach and hospital are being evacuated; you should follow the advice of Greek authorities and monitor the website of the General Secretariat for Civil Protection for updates",
+                    "public_timestamp": "2019-08-23T14:57:43.000Z"
+                },
+                {
+                    "note": "Summary: Updated information; a wildfire has been reported on Samos, in Mesokampos village, which is close to Pythagorean; 2 hotels have been evacuated; you should follow the advice of Greek authorities and monitor the website of the General Secretariat for Civil Protection for updates",
+                    "public_timestamp": "2019-08-24T17:25:46.000Z"
+                },
+                {
+                    "note": "Summary - Tottenham Hotspur take on Olympiacos in a UEFA Champions League group stage match in Piraeus on Wednesday 18 September 2019; addition of link to dedicated information and advice page for travelling fans",
+                    "public_timestamp": "2019-09-12T13:11:32.000Z"
+                },
+                {
+                    "note": "Summary - A wildfire has been reported on Zakynthos, close to Keri Village. If you\u2019re in the area, you should follow the advice of Greek authorities and monitor the website of the General Secretariat for Civil Protection.",
+                    "public_timestamp": "2019-09-15T18:17:23.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on wildfire in Zakynthos",
+                    "public_timestamp": "2019-09-18T12:17:57.000Z"
+                },
+                {
+                    "note": "Summary - advice following the announcement that Thomas Cook has ceased trading",
+                    "public_timestamp": "2019-09-23T01:45:28.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on a series of 24-hour strikes planned between 24 and 27 September, affecting various public transport in Athens and across the country; a protest rally is also due to take place in central Athens on 24 September",
+                    "public_timestamp": "2019-09-23T16:44:15.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on strikes affecting Athens ports and public transport to Athens International Airport on 2-3 October 2019",
+                    "public_timestamp": "2019-10-01T15:58:18.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Thomas Cook ceasing to trade and strikes affecting transport on 2 - 3 October 20119",
+                    "public_timestamp": "2019-10-21T09:52:19.000Z"
+                },
+                {
+                    "note": "Summary - a large scale protest will take place in the centre of Athens on 17 November to mark the anniversary of the 1973 Athens Polytechnic uprising",
+                    "public_timestamp": "2019-11-15T16:25:37.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on a protest in the centre of Athens on 17 November",
+                    "public_timestamp": "2019-11-19T10:02:19.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T17:55:59.000Z"
+                },
+                {
+                    "note": "Summary - addition of link to advice page for the Olympiacos v Arsenal Europa League match on Thursday 20 February 2020.",
+                    "public_timestamp": "2020-02-17T14:13:42.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-02-26T17:32:08.000Z"
+                },
+                {
+                    "note": "Addition of information and advice following incidents of unrest and violence on Lesvos ('Summary' page)",
+                    "public_timestamp": "2020-03-02T18:27:06.000Z"
+                },
+                {
+                    "note": "Link to Greek National Public Health Organisation (NPHO) updated. ('Health' page)",
+                    "public_timestamp": "2020-03-05T13:37:34.000Z"
+                },
+                {
+                    "note": "Update to information and advice about coronavirus (COVID-19) (\u2018Health\u2019 page)",
+                    "public_timestamp": "2020-03-06T15:34:43.000Z"
+                },
+                {
+                    "note": "Addition of information about roadblocks, protests and violent clashes along the Greek-Turkish border ('Summary' page)",
+                    "public_timestamp": "2020-03-06T18:15:49.000Z"
+                },
+                {
+                    "note": "Addition of the National Public Health Organization\u2019s 24 hr emergency Coronavirus line ('Health' page) ",
+                    "public_timestamp": "2020-03-09T13:13:26.000Z"
+                },
+                {
+                    "note": "Addition of information about restrictions on large events and conferences due to coronavirus (COVID-19) ('Health' page).",
+                    "public_timestamp": "2020-03-09T18:25:06.000Z"
+                },
+                {
+                    "note": "National Public Health Organization\u2019s 24 hr emergency Coronavirus line number updated",
+                    "public_timestamp": "2020-03-10T15:52:19.000Z"
+                },
+                {
+                    "note": "Health \u2013 updated information on coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-14T11:43:08.000Z"
+                },
+                {
+                    "note": "Summary and Health - updated information on coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-15T18:01:30.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) including that all travellers arriving in Greece from abroad are required to go into 14 days\u2019 self-isolation. ('Summary' and 'Health' pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-16T16:01:24.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions and reduction in flight schedules related to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-19T14:23:12.000Z"
+                },
+                {
+                    "note": "Update to information on planned closure of most accommodation at midnight (local time) on 22 March due to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T15:30:03.000Z"
+                },
+                {
+                    "note": "Update to information on additional measures announced 20 March, including restrictions on travel to Greek islands (for all non-permanent island residents) due to to coronavirus (COVID-19) (Summary and Coronavirus pages) ",
+                    "public_timestamp": "2020-03-20T19:27:04.000Z"
+                },
+                {
+                    "note": "Update to reflect restrictions on movements outside the home from 23 March, due to coronavirus (COVID-19) (Coronavirus)",
+                    "public_timestamp": "2020-03-22T23:01:54.000Z"
+                },
+                {
+                    "note": "Addition of information on the suspension of direct flights between UK and Greece from midnight local time on 23 March, due to coronavirus (COVID-19) ('Coronavirus','Return to the UK' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-23T17:20:12.000Z"
+                },
+                {
+                    "note": "Addition of information on possible repatriation measures with relevance to British nationals who are permanent residents of Greece ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-26T16:45:51.000Z"
+                },
+                {
+                    "note": "Updated to reflect extension on ban on direct UK-Greece/ Greece-UK flights until 15 May; eligibility of some UK nationals for financial assistance in returning to UK; ban on swimming in public places ('Coronavirus', 'Return to the UK', and \u2018Safety and Security\u2019 pages)",
+                    "public_timestamp": "2020-04-16T14:03:11.000Z"
+                },
+                {
+                    "note": "Updated advice for those wishing to return to the UK ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-16T17:39:38.000Z"
+                },
+                {
+                    "note": "Updated information on protests, including some violent clashes along the Greek-Turkish border. ('Summary' page)",
+                    "public_timestamp": "2020-04-24T17:43:08.000Z"
+                },
+                {
+                    "note": "Updated information on measures relating to coronavirus. ('Summary' page)",
+                    "public_timestamp": "2020-05-01T18:49:25.000Z"
+                },
+                {
+                    "note": "Corrections to information removed in previous update",
+                    "public_timestamp": "2020-05-01T20:06:31.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information on measures relating to coronavirus. ('Summary' page)\r\n",
+                    "public_timestamp": "2020-05-03T19:01:27.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information on measures relating to coronavirus. See 'Summary' and 'Return to UK' pages.",
+                    "public_timestamp": "2020-05-03T19:04:58.000Z"
+                },
+                {
+                    "note": "Updated information on measures relating to coronavirus. See 'Summary' and 'Return to UK' pages.",
+                    "public_timestamp": "2020-05-10T23:03:38.000Z"
+                },
+                {
+                    "note": "Updated information on local measures relating to coronavirus.  ('Return to UK' and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-05-17T21:07:21.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T15:24:13.000Z"
+                },
+                {
+                    "note": "Update to local coronavirus-related measures. British nationals arriving in Greece will be tested for coronavirus on arrival, and required to go into 14 days\u2019 self-isolation. (\u2018Summary', 'Return to the UK', 'Staying during coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-05-24T21:01:03.000Z"
+                },
+                {
+                    "note": "Update to local coronavirus-related measures. ('Return to the UK' and 'Staying during coronavirus\u2019 pages)",
+                    "public_timestamp": "2020-05-31T22:43:15.000Z"
+                },
+                {
+                    "note": "Updated information on testing of coronavirus and self-isolation when entering Greece ('Summary' and 'Entry requirement' pages) and updated information on reopening some hotels ('Staying during coronavirus' page) ",
+                    "public_timestamp": "2020-06-04T14:04:51.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:53:13.000Z"
+                },
+                {
+                    "note": "Updated information about testing for coronavirus and requirement to go into self-isolation when entering Greece ('Summary' and 'Entry requirement' pages) and re-opening of hotels and AirBnB accommodation ('Staying during coronavirus' page) ",
+                    "public_timestamp": "2020-06-22T10:09:20.000Z"
+                },
+                {
+                    "note": "Addition of  information on changes to entry requirements ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-06-30T15:46:15.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section'",
+                    "public_timestamp": "2020-07-02T12:30:18.000Z"
+                },
+                {
+                    "note": "From 4 July, Greece is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:19:58.000Z"
+                },
+                {
+                    "note": "Update to information on healthcare in Greece in response to the COVID-19 pandemic ('Coronavirus' page).",
+                    "public_timestamp": "2020-07-14T16:41:43.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for arrival in Greece by land, sea and air ('Summary' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-07-17T16:58:07.000Z"
+                },
+                {
+                    "note": "Updated information about testing for COVID-19 when entering Greece ('Entry requirements' page)",
+                    "public_timestamp": "2020-07-23T09:16:32.000Z"
+                },
+                {
+                    "note": "From 29 July 2020, it is obligatory to wear a face mask in supermarkets, cafes, banks, government offices, retail outlets, barbershops, hairdressers and related establishments ('Coronavirus' pages).",
+                    "public_timestamp": "2020-07-28T19:52:13.000Z"
+                },
+                {
+                    "note": "Update to information about the use of face-masks on public transport and in public spaces.  ('Coronavirus' section)",
+                    "public_timestamp": "2020-07-29T16:29:45.000Z"
+                },
+                {
+                    "note": "Update to information about the use of face masks on ferries and in public indoor spaces, land border restrictions and addition of information on negative COVID-19 testing and ports at which cruise ships may dock from 1 August ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-06T14:04:57.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on local coronavirus (COVID-19) measures on the island of Poros ('Coronavirus' page) and update to information on Passenger Locator Form completion, provision of negative coronavirus test results and land border restrictions ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-07T16:14:16.000Z"
+                },
+                {
+                    "note": "Update to information on Passenger Locator Form completion. ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-10T16:56:21.000Z"
+                },
+                {
+                    "note": "Updated information on public events and night-time closures of food and drink outlets in some areas (\u2018Coronavirus\u2019 page) and new requirements from 17 August if entering Greece via a land border, or by air from Sweden, Czech Republic, Belgium, Spain or the Netherlands (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-08-12T17:38:43.000Z"
+                },
+                {
+                    "note": "Updated information for anyone arriving into Greece from Malta (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2020-08-13T10:03:56.000Z"
+                },
+                {
+                    "note": "Updated information about local restrictions for the 15 August holiday period (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-08-14T21:42:39.000Z"
+                },
+                {
+                    "note": "Updated information on local restrictions in response to Coronavirus ('Coronavirus' page).",
+                    "public_timestamp": "2020-08-20T14:25:40.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions in place on the island of Lesvos from from 6am  on 24 August until 6am on 1 September ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-24T16:20:49.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions in place on the island of Crete from 6am on 25 August until 6am on 1 September ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-25T16:23:53.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions in place on the island of Zante (Zakynthos) from 29 August ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-28T18:24:46.000Z"
+                },
+                {
+                    "note": "Updated information on self-isolation requirements; if you are returning to Scotland from Greece, you may need to self-isolate on your return; FCDO travel advice for Greece remains unchanged at this time (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-09-02T05:28:52.000Z"
+                },
+                {
+                    "note": "Correction to previous update: if you are returning to Scotland from Greece on or after 3 September, you may need to self-isolate on your return. ('Summary')",
+                    "public_timestamp": "2020-09-02T06:31:49.000Z"
+                },
+                {
+                    "note": "If you\u2019re returning to Wales from Zakynthos (Zante), you may be required to self isolate for 14 days, and request a coronavirus test once you arrive home ('Summary).  Updated information on 'Local measures and restrictions' in response to coronavirus ('Coronavirus' page).",
+                    "public_timestamp": "2020-09-02T09:11:46.000Z"
+                },
+                {
+                    "note": "From 3 September, mandatory requirement to self-isolate if returning to Scotland, unless you are exempt ('Summary' page)",
+                    "public_timestamp": "2020-09-02T18:36:53.000Z"
+                },
+                {
+                    "note": "From 4 September, mandatory requirement to self-isolate if returning to Wales from the islands of Mykonos, Zakynthos (Zante), Lesvos, Paros and Antiparos and Crete ('Summary' page)",
+                    "public_timestamp": "2020-09-03T18:27:25.000Z"
+                },
+                {
+                    "note": "The FCDO advise against all but essential travel to the islands of Lesvos, Tinos, Serifos, Mykonos, Crete, Santorini and Zakynthos, based on the current assessment of COVID-19 risks. ('Summary')",
+                    "public_timestamp": "2020-09-07T15:02:04.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (see \u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T16:33:47.000Z"
+                },
+                {
+                    "note": "Addition of information on the mandatory requirement to self isolate if returning to Wales from Santorini, Serifos and Tinos from 9 September. Update on a fire at the Moria camp for migrants on the island of Lesvos and wildfires in Attica (\u2018Summary\u2019 page)\r\n",
+                    "public_timestamp": "2020-09-09T16:45:25.000Z"
+                },
+                {
+                    "note": "Addition of information regarding new local measures announced for Pella, Pieria, Imathia and Kilkis (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-09-11T10:30:34.000Z"
+                },
+                {
+                    "note": "Addition of information regarding new local measures announced for Pella, Pieria, Imathia and Kilkis (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-09-11T10:31:42.000Z"
+                },
+                {
+                    "note": "Removal\u00a0of COVID-related restrictions in Paros and Antiparos; additional information on COVID-related restrictions in Attica\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-09-16T14:57:21.000Z"
+                },
+                {
+                    "note": "Storm Ianos has caused damage to infrastructure and utilities (water and power supplies) in parts of Western Greece, including Keffalonia, Zakynthos and Ithaca.  You should stay up-to-date on developments and follow the advice of the local authorities ('Summary and 'Natural disasters' pages)",
+                    "public_timestamp": "2020-09-19T10:03:16.000Z"
+                },
+                {
+                    "note": "Update to information on further coronavirus (COVID-19) restrictions applying in Attica including movement and use of face masks ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-21T13:42:15.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Greece in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-02T15:30:02.000Z"
+                },
+                {
+                    "note": "The islands of Lesvos, Milos (Serifos), Tinos, Santorini and Zakynthos are now exempt from the FCDO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks. There are also changes to self-isolation requirements on return from these islands. ('Summary' page)",
+                    "public_timestamp": "2020-10-08T16:29:56.000Z"
+                },
+                {
+                    "note": "Updated information on local restriction (\"Coronavirus\") & Entry Requirements (\"Entry Requirements\")",
+                    "public_timestamp": "2020-10-09T22:55:22.000Z"
+                },
+                {
+                    "note": "The island of Crete is now exempt from the FCDO advice against all non-essential travel. This is based on the current assessment of COVID-19 risks. ('Summary' page)  Updated information on the lifting of self-isolation requirements for travellers returning to Scotland on or after 4am on 18 October from all of Greece except Mykonos. (\u2018Summary\u2019 page) Updated information on quarantine arrangements for anyone tested on arrival in Greece, and local measures. ('Entry Requirements' and 'Local Measures and Restrictions')\r\n",
+                    "public_timestamp": "2020-10-15T16:27:33.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions introduced in Kozani and quarantine arrangements for anyone tested on arrival to Greece ('Coronavirus' and  'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-20T15:28:16.000Z"
+                },
+                {
+                    "note": "Mykonos is now exempt from FCDO advice against all non-essential travel. This is based on the current assessment of COVID-19 risks. Addition of information on local restrictions, including the Tier-system used by Greek authorities; and changes to the measures in place in Kastoria, Thessaloniki, Boeotia, Larissa and Serres ('Coronavirus' page).",
+                    "public_timestamp": "2020-10-22T16:24:18.000Z"
+                },
+                {
+                    "note": "Latest information on requirements to self-isolate on return to England from Greek islands ('Summary')",
+                    "public_timestamp": "2020-10-22T21:38:43.000Z"
+                },
+                {
+                    "note": "Latest information on requirements about wearing a face mask and Tier 3 and 4 local restrictions  ('Coronavirus')",
+                    "public_timestamp": "2020-10-23T17:49:45.000Z"
+                },
+                {
+                    "note": "Update to lists of of regions according to their tiers ('Coronavirus' page).",
+                    "public_timestamp": "2020-10-30T17:06:09.000Z"
+                },
+                {
+                    "note": "Update to system of local restrictions in place to combat the spread of COVID-19, including latest allocations of region to each level ('Coronavirus' page).",
+                    "public_timestamp": "2020-11-02T16:33:18.000Z"
+                },
+                {
+                    "note": "New nationwide measures (\u2018lock-down\u2019) which will enter into force at 6am on Saturday 7 November; and new requirements relating to entry to, or departure from, Greece which come into effect at the same time. ('Coronavirus' and \u2018Entry Requirements\u2019 pages).  ",
+                    "public_timestamp": "2020-11-05T20:59:11.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T12:25:27.000Z"
+                },
+                {
+                    "note": "Addition of information on coronavirus-related measures that apply to travellers to and from Greece and to anyone within Greece from 6am on 7 November ('Coronavirus' and\u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-11-06T15:31:40.000Z"
+                },
+                {
+                    "note": "Further information on coronavirus-related measures that apply to travellers to and from Greece and to anyone within Greece from 6am on 7 November onwards ('Summary', 'Coronavirus' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-11-11T19:01:05.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to Greece. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-11-12T20:48:02.000Z"
+                },
+                {
+                    "note": "Closure of primary schools and pre-school facilities from 16 November (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-11-16T19:27:24.000Z"
+                },
+                {
+                    "note": "New information on changes to land and sea borders as a result of measures to combat the spread of Coronavirus (\u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2020-11-20T13:05:48.000Z"
+                },
+                {
+                    "note": "Update to information on an extension of national measures and restrictions until at least 7 December 2020 ('Coronavirus' page).",
+                    "public_timestamp": "2020-11-26T15:53:45.000Z"
+                },
+                {
+                    "note": "Update to information on an extension of national measures and restrictions until at least 6am local time on 14 December 2020 ('Coronavirus' page).",
+                    "public_timestamp": "2020-12-03T16:11:08.000Z"
+                },
+                {
+                    "note": "Updated information on extension of national measures and restrictions until at least 6am on 7 January 2021 and changes to arrival measures with effect from 6am on 18 December; additional rapid COVID-19 test and mandatory 10 day self-isolation, regardless of the test result ('Coronavirus' and 'Entry requirements pages)",
+                    "public_timestamp": "2020-12-10T10:58:37.000Z"
+                },
+                {
+                    "note": "Updated information on requirement to self-isolate upon arrival into Greece from 18 December ('Coronavirus' and 'Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-12-11T16:44:11.000Z"
+                },
+                {
+                    "note": "Updated information on stricter COVID related measures for the municipalities of Aspropyrgos, Elefsina and Mandra-Idilia. (see 'Coronavirus' page)",
+                    "public_timestamp": "2020-12-18T18:53:31.000Z"
+                },
+                {
+                    "note": "Changes to self-isolation requirments on arrival to Greece from UK (see 'Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-21T00:08:38.000Z"
+                },
+                {
+                    "note": "Further changes to self-isolation requirements on arrival to Greece from UK (see 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-21T23:38:38.000Z"
+                },
+                {
+                    "note": "Update to reflect further changes to self-isolation requirements on arrival to Greece from UK (see 'Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-22T15:08:49.000Z"
+                },
+                {
+                    "note": "Updated information on procedures regarding COVID-19 tests on arrival in Greece ('Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-23T17:11:36.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page)",
+                    "public_timestamp": "2020-12-29T16:27:56.000Z"
+                },
+                {
+                    "note": "Updated information on restriction measures across Greece (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-12-30T17:32:32.000Z"
+                },
+                {
+                    "note": "Updated information on restriction measures across Greece (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-12-31T16:30:02.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures across Greece (\u2018Coronavirus\u2019 page). New information on entry requirements to Greece; UK nationals are permitted to enter Greece if they are a permanent resident in the UK, Greece, another EU/EFA state, or in one of the following countries; Australia, Japan, New Zealand, Rwanda, Singapore, South Korea, Thailand, UAE (\u2018Entry requirements' page)",
+                    "public_timestamp": "2021-01-06T13:15:31.000Z"
+                },
+                {
+                    "note": "Updated information on Covid-19 measures across Greece ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-07T18:29:27.000Z"
+                },
+                {
+                    "note": "Updated information on Covid-19 entry requirements (\u2018Summary\u2019 and 'Entry Requirements' page).",
+                    "public_timestamp": "2021-01-08T15:47:20.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Greece (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-13T15:51:58.000Z"
+                },
+                {
+                    "note": "New information on additional anti-Coronavirus measures in place on Lesvos island (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-01-13T17:23:43.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from the islands of Corfu, Crete, Kos, Rhodes, Zakynthos\u202f on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T01:05:21.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions; re-opening of public places and services and additional measures are in place for local areas (\u2018Coronavirus page)",
+                    "public_timestamp": "2021-01-18T13:56:45.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions; additional measures in place for some local areas. (\u2018Coronavirus page)",
+                    "public_timestamp": "2021-01-30T12:40:36.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions; three additional areas declared as red zones - Central Athens, Lasithi (Crete) and the island of Zakynthos (Zante) (\u2018Coronavirus' page)",
+                    "public_timestamp": "2021-02-01T17:46:15.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions. Additional areas declared as red zones. Additional restrictions introduced for Athens, Attica, Thessaloniki, Chalkidiki, Agios Nikolaos, municipality of Lassithi, Crete; Chalkida, Evia; Patras, Achaia; Thira municipality, Thira (Santorini), and Mykonos. (See \u2018Coronavirus' page)",
+                    "public_timestamp": "2021-02-06T18:24:16.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions: new measures announced for Athens and Attica; clarification of the different sets of measures in place elsewhere, according to the Greek authorities\u2019 different classifications of areas. (See \u2018Coronavirus' page)",
+                    "public_timestamp": "2021-02-11T20:51:16.000Z"
+                },
+                {
+                    "note": "Updated category list of areas under different Covid restrictions (See 'Coronavirus' page)",
+                    "public_timestamp": "2021-02-12T20:05:29.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Greece (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-18T16:19:35.000Z"
+                },
+                {
+                    "note": "Addition of information on changes to the list of areas in each category of COVID-19 restrictions (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-23T15:58:14.000Z"
+                },
+                {
+                    "note": "Additions of areas in the Red and Heightened Concern categories of anti-COVID-19 measures (See 'Coronavirus' page)",
+                    "public_timestamp": "2021-02-24T19:37:32.000Z"
+                },
+                {
+                    "note": "Updated information on the lists of areas in Greece under a category for anti-COVID-19 measures ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-03-01T14:54:43.000Z"
+                },
+                {
+                    "note": "New information on reports of an earthquake near Tyrnavos, that struck this morning (3 March) ('Summary' page)",
+                    "public_timestamp": "2021-03-03T13:16:05.000Z"
+                },
+                {
+                    "note": "The British Embassy continue to monitor reports of an earthquake near Tyrnavos, that struck on 3 March ('Summary' page)",
+                    "public_timestamp": "2021-03-03T22:01:10.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus measures ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-04T17:10:11.000Z"
+                },
+                {
+                    "note": "Update to list of 'areas of high concern' ('Coronavirus' page). Update to information on entry to Greece from countries outside the EU ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-03-09T13:34:14.000Z"
+                },
+                {
+                    "note": "Updated information on national measures and restrictions; movement of regions between different COVID-19 categories ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-17T14:26:59.000Z"
+                },
+                {
+                    "note": "Updated information on the threat of terrorism, reflecting an increased threat ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-03-19T10:07:48.000Z"
+                },
+                {
+                    "note": "Update to information on local COVID-19 measures (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-03-26T17:15:35.000Z"
+                },
+                {
+                    "note": "Full editorial review of the 'Coronavirus' section.",
+                    "public_timestamp": "2021-04-13T15:53:32.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for UK travellers. ('Summary' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-04-19T18:09:47.000Z"
+                },
+                {
+                    "note": "Updated information on Greece's curfew due to COVID-19 restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-27T08:51:26.000Z"
+                },
+                {
+                    "note": "Updated information on Greece's curfew restriction ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-10T15:33:48.000Z"
+                },
+                {
+                    "note": "Updated information on Greece's domestic COVID-19 measures ('Coronavirus' page) and proof of vaccination ('Entry requirements\u2019 page).",
+                    "public_timestamp": "2021-05-14T15:11:17.000Z"
+                },
+                {
+                    "note": "Update to information on demonstrating your COVID-19 vaccination status ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-17T15:57:05.000Z"
+                },
+                {
+                    "note": "Update to Entry Requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-19T16:55:50.000Z"
+                },
+                {
+                    "note": "New information on a wildfire in a pine forest in Korinthos, near the town of Loutraki and west of Athens. ('Summary' page)",
+                    "public_timestamp": "2021-05-20T15:04:09.000Z"
+                },
+                {
+                    "note": "Update to information on travel between Regional Units; travel within Greece between Regional Units is permitted subject to adherence to public health measures ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-21T14:40:25.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full with updates to information on passenger locator forms, restrictions on entry by land borders, and COVID-19 restrictions ('Entry requirements' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-05-28T08:56:07.000Z"
+                },
+                {
+                    "note": "Updated information on the list of countries from which UK nationals (permanent residents) are permitted entry to Greece ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-08T08:44:08.000Z"
+                },
+                {
+                    "note": "Updated information on Greece\u2019s Passenger Locator Form ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-11T10:05:23.000Z"
+                },
+                {
+                    "note": "Updated information on antigen tests, which may be accepted for entry from the UK (Entry requirements)",
+                    "public_timestamp": "2021-06-19T22:16:49.000Z"
+                },
+                {
+                    "note": "Update to list of countries from which permanent residents are permitted to enter Greece and to Entry requirements for those aged 12 and above (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-06-23T11:50:12.000Z"
+                },
+                {
+                    "note": "Update to reflect the removal of requirement to wear masks outside (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-06-25T10:30:49.000Z"
+                },
+                {
+                    "note": "Update to reflect the removal of night-time curfew (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-06-28T15:28:27.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements and domestic COVID-19 measures  (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-07-01T15:37:44.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the whole of Greece, including all the Greek Islands, based on the current assessment of COVID-19 risks. ",
+                    "public_timestamp": "2021-07-08T16:35:01.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-21T15:02:02.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Greece (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T09:15:43.000Z"
+                },
+                {
+                    "note": "Updates to domestic COVID-19 restrictions, including partial lockdown in Mykonos. Updated information on what to do if you test positive for COVID-19 while in Greece. Editorial edits to information on entry requirements (\u2018Coronavirus\u2019 and 'Entry requirements\u2019 pages.)",
+                    "public_timestamp": "2021-07-23T09:35:50.000Z"
+                },
+                {
+                    "note": "Update on the lifting partial lockdown in Mykonos. Updated information on Greece\u2019s Passenger Locator Form (\u2018Coronavirus\u2019 and 'Entry requirements\u2019 pages.)",
+                    "public_timestamp": "2021-07-27T13:48:05.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:27:00.000Z"
+                },
+                {
+                    "note": "Updated information on what to do if you test positive for coronavirus while in Greece ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-28T12:57:02.000Z"
+                },
+                {
+                    "note": "Update to information and advice on entering quarantine while in Greece ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-30T10:53:45.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Greece (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-08-04T08:58:47.000Z"
+                },
+                {
+                    "note": "Updated information on forest fires ('Summary' page)",
+                    "public_timestamp": "2021-08-04T13:21:03.000Z"
+                },
+                {
+                    "note": "Update on partial lockdowns in Chania (Crete) and Zakynthos (Zante) (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-08-09T11:51:35.000Z"
+                },
+                {
+                    "note": "Update on partial lockdown in Heraklion (Crete) and updated information on demonstrating proof of recovery from COVID-19 for entry purposes (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-08-11T12:25:09.000Z"
+                },
+                {
+                    "note": "Update on the extension of a partial lockdown in Chania (Crete) and on the island of Zakynthos (Zante) until at least 18 August ('Coronavirus' page)",
+                    "public_timestamp": "2021-08-13T09:21:48.000Z"
+                },
+                {
+                    "note": "Removal of advice following the lifting of partial lockdowns in Crete (Chania and Heraklion) and the island of Zakynthos ('Coronavirus - COVID-19 restrictions' section) ",
+                    "public_timestamp": "2021-08-18T03:29:06.000Z"
+                },
+                {
+                    "note": "Updated information on what to do if you test positive for COVID-19 while in Greece (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-08-23T14:37:04.000Z"
+                },
+                {
+                    "note": "Updated information on partial lockdowns in force in Messinia, and in Chania, Heraklion, and Rethymno (Crete) (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-08-26T08:46:05.000Z"
+                },
+                {
+                    "note": "Updated information on partial lockdowns in force in Ilia, Achaia, the municipality of Ikaria, Messinia and Heraklion (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-09-03T12:24:02.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T12:04:49.000Z"
+                },
+                {
+                    "note": "Update to information on local partial lockdowns in place until at least 16 September ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-14T10:33:29.000Z"
+                },
+                {
+                    "note": "Information on COVID-19 restrictions for vaccinated and unvaccinated travellers and restrictions for cross-regional travel ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-17T16:12:42.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 restrictions in Regional Units ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-27T10:36:15.000Z"
+                },
+                {
+                    "note": "New information on reports of an earthquake in Crete on 27 September ('Summary' page)",
+                    "public_timestamp": "2021-09-27T15:12:28.000Z"
+                },
+                {
+                    "note": "Updated information on locations under partial lockdown until at least 8 October (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-10-01T09:58:33.000Z"
+                },
+                {
+                    "note": "Updated information on local measures in response to COVID-19 (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-10-12T13:29:14.000Z"
+                },
+                {
+                    "note": "Information on an earthquake which struck in eastern Crete on 12 October (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-10-12T13:35:25.000Z"
+                },
+                {
+                    "note": "New information on recent heavy rainfall and disruption caused by flooding ('Summary' page)",
+                    "public_timestamp": "2021-10-15T13:27:57.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-03T10:16:54.000Z"
+                },
+                {
+                    "note": "Update to information on domestic COVID-19 measures in Greece ('Coronavirus' page)",
+                    "public_timestamp": "2021-11-09T16:41:25.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-11T13:34:41.000Z"
+                },
+                {
+                    "note": "Information on protests expected in Greece on 17 November (\u2018Summary and 'Safety and security' pages) ",
+                    "public_timestamp": "2021-11-16T15:32:06.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and domestic COVID-19 measures (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-11-29T17:32:43.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-12-06T15:38:04.000Z"
+                },
+                {
+                    "note": "Update to information on domestic COVID-19 measures (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-12-06T16:46:11.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Greece (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-07T16:38:06.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:08:14.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-17T15:50:16.000Z"
+                },
+                {
+                    "note": "Updated information on proof of a negative COVID-19 rapid antigen test from an authorised laboratory must be undertaken within a 24 hour period before arrival into Greece (See 'Entry requirements')",
+                    "public_timestamp": "2021-12-19T14:06:40.000Z"
+                },
+                {
+                    "note": "Updated information on new measures announced by the Greek government, to be introduced from 6am Friday 24 December, including obligatory use of masks indoors and outdoors (specifying double surgical masks or single N95 masks indoors), \u201cstrong recommendation\u201d that travellers arriving into Greece undertake a certified rapid test or certified PCR test on days 2 and 4 after arrival;  and a \u201cstrong recommendation\u201d that people self test before any outing. These measures are due to be confirmed in a Ministerial Decision. (See 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-23T16:29:54.000Z"
+                },
+                {
+                    "note": "Updated to reflect that coronavirus measures announced by the Greek government have now been formalised ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-24T10:56:06.000Z"
+                },
+                {
+                    "note": "Updated information on what to do if you test positive for COVID-19 while in Greece ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-30T12:02:41.000Z"
+                },
+                {
+                    "note": "Information on changes to access to healthcare for uninsured individuals from February, requirements for wearing masks in public spaces, validity of vaccination status, and requirements if you test positive for COVID-19 upon entry to Greece (\u2018Health\u2019, 'Coronavirus' and 'Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-01-12T12:56:51.000Z"
+                },
+                {
+                    "note": "Updated information on the validity of domestic vaccination status ('Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-01-14T14:45:33.000Z"
+                },
+                {
+                    "note": "Due to extreme weather in parts of Greece including Athens, there is severe disruption to transport and public services; the Greek government has announced a national holiday in affected areas on 25 January ('Summary')",
+                    "public_timestamp": "2022-01-24T20:38:19.000Z"
+                },
+                {
+                    "note": "Due to extreme weather in parts of Greece including Athens, there is severe disruption to transport and public services; the Greek government has announced the national holiday in affected areas on 25 January will be extended to 26 January too ('Summary')",
+                    "public_timestamp": "2022-01-25T16:04:50.000Z"
+                },
+                {
+                    "note": "Update to information on disruption caused by severe weather ('Summary' page)",
+                    "public_timestamp": "2022-01-27T15:30:33.000Z"
+                },
+                {
+                    "note": "Addition of information on new entry requirements in place from 7 February ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-04T17:50:31.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for Greece and demonstrating vaccination status ('Entry requirements' and 'Coronavirus' pages)",
+                    "public_timestamp": "2022-02-09T17:21:46.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for Greece ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-15T11:25:17.000Z"
+                },
+                {
+                    "note": "Updated information on 'Entry requirements'.",
+                    "public_timestamp": "2022-02-22T12:18:01.000Z"
+                },
+                {
+                    "note": "Updated information on mask wearing requirements (\u2019Coronavirus\u2019 page) and additional information on entry requirements to Greece ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-04T14:16:06.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Greece ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-15T11:38:06.000Z"
+                },
+                {
+                    "note": "Updated information on the length of validity of COVID-19 vaccine certificates and proof of recovery documents ('Coronavirus' page)",
+                    "public_timestamp": "2022-04-07T11:51:20.000Z"
+                },
+                {
+                    "note": "Updated information on the relaxation of COVID-19 requirements ('Coronavirus' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-04-29T21:16:08.000Z"
+                },
+                {
+                    "note": "Updated information following changes to entry procedures and COVID-19 restrictions from 1 May ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-05-04T11:57:30.000Z"
+                },
+                {
+                    "note": "Information on likely disruption caused by demonstrations planned for 12 May ('Summary' and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2022-05-11T16:20:19.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:21:38.000Z"
+                },
+                {
+                    "note": "Update to information on the requirement to wear a mask in Greece ('Coronavirus' page)",
+                    "public_timestamp": "2022-05-31T13:45:54.000Z"
+                },
+                {
+                    "note": "Update to information on the requirement to wear a mask in Greece ('Coronavirus' page).",
+                    "public_timestamp": "2022-06-07T12:35:05.000Z"
+                },
+                {
+                    "note": "Updated information on what to do if you test positive for COVID-19 while in Greece ('Coronavirus' page).",
+                    "public_timestamp": "2022-07-19T09:27:36.000Z"
+                },
+                {
+                    "note": "Updated information on forest fires in Athens.  (Summary)  ",
+                    "public_timestamp": "2022-07-19T18:36:35.000Z"
+                },
+                {
+                    "note": "Updated information on forest fires around Athens ('Summary' page)",
+                    "public_timestamp": "2022-07-20T15:39:52.000Z"
+                },
+                {
+                    "note": "Updated information on forest fires ('Summary' page)",
+                    "public_timestamp": "2022-07-21T13:43:02.000Z"
+                },
+                {
+                    "note": "Update to general information on the risk of forest fires ('Summary' page)",
+                    "public_timestamp": "2022-09-05T13:57:04.000Z"
+                },
+                {
+                    "note": "General editorial updates including additional information on strikes and demonstrations (\u2018Summary\u2019 and \u2018Safety and Security\u2019 pages), updated information on Covid-19 (\u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages), staying safe (\u2018Safety and Security\u2019 page), and changes to entry requirements for touring creatives (\u2018Entry Requirements\u2019 page).",
+                    "public_timestamp": "2023-02-21T13:59:42.000Z"
+                },
+                {
+                    "note": "Addition of information regarding a collision between two trains near the city of Larissa, which took place in the early hours of 1 March (Summary)",
+                    "public_timestamp": "2023-03-01T07:41:10.000Z"
+                },
+                {
+                    "note": "Updated information regarding the rail accident near the city of Larissa on 28 February ('Summary' page).",
+                    "public_timestamp": "2023-03-10T12:46:08.000Z"
+                },
+                {
+                    "note": "Updated information covering the relaxation of requirements to wear a mask in public spaces ('Coronavirus' page).",
+                    "public_timestamp": "2023-03-31T12:29:33.000Z"
+                },
+                {
+                    "note": "Removal of out-of- date information about the Tempi rail accident on 28 February ('Summary' page).",
+                    "public_timestamp": "2023-04-28T10:53:41.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:27:32.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-06-29T16:27:53.000Z"
+                },
+                {
+                    "note": "Information added on high summer temperatures, see 'Extreme weather' ('Safety and security' page).",
+                    "public_timestamp": "2023-07-17T11:42:30.000Z"
+                },
+                {
+                    "note": "Information on wildfires ('Summary' and 'Safety and security: Extreme weather')",
+                    "public_timestamp": "2023-07-22T15:19:34.000Z"
+                },
+                {
+                    "note": "Information on wildfires (Summary page)",
+                    "public_timestamp": "2023-07-22T21:33:39.000Z"
+                },
+                {
+                    "note": "Information on wildfires (Summary page)",
+                    "public_timestamp": "2023-07-22T23:33:38.000Z"
+                },
+                {
+                    "note": "Updated information on wildfires in Rhodes ('Warnings and insurance' page)",
+                    "public_timestamp": "2023-07-23T11:33:43.000Z"
+                },
+                {
+                    "note": "Information on wildfires across Greece, including in populated areas on the mainland and a number of islands ('Warnings and insurance' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-07-25T16:33:48.000Z"
+                },
+                {
+                    "note": "Information on wildfires across Greece and associated state of emergency ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-07-28T16:29:10.000Z"
+                },
+                {
+                    "note": "Information on lifting of the state of emergency in Rhodes ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-07-31T15:38:38.000Z"
+                },
+                {
+                    "note": "Information on travelling to the UEFA Super Cup in Athens ('Safety and Security' page).",
+                    "public_timestamp": "2023-08-14T14:13:23.000Z"
+                },
+                {
+                    "note": "Removal of information on the UEFA Super Cup ('Safety and security' page).",
+                    "public_timestamp": "2023-08-23T15:59:02.000Z"
+                },
+                {
+                    "note": "Addition of information on extreme weather ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-09-05T17:55:42.000Z"
+                },
+                {
+                    "note": "Information on possible disruption to public transport and health services on 21 September (\u2018Strikes and demonstrations\u2019 on the \u2018Safety and security\u2019 page).",
+                    "public_timestamp": "2023-09-20T15:49:42.000Z"
+                },
+                {
+                    "note": "Information about increased security at some prominent locations and heightened risk of demonstrations ('Safety and security' page).",
+                    "public_timestamp": "2023-10-24T13:21:29.000Z"
+                },
+                {
+                    "note": "Information on the UEFA Europa League game between Olympiacos and West Ham United ('Safety and security' page).",
+                    "public_timestamp": "2023-10-25T12:27:04.000Z"
+                },
+                {
+                    "note": "Information on protests planned on Sunday 5 November in Athens (\u2018Warnings and insurance\u2019 page)",
+                    "public_timestamp": "2023-11-03T19:21:13.000Z"
+                },
+                {
+                    "note": "Removal of information on planned protests ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-11-09T10:36:07.000Z"
+                },
+                {
+                    "note": "Information on planned demonstrations in Athens  and major university cities, including Thessaloniki and Heraklion, on 17 November ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-11-15T15:41:03.000Z"
+                }
+            ],
+            "country": {
+                "name": "Greece",
+                "slug": "greece",
+                "synonyms": [
+                    "Crete",
+                    "Heraklion",
+                    "Skiathos",
+                    "Lesbos",
+                    "Mykonos",
+                    "Santorini",
+                    "Rhodes",
+                    "Kos"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/greece/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"political-demonstrations\">Political demonstrations</h2>\n\n<p>There are planned demonstrations on 17 November in Athens and major university cities, including Thessaloniki and Heraklion. These demonstrations could become violent and security forces may deploy tear gas. If you are in areas where demonstrations are taking place, remain vigilant, move away quickly from the area, stay aware of your surroundings and follow the advice of local authorities. Further information can be found on the <a href=\"https://www.gov.uk/foreign-travel-advice/greece/safety-and-security\">safety and security page</a>.</p>\n\n<p>Greek authorities have increased security at some prominent locations, including tourist sites, due to events in Israel and the Occupied Palestinian Territories. Stay aware of your surroundings, stay away from demonstrations and follow the advice of local authorities. Follow <a rel=\"external\" href=\"https://twitter.com/112Greece\">\u201c112 Greece\u201d</a> on X (formerly known as Twitter) for official updates.</p>\n\n<h3 id=\"if-you-need-consular-assistance\">If you need consular assistance</h3>\n\n<p>If you are a British national and need consular assistance, call our 24-hour helpline on +44 20 7008 5000</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<div class=\"example\">\n<p>Follow and contact FCDO travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">X</a> (formerly known as Twitter), <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/greece/email-signup\">get email notifications</a> when this advice is updated.</p>\n</div>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance "
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Greece set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, <a rel=\"external\" href=\"https://www.mfa.gr/uk/en/\">contact Greece\u2019s embassy or consulate</a> in the UK.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Visit TravelHealthPro (from the UK\u2019s National Travel Health Network and Centre) for <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">general COVID-19 advice for travellers</a>.</p>\n\n<h3 id=\"travel-to-greece\">Travel to Greece</h3>\n\n<p>Follow any instructions given on arrival at immigration or airport testing facilities. Check the <a rel=\"external\" href=\"https://mintour.gov.gr/en/archiki-english/\">Ministry of Tourism website</a> for more information.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>If you are planning to travel to an EU country (except Ireland), or Switzerland, Norway, Iceland, Liechtenstein, Andorra, Monaco, San Marino or Vatican City, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a>.</p>\n\n<p>Your passport must be:</p>\n\n<ul>\n  <li>issued less than 10 years before the date you enter the country (check the \u2018date of issue\u2019)</li>\n  <li>valid for at least 3 months after the day you plan to leave (check the \u2018expiry date\u2019)</li>\n</ul>\n\n<p>You must check your passport meets these requirements before you travel. If your passport was issued before 1 October 2018, extra months may have been added to its expiry date.</p>\n\n<p><a rel=\"external\" href=\"https://www.mfa.gr/uk/en/the-embassy\">Contact the embassy of the country you are visiting</a> if you think that your passport does not meet both these requirements. <a href=\"https://www.gov.uk/apply-renew-passport\">Renew your passport if you need to</a>.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel to countries in the <a rel=\"external\" href=\"https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf\">Schengen area</a> for up to 90 days in any 180-day period without a visa. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>to attend business meetings, cultural or sports events</li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>If you are travelling to Greece and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.</p>\n\n<p>For a longer stay (to work or study, for business or for other reasons) you will need to meet the Greek government\u2019s entry requirements. <a rel=\"external\" href=\"https://www.mfa.gr/uk/en/the-embassy\">Check with the Greek Embassy</a> before you make arrangements to travel about what type of visa and work permit, if any, you may need.</p>\n\n<p>If you are <a href=\"https://www.gov.uk/guidance/travel-to-greece-for-work\">travelling to Greece for work</a>, read the guidance on visas and permits.</p>\n\n<p>The entry requirements for touring creatives have recently changed, more  <a rel=\"external\" href=\"https://www.mfa.gr/uk/en/visa.html?mission=lon\">details of the new rules can be found on the Greek Embassy website.</a> If you stay in Greece with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<h3 id=\"passport-stamping\">Passport stamping</h3>\n\n<p>Check your passport is stamped if you enter or exit the Schengen area through Greece as a visitor. Border guards will use passport stamps to check you\u2019re complying with the 90-day visa-free limit for short stays in the Schengen area. If relevant entry or exit stamps are not in your passport, border guards will presume that you have overstayed your visa-free limit. If you do overstay, you may be fined on departure, and have restrictions placed on your ability to re-enter Greece whilst the fine remains unpaid.</p>\n\n<p>You can show evidence of when and where you entered or exited the Schengen area, and ask the border guards to add this date and location in your passport. Examples of acceptable evidence include boarding passes and tickets.</p>\n\n<p>You may also need to:</p>\n\n<ul>\n  <li>show a return or onward ticket</li>\n  <li>show you have enough money for your stay</li>\n</ul>\n\n<p>If you are resident in Greece, read our <a href=\"https://www.gov.uk/guidance/living-in-greece#passports-and-travel\">Living in Greece guide</a> for passport stamping information.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/91/greece\">check the vaccinations and vaccination certificates you may need on TravelHealthPro</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.aade.gr/en/customs\">goods that can be brought into and taken out of Greece</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h3 id=\"taking-food-and-drink-into-the-eu\">Taking food and drink into the EU</h3>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food required for medical reasons. <a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a> on the European Commission website.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism</a>\u00a0while abroad.</p>\n</div>\n\n<h3 id=\"terrorism-in-greece\">Terrorism in Greece</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are likely to try to carry out attacks in Greece.</p>\n</div>\n\n<p>Attacks could be indiscriminate, including in places frequented by foreigners.</p>\n\n<p>There have been several attacks involving explosives and automatic weapons against Greek institutions, shopping malls, banks, media offices, diplomatic premises and the police.</p>\n\n<p>British nationals aren\u2019t normally considered a specific target, but attacks could happen in places visited by foreigners.</p>\n\n<h2 id=\"political-demonstrations\">Political demonstrations</h2>\n\n<p>Greek authorities have increased security at some prominent locations, including tourist sites, due to events in Israel and the Occupied Palestinian Territories. Stay aware of your surroundings, stay away from demonstrations and follow the advice of local authorities.</p>\n\n<h2 id=\"strikes-and-demonstrations\">Strikes and demonstrations</h2>\n\n<p>There are regular strikes, sometimes called at short notice that can cause disruption to public transport (including air travel and ports), as well as road networks and borders. Political demonstrations can also occur frequently.</p>\n\n<p>Avoid demonstrations wherever possible and follow the advice of the local authorities. Some demonstrations in the past have turned violent. If you do find yourself unexpectedly near a demonstration, move away to the last known safe place. Security forces often use tear gas to break up demonstrations, which can harm your breathing and vision.</p>\n\n<p>Demonstrations take place regularly around major squares in central Athens, in particular Syntagma Square. There is currently a heightened risk of demonstrations, particularly in central Athens, related to events in Israel and the Occupied Palestinian Territories. Nationwide strikes and protests can occur at any time and may disrupt road, air, sea travel and cause delays or diversions at border crossings.</p>\n\n<p>Demonstrations may happen at short notice, and have traditionally happened on 1 May, 17 November and 6 December.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"theft\">Theft</h3>\n\n<p>Theft of passports, wallets and handbags are common on the metro and in crowded tourist places, particularly in central Athens. Don\u2019t carry all your valuables in one place, and remember to keep a photocopy or scanned copy of your passport somewhere safe.       Maintain the same level of personal security awareness as in the UK.</p>\n\n<p>When driving on holiday, keep your valuables out of sight and lock your vehicle at all times. Always park in a well-lit area or secure car park. Be alert to car crime.</p>\n\n<h3 id=\"sexual-assault\">Sexual assault</h3>\n\n<p>Sexual assaults and personal attacks may occur in Greece. This includes attacks on foreign visitors in tourist areas and cities.</p>\n\n<p>We recommend that all travellers  follow this advice:</p>\n\n<ul>\n  <li>save the location of your accommodation on your maps app, so it\u2019s easier to find at the end of the night</li>\n  <li>set up a WhatsApp group to keep in touch with others in your group</li>\n  <li>keep an eye on each other\u2019s drinks to make sure they don\u2019t get spiked</li>\n  <li>don\u2019t let a friend walk back to their hotel alone</li>\n  <li>don\u2019t give a drunk person more alcohol</li>\n</ul>\n\n<p>You should immediately report anything you see that doesn\u2019t feel right to local authorities or hospitality management.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>Carry a copy of your passport or other photographic ID which confirms British nationality at all times, this is a legal requirement.</p>\n\n<h3 id=\"race\">Race</h3>\n\n<p>The majority of visitors experience no difficulties related to race, but there have been some racially motivated attacks, particularly in inner-city areas.</p>\n\n<h3 id=\"public-offences\">Public offences</h3>\n\n<p>The Greek police won\u2019t accept behaviour they find  rowdy or indecent, especially where excessive drinking is involved, this behaviour may be illegal. The police will make arrests and the courts are likely to give heavy fines or prison sentences if you behave indecently.</p>\n\n<p>Some fancy dress costumes may be regarded as offensive and therefore against decency laws. Your travel insurance may not cover you after drinking.</p>\n\n<h3 id=\"smoking\">Smoking</h3>\n\n<p>It\u2019s illegal to smoke in all indoor public places. The penalty for violating this law is a fine of up to 500 euros.</p>\n\n<h3 id=\"drugs\">Drugs</h3>\n\n<p>Possession of even small quantities of illegal drugs can lead to a long prison sentence.</p>\n\n<p>Alcohol, drugs and use of nitrous oxide can make you less alert, less in control and less aware of your environment.</p>\n\n<p>Nitrous oxide is illegal to buy or sell for recreational use in Greece. You can be arrested or fined if found in possession.</p>\n\n<h3 id=\"public-transport\">Public transport</h3>\n\n<p>It\u2019s sometimes necessary to time stamp or validate your ticket on public transport for it to be valid. Check with local providers.</p>\n\n<h3 id=\"buying-goods-or-services\">Buying goods or services</h3>\n\n<p>Make sure you get a receipt for any goods or services you buy.</p>\n\n<p>Offensive items like pepper spray, knuckledusters or knives with a blade length of 10cm or above are listed as weapons in Greece and fall under the current weapon possession law. You need to have a special licence from the local police authority to carry any weapon otherwise you might face arrest and legal charges. You need to have a special licence to carry any knife that is not made for domestic, professional, artistic or hunting use.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex sexual relations are legal in Greece and civil unions between same-sex couples have been legal since 2015.  The age of consent in Greece is 15, this applies to partners of both the same sex and opposite sex.  Transgender people are able to change their legal gender.  Anti-discrimination and hate speech laws apply to gender identity.</p>\n\n<p>Public attitudes towards same-sex sexual activity vary throughout the country; showing affection in public by same-sex couples may be frowned upon, especially in rural areas.</p>\n\n<p>Attitudes are generally much more welcoming in Athens and on many Greek islands, particularly on Lesvos, Mykonos and Skiathos.  See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT+ community before you travel.</p>\n\n<h3 id=\"military-service\">Military service</h3>\n\n<p>Men, aged 19 and above, born to a Greek national parent may have military service obligations, regardless of any other nationality they hold. Authorities can prevent you leaving Greece until you complete military service obligations.</p>\n\n<h3 id=\"using-cameras-or-approaching-sensitive-locations\">Using cameras or approaching sensitive locations</h3>\n\n<p>It is illegal to approach or take photos or videos of military installations, vehicles or buildings at any time. The Greek authorities will arrest and possibly prosecute anyone doing so. Certain border areas are also militarily sensitive. Although you can visit these areas, you should avoid taking photos or video footage.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<h3 id=\"music-festivals\">Music festivals</h3>\n\n<p>Be aware of local laws and customs, and take extra care of your valuables if attending a festival or large concert. <a href=\"https://www.gov.uk/guidance/festival-travel-checklist\">Read our festivals in Europe travel checklist</a> for more advice.</p>\n\n<h3 id=\"water-sports-and-swimming-safety\">Water sports and swimming safety</h3>\n\n<p>If you are considering taking part in water sports activities, do so through a licensed water sports centre and make sure paperwork is completed before starting the activity. Check the <a rel=\"external\" href=\"https://safewatersports.com/\">Safe Water Sports website</a> for more information.</p>\n\n<p>Make sure you follow any warning signs, adhere to instructions from lifeguards and observe the flag indicators on beaches. Follow local advice if jellyfish or urchins are present.</p>\n\n<h3 id=\"quad-biking-and-mopeds\">Quad biking and mopeds</h3>\n\n<p>Quad biking is considered an extreme sport and carries the risk of serious injury or death. Specific travel insurance to cover quad bike rental is essential.  Always take care to read the details of your insurance cover before you travel on holiday, paying particular attention to the small print and exclusions on your insurance policy.</p>\n\n<p>If you do rent a quad bike, choose a category in accordance with your driving licence and age. Drivers and passengers must wear helmets. Failure to do so may invalidate your insurance and if stopped you will be fined and your licence taken from you. If you intend to hire a moped you will need a valid driving licence with at least category A1 - \u2018light motorcycle\u2019. Category P, which is valid in the UK for driving mopeds up to 50cc, is not valid in Greece.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Greece, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/greece/\">RAC guide</a>.</p>\n\n<p>Make sure any vehicle you hire is in good condition and check that you\u2019re insured. When renting mopeds or quad bikes, insurance sold by the hire company usually only provides third party insurance, which only covers the cost of damage to another vehicle. Any damage sustained to the rental vehicle in many cases may need to be paid for by you, or you may face arrest if you do not pay and the hire company decide to press charges.</p>\n\n<p>Traffic can be busy, fast and chaotic, especially in the larger cities. Take care when crossing roads. Pedestrians should cross roads using a crossing. Drivers don\u2019t always stop, even though they are required to. The green pedestrian crossing signal sometimes also allows cars to turn right onto the crossing, so cross with caution.</p>\n\n<p>Driving any vehicle while over the legal drinking limit can result in a heavy fine or imprisonment.</p>\n\n<h3 id=\"licences-and-permits\">Licences and permits</h3>\n\n<p>You can drive in Greece with a UK driving licence.</p>\n\n<h3 id=\"driving-a-british-car-abroad\">Driving a British car abroad</h3>\n\n<p>You may need a UK sticker to drive your car outside the UK. Check the <a href=\"https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers\">GOV.UK displaying number plates website</a> for more information on what to do if you are driving outside the UK.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"flooding\">Flooding</h3>\n<p>Adverse weather conditions, including floods, are affecting some regions.\u00a0 The situation can change quickly. Follow\u00a0<a rel=\"external\" href=\"https://twitter.com/112Greece\">\u201c112 Greece\u201d</a>\u00a0on X (formerly known as Twitter) for official updates</p>\n\n<h3 id=\"forest-fires\">Forest fires</h3>\n\n<p>There are active wildfires across Greece, including in populated areas on the mainland and a number of islands.</p>\n\n<p>Wildfires are highly dangerous and unpredictable. The situation can change quickly. Follow \u201c112 Greece\u201d on X (formerly known as Twitter) for official updates.</p>\n\n<p>You should:</p>\n\n<ul>\n  <li>take care when visiting or driving through woodland areas</li>\n  <li>make sure cigarette ends are properly extinguished</li>\n  <li>not light barbecues</li>\n</ul>\n\n<p>Causing a forest fire is treated as a criminal offence in Greece even if unintentional. If you see a forest fire, call the emergency services on 112.</p>\n\n<p>Forest fires can also cause travel disruption in wider areas.</p>\n\n<p>Be cautious if you are in or near an area affected by wildfires. You should:\u00a0</p>\n\n<ul>\n  <li>follow the guidance of the emergency services\u00a0</li>\n  <li>call the Greek Emergency Services on 112 if you are in immediate danger\u00a0</li>\n  <li>contact your airline or travel operator who can assist you with return travel to the UK.\u00a0</li>\n  <li>enable the \u201cEmergency Alerts\u201d option to receive the Greek government\u2019s emergency alerts. For:\u00a0</li>\n  <li>iPhones go to Settings &gt; Notification. Enable the \u201cEmergency Alerts\u201d option at the bottom.\u00a0</li>\n  <li>Android 11 and higher go to Settings &gt; Notifications &gt; Advanced Settings &gt; Wireless Emergency Alerts\u00a0</li>\n  <li>Samsung Devices go to Settings &gt; Apps &gt; Messages &gt; Notifications &gt; Emergency Notifications. Enable the \u201cEmergency Alerts\u201d option\u00a0</li>\n  <li>read the\u202f<a rel=\"external\" href=\"https://civilprotection.gov.gr/odigies-prostasias/dasikes-pyrkagies?lang=en\">Greek Government\u2019s protection guidelines</a>\u202fin the event of a forest fire.\u00a0</li>\n  <li>register via the\u202f<a rel=\"external\" href=\"https://civilprotection.gov.gr/\">Greek government\u2019s Emergency Communication Service</a>\u202f(in Greek)</li>\n</ul>\n\n<p>For further information on the risk of forest fires, visit the <a rel=\"external\" href=\"http://civilprotection.gr/en/forest-fires\">Civil Protection website</a>.</p>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>Greece can experience earthquakes and earth tremors. You should:</p>\n\n<ul>\n  <li>familiarise yourself with safety procedures in the event of an earthquake</li>\n  <li>follow advice given by the local authorities</li>\n  <li>call the Greek Emergency Services on 112 if you are in immediate danger</li>\n</ul>\n\n<p>The Greek General Secretariat for Civil Protection website has advice about <a rel=\"external\" href=\"http://www.civilprotection.gr/en/earthquakes\">what to do before, during and after an earthquake</a>, and reports on incidents.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 or 166 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on health risks and <a rel=\"external\" href=\"https://www.travelhealthpro.org.uk/country/91/greece\">what vaccinations you need for Greece</a> on TravelHealthPro (from the UK\u2019s\u00a0National Travel Health Network and Centre)</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>TravelHealthPro explains <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<p>While pharmacies across the country stock a good supply of medicines, you should make sure you have sufficient medical supplies (including prescription medicines) for the duration of your stay and any unforeseen delays, adequate travel insurance and accessible funds to cover the cost of any medical treatment and repatriation.</p>\n\n<p>Prescription medicine for uninsured individuals are only dispensed from pharmacies at hospitals or those pharmacies registered with the National Organisations for the Provision of Health Services (EOPYY).</p>\n\n<h3 id=\"travelling-into-greece-with-medication\">Travelling into Greece with medication</h3>\n\n<p>Medication can be brought into Greece if you hold a letter from your doctor stating the quantity required during your stay as well as a copy of your prescription. Ensure that medication is packed in the original container with the full prescription printed on the container, the name on the prescription must match the name on your passport.</p>\n\n<p>If you need to take controlled medicines in Greece, <a href=\"mailto:okana@okana.gr\">contact the dispensing agency via email</a>.</p>\n\n<p>For more information, contact the Greek National Organization of Medicines:</p>\n\n<ul>\n  <li>\n    <p>By telephone: 0030 213 2040 395 / 285 / 225 / 000</p>\n  </li>\n  <li>\n    <p>By email: <a href=\"mailto:clearance@eof.gr\">clearance@eof.gr</a> / <a href=\"mailto:relation@eof.gr\">relation@eof.gr</a></p>\n  </li>\n</ul>\n\n<h2 id=\"healthcare-facilities-in-greece\">Healthcare facilities in Greece</h2>\n\n<p>Treatment and facilities are generally good on the mainland, but may be limited on the islands. The standards of nursing and after care, particularly in the public health sector is not to the standard expected in the UK. The public ambulance service is basic. There are serious shortages of ambulances on some islands.</p>\n\n<p>If you are uninsured, you may not be able to get medical treatment or diagnostic tests from private doctors in Greece, only from public hospitals and primary healthcare centres.</p>\n\n<p>You can <a href=\"https://www.gov.uk/government/publications/medical-facilities/list-of-medical-facilities-in-athens-mainland-greece\">view a list of English speaking doctors in Greece.</a></p>\n\n<h2 id=\"covid-19-healthcare-in-greece\">COVID-19 healthcare in Greece</h2>\n\n<h3 id=\"wearing-a-mask\">Wearing a mask</h3>\n\n<p>It is mandatory to wear a mask in all healthcare and social care facilities (e.g. hospitals, clinics, health centres and care homes).</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (GHIC) or European Health Insurance Card (EHIC)</a> before leaving the UK. If you already have an EHIC, it will still be valid as long as it remains in date.</p>\n\n<p>The GHIC or EHIC entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Greek nationals. If you do not have your EHIC with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A GHIC or EHIC is not an alternative to travel insurance and you should have both before you travel. An EHIC or GHIC does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p>EHIC and GHIC cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">FCDO guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">guidance on TravelHealthPro</a>.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-greece\">Emergency services in Greece</h2>\n\n<p>Telephone: 112 (ambulance, fire, police)</p>\n\n<p>Calling 999 from a UK mobile in Greece will automatically transfer you to the Greek emergency services.</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?serviceType=lawyers&amp;country=greece\">lawyers</a>,\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=greece&amp;serviceType=funeral-directors\">funeral directors</a>\u00a0and\u00a0<a href=\"https://www.gov.uk/government/publications/translators-and-interpreters-list/list-of-english-speaking-translators-and-interpreters-in-athens-and-mainland-greece\">translators and interpreters</a>\u00a0in Greece</li>\n  <li>dealing with a\u00a0<a href=\"https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-greece\">death in Greece</a>\n</li>\n  <li>being\u00a0<a href=\"https://www.gov.uk/government/publications/greece-prisoner-pack/information-pack-for-british-prisoners-in-greece\">arrested in Greece</a>\n</li>\n  <li>getting help if you\u2019re a\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re\u00a0<a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">X</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/greece/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are in Greece and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-athens\">British embassy Athens or one of our consulates</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Greece&amp;post=Greece%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-11-15T15:41:03Z",
+            "updated_at": "2023-11-15T15:41:03Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-15T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/greece",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/greece",
+                    "base_path": "/foreign-travel-advice/greece",
+                    "content_id": "c5018a34-3aaa-40e4-b90f-cf73539a0978",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-15T15:41:03Z",
+                    "schema_name": "travel_advice",
+                    "title": "Greece travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/greece",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/greece",
+                    "api_url": "https://www.gov.uk/api/content/world/greece",
+                    "base_path": "/world/greece",
+                    "content_id": "93fa4844-9b94-4a59-b42e-6b828f278508",
+                    "description": "Services if you're visiting, studying, working or living in Greece. Includes information about trading with and doing business in the UK and Greece, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Greece",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T16:09:23Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Greece",
+                    "web_url": "https://www.gov.uk/world/greece",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/living-in-greece",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-greece",
+                    "base_path": "/guidance/living-in-greece",
+                    "content_id": "5e2fe06c-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-03-11T08:00:00Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Greece",
+                    "web_url": "https://www.gov.uk/guidance/living-in-greece",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/publications/holidaying-in-greece--2",
+                    "api_url": "https://www.gov.uk/api/content/government/publications/holidaying-in-greece--2",
+                    "base_path": "/government/publications/holidaying-in-greece--2",
+                    "content_id": "7b890f75-b53a-4557-9db7-fcd24d3cd14b",
+                    "document_type": "guidance",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2019-02-14T10:43:29Z",
+                    "schema_name": "publication",
+                    "title": "Holidaying in Greece: information leaflet",
+                    "web_url": "https://www.gov.uk/government/publications/holidaying-in-greece--2",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/italy",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/italy",
+                    "base_path": "/foreign-travel-advice/italy",
+                    "content_id": "00a2d263-f4cc-4ed1-9ae8-ce5e73ce4d30",
+                    "details": {
+                        "change_description": "Removal of information about ongoing forest fires ('Safety and security' page).",
+                        "country": {
+                            "name": "Italy",
+                            "slug": "italy",
+                            "synonyms": [
+                                "Rome",
+                                "Venice",
+                                "Milan",
+                                "Sicily",
+                                "Sardinia"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-06T13:33:08Z",
+                    "schema_name": "travel_advice",
+                    "title": "Italy travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/italy",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/spain",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/spain",
+                    "base_path": "/foreign-travel-advice/spain",
+                    "content_id": "24df0bb1-0ca1-4675-9237-528ecd3d17a5",
+                    "details": {
+                        "change_description": "Information on transport strikes ('Safety and security' page).",
+                        "country": {
+                            "name": "Spain",
+                            "slug": "spain",
+                            "synonyms": [
+                                "Ibiza",
+                                "Majorca",
+                                "Mallorca",
+                                "Menorca",
+                                "Minorca",
+                                "Lanzarote",
+                                "Barcelona",
+                                "Benidorm",
+                                "Tenerife",
+                                "Canary Islands",
+                                "Canaries",
+                                "Gran Canaria",
+                                "Fuerteventura"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T12:53:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Spain travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/spain",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-greece",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-greece",
+                    "base_path": "/world/living-in-greece",
+                    "content_id": "f84f2bd6-e9dd-4078-9099-25b133d64211",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Greece",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/greece",
+                                "api_url": "https://www.gov.uk/api/content/world/greece",
+                                "base_path": "/world/greece",
+                                "content_id": "93fa4844-9b94-4a59-b42e-6b828f278508",
+                                "description": "Services if you're visiting, studying, working or living in Greece. Includes information about trading with and doing business in the UK and Greece, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Greece",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:09:23Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Greece",
+                                "web_url": "https://www.gov.uk/world/greece",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T16:53:56Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Greece",
+                    "web_url": "https://www.gov.uk/world/living-in-greece",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-greece",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-greece",
+                    "base_path": "/world/travelling-to-greece",
+                    "content_id": "c739aac7-c7c3-44d5-bd10-570ee66d3997",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Greece",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/greece",
+                                "api_url": "https://www.gov.uk/api/content/world/greece",
+                                "base_path": "/world/greece",
+                                "content_id": "93fa4844-9b94-4a59-b42e-6b828f278508",
+                                "description": "Services if you're visiting, studying, working or living in Greece. Includes information about trading with and doing business in the UK and Greece, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Greece",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:09:23Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Greece",
+                                "web_url": "https://www.gov.uk/world/greece",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:27Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Greece",
+                    "web_url": "https://www.gov.uk/world/travelling-to-greece",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-15T15:41:03Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1700062863.057-10.13.21.247-37613",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Greece travel advice",
+        "updated_at": "2023-11-15T15:41:04Z",
+        "withdrawn_notice": {}
+    }
+}

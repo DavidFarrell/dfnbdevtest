@@ -1,0 +1,1499 @@
+{
+    "Country Slug": "nigeria",
+    "Country Name": "Nigeria",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/nigeria",
+        "content_id": "7ba86fb6-c102-4d5f-bdcd-39f7702ae0cc",
+        "description": "Latest FCDO travel advice for Nigeria including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Removal of Information on the security alert issued by the US Embassy in Nigeria on the increased threat to major hotels in Nigeria\u2019s larger cities; and on off-cycle state elections ('Summary' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary - removal of information; the strike called by unions on 5 November has been suspended",
+                    "public_timestamp": "2018-11-14T12:05:29.418Z"
+                },
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-12-04T17:54:39.366Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section and summary - updated information on the security environment in the north-east of Nigeria, which has deteriorated in 2018; the FCO continue to advise against all travel to Borno, Yobe, Gombe and Adamawa; Terrorism section - updated information on the threat of terrorist kidnap",
+                    "public_timestamp": "2018-12-13T17:29:03.794Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information about the availability of consular support",
+                    "public_timestamp": "2018-12-21T16:12:30.691Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security section (Local travel) - updated information on safety and security; there have been recent attacks in Baga, Monguno, Damasak and Rann in Borno State; further attacks are likely; we advise against all travel to Borno State",
+                    "public_timestamp": "2019-01-21T17:24:19.605Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security section (Local travel) - updated information on safety and security; the terrorist threat in Damasak and across Borno State is high, with a history of recent attacks; we continue to advise against all travel to Borno State",
+                    "public_timestamp": "2019-01-25T16:25:58.183Z"
+                },
+                {
+                    "note": "Latest update: Summary - Presidential elections will take place in Nigeria on 16 February; in the run up to the elections, protests in Abuja and other Nigerian cities including: Adamawa, Akwa Ibom, Imo, Kaduna, Kano, Kwara, Rivers are becoming increasingly frequent; public gatherings and demonstrations may take place at short notice and have the potential to turn violent; you should avoid rallies, public gatherings and demonstrations, and monitor local media",
+                    "public_timestamp": "2019-02-04T12:41:31.097Z"
+                },
+                {
+                    "note": "Latest update: Summary - The Presidential elections on 16 February could lead to the disruption of travel as a result of potential curfews or road blocks over the weekend of 16 and 17 February and travel restrictions could also affect passengers arriving or departing from Lagos and Abuja international airports; Safety and security section (Road travel) - additional information on driving licences ",
+                    "public_timestamp": "2019-02-12T16:31:03.222Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information and advice on travel restrictions over the weekend of 16-17 February, which are likely to affect transport to and from Lagos and Abuja international airports; Nigerian Police have announced that restrictions on vehicle movement will be in force from 6am to 6pm on 16 February, but this may be subject to change at short notice; if you\u2019re planning to travel over this period, you should factor this into your travel plans, make appropriate allowances in your itinerary and keep up to date with the latest travel information from your airline or transport provider",
+                    "public_timestamp": "2019-02-15T18:20:02.147Z"
+                },
+                {
+                    "note": "Summary - Presidential and National Assembly elections, due to take place in Nigeria on 16 February 2019, have been delayed a week until 23 February.  The Gubernatorial and State House of Assembly elections, due on 2 March, have also been delayed by a week until  9 March. You should continue to avoid rallies, public gatherings and demonstrations, and monitor local media.",
+                    "public_timestamp": "2019-02-16T08:49:08.965Z"
+                },
+                {
+                    "note": "Latest update:  Summary - The Presidential and National Assembly elections are now due to take place on 23 February with the Gubernatorial and State House of Assembly elections on 9 March. You should continue to avoid rallies, public gatherings and demonstrations, and monitor local media.",
+                    "public_timestamp": "2019-02-18T13:54:51.826Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information and advice on upcoming elections on 23 February and 9 March, including about travel restrictions on election day ",
+                    "public_timestamp": "2019-02-21T10:38:30.183Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on the elections held on 23 February, including potential continuing travel restrictions.",
+                    "public_timestamp": "2019-02-24T11:06:51.619Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information and advice on the elections held on 23 February, including potential travel restrictions; Summary and Terrorism section - updated information reflecting recent attacks ",
+                    "public_timestamp": "2019-02-26T12:14:26.001Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information following the announcement of the results of the Presidential election held on 23 February, including potential travel restrictions",
+                    "public_timestamp": "2019-02-27T14:39:20.545Z"
+                },
+                {
+                    "note": "Latest update: Summary -  updated information following the results of the Presidential election and on the Gubernatorial election to be held on 9 March, including potential travel restrictions",
+                    "public_timestamp": "2019-03-05T16:53:37.638Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Local travel and Political situation) - editorial amendments",
+                    "public_timestamp": "2019-03-06T13:39:20.719Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security section (Local travel) - information on the threat from terrorism",
+                    "public_timestamp": "2019-03-06T17:04:39.039Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on elections; you should continue to avoid rallies, public gatherings and demonstrations and monitor local media",
+                    "public_timestamp": "2019-03-11T12:49:58.100Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on elections; you should continue to avoid rallies, public gatherings and demonstrations and monitor local media",
+                    "public_timestamp": "2019-03-19T16:07:44.947Z"
+                },
+                {
+                    "note": "Latest update: Summary - Election update: tensions will continue to run high across Nigeria; you should continue to avoid rallies, public gatherings and demonstrations and monitor local media",
+                    "public_timestamp": "2019-03-26T10:13:52.879Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Crime) - A British national was tragically killed in Kaduna on Friday 19 April 2019; the FCO continue to advise against all but essential travel to Kaduna; you should exercise additional vigilance in crowded public places",
+                    "public_timestamp": "2019-04-24T16:08:06.503Z"
+                },
+                {
+                    "note": "Latest update: Local laws and customs section - addition of Ramadan dates for 2019",
+                    "public_timestamp": "2019-04-26T09:45:21.760Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information about the inauguration of President Buhari on 29 May",
+                    "public_timestamp": "2019-05-24T13:58:18.239Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about events around the presidential inauguration in May and June 2019",
+                    "public_timestamp": "2019-06-14T17:20:07.176Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section \u2013 addition of factual information about a terrorist attack in Konduga, Borno State on 17 June",
+                    "public_timestamp": "2019-06-17T16:09:38.715Z"
+                },
+                {
+                    "note": "Safety and security section (Local travel) - factual information on protests in Abuja and Lagos and other cities by Islamic Movement of Nigeria (IMN); you should avoid any demonstrations or large gatherings and keep up to date with local developments, including through local media",
+                    "public_timestamp": "2019-07-17T13:08:31.000Z"
+                },
+                {
+                    "note": "Safety and security section (Local travel) \u2013 updated information and advice on protests in Abuja, Lagos and other cities by the Islamic Movement of Nigeria (IMN); Safety and security section (Criminal kidnap) - updated information",
+                    "public_timestamp": "2019-07-24T09:29:38.000Z"
+                },
+                {
+                    "note": "Safety and security section (Local travel) and summary - tensions continue to be high in Abuja and further protests are expected in the city centre on the afternoon of Friday 26 July; if you\u2019re in central Abuja, you should monitor local media, limit your movements in and around the city centre area (avoiding any demonstrations or large gatherings) and follow any instructions from local police and security forces",
+                    "public_timestamp": "2019-07-26T14:51:50.000Z"
+                },
+                {
+                    "note": "Summary and Safety and security section (Local travel) - removal of information on protest in Abuja on 26 July",
+                    "public_timestamp": "2019-07-29T15:42:00.000Z"
+                },
+                {
+                    "note": "Summary - there is a risk of heightened tensions across the country on Monday 5 August, following calls for a nationwide protest by the \u2018#RevolutionNow\u2019 movement; you should monitor local media, avoid any demonstrations or large gatherings and follow any instructions from police and security forces",
+                    "public_timestamp": "2019-08-02T16:35:41.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about protests on 5 August",
+                    "public_timestamp": "2019-08-07T09:00:07.000Z"
+                },
+                {
+                    "note": "Summary -  Factual information on the closure of the Nigeria border with the Republic of Benin",
+                    "public_timestamp": "2019-08-23T14:13:42.000Z"
+                },
+                {
+                    "note": "Summary - updated information on border crossings between Nigeria and Benin; additional checks are in place at the border at Seme, Lagos State; this has caused some disruption and other crossing points may be affected; if you\u2019re planning to make a land crossing from Nigeria to Benin, check with the local authorities for the latest information before travelling",
+                    "public_timestamp": "2019-08-27T13:55:59.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - Safety & Security section (local travel) - There are media reports of planned demonstrations outside the British High Commission in Abuja on Monday 2 September.   If you are planning on visiting the High Commission, you should monitor the local media or get in touch with your contact in the Mission.  If you are near the High Commission and see signs of demonstrators, you should avoid the area.",
+                    "public_timestamp": "2019-09-01T15:29:38.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on demonstrations outside the British High Commission in Abuja",
+                    "public_timestamp": "2019-09-03T12:26:52.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following recent attacks and demonstrations directed at South African owned businesses in several cities in Nigeria, and on a temporary blockage of the airport road in Abuja",
+                    "public_timestamp": "2019-09-04T13:20:19.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about blockages on the Abuja airport road, which are now cleared",
+                    "public_timestamp": "2019-09-04T14:42:15.000Z"
+                },
+                {
+                    "note": "Summary - factual update to information on kidnap ",
+                    "public_timestamp": "2019-09-18T15:25:33.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on local elections on 16 November in Bayelsa and Kogi states",
+                    "public_timestamp": "2019-11-14T17:51:29.000Z"
+                },
+                {
+                    "note": "Safety and security section (Local travel) and summary - updated information about Islamic Movement of Nigeria protests in Abuja; removal of information about elections in Bayelsa and Kogi states and other previous demonstrations",
+                    "public_timestamp": "2019-11-28T18:10:00.000Z"
+                },
+                {
+                    "note": "Summary - updated information and advice on crime during the festive season",
+                    "public_timestamp": "2019-12-12T13:34:45.000Z"
+                },
+                {
+                    "note": "Terrorism section - updated information and advice on the threat from kidnap",
+                    "public_timestamp": "2019-12-19T14:32:38.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on increased risk of public disturbance following the death of Iranian General Qasem Soleimani in a US strike in Baghdad on 3 January",
+                    "public_timestamp": "2020-01-07T19:07:40.000Z"
+                },
+                {
+                    "note": "Safety and security (Northern Nigeria) and Terrorism sections - updated information following an increase in insurgent attacks in Borno State ",
+                    "public_timestamp": "2020-01-15T13:31:38.000Z"
+                },
+                {
+                    "note": "Update to Summary, Safety and Security, and Terrorism sections of travel advice in relation to an emerging terrorist threat.",
+                    "public_timestamp": "2020-01-25T00:48:00.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following announcement of air strikes targeting criminal groups in the Dogon Gona forest area of Niger state",
+                    "public_timestamp": "2020-01-27T20:11:54.000Z"
+                },
+                {
+                    "note": "Summary - the FCO now advise against all but essential travel to areas within 40km of the state border with Kaduna and Zamfara states in Niger State, west of the Kaduna River",
+                    "public_timestamp": "2020-02-07T11:32:35.000Z"
+                },
+                {
+                    "note": "Safety and security (Nigeria borders) - update to information on additional checks at some land borders",
+                    "public_timestamp": "2020-02-11T11:28:11.000Z"
+                },
+                {
+                    "note": "Addition of information about precautionary measures introduced by the Nigerian authorities for coronavirus (COVID-19) ('Health' and 'Summary' pages). Editorial amendments and updates ('Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-02-28T18:10:50.000Z"
+                },
+                {
+                    "note": "From 21 March, precautionary travel restrictions related to coronavirus (COVID-19) will be extended to the United Kingdom. ('Summary' and 'Health' pages) ",
+                    "public_timestamp": "2020-03-19T11:49:54.000Z"
+                },
+                {
+                    "note": "Addition of information about the closure of Enugu, Kano and Port Harcourt international airports from 21 March in response to coronavirus (COVID-19)(\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-20T16:59:35.000Z"
+                },
+                {
+                    "note": "Addition of information about the banning of gathering of more than 50 people in Lagos State, including  in bars, restaurants and weddings from 20 March in response to coronavirus (COVID-19)(\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-21T10:17:13.000Z"
+                },
+                {
+                    "note": "Addition of information about the closure of Abuja and Lagos international airports from 2300 hrs, 23 March in response to coronavirus (COVID-19 ). Addition of advice about contacting airlines if you wish to leave the country. Addition of links to British High Commission Abuja social media for latest information  (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-21T20:39:39.000Z"
+                },
+                {
+                    "note": "Addition of information on local measures to tackle the spread of coronavirus (COVID-19). Information on possible return flights to the UK following the closure of all international commercial flights into Nigeria until 23 April ('Return to UK' and 'Summary' pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-27T18:47:30.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions of movement in Abuja, Lagos and Ogun State with effect from 11:00pm local on 30 March for 14 days. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-30T22:39:28.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions of movement in  Ogun State with effect 3 April  for 14 days. Update on other states also under movement restrictions: Osun, Niger, Kaduna, Kano, Rivers, Kwara, Ekiti. Clarification of key exemptions in Abuja, Lagos and Ogun movement restrictions. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-01T17:28:04.000Z"
+                },
+                {
+                    "note": "Addition of information on existing restrictions of movement and update to return to UK ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-02T16:50:23.000Z"
+                },
+                {
+                    "note": "Addition of information on Nigerian Immigration visa overstay waiver for those affected by airport closures, prescription availability during period of restricted movements in the main cities and an update on Local Travel (North East) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-08T16:06:34.000Z"
+                },
+                {
+                    "note": "Addition of information on return flights to the UK ('Return to the UK' pages)",
+                    "public_timestamp": "2020-04-10T21:58:03.000Z"
+                },
+                {
+                    "note": "Addition of information on extension of lockdown in Abuja, Lagos and Osun State and on return flights to the UK ('Summary, Coronavirus and Return to the UK' pages)",
+                    "public_timestamp": "2020-04-13T22:56:48.000Z"
+                },
+                {
+                    "note": "Updated advice on flights for people wishing to return to the UK  ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-15T13:06:30.000Z"
+                },
+                {
+                    "note": "Updated advice on flights for people wishing to return to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-19T15:29:51.000Z"
+                },
+                {
+                    "note": "Update to information on Ramadan. ('Local laws and customs' page)",
+                    "public_timestamp": "2020-04-22T12:39:01.000Z"
+                },
+                {
+                    "note": "Updated advice on flights for British nationals wishing to return to the UK. (\u2018Summary\u2019, \u2018Coronavirus\u2019 and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-24T09:16:52.000Z"
+                },
+                {
+                    "note": "Updated advice on eligibility for British nationals wishing to return to the UK. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-24T11:51:57.000Z"
+                },
+                {
+                    "note": "Extension of lockdown in Abuja, Lagos and Ogun state until 4 May. Imposition of immediate 2 week lockdown in Kano state. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-27T21:51:52.000Z"
+                },
+                {
+                    "note": "Updated advice on flights for people wishing to return to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-03T17:25:12.000Z"
+                },
+                {
+                    "note": "Changes to restrictions in Abuja and Lagos from 4 May in the Local measures section ('Coronavirus' page).",
+                    "public_timestamp": "2020-05-05T13:17:40.000Z"
+                },
+                {
+                    "note": "Update on the extension of airport closures to 4 June 2020 ('Coronavirus' and \u2018Return to the UK\u2019 pages).",
+                    "public_timestamp": "2020-05-07T11:55:53.000Z"
+                },
+                {
+                    "note": "Update on return flights to the UK (\u2018Return to the UK\u2019 page).",
+                    "public_timestamp": "2020-05-08T19:18:06.000Z"
+                },
+                {
+                    "note": "Updated information on return flights to the UK (\u2018Return to the UK\u2019 page).",
+                    "public_timestamp": "2020-05-11T16:32:48.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-14T11:30:54.000Z"
+                },
+                {
+                    "note": "Update to information on lockdown restrictions in Abuja and Lagos (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-19T12:10:30.000Z"
+                },
+                {
+                    "note": "Information on three special flights to the UK (\u2018Summary\u2019 and \u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-05-23T18:07:11.000Z"
+                },
+                {
+                    "note": "Information on how to book tickets for three special flights to the UK ('Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-05-24T17:00:00.000Z"
+                },
+                {
+                    "note": "Information on additional return flight on 8 June and closure of bookings for special flights to the UK until further notice, including for the 8 June flight (\u2018Summary\u2019 and \u2018Return to the UK\u2019 pages)\r\n",
+                    "public_timestamp": "2020-05-26T19:33:14.000Z"
+                },
+                {
+                    "note": "Removal of reference to 29 May special flight (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-05-30T18:26:13.000Z"
+                },
+                {
+                    "note": " Update on movement restrictions in Nigeria (\u2018Staying during Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-06-02T13:43:45.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:25:03.000Z"
+                },
+                {
+                    "note": "Updated information on the re-commencement of domestic flights in Nigeria. ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-10T16:09:35.000Z"
+                },
+                {
+                    "note": "This page has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2020-06-17T13:27:49.000Z"
+                },
+                {
+                    "note": "Removal of information about previous flights to the UK ('Summary' page) and updated information about the suspension of flights to and from Nigeria ('Return to the UK' page) ",
+                    "public_timestamp": "2020-06-25T11:26:25.000Z"
+                },
+                {
+                    "note": "Addition of information on an insurgent attack on a humanitarian hub on 13 June ('Summary', 'Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-06-30T15:27:04.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.  Addition of information on the resumption of domestic flights ",
+                    "public_timestamp": "2020-07-13T09:37:44.000Z"
+                },
+                {
+                    "note": "Update to information on the suspension of international commercial flights (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-08-04T09:33:48.000Z"
+                },
+                {
+                    "note": "Update to information on recent incidents involving attacks on aid workers, including kidnap risks ('Summary', 'Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-08-18T14:07:31.000Z"
+                },
+                {
+                    "note": "Addition of information on the resumption of international commercial flights to and from Nigeria on 29 August ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-08-20T08:43:52.000Z"
+                },
+                {
+                    "note": "Update to information on the resumption of international commercial flights on 29 August and visas ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-21T09:46:23.000Z"
+                },
+                {
+                    "note": "Updated information on the resumption of international commercial flights on 5 September\r\n('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-28T12:12:06.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for the resumption of international commercial flights on 5 September. Updated information on restrictions on internal travel and public gatherings ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-09-05T12:25:24.000Z"
+                },
+                {
+                    "note": "Update information on Edo off-cycle gubernatorial election on Saturday 19 September ('Safety and security' page)",
+                    "public_timestamp": "2020-09-16T15:43:26.000Z"
+                },
+                {
+                    "note": "Updated information on local travel risk of kidnap ('Safety and security' page).  Removal of information on elections ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2020-09-22T15:12:46.000Z"
+                },
+                {
+                    "note": "Updated information on Testing/Screening rules. Passengers travelling to Nigeria need to have tested negative for COVID-19 within 120 hours of their departure to Nigeria. (Entry requirements page) ",
+                    "public_timestamp": "2020-09-25T14:22:52.000Z"
+                },
+                {
+                    "note": "Updated information on local travel - national strikes planned to commence Monday 28 September ('Summary' and 'Safety and Security - Local Travel' pages).",
+                    "public_timestamp": "2020-09-26T15:30:16.000Z"
+                },
+                {
+                    "note": "Updated information on Ondo State elections ('Summary' and 'Safety and Security pages)",
+                    "public_timestamp": "2020-10-08T15:23:38.000Z"
+                },
+                {
+                    "note": "New information and advice on ongoing protests in Abuja, Lagos and other locations across Nigeria. (\u2018Summary\u2019 and \u2018Safety and Security\u2019 pages)",
+                    "public_timestamp": "2020-10-12T10:06:44.000Z"
+                },
+                {
+                    "note": "Additional information on announcement of 24 hour curfew in Edo State (South West Nigeria) and reports on a prison break in Benin City ('Summary' page)",
+                    "public_timestamp": "2020-10-19T16:23:02.000Z"
+                },
+                {
+                    "note": "Additional information on announcement of 24 hour curfew in Edo State. A 24 hour curfew will take effect in Lagos State from 4pm on 20 October. Travel may be disrupted.  ('Summary' page)",
+                    "public_timestamp": "2020-10-20T15:19:48.000Z"
+                },
+                {
+                    "note": "Advice that other curfews could be announced at short notice. Monitor local media and follow local advice. ('Summary' page) ",
+                    "public_timestamp": "2020-10-20T21:50:09.000Z"
+                },
+                {
+                    "note": "Update to information and advice on ongoing protests in Abuja, Lagos and other locations across Nigeria (\u2018Summary\u2019 page). ",
+                    "public_timestamp": "2020-10-21T13:14:53.000Z"
+                },
+                {
+                    "note": "Update on easing of curfew restrictions in Lagos State from 24 October  ('Summary' page)",
+                    "public_timestamp": "2020-10-23T19:40:57.000Z"
+                },
+                {
+                    "note": "Updated information on easing of curfew restrictions in Lagos State from 25 October ('Summary' page)",
+                    "public_timestamp": "2020-10-26T16:47:24.000Z"
+                },
+                {
+                    "note": "Updated information on curfew restrictions ('Summary' page).",
+                    "public_timestamp": "2020-11-04T15:46:31.000Z"
+                },
+                {
+                    "note": "Addition of information on the suspension of all Immigration Services at the Nigerian High Commission in London until further notice ('Summary' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-11-06T16:21:52.000Z"
+                },
+                {
+                    "note": "Updated information on immigration services at the Nigerian High Commission in London have now resumed ('Summary' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-12-03T14:12:29.000Z"
+                },
+                {
+                    "note": "Addition of information on an attack in November 2020 ('Terrorism' page).",
+                    "public_timestamp": "2020-12-04T17:04:24.000Z"
+                },
+                {
+                    "note": "Additional information on obtaining medication ('Healthcare' page)",
+                    "public_timestamp": "2020-12-10T13:41:27.000Z"
+                },
+                {
+                    "note": "Additional information on obtaining medication ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-10T13:56:48.000Z"
+                },
+                {
+                    "note": "Update to information on attacks on humanitarian staff, assets and sites ('Terrorism' page)",
+                    "public_timestamp": "2020-12-11T17:17:35.000Z"
+                },
+                {
+                    "note": "New information on an attack on a secondary school in Kankara, Katsina State, North West Nigeria on 11 December ('Safety and security' page).",
+                    "public_timestamp": "2020-12-18T16:26:42.000Z"
+                },
+                {
+                    "note": "New information on coronavirus guidance, restrictions and testing. ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-22T19:19:35.000Z"
+                },
+                {
+                    "note": "Addition of information on arrival procedures from Monday 28 December for passengers whose journey starts from the UK or South Africa. ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-27T13:56:58.000Z"
+                },
+                {
+                    "note": "Suspension of all Immigration Services at the Nigerian High Commission in London until further notice. 'Summary' page) (Entry requirements). ",
+                    "public_timestamp": "2020-12-31T17:38:34.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Nigeria (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-14T17:40:40.000Z"
+                },
+                {
+                    "note": "Information on the Nigerian government directive on mobile SIM registration for all residents including foreign nationals (Summary page) ",
+                    "public_timestamp": "2021-01-15T18:31:35.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Nigeria (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-26T16:36:04.000Z"
+                },
+                {
+                    "note": "New information on how to get COVID-19 vaccines if you live in NIgeria ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-16T12:04:28.000Z"
+                },
+                {
+                    "note": "New information on how to get COVID-19 vaccines if you live in Nigeria ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-16T12:04:54.000Z"
+                },
+                {
+                    "note": "Addition of information regarding a Prison attack in Owerri, Imo State  and information about Ramadan (Summary, Safety and security section, local laws and customs). ",
+                    "public_timestamp": "2021-04-06T22:18:56.000Z"
+                },
+                {
+                    "note": "Immigration Services at the Nigerian High Commission in London resumed on 13 April. ('Summary' and 'Entry requirements' page).",
+                    "public_timestamp": "2021-04-26T16:09:49.000Z"
+                },
+                {
+                    "note": "Curfew imposed in Rivers State. ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2021-04-28T17:41:32.000Z"
+                },
+                {
+                    "note": "Curfew imposed in Rivers and Ebonyi State. ('Summary' and 'Safety and Security' pages).",
+                    "public_timestamp": "2021-04-29T17:23:50.000Z"
+                },
+                {
+                    "note": "Curfew imposed in Rivers, Ebonyi and Anambra States. ('Summary' and 'Safety and Security' pages).",
+                    "public_timestamp": "2021-04-30T17:24:50.000Z"
+                },
+                {
+                    "note": "With effect from Tuesday 4 May all travellers to Nigeria will require a negative PCR test taken within 72 hours of their departure to Nigeria. In addition, there will be no entry permitted for any non-Nigerians/non-permanent residence permit holders who have visited Brazil, India or Turkey in the 14 days preceding travel to Nigeria.  This does not apply to transit passengers. (\u2018Summary\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2021-05-02T16:32:43.000Z"
+                },
+                {
+                    "note": "Curfew in Rivers State extended from 11 May, and now in effect from 7pm to 6am daily (\u2018Summary\u2019 and \u2018Safety and Security\u2019 pages)",
+                    "public_timestamp": "2021-05-10T18:40:48.000Z"
+                },
+                {
+                    "note": "The Foreign Commonwealth and Development Office (FCDO) advise against all travel to Kaduna, Zamfara and Katsina States and advise against all but essential travel to Niger and Sokoto States due to local insecurity (\u2018Summary\u2019, \u2018Safety and security\u2019 and \u2018Local laws and customs pages\u2019)",
+                    "public_timestamp": "2021-05-13T13:38:41.000Z"
+                },
+                {
+                    "note": "Addition of information on strike over worker\u2019s rights in Kaduna State from 17 May 2021. Protests have occurred and disruptions to transport and utilities have been reported (\u2018Summary\u2019 and \u2018Safety and Security pages\u2019)",
+                    "public_timestamp": "2021-05-19T10:02:32.000Z"
+                },
+                {
+                    "note": "New information on \u2018Operation Restore Peace', a police operation launched on 19 May 2021 ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-05-21T15:09:27.000Z"
+                },
+                {
+                    "note": "Update on planned protests in multiple locations on 12 June ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-06-11T14:21:23.000Z"
+                },
+                {
+                    "note": "Update on outbreaks of cholera in Central and North Nigeria ('Health' page)",
+                    "public_timestamp": "2021-06-21T08:17:54.000Z"
+                },
+                {
+                    "note": "There have been a number of attacks and targeted killings in the South East and South South regions of Nigeria. (\u2018Summary\u2019 and \u2018Safety and Security\u2019 pages). Update on Terrorist attacks (\u2018Safety and Security pages\u2019). ",
+                    "public_timestamp": "2021-06-25T15:54:01.000Z"
+                },
+                {
+                    "note": "Addition of South Africa to the list of countries from which no entry is permitted for any non-Nigerians/non holders of permanent residence permits who have visited in the 14 days preceding travel to Nigeria (See 'Entry requirements')",
+                    "public_timestamp": "2021-07-02T21:09:27.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Nigeria, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-07-08T16:23:02.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Nigeria (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-07-26T15:19:22.000Z"
+                },
+                {
+                    "note": "New information on protests in Nigeria (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages) ",
+                    "public_timestamp": "2021-08-16T12:57:37.000Z"
+                },
+                {
+                    "note": "Addition of information on the suspension of communication services in Zamfara state (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages) ",
+                    "public_timestamp": "2021-09-06T15:47:47.000Z"
+                },
+                {
+                    "note": "Increased risk of protests, including 'Stay at Home' protests, in the South East region on 9 and 14 September and during October ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2021-09-08T21:22:57.000Z"
+                },
+                {
+                    "note": "Increased risk of protests, including 'Stay at Home' protests, in the South East region on 9 and 14 September and during October ('Summary' and 'Safety and security' pages). Update to suspension of communication services (\u2018Summary and \u2018Safety and Security\u2019 page)",
+                    "public_timestamp": "2021-09-10T17:09:38.000Z"
+                },
+                {
+                    "note": "Updated information on list of restricted countries for entry into Nigeria; India has been removed ('Summary' and \u2018Entry requirements \u2019pages)",
+                    "public_timestamp": "2021-09-27T12:10:55.000Z"
+                },
+                {
+                    "note": "Updated information on suspension of telecommunication services ('Summary' and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2021-10-01T15:57:15.000Z"
+                },
+                {
+                    "note": "Additional information on potential protests and an increased security presence in response to upcoming events ('Summary' page)",
+                    "public_timestamp": "2021-10-15T15:02:55.000Z"
+                },
+                {
+                    "note": "Additional information on the threat level in North East Nigeria (Safety & Security page).",
+                    "public_timestamp": "2021-10-16T15:51:09.000Z"
+                },
+                {
+                    "note": "Additional advice added regarding Maiduguri, Borno State (\u2018Summary\u2019 \u2018Safety and Security\u2019 pages).",
+                    "public_timestamp": "2021-10-22T16:51:37.000Z"
+                },
+                {
+                    "note": "Removal of entry restrictions for those who have visited Brazil, Turkey or South Africa in last 14 days and updates to entry requirements (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2021-10-24T11:00:16.000Z"
+                },
+                {
+                    "note": "Information on upcoming Governorship elections in Anambra State on November 6 2021 (\u2018Summary\u2019 and \u2018Safety and security\u2019)",
+                    "public_timestamp": "2021-11-05T16:11:04.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 entry requirements (\u2018Summary\u2019 and 'Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-12-02T10:29:37.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 entry requirements from 5 December and telecommunication services in northern Nigeria (See \u2018Summary\u2019, \u2018Coronavirus\u2019, \u2018Safety and Security\u2019 'Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-12-03T18:34:00.000Z"
+                },
+                {
+                    "note": "From 0400 on Monday 6 December, Nigeria will be added to the red list for entering England ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-12-04T19:28:24.000Z"
+                },
+                {
+                    "note": "Updated information on the requirement to isolate in a government-approved managed quarantine facility from 0400 on Monday 6 December and show a negative pre-departure test from 0400 on Tuesday 7 December ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-05T13:12:32.000Z"
+                },
+                {
+                    "note": "Updated information on the requirement to isolate in a government-approved managed quarantine facility and show a negative pre-departure test from 0400 on Monday 6 December ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-05T16:19:11.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to Nigeria, based on the current assessment of COVID-19 risks. From 0400 on Monday 6 December, Nigeria has been added to the red list for entering England ('Summary' page)",
+                    "public_timestamp": "2021-12-06T04:00:04.000Z"
+                },
+                {
+                    "note": "From 0400 on Monday 6 December, Nigeria has been added to the red list for entering England ('Summary' page). Updated information on entry to Nigeria (\u2018Entry Requirements\u2019 page)",
+                    "public_timestamp": "2021-12-06T19:28:42.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 15 December, Nigeria will be removed from the red list (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-12-14T15:50:44.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Nigeria based on the current assessment of COVID-19 risks (\u2018Summary\u2019 and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-12-15T04:10:26.000Z"
+                },
+                {
+                    "note": " Updated information on recent terrorist attacks in North East Nigeria (\u2018Terrorism\u2019 page)",
+                    "public_timestamp": "2021-12-17T09:37:03.000Z"
+                },
+                {
+                    "note": "Information on recent terrorist attacks in Nigeria ('Terrorism' page)",
+                    "public_timestamp": "2021-12-23T16:31:53.000Z"
+                },
+                {
+                    "note": "Addition of information on reports about the terrorist threat in Abuja ('Summary' and 'Terrorism' page)",
+                    "public_timestamp": "2021-12-24T10:15:29.000Z"
+                },
+                {
+                    "note": "Update to information on kidnaps (\u2018Summary\u2019, 'Safety and security' and 'Terrorism' pages)\r\n",
+                    "public_timestamp": "2022-03-17T13:30:08.000Z"
+                },
+                {
+                    "note": "Update to information on attacks and kidnaps (\u2018Summary\u2019 and 'Safety and security' pages)",
+                    "public_timestamp": "2022-03-29T16:06:05.000Z"
+                },
+                {
+                    "note": "Update to information on upcoming sporting events ('Safety and security' pages)",
+                    "public_timestamp": "2022-03-29T16:58:58.000Z"
+                },
+                {
+                    "note": "Update to COVID entry requirements from 00:01am on Monday, 4th April for in-bound passengers to Nigeria (See 'Entry requirements')",
+                    "public_timestamp": "2022-04-03T18:09:50.000Z"
+                },
+                {
+                    "note": "Update to COVID entry requirements from 00:01am on Monday, 4th April, 2022 for in-bound passengers to Nigeria.",
+                    "public_timestamp": "2022-04-04T07:23:10.000Z"
+                },
+                {
+                    "note": "Announcement from the Airline Operators of Nigeria (AON) that some Nigerian airlines will suspend domestic flights from 9 May ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-05-08T17:42:47.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of the planned cancellation of domestic flights by the Airline Operators of Nigeria (AON), planned resumption of train services between Abuja and Kaduna and the risk of terrorist kidnaps ('Summary', 'Safety and security' and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2022-05-13T09:53:03.000Z"
+                },
+                {
+                    "note": "Updated information on protests and the imposition of a 24 hour curfew in Sokoto State ('Summary' page)",
+                    "public_timestamp": "2022-05-14T18:57:49.000Z"
+                },
+                {
+                    "note": "Update on an explosion in Kano on 17 May.  ('Summary' page)",
+                    "public_timestamp": "2022-05-17T15:50:01.000Z"
+                },
+                {
+                    "note": "The FCDO now additionally advises against all but essential travel to the states of Plateau and Taraba. There is also an increased risk of violence and kidnap in Benue state. ('Summary', 'Safety and security' and 'Terrorism' pages) ",
+                    "public_timestamp": "2022-05-19T15:03:04.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on presidential primaries in Abuja between 28 May and 1 June and possible disruption to traffic ('Summary' page)",
+                    "public_timestamp": "2022-05-27T14:54:24.000Z"
+                },
+                {
+                    "note": "Additional advice on ongoing presidential primaries in Abuja and possible disruption to traffic ('Summary' page)",
+                    "public_timestamp": "2022-06-01T11:10:07.000Z"
+                },
+                {
+                    "note": "Addition of information on a gun attack at a church in Owo, Ondo State on 5 June ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-06-10T15:53:36.000Z"
+                },
+                {
+                    "note": "Updated information on increased reports of violent crime in the suburbs of Abuja ('Summary' page)",
+                    "public_timestamp": "2022-06-23T15:05:13.000Z"
+                },
+                {
+                    "note": "Update on attack on Kuje prison ('Summary' page)",
+                    "public_timestamp": "2022-07-06T17:17:49.000Z"
+                },
+                {
+                    "note": "Update on domestic runway closure at Murtala Muhammad Airport, Lagos (\u2018Summary\u2019 page and \u2018Safety and security\u2019 page). Update on attack on Kuje prison ('Summary' page and \u2018Safety and security\u2019 page and \u2018Terrorism\u2019 page)",
+                    "public_timestamp": "2022-07-07T17:23:39.000Z"
+                },
+                {
+                    "note": "Updated information on locations of terrorist attacks ('Summary' page and  \u2018Terrorism\u2019 page)",
+                    "public_timestamp": "2022-07-11T16:40:23.000Z"
+                },
+                {
+                    "note": "New information added on the announcement of a nationwide protest and strike by The Nigeria Labour Congress ('Summary' and 'Safety and Security' pages).  ",
+                    "public_timestamp": "2022-07-27T12:20:38.000Z"
+                },
+                {
+                    "note": "Update to information on terrorism and terrorist kidnap ('Terrorism' pages)",
+                    "public_timestamp": "2022-07-27T15:58:04.000Z"
+                },
+                {
+                    "note": "Removal of information on the nationwide protest and strike by the Nigeria Labour Congress ",
+                    "public_timestamp": "2022-08-01T14:58:58.000Z"
+                },
+                {
+                    "note": "Updated information on increased insecurity in the outer suburbs of Abuja, the Federal Capital Territory and surrounding states ('Safety and security' page).",
+                    "public_timestamp": "2022-08-11T15:06:46.000Z"
+                },
+                {
+                    "note": "Updated information on screening of arrivals under \u2018Entry Requirements\u2019 ",
+                    "public_timestamp": "2022-08-19T15:54:42.000Z"
+                },
+                {
+                    "note": "Update to 'Terrorism' section",
+                    "public_timestamp": "2022-10-23T06:13:28.000Z"
+                },
+                {
+                    "note": "\r\nUpdate to 'Terrorism' section",
+                    "public_timestamp": "2022-10-24T18:54:16.000Z"
+                },
+                {
+                    "note": "Updated to advise against all but essential travel to the Federal Capital Territory, including the city of Abuja",
+                    "public_timestamp": "2022-10-26T17:45:39.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the Federal Capital Territory, including the city of Abuja, but risks remain, and further details about the continued threat from terrorism in this region has been added. The FCDO advice against travelling to other areas of Nigeria remains in place (\u2018Summary\u2019 and \u2018Terrorism\u2019 pages).",
+                    "public_timestamp": "2022-11-07T16:43:44.000Z"
+                },
+                {
+                    "note": "Updated information on train services between Abuja and Kaduna, Northern Nigeria ('Safety and security' page). ",
+                    "public_timestamp": "2022-12-06T16:13:11.000Z"
+                },
+                {
+                    "note": "Addition of information that COVID-19 restrictions have lifted, updated information on local travel, terrorism and crime (\u2018Summary\u2019, \u2018Coronavirus\u2019, \u2018Safety and security\u2019, \u2018Terrorism\u2019, \u2018Entry requirements' and \u2018Health\u2019 pages).\r\n\r\n",
+                    "public_timestamp": "2022-12-22T15:02:05.000Z"
+                },
+                {
+                    "note": "Updated information on terrorist kidnaps ('Terrorism' page).",
+                    "public_timestamp": "2023-01-17T17:09:13.000Z"
+                },
+                {
+                    "note": "Updated information on change of local currency notes ('Summary' and 'Money' pages).",
+                    "public_timestamp": "2023-01-27T16:16:52.000Z"
+                },
+                {
+                    "note": "Updated information on change of local currency notes ('Summary' and 'Money' pages).",
+                    "public_timestamp": "2023-01-30T16:15:11.000Z"
+                },
+                {
+                    "note": "Updated information on upcoming Nigerian elections and update on change of currency ('Summary', 'Safety and security' and pages).",
+                    "public_timestamp": "2023-02-10T17:00:08.000Z"
+                },
+                {
+                    "note": "Updated information on Nigeria entry requirements (\u2018Summary\u2019 and \u2018Entry Requirements\u2019 pages) and update on change of currency ('Summary', and \u2018Money\u2019 pages).",
+                    "public_timestamp": "2023-02-15T18:21:22.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions on movement during election period ('Safety and security' page).",
+                    "public_timestamp": "2023-02-20T16:27:29.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions on movement during election period ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-02-24T15:26:49.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions on movement during election period ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-02-27T16:33:33.000Z"
+                },
+                {
+                    "note": "Updated information on the election period ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-03-09T16:45:09.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions on movement during gubernatorial election period ('Summary', \u2018Nigeria borders\u2019, \u2018Road Travel\u2019, \u2018Air Travel\u2019 and \u2018Protests and Demonstrations\u2019 pages).",
+                    "public_timestamp": "2023-03-17T20:13:05.000Z"
+                },
+                {
+                    "note": "Latest update: Gubernatorial elections will take place on 18 March 2023. Movement restrictions will be enforced in states where elections will take place from 00:00 to 18:00 and there is a heightened risk of protests and violence. You should exercise caution, follow the instructions of local authorities, and ensure in advance that you have a sufficient supply of essential goods (see 'Summary' and 'Safety and Security' sections).  ",
+                    "public_timestamp": "2023-03-18T13:22:35.000Z"
+                },
+                {
+                    "note": "Removal of information about Gubernatorial elections and State Houses of Assembly which took place on 18 March ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-03-22T16:38:38.000Z"
+                },
+                {
+                    "note": "Removal of information about Gubernatorial and State Houses of Assembly elections which took place on 18 March ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-03-22T16:54:43.000Z"
+                },
+                {
+                    "note": "Information regarding potential disruption due to airport workers strike on 17 and 18 April (\u2018Summary\u2019 and \u2018Safety and Security ' section).",
+                    "public_timestamp": "2023-04-17T18:28:15.000Z"
+                },
+                {
+                    "note": "Removal of information regarding potential disruption now that airport workers strike has finished (\u2018Summary\u2019 and \u2018Safety and Security ' section).",
+                    "public_timestamp": "2023-04-19T14:56:11.000Z"
+                },
+                {
+                    "note": "The FCDO now advise against all but essential to Anambra state following an attack on a US convoy. (\u2018Safety and Security\u2019 page).",
+                    "public_timestamp": "2023-05-18T12:40:10.000Z"
+                },
+                {
+                    "note": "Update on Nigeria\u2019s Presidential and Gubernatorial Inaugurations on 29 May (safety and security)",
+                    "public_timestamp": "2023-05-27T20:22:57.000Z"
+                },
+                {
+                    "note": "Removal of information about the inauguration ceremony in Abuja ('Safety and security' page).",
+                    "public_timestamp": "2023-06-12T08:24:29.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:21:58.000Z"
+                },
+                {
+                    "note": "Information about a risk of violence in Enugu state in South East Nigeria from 31 July to 14 August and land and air border closures with Niger (\u2018Safety and security\u2019 page). ",
+                    "public_timestamp": "2023-07-31T18:49:32.000Z"
+                },
+                {
+                    "note": "Updates to \u2018local travel\u2019 (Safety and security\u2019 page) and \u2018Money\u2019.",
+                    "public_timestamp": "2023-08-18T21:19:41.000Z"
+                },
+                {
+                    "note": "Information on outbreaks of diphtheria in Nigeria ('Health' page).",
+                    "public_timestamp": "2023-10-06T15:57:51.000Z"
+                },
+                {
+                    "note": "FCDO now advise against all but essential to Imo state due to attacks on civilians and security forces (\u2018Safety and Security\u2019 page). \r\n\r\nInformation on off-cycle state level elections in Bayelsa, Imo and Kogi ('Summary' and under \u2018Protests, demonstrations and intercommunal violence\u2019 on the 'Safety and security' page).",
+                    "public_timestamp": "2023-11-03T11:03:00.000Z"
+                },
+                {
+                    "note": "Information on the security alert issued by the US Embassy in Nigeria on the increased threat to major hotels in Nigeria\u2019s larger cities (Summary)",
+                    "public_timestamp": "2023-11-04T14:30:45.000Z"
+                },
+                {
+                    "note": "Removal of Information on the security alert issued by the US Embassy in Nigeria on the increased threat to major hotels in Nigeria\u2019s larger cities; and on off-cycle state elections ('Summary' page).",
+                    "public_timestamp": "2023-11-15T11:15:25.000Z"
+                }
+            ],
+            "country": {
+                "name": "Nigeria",
+                "slug": "nigeria",
+                "synonyms": [
+                    "Sahel"
+                ]
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "845b58fe-6360-416d-9a9b-f04da75295e0",
+                "url": "https://assets.publishing.service.gov.uk/media/6544d3059e05fd000dbe7cb8/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/nigeria/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/6544d305d36c910012935d1f/FCDO__TA__030_-_Nigeria_Travel_Advice_Ed8__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth--development-office-fcdo-advises-against-all-travel-to\">The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) advises against all travel to:</h3>\n\n<ul>\n  <li>Borno State</li>\n  <li>Yobe State</li>\n  <li>Adamawa State</li>\n  <li>Gombe State</li>\n  <li>Kaduna State</li>\n  <li>Katsina State</li>\n  <li>Zamfara state</li>\n  <li>riverine areas of Delta, Bayelsa, Rivers, Akwa Ibom and Cross River States</li>\n</ul>\n\n<h3 id=\"the-fcdo-advises-against-all-but-essential-travel-to\">The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to:</h3>\n\n<ul>\n  <li>Bauchi State</li>\n  <li>Kano State</li>\n  <li>Jigawa State</li>\n  <li>Niger State</li>\n  <li>Sokoto State</li>\n  <li>Kogi State</li>\n  <li>within 20km of the border with Niger in Kebbi State</li>\n  <li>Abia State</li>\n  <li>non-riverine areas of Delta, Bayelsa and Rivers States</li>\n  <li>Plateau State</li>\n  <li>Taraba State</li>\n  <li>Anambra State</li>\n  <li>Imo State</li>\n</ul>\n\n<div class=\"example\">\n<p>Before you travel, <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Nigeria\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider. All travellers must complete the <a rel=\"external\" href=\"https://healthapp.ncdc.gov.ng/\">online Nigeria Health Declaration Form</a> before travelling to Nigeria.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>Around 117,000 British tourists visit Nigeria every year. Most visits are trouble-free, but a small number of British people encounter problems. You should take sensible precautions to protect your safety.</p>\n\n<p>The Nigeria-Niger land border has been closed and commercial flights between Nigeria and Niger have been prohibited by the Nigerian authorities, in response to the political situation in Niger. Flight times between Nigeria and other neighbouring countries may also be affected. See Local Travel.</p>\n\n<p>Terrorists are very likely to try to carry out attacks in Nigeria. See <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/terrorism\">Terrorism</a>. Most attacks occur in Borno, Yobe and Adamawa States in the North East. There have also been significant attacks in other states, including in Gombe, Kano, Kaduna, Plateau, Bauchi, Taraba, Kogi, Niger, and the Federal Capital Territory. Further attacks are likely and could occur at any time. Attacks could be indiscriminate and could affect western interests as well as places visited by tourists. Attacks are more likely to attack crowded locations or symbolic targets, such as places of worship. There is a heightened risk during religious events, public holidays or election periods.</p>\n\n<p>There is a high threat of criminal and terrorist kidnap throughout Nigeria. See <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/terrorism#terrorist-kidnaps\">Terrorist kidnaps</a> and <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/safety-and-security#criminal-kidnaps\">Criminal kidnaps</a>.</p>\n\n<p>Incidents of banditry and inter-communal violence occur frequently throughout Nigeria. Attacks can occur without warning. See\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/safety-and-security#crime\">Crime</a>\u00a0and <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/safety-and-security#protests-demonstrations-and-intercommunal-violence\">\u201cinter-communal violence\u201d.</a></p>\n\n<p>Political rallies, protests and violent demonstrations can occur with little notice throughout the country. International news events can sometimes trigger anti-Western demonstrations. There is the potential for increased tension on Fridays. See more information under \u2018<a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/safety-and-security#protests-demonstrations-and-intercommunal-violence\">Protests and Demonstrations\u2019</a></p>\n\n<p>Throughout Nigeria there are high levels of violent street crime including muggings, car-jackings and armed robbery in Nigeria. You should be vigilant at all times. See <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/safety-and-security#crime\">Crime</a>.</p>\n\n<p>UK health authorities have classified Nigeria as having a risk of Zika virus, Cholera, Lassa fever, Yellow fever, Monkey pox, Poliomyelitis and Ebola virus transmission. See <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/health\">Health</a>.</p>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Before considering travel to areas to which the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advise against all or all but essential travel you should take professional security advice. Be vigilant at all times and keep others informed of your travel plans. If you\u2019re working in Nigeria you should follow your employer\u2019s security advice, make sure your accommodation is secure and review your security measures regularly. Consular support is offered in Nigeria although limited in areas where the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has existing advice against all travel and all but essential travel (as set out above).</p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<p>Nigeria has removed COVID-19 travel restrictions, the <a rel=\"external\" href=\"https://ncaa.gov.ng/\">Nigerian Civil Aviation Authority website</a> has the latest guidelines.</p>\n\n<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for Nigeria on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/165/nigeria#COVID-19\">TravelHealthPro website</a></p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<p>You should contact local authorities for <a rel=\"external\" href=\"https://covid19.ncdc.gov.ng/privatelabs/\">information on testing facilities</a>.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>International commercial flights are operating to Abuja and Lagos. Contact your airline for the latest information on flights to and from Nigeria.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n\n<p>See <a href=\"/foreign-travel-advice/nigeria/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Nigeria.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-nigeria\">Travel in Nigeria</h2>\n\n<p>Passengers\u2019 temperature may be taken on arrival at the airport.</p>\n\n<h2 id=\"healthcare-in-nigeria\">Healthcare in Nigeria</h2>\n\n<p>Most medicines that require a prescription from a doctor in the UK will require one in Nigeria. If necessary, you should get an electronic prescription from your medical practitioner to enable a local doctor to write one.</p>\n\n<p>Unlike in the UK, you will need to go to a pharmacy or chemist to obtain most over-the-counter medicines. Only a very limited selection are available at supermarkets or other stores. Pharmacies are widely available. They will accept prescriptions from the UK.</p>\n\n<p>For contact details for English speaking doctors visit our <a href=\"https://www.gov.uk/government/publications/nigeria-list-of-medical-facilitiespractitioners\">list of healthcare providers</a>.</p>\n\n<p>See also the <a href=\"https://www.gov.uk/guidance/healthcare-support-for-when-you-are-unable-to-return-to-the-uk-during-coronavirus-covid-19\">guidance on healthcare if you\u2019re waiting to return to the UK</a>.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"help-and-support\">Help and support</h2>\n\n<p>If you need urgent consular assistance, contact your <a href=\"/world/embassies\">nearest British embassy, high commission or consulate</a>. All telephone numbers are available 24/7.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<ul>\n  <li>The <a rel=\"external\" href=\"https://ncdc.gov.ng/\">Nigerian Centre for Disease Control</a> has a 24 hour, toll free number for advice: (+00234) (0) 800 970 000010.</li>\n  <li>SMS: (+00234) (0) 809 955 5577</li>\n  <li>WhatsAapp: (+00234) (0) 708 7110839</li>\n  <li>Mobile: (+00234) (0) 703 670 8970 0010.</li>\n</ul>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h2 id=\"security-situation\">Security situation</h2>\n\n<p>While most visits for British nationals are trouble-free, insecurity is increasing across Nigeria. Kidnapping, violent crime, and inter-communal violence occurs throughout all regions of Nigeria. Other threats, such as terrorism and militant groups, are heightened in specific regions. Refer to local travel below for <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance in the region you are travelling or working in.</p>\n\n<h2 id=\"local-travel\">Local travel</h2>\n\n<h3 id=\"south-west\">South West</h3>\n\n<p>Violent crime such as mugging, kidnapping, car-jacking and armed robberies are common, particularly in the larger cities. Large scale attacks are rare in the region but Islamic State West Africa has claimed two attacks in 2022, <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/terrorism\">see terrorism for further detail</a>. Intercommunal violence is prevalent. Whilst these attacks have not targeted foreign nationals, caution should be exercised to avoid being caught up in such incidents.</p>\n\n<p>You should be vigilant at all times and take into account any security advice given by your hotel, employer or your hosts.</p>\n\n<h3 id=\"south-east-and-south-south\">South East and South South</h3>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advise against all travel to the riverine areas (ie the river and swamp locations accessible by boat, but not by road) of Delta, Bayelsa, Rivers, Akwa Ibom and Cross River States.</p>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advise against all but essential travel to Abia, Anambra and Imo States and non-riverine areas of Delta, Bayelsa and Rivers States.</p>\n\n<p>Militant groups are active across the Niger Delta region and have carried out a number of attacks on oil and gas infrastructure. There\u2019s a high risk of armed robbery, criminality and criminal kidnap in the Niger Delta region.</p>\n\n<p>There have been a number of attacks and targeted killings in the South East and South South regions of Nigeria. Some of these attacks have been on isolated roads and in remote locations, but there is a chance that they could occur in metropolitan areas.  There is also a heightened risk of indiscriminate attacks on police and security infrastructure, which may inadvertently affect bystanders.  A number of states have imposed curfews. Travellers to these regions are advised to exercise caution if travelling in remote areas at night and follow local news and information outlets for further information, including on local curfews.</p>\n\n<p>Secessionist groups are active in the South East and attacks and violent clashes often occur with the military and other security forces. Although foreign nationals are not normally targeted, there is a risk you could be caught in an attack. You should be alert to local government announcements and media reporting.</p>\n\n<h3 id=\"north-central-and-the-federal-capital-territory-including-abuja\">North Central and the Federal Capital Territory, including Abuja</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to Niger, Kogi, and Plateau States due to criminal and militant activity and incidents of inter-communal violence.</p>\n\n<p>The outer suburbs of Abuja, within the Federal Capital Territory can be prone to varying levels of violence, and the safety of daily activity is unpredictable. Violent crime, often involving firearms, has also increased in recent months and has spread from the outer suburbs to more central and wealthier areas of the city.</p>\n\n<p>The risk of terrorism in Abuja and the Federal Capital Territory area has increased in 2022. Islamic State West Africa (ISWA) has claimed responsibility for attacks, including an attack on Kuje Prison in the Federal Capital during which an unknown number of prisoners escaped, including suspected terrorists. The risk is present across the Federal Capital Territory, including Abuja, and particularly in the border areas of the Federal Capital Territory.\u00a0For information on terrorism, <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/terrorism\">see Terrorism page</a></p>\n\n<p>You should be cautious and vigilant when travelling in the Federal Capital Territory, take advice from trusted contacts, and be prepared to cancel or curtail your plans.</p>\n\n<p>There are regular protests in Abuja, which have the potential to turn violent.  You should monitor local media, avoid any demonstrations or large gatherings and follow any instructions from local police and security forces.</p>\n\n<h3 id=\"north-west\">North West</h3>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advise against all travel to Kaduna State, Katsina State, and Zamfara State.</p>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advise against all but essential travel to: Kano State, Jigawa State, and Sokoto State; and within 20km of the border with Niger in Kebbi State.</p>\n\n<p>Banditry and violent attacks are frequent in the region and there is a high threat of kidnap. Incidents of inter-communal violence occur and trains are vulnerable to attack. If you\u2019re travelling in the North West against <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advice, you should exercise extreme caution and monitor local media.</p>\n\n<h3 id=\"north-east\">North East</h3>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all travel to Borno State, Yobe State, Adamawa State, Gombe State.</p>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all but essential travel to Bauchi and Taraba States.</p>\n\n<p>There is a high and increasing threat from extremists linked to Boko Haram or Islamic State West Africa, particularly around transport hubs, religious areas and large gatherings. Humanitarian personnel, vehicles, supplies and infrastructure can be targeted by terrorists and criminals. For recent attacks, <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/terrorism\">see Terrorism</a>. Further attacks may occur without warning.</p>\n\n<p>There is a high threat of kidnap, violent attacks and inter-communal tensions which can lead to outbreaks of violence. During the dry season (which normally runs from around October to March) this risk is likely to be heightened.</p>\n\n<p>Regular military operations are ongoing in Adamawa, Borno and Yobe states. There is a risk of retaliatory attacks.</p>\n\n<p>If you\u2019re in the North East against\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advice, keep in touch with the authorities and the wider community on the security situation and make sure your procedures and contingency plans are up to date. If you are working, you should be fully confident in your employer\u2019s ability to extract you in the event of any emergency. If in Maiduguri you should be aware that if security were to deteriorate any further, there is a significant likelihood that it could be extremely difficult for you to leave the city. We do not advise travelling by road.</p>\n\n<h3 id=\"nigeria-borders\">Nigeria borders</h3>\n\n<p>The Nigeria-Niger land border has been closed by the Nigerian authorities in response to the political situation in Niger. Additional checks are in place at the Nigeria-Benin, Nigeria-Niger and Nigeria-Cameroon land borders. If you\u2019re planning to make a land crossing from Nigeria, check with the local authorities for the latest information before travelling.</p>\n\n<h2 id=\"protests-demonstrations-and-intercommunal-violence\">Protests, demonstrations and intercommunal violence</h2>\n\n<p>Political rallies, protests and violent demonstrations can occur with little notice throughout the country.</p>\n\n<p>Be vigilant and take local advice on areas to avoid. Take particular care if you\u2019re visiting crowded public places or attending events which attract large crowds. Keep yourself informed of developments and if you encounter a threatening or intimidating situation, don\u2019t try to make your way through it. Turn round and move to safety.</p>\n\n<p>Incidents of inter-communal violence occur frequently throughout Nigeria. Attacks can occur without warning. Although foreign nationals are not normally targeted, there is a risk you could be caught in an attack. You should be alert to local government announcements and media reporting.</p>\n\n<h2 id=\"criminal-kidnaps\">Criminal kidnaps</h2>\n\n<p>There\u2019s a high threat of terrorist and criminal kidnaps in Nigeria.</p>\n\n<p>Those engaged in tourism, humanitarian aid work, journalism or business are viewed as legitimate targets. If you are kidnapped, the reason for your presence is unlikely to serve as protection or secure your safe release.</p>\n\n<p>Incidents of criminal kidnap can occur in any part of the country, at any time, with an increased risk in:</p>\n\n<ul>\n  <li>the northern and middle belt states of Adamawa,  Bauchi, Borno, Gombe, Kaduna, Kano, Katsina, Nassarawa, Niger, Plateau, Sokoto, Taraba, Benue, Yobe and Zamfara</li>\n  <li>the Niger Delta states of Abia, Akwa Ibom, Anambra, Bayelsa, Delta, Imo and Rivers</li>\n  <li>Edo State</li>\n</ul>\n\n<p>Criminal groups target whole communities or individuals. Kidnaps are sometimes take place along major highways, such as the Abuja \u2013 Kaduna highway and Enugu-Awka-Onitsha expressway in Anambra.</p>\n\n<p>On 16 May 2023 a US diplomatic convoy was attacked and people were kidnapped in Anambra State in the Ogbaru area, close to Delta state. The incident is under investigation.</p>\n\n<p>There is a high threat of kidnapping and other armed attacks targeting oil and gas facilities and workers in the Niger Delta region. This also applies to facilities at sea.</p>\n\n<p>Travellers wishing to travel to any of the locations above should be alert to the threat of kidnap, and pay attention to local government announcements and media reporting.</p>\n\n<p>The great majority of kidnapping victims remain ordinary Nigerians. Foreigners as well as Nigerian businessmen, traditional rulers and politicians are often targeted in the expectation of a high ransom reward. When arranging meetings in Nigeria make sure those who attend are known to you and hold the meeting at a secure location.</p>\n\n<p>British nationals may be targeted. Foreign nationals, including British nationals, have been kidnapped in the past, and in some cases killed.  British nationals of Nigerian origin visiting friends and relatives are often perceived as being wealthier than locals and are at particular risk of kidnap for ransom. There is a possibility that criminal groups would sell hostages on to terrorist organisations. See <a href=\"/foreign-travel-advice/nigeria/terrorism\">Terrorism</a>.</p>\n\n<p>The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners increases the risk of further hostage taking. The Terrorism Act (2000) also makes payments to terrorists illegal.</p>\n\n<h2 id=\"curfews-and-telecommunication-blackouts\">Curfews and telecommunication blackouts</h2>\n\n<p>Curfews and restrictions on the movement of vehicles, can be imposed, amended and lifted at short notice throughout Nigeria.</p>\n\n<p>Failure to comply with all curfews and movement restrictions could put you at significant risk. You should check with the local authorities or someone with local knowledge for up to date information on curfews and restrictions before you travel.</p>\n\n<p>Telecommunication operators in Nigeria have in the past been ordered to suspend services in certain areas, including mobile telecommunications and WiFi. Future shutdowns may happen at short notice and may also be extended to new areas without advanced notice.</p>\n\n<h2 id=\"maritime-security\">Maritime security</h2>\n\n<p>There have been armed robberies and incidents of piracy in Nigerian waters, the wider Gulf of Guinea, and on the rivers and harbours in the Niger Delta area. Mariners should seek professional security advice, be vigilant and take appropriate precautions.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Throughout Nigeria there are high levels of violent street crime including muggings, kidnappings, car-jackings and armed robbery.</p>\n\n<p>Criminals have targeted visiting British nationals as their perceived wealth makes them an attractive victim.</p>\n\n<p>You should be vigilant at all times, even if staying with friends and family, follow the security guidance offered by employers or hosts and limit road travel at night as far as possible. Avoid carrying large amounts of cash and don\u2019t wear valuable watches, jewellery or items of sentimental value. If you suspect danger, move to a safer area.</p>\n\n<p>If you\u2019re caught up in an armed robbery, you should immediately comply with the attackers\u2019 demands.</p>\n\n<h3 id=\"scams\">Scams</h3>\n\n<p>British nationals are increasingly being targeted by scam artists operating in West Africa. The scams come in many forms including romance and friendship, business ventures and work or employment opportunities.  Scams can pose great financial risk to victims. You should be very cautious about any requests for funds, a job offer, a business venture or a face to face meeting from someone you have been in correspondence with over the internet who lives in West Africa. You can read more about scam or \u2018419\u2019 emails and letters on the <a rel=\"external\" href=\"http://www.actionfraud.police.uk/fraud-az-419\">Action Fraud website.</a></p>\n\n<p>If you or your relatives or friends are asked to transfer money to Nigeria you should make absolutely sure that it is not part of a scam and that you have properly checked with the person receiving the money that they are requesting it. If the caller claims to be in distress, you should ask whether they have reported the incident (by phone or e-mail) to the British Deputy High Commission in Lagos.</p>\n\n<p>People have received scam e-mails claiming to be from a British High Commission office in Nigeria. If you receive an email that appears to be from any British High Commission office in Nigeria asking for bank details or money, you should immediately contact the Consular Section of the <a href=\"https://www.gov.uk/government/world/organisations/british-high-commission-abuja#contact-us\">British Deputy High Commission</a> in Lagos.</p>\n\n<p>If you\u2019re considering fertility treatment in Nigeria, you should be cautious. There have been a number of staged fake births (commonly called \u2018miracle babies\u2019) which result in visitors being falsely led to believe they have given birth. You should be aware of the risks associated with bringing a child who is not biologically related to you into the UK without following appropriate legal procedures. The UK has restricted <a href=\"https://www.gov.uk/child-adoption/adopting-a-child-from-overseas\">overseas adoption of children</a> from Nigeria.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>Road travel across Nigeria can be chaotic and slow moving. You should take a mobile telephone and a supply of bottled water with you when travelling by car.</p>\n\n<p>You can drive in Nigeria with a valid UK driving licence for up to 3 months. If you\u2019re staying longer, you will need to get a Nigerian Driver\u2019s Licence. You can contact the <a rel=\"external\" href=\"https://www.nigeriadriverslicence.org/\">Federal Road Safety Corp</a> on their website.</p>\n\n<p>You should limit travel after dark outside city centres as far as possible; and avoid quiet and poorly lit roads. You should be particularly vigilant when sitting in traffic jams or at traffic lights. Keep car windows up and doors locked, and make sure valuables are out of sight. If you feel your vehicle is being followed, drive to the nearest place of safety (eg the nearest police station).</p>\n\n<p>You should take particular care when driving outside cities and consider travelling in convoy and avoid travel after dark.</p>\n\n<p>In Lagos, eating, smoking or using a mobile phone while driving and riding a motorcycle without a helmet are prohibited. Motorists face fines or imprisonment for violations.</p>\n\n<p>There are authorised and unauthorised vehicle checkpoints throughout Nigeria. Some are for security checks, others to extort small payments of money. You should slow down at any type of checkpoint and use common sense at all times.</p>\n\n<p>Since October 2019, there has been an increasing trend of illegal vehicle checkpoints on major supply and commercial routes in Northern Nigeria. This includes attacks on major roads into Maiduguri, Borno State, including the A3 Maiduguri-Damaturu road. These attacks have directly targeted civilians, security forces and aid workers.</p>\n\n<p>There are frequent reports of robberies and car-jackings, some involving armed gunmen, on Nigeria\u2019s urban and rural road network.</p>\n\n<p>Public transport throughout Nigeria is dangerous. Taxis and long distance buses are often poorly maintained, uninsured and driven by unqualified drivers. Most major hotels offer cars for hire with drivers. You should use these where possible.</p>\n\n<p>If you are expecting a greeter or driver to collect you at any of Nigeria\u2019s international airports, make sure they have properly identified themselves before you set off. Bogus greeters are a problem.</p>\n\n<h2 id=\"air-travel\">Air travel</h2>\n\n<p>Commercial flights between Nigeria and Niger have been prohibited by the Nigerian authorities in response to the political situation in Niger. If you\u2019re planning to travel to or from Niger, check the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s Niger travel page or with the local authorities for the latest information before travelling. Flight times between Nigeria and other neighbouring countries may also be affected.\nYou can find a list of recent incidents and accidents on the <a rel=\"external\" href=\"http://aviation-safety.net/database/country/country.php?id=5N\">website of the Aviation Safety network</a>.</p>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> can\u2019t offer advice on the safety of individual airlines. However, the International Air Transport Association publishes lists of registered airlines that have been audited and found to meet a number of operational safety standards and recommended practices \u2013 <a rel=\"external\" href=\"http://www.iata.org/whatwedo/safety/audit/iosa/Pages/registry.aspx\">IATA Operational Safety Audit</a> and <a rel=\"external\" href=\"http://www.iata.org/whatwedo/safety/audit/issa/Pages/registry.aspx?Query=all\">IATA Standard Safety Assessment</a>. These lists aren\u2019t exhaustive and the absence of an airline from this list doesn\u2019t necessarily mean that it\u2019s unsafe.</p>\n\n<p>The International Civil Aviation Organisation has <a rel=\"external\" href=\"http://www.icao.int/safety/Pages/USOAP-Results.aspx\">carried out an audit</a> of the level of implementation of the critical elements of safety oversight in Nigeria.</p>\n\n<p>Med-View airline has been <a rel=\"external\" href=\"http://europa.eu/rapid/press-release_IP-17-1277_en.htm\">refused permission to operate services to the EU</a>  due to safety deficiencies. However, Med-View airline may continue to operate services to the EU using aircraft leased from other airlines. You can find a full list of airlines banned from operating within the EU on the <a rel=\"external\" href=\"http://ec.europa.eu/transport/modes/air/safety/air-ban_en\">European Commission website</a>. Refusal of permission to operate is often based on inspections of aircraft at EU airports. The fact that an airline isn\u2019t included in the list doesn\u2019t automatically mean that it meets the applicable safety standards. British government employees travelling within Nigeria have been advised to use carriers that aren\u2019t subject to the EU operating ban.</p>\n\n<h2 id=\"swimming\">Swimming</h2>\n\n<p>Swimming off the coast of Nigeria is dangerous due to rip tides and undertows, drownings occur each year. You should take care and seek local advice.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>President Bola Ahmed Tinubu of the All Progressives Congress Party was sworn-in for a four-year term in May 2023, following democratic elections in February 2023.</p>\n\n<p>The current Nigerian Constitution was enacted in 1999 and restored democratic rule to Nigeria, bringing an end to 30 years of military rule.</p>\n\n<p>Nigeria\u2019s National Day falls on 1 October, and marks the anniversary of Nigeria\u2019s independence from Britain in 1960.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorists are very likely to try to carry out attacks in Nigeria. Attacks could be indiscriminate and could affect western interests, as well as places visited by tourists and foreign nationals resident in Nigeria. Further attacks are likely and could occur at any time, including around religious or other public holidays or during election periods.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>Most attacks are conducted by Boko Haram or Islamic State West Africa (ISWA) and occur in Borno, Yobe and Adamawa States in the North East. There have also been significant attacks in other states, including in Gombe, Kano, Kaduna, Plateau, Bauchi and Taraba States.</p>\n\n<p>The risk of terrorism across Nigeria includes the capital city Abuja, and the surrounding Federal Capital Territory area. This risk has increased in 2022. Since May 2022 Islamic State West Africa (ISWA) have conducted a number of attacks in Kogi, Niger, and in the Federal Capital Territory. The risk is present across the Federal Capital Territory, including Abuja, and particularly in the border areas of the Federal Capital Territory.</p>\n\n<p>Public places where crowds gather have been targeted in the past, including places of worship, markets, shopping malls, hotels, bars, restaurants, football viewing centres, displacement camps, transport terminals (including train networks), government buildings, security and educational institutions (schools, further education colleges and universities are all regular targets), and international organisations.</p>\n\n<p>Methods of attack have included coordinated armed assaults, rocket attacks, assassinations, kidnapping, use of improvised explosive devices (IEDs), bombings (including by child and female bombers), car bombings and arson. Use of military uniforms and vehicles have been used as a tactic to get close to the intended target.</p>\n\n<p>Terrorist groups have been known to construct illegal vehicle checkpoints on major supply and commercial routes, such as the A3 Maiduguri-Damaturu road.</p>\n\n<p>Humanitarian staff and assets, civilians and aid workers have been targeted, especially in the North East, including in garrison towns and on roads. Humanitarian sites have also been targeted.</p>\n\n<p>You should avoid places where there are political or other large public gatherings. Be vigilant, remain alert and pay attention to your surroundings at all times. You should follow local news reports and be alert to developments particularly around religious and public holidays. A heavy security presence often indicates areas of particularly high risk. You should avoid affected areas in the immediate aftermath of an attack. You should avoid regular patterns of travel or movement, and aim to only travel during daylight hours.</p>\n\n<p>Recent attacks have included:</p>\n\n<ul>\n  <li>\n    <p>On 5 July 2022 the Kuje Prison in The Federal Capital Territory was bombed and attacked by gunmen and an unknown number of prisoners have escaped. Islamic State West Africa (ISWA) has claimed responsibility for the attack.</p>\n  </li>\n  <li>On 22 September 2022, a police patrol was attacked by gunmen in Ondo state, and on 23 September 2022, security personnel were attacked by gunmen in Edo state. Islamic State West Africa (ISWA) has claimed responsibility.</li>\n  <li>On 28 July 2022, a Nigerian military checkpoint in Niger state, 30km from Abuja, was attacked.</li>\n  <li>Islamic State West Africa (ISWA) has claimed responsibility for killings of policemen in Suleja, Niger State, on 12 May and 4 July 2022. Suleja is less than 20 kilometres away from the Federal Capital Territory.</li>\n  <li>Islamic State West Africa (ISWA) has claimed responsibility for an IED attack on a bar in Kabba, Kogi State, on 29 May 2022.</li>\n  <li>In April 2022, Islamic State West Africa (ISWA) claimed two improvised explosive device (IED) attacks in Iware and Jalingo, Taraba State, and in May 2022 claimed an attack against a military facility in Jalingo.</li>\n</ul>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<h2 id=\"terrorist-kidnaps\">Terrorist kidnaps</h2>\n\n<p>Terrorist groups, including Boko Haram and ISWA, are highly likely to carry out kidnaps in Nigeria. Kidnappings are widespread and could occur anywhere.</p>\n\n<p>Ansaru, Boko Haram and ISWA have carried out a number of kidnaps in Nigeria. Several foreign nationals and humanitarian workers have been kidnapped in the north of Nigeria, including in the states of Adamawa, Bauchi, Borno, Katsina, Kano and Kebbi. Some victims of kidnap, including two British nationals, have been killed by their captors. There may be an increased risk of kidnap, particularly to NGO workers, in Gwoza and Bama local government areas, Borno State. ISWA has also targeted foreigners for kidnap in south Nigeria.</p>\n\n<p>British nationals are viewed as legitimate targets, including those engaged in tourism, humanitarian aid work, journalism, government or business sectors. If you\u2019re kidnapped, the reason for your presence is unlikely to serve as a protection or secure your safe release.</p>\n\n<p>You should exercise vigilance when travelling, when in crowded public places, including religious gatherings and insecure spaces like places of worship, markets, shopping malls, hotels, bars, restaurants, transport hubs and camps for displaced people. You should avoid regular patterns of travel or movement, and aim to travel only during daylight hours.</p>\n\n<p>The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking.  The Terrorism Act (2000) makes payments to terrorists illegal.</p>\n\n<h2 id=\"terrorist-groups-operating-in-nigeria\">Terrorist groups operating in Nigeria</h2>\n\n<h3 id=\"boko-haram-and-islamic-state-west-africa-iswa\">Boko Haram and Islamic State West Africa (ISWA)</h3>\n\n<p>Boko Haram or JASDJ is an Islamist terrorist group operating in Nigeria, Cameroon, Chad and Niger. The group aspire to establish a Sharia State in Nigeria and West Africa, de-stabilise the Nigerian government and remove western influence from the country.</p>\n\n<p>The group was formerly linked to Al Qaeda in the Islamic Maghreb (AQIM). On 12 March 2015, Daesh (formerly referred to as ISIL) accepted a pledge of allegiance by Boko Haram. In August 2016, the group split into 2 factions: Islamic State in West Africa (ISWA) and JASDJ or Boko Haram.</p>\n\n<p>ISWA is affiliated with ISIS core in Iraq and Syria and has expressed an intention to target Nigerian government, Christian and western interests. ISWA have launched a series of successful attacks against Nigerian military locations, increased their freedom of movement across Borno and Yobe states, and taken multiple hostages.</p>\n\n<h3 id=\"ansarul-muslimina-fi-biladis-sudan-vanguard-for-the-protection-of-muslims-in-black-africa-ansaru\">Ansarul Muslimina Fi Biladis Sudan (Vanguard for the protection of Muslims in Black Africa) (Ansaru)</h3>\n\n<p>Ansaru is an Islamist terrorist organisation based in northern Nigeria, and is proscribed by the UK. It emerged in 2012 and is motivated by an anti-Nigerian Government and anti-Western agenda.</p>\n\n<p>Ansaru is broadly aligned with Al Qaeda. Since 2012, the group has kidnapped at least 8 hostages, mainly Europeans. They are believed to have killed a number of hostages, including 2 British nationals.</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Homosexuality is generally viewed as unacceptable in Nigeria. The \u2018Same Sex Marriage Prohibition Bill\u2019 allows lengthy prison sentences for those entering into a same sex marriage, those witnessing, aiding or abetting a same sex marriage, the operation and support of gay clubs, societies and organisations and the public display of same sex relationships. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT community before you travel.</p>\n\n<p>On 15 December 2020 the Nigerian Communications Commission (NCC) announced that mobile SIMs must be linked to the Nigerian Identification Number (NIN) of the SIM user. This applies to all residents including foreign nationals. You are advised to seek guidance on compliance from your network operator.</p>\n\n<p>Possession, use of or trafficking in illegal drugs is a serious offence and can result in lengthy prison sentences and heavy fines.</p>\n\n<p>It is illegal to import beer, mineral water, soft drinks, sparkling wine, fruits, vegetables, cereals, eggs, textile fabrics, jewellery, and precious metals. It is illegal to export pieces of African art, particularly antiques, without written authorisation from the Department of Antiquities. Contact the <a rel=\"external\" href=\"http://www.nigeriahc.org.uk/\">Nigeria High Commission in London</a> for more information about customs requirements.</p>\n\n<p>Nigeria has the largest Muslim population in sub-Saharan Africa. You should behave and dress modestly, particularly in the north and when visiting religious sites. Also see <a href=\"https://www.gov.uk/guidance/travelling-during-ramadan\">Travelling during Ramadan</a>.</p>\n\n<p>Photography of government, military buildings and airports may lead to arrest.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Nigeria.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Nigeria set and enforce entry rules. If you\u2019re unsure how Nigeria\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>You will need a valid visa to enter or travel through Nigeria as a visitor.</p>\n\n<p>See <a href=\"https://www.gov.uk/foreign-travel-advice/nigeria/entry-requirements#visas\">Visas</a> section for more information.</p>\n\n<p>On 15 February, the Nigeria Centre for Disease Control announced the online <a rel=\"external\" href=\"https://healthapp.ncdc.gov.ng/\">Nigeria Health Declaration Form</a> for incoming travellers. This is a requirement for all travellers to complete before travel to Nigeria. This requirement has been introduced as part of measures to combat the spread of infectious diseases.</p>\n\n<p>You may be asked to take part in thermal screening and/or travel history checks when arriving into Nigeria. This is to assist the Nigerian Government in the detection of diseases of public health importance.</p>\n\n<p>All passengers travelling to Nigeria should complete the health questionnaire either on board the aircraft before landing or on arrival at the airport.</p>\n\n<h2 id=\"if-youre-transiting-through-nigeria\">If you\u2019re transiting through Nigeria</h2>\n\n<p>All passengers travelling to Nigeria in order to transit to another country, must also register and complete the online pre-boarding health declaration at the Nigeria International Travel Portal.</p>\n\n<p>On arrival all passengers will be screened by Port Health Officials and be required to provide full contact details.</p>\n\n<p>The above guidance applicable to fully vaccinated or not fully vaccinated travellers, should be followed for all transit passengers, including those staying in the airport (airside), or passing through immigration (sometimes known as a layover).</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>If you are visiting Nigeria, your passport should be valid for a minimum period of 6 months from the date you arrive.</p>\n\n<p>If you are a resident in Nigeria, your passport must be valid for 6 months from the date you arrive.</p>\n\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>You should get a valid visa before travelling.</p>\n\n<p>Some business travellers might be eligible to apply for a visa on arrival. Applications for a visa on arrival must be made in advance and applicants must obtain a pre-approval letter from the Nigeria Immigration Service (NIS) before travelling. Guidance on applying for a visa on arrival is available on the <a rel=\"external\" href=\"https://portal.immigration.gov.ng/\">NIS website</a>.</p>\n\n<p>If you have a valid Nigerian residence permit (CERPAC or Green Card) you don\u2019t need a visa to enter Nigeria.</p>\n\n<p>For further information on entry requirements, contact the <a rel=\"external\" href=\"http://www.nigeriahc.org.uk/\">Nigeria High Commission in London</a>.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/165/nigeria#Vaccine_recommendations\">TravelHealthPro website</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/nigeria/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a>\nof the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h3 id=\"medical-treatment\">Medical treatment</h3>\n\n<p>You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n\n<p>Medical facilities in some parts of Nigeria may only be very basic. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation. The British High Commission publishes a <a href=\"/government/publications/nigeria-list-of-medical-facilitiespractitioners\">list of medical providers</a>.</p>\n\n<h3 id=\"other-health-risks\">Other health risks</h3>\n\n<p>Serious tropical illnesses like malaria, typhoid, Lassa fever and yellow fever occur in Nigeria. There has been an outbreak of Lassa fever in 2020. For further information and advice, see the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/165/nigeria#CIoutBreaks\">TravelHealthPro website</a>.</p>\n\n<p>There is a greater risk from water-borne diseases during the rainy season (June to October).</p>\n\n<p>There are ongoing outbreaks of diphtheria in Nigeria in 2023. You can find more information on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/165/nigeria#CIoutBreaks\">TravelHealthPro</a> website.</p>\n\n<p>UK health authorities have classified Nigeria as having a risk of Zika virus transmission. For information and advice about the risks associated with Zika virus, visit the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/165/nigeria#Other_risks\">National Travel Health Network and Centre website</a>.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>Nigeria is mainly a cash economy although the use of credit and debit cards is increasing - especially in the big cities. If you intend to use cash, make sure you bring enough foreign currency to cover costs. It is illegal to change money on the street and travellers cheques are difficult to cash. Credit card fraud is common, so take care if using your card. You should take advice from your card issuer before travelling if you intend to use your credit or debit card in Nigeria.</p>\n\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Nigeria&amp;post=Nigeria%20travel%20advice%20team\">send the Travel Advice Team a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Nigeria&amp;post=Nigeria%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-11-15T11:15:25Z",
+            "updated_at": "2023-11-15T11:15:26Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-19T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/nigeria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/nigeria",
+                    "base_path": "/foreign-travel-advice/nigeria",
+                    "content_id": "7ba86fb6-c102-4d5f-bdcd-39f7702ae0cc",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-15T11:15:25Z",
+                    "schema_name": "travel_advice",
+                    "title": "Nigeria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/nigeria",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/nigeria",
+                    "api_url": "https://www.gov.uk/api/content/world/nigeria",
+                    "base_path": "/world/nigeria",
+                    "content_id": "83c36ef2-455f-4ed9-b644-adab04594b7b",
+                    "description": "Services if you're visiting, studying, working or living in Nigeria. Includes information about trading with and doing business in the UK and Nigeria.",
+                    "details": {
+                        "internal_name": "UK help and services in Nigeria",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:10Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Nigeria",
+                    "web_url": "https://www.gov.uk/world/nigeria",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/pakistan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/pakistan",
+                    "base_path": "/foreign-travel-advice/pakistan",
+                    "content_id": "ea339677-8843-4a8a-b5ad-dff327d70ce3",
+                    "details": {
+                        "change_description": "FCDO now also advises against all travel to within 10 miles of the border with Afghanistan (\u2018Summary\u2019 page).",
+                        "country": {
+                            "name": "Pakistan",
+                            "slug": "pakistan",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-31T16:20:58Z",
+                    "schema_name": "travel_advice",
+                    "title": "Pakistan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/pakistan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/niger",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/niger",
+                    "base_path": "/foreign-travel-advice/niger",
+                    "content_id": "06c5b994-2e2e-41d8-bf14-75885e3887fb",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. \r\n\r\nLatest update: UK staff have returned to Niger after they were temporarily withdrawn in August. ",
+                        "country": {
+                            "name": "Niger",
+                            "slug": "niger",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T14:50:41Z",
+                    "schema_name": "travel_advice",
+                    "title": "Niger travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/niger",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/south-africa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/south-africa",
+                    "base_path": "/foreign-travel-advice/south-africa",
+                    "content_id": "e4649806-d58a-40f7-b86d-09a4376c25a0",
+                    "details": {
+                        "change_description": "Information on 'smash and grab' attacks on vehicles ('Safety and security' page).\r\n\r\nInformation on the less secure areas around international airports in Johannesburg and Cape Town ('Safety and security' page).\r\n\r\nAdditional information on asking for a life-jacket when participating in water sports ('Safety and security' page).\r\n\r\n",
+                        "country": {
+                            "name": "South Africa",
+                            "slug": "south-africa",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T12:12:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "South Africa travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/south-africa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sudan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sudan",
+                    "base_path": "/foreign-travel-advice/sudan",
+                    "content_id": "deee5c29-5006-4280-bb46-44c0bd7a6a11",
+                    "details": {
+                        "change_description": "Information on the risk of protests in Sudan due to the current conflict in Israel and the Occupied Palestinian Territories (\u2018safety and security\u2019 page).",
+                        "country": {
+                            "name": "Sudan",
+                            "slug": "sudan",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-27T14:33:59Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sudan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sudan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/somalia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/somalia",
+                    "base_path": "/foreign-travel-advice/somalia",
+                    "content_id": "992befc4-32a3-4a1a-a034-c9cb2ff42bad",
+                    "details": {
+                        "change_description": "Information on localised political disputes in Somaliland ('Safety and security' page).",
+                        "country": {
+                            "name": "Somalia",
+                            "slug": "somalia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-21T10:52:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Somalia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/somalia",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-nigeria",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-nigeria",
+                    "base_path": "/world/living-in-nigeria",
+                    "content_id": "e9e5674b-f290-4862-b68c-f8ad56a69959",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Nigeria",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/nigeria",
+                                "api_url": "https://www.gov.uk/api/content/world/nigeria",
+                                "base_path": "/world/nigeria",
+                                "content_id": "83c36ef2-455f-4ed9-b644-adab04594b7b",
+                                "description": "Services if you're visiting, studying, working or living in Nigeria. Includes information about trading with and doing business in the UK and Nigeria.",
+                                "details": {
+                                    "internal_name": "UK help and services in Nigeria",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:10Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Nigeria",
+                                "web_url": "https://www.gov.uk/world/nigeria",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:11Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Nigeria",
+                    "web_url": "https://www.gov.uk/world/living-in-nigeria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-nigeria",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-nigeria",
+                    "base_path": "/world/travelling-to-nigeria",
+                    "content_id": "211a738b-9206-44d1-a7aa-7d24a71a3a80",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Nigeria",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/nigeria",
+                                "api_url": "https://www.gov.uk/api/content/world/nigeria",
+                                "base_path": "/world/nigeria",
+                                "content_id": "83c36ef2-455f-4ed9-b644-adab04594b7b",
+                                "description": "Services if you're visiting, studying, working or living in Nigeria. Includes information about trading with and doing business in the UK and Nigeria.",
+                                "details": {
+                                    "internal_name": "UK help and services in Nigeria",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:10Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Nigeria",
+                                "web_url": "https://www.gov.uk/world/nigeria",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:10Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Nigeria",
+                    "web_url": "https://www.gov.uk/world/travelling-to-nigeria",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-15T11:15:25Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1700046925.956-10.13.21.247-59793",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Nigeria travel advice",
+        "updated_at": "2023-11-15T11:15:27Z",
+        "withdrawn_notice": {}
+    }
+}

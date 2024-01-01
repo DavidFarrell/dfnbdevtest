@@ -1,0 +1,1025 @@
+{
+    "Country Slug": "canada",
+    "Country Name": "Canada",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/canada",
+        "content_id": "f402b8de-2e99-4ff3-949f-31fe65796cae",
+        "description": "Latest FCDO travel advice for Canada including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "New information on winter storms and updated information on forest fires ('Safety and security' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: This advice has been reviewed in full and re-issued without amendment ",
+                    "public_timestamp": "2019-02-12T11:26:58.768Z"
+                },
+                {
+                    "note": "Latest update: Summary - On 28 March 2019, Icelandic airline WOW Air announced that it has ceased operation; all its flights, including those to and from Montreal and Toronto have been cancelled; see the WOW Air travel alert for more information ",
+                    "public_timestamp": "2019-03-28T13:22:32.022Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full with editorial amendments",
+                    "public_timestamp": "2019-07-02T16:11:40.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - extremely hot weather is currently affecting areas of southern and eastern Canada; temperatures are set to peak over the weekend. Please see the Canadian Governments Weather Site for advice and information. \r\n\r\n",
+                    "public_timestamp": "2019-07-20T18:52:23.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about recent period of hot weather",
+                    "public_timestamp": "2019-07-22T16:48:09.000Z"
+                },
+                {
+                    "note": "Summary - Hurricane Dorian is affecting parts of Atlantic Canada with strong winds and some flooding in coastal areas. The hurricane is expected to continue northward bringing further hazardous weather. You should monitor local weather forecasts and the Canada government website and follow the advice of local authorities.",
+                    "public_timestamp": "2019-09-07T23:07:04.000Z"
+                },
+                {
+                    "note": "Summary - Hurricane Dorian is affecting parts of Atlantic Canada with strong winds and some flooding in coastal areas. Dangerous storm surge impacts are likely in portions of the gulf of St Lawrence, south western Newfoundland, and eastern Nova Scotia. Hurricane force winds are still occurring in portions of eastern Nova Scotia and are spreading into western Newfoundland. You should monitor local weather forecasts and the Canada government website and follow the advice of local authorities.",
+                    "public_timestamp": "2019-09-08T15:53:05.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Hurricane Dorian",
+                    "public_timestamp": "2019-09-09T15:51:40.000Z"
+                },
+                {
+                    "note": "Summary - a major winter storm is expected to bring heavy snow and strong winds lasting from late Friday 27 to Monday 30 September; you should monitor the progress of any approaching storm and snowfall on Environment Canada and follow instructions issued by local authorities",
+                    "public_timestamp": "2019-09-27T12:59:37.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on snow storm in Alberta and British Columbia",
+                    "public_timestamp": "2019-10-01T13:55:07.000Z"
+                },
+                {
+                    "note": "Health section and summary - addition of information on coronavirus",
+                    "public_timestamp": "2020-02-06T16:16:09.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2020-02-10T15:50:07.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-13T16:24:04.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus  ('Health' page)",
+                    "public_timestamp": "2020-03-13T23:46:14.000Z"
+                },
+                {
+                    "note": "Update to information about measures introduced in response to to the coronavirus (COVID-19) pandemic ('Summary','Entry requirements' and 'Health' pages) ",
+                    "public_timestamp": "2020-03-17T14:18:56.000Z"
+                },
+                {
+                    "note": "Update to information about measures introduced in response to to the coronavirus (COVID-19) pandemic ('Summary','Entry requirements' and 'Health' pages) ",
+                    "public_timestamp": "2020-03-20T19:33:54.000Z"
+                },
+                {
+                    "note": "Update to information about measures introduced in response to the coronavirus (COVID-19) pandemic ('Summary', 'Entry requirements' and 'Health' pages) ",
+                    "public_timestamp": "2020-03-24T02:04:30.000Z"
+                },
+                {
+                    "note": "Update to information about measures introduced in response to the coronavirus (COVID-19) pandemic ('Coronavirus' and 'Return to the UK' pages) ",
+                    "public_timestamp": "2020-03-25T21:42:04.000Z"
+                },
+                {
+                    "note": "Update to information about measures introduced in response to the coronavirus (COVID-19) pandemic ('Coronavirus' page) ",
+                    "public_timestamp": "2020-03-26T16:32:51.000Z"
+                },
+                {
+                    "note": "Update to information on local measures and travel restrictions introduced to combat the spread of coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-27T17:10:22.000Z"
+                },
+                {
+                    "note": "Update to information on local measures and travel restrictions introduced to combat the spread of coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)\r\n",
+                    "public_timestamp": "2020-03-30T21:32:32.000Z"
+                },
+                {
+                    "note": "Update to local measures and information on returning to the UK ('Coronavirus and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-02T16:34:52.000Z"
+                },
+                {
+                    "note": "Addition of information if you are already in Canada and your visa has expired, or is about to expire. The Canadian authorities require visitors transiting through Canada to obtain an Electronic Travel Authorisation (eTA). ('Coronavirus' & 'Return to the UK' Pages)",
+                    "public_timestamp": "2020-04-07T19:20:48.000Z"
+                },
+                {
+                    "note": "Additional information on visas if you already in Canada and information for new arrivals on self-isolation plans. The Canadian authorities require visitors transiting through Canada to obtain an Electronic Travel Authorisation (eTA)  ('Coronavirus' & 'Return to the UK' Pages)",
+                    "public_timestamp": "2020-04-14T21:12:50.000Z"
+                },
+                {
+                    "note": "Additional information on visas if you are already in Canada and information for new arrivals on self-isolation plans. The Canadian authorities require visitors transiting through Canada to obtain an Electronic Travel Authorisation (eTA) ('Coronavirus' & 'Return to the UK' Pages)",
+                    "public_timestamp": "2020-04-14T21:14:53.000Z"
+                },
+                {
+                    "note": "Additional information on the requirement for all air passengers to have a non-medical mask or face covering ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-18T17:16:26.000Z"
+                },
+                {
+                    "note": "Additional information on local measures ('Coronavirus')",
+                    "public_timestamp": "2020-04-20T18:13:52.000Z"
+                },
+                {
+                    "note": "Additional information on arrival in the UK and International Flights ('Coronavirus')",
+                    "public_timestamp": "2020-04-22T18:51:24.000Z"
+                },
+                {
+                    "note": "Revised information on local measures. ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-01T21:32:21.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T14:01:35.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on face masks and cruise ships ('staying during coronavirus' 'entry requirements')",
+                    "public_timestamp": "2020-06-01T19:11:24.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:54:14.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section\u2019 ",
+                    "public_timestamp": "2020-07-02T14:19:44.000Z"
+                },
+                {
+                    "note": "From 4 July, Canada is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:10:01.000Z"
+                },
+                {
+                    "note": "Revised information on Travel in Canada ('Coronavirus' page) and addition of contact details for airlines ('Entry requirements' page)",
+                    "public_timestamp": "2020-07-10T20:44:44.000Z"
+                },
+                {
+                    "note": "Addition of information on transiting Canada (see 'Entry requirements' page)",
+                    "public_timestamp": "2020-07-21T16:51:06.000Z"
+                },
+                {
+                    "note": "Addition of information on entry rules and face masks ('Entry requirements' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-10-15T11:23:21.000Z"
+                },
+                {
+                    "note": "Addition of information on entry rules and cruise ships ('Entry requirements' page)",
+                    "public_timestamp": "2020-11-19T10:31:20.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to Canada based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2020-12-03T17:55:39.000Z"
+                },
+                {
+                    "note": "The Canadian government has suspended all inbound passenger flights from the UK from 24:00 (ET) 20 December for 72 hours (\u2018Summary\u2019 page).",
+                    "public_timestamp": "2020-12-21T02:36:15.000Z"
+                },
+                {
+                    "note": "The Canadian government has suspended all inbound passenger flights from the UK until 6 January. (\u2018Summary\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-23T20:10:02.000Z"
+                },
+                {
+                    "note": "From 7 January, the Canadian government is requiring all air passengers aged 5 and above to test negative for COVID-19 before travelling to Canada (See 'Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2021-01-01T03:53:37.000Z"
+                },
+                {
+                    "note": "From 8 January, direct flights from UK to Canada have now resumed ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2021-01-08T15:05:48.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Canada (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-14T15:34:41.000Z"
+                },
+                {
+                    "note": "Addition of information on flight suspensions (Coronavirus and Entry requirements)",
+                    "public_timestamp": "2021-01-29T23:16:12.000Z"
+                },
+                {
+                    "note": "Addition of information on testing on arrival at Toronto Pearson airport ('Summary' and 'Entry requirements' pages)\r\n",
+                    "public_timestamp": "2021-02-01T20:51:27.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Canada (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-10T11:42:52.000Z"
+                },
+                {
+                    "note": "New information on updated guidance issued by Transport Canada for people planning to travel to Canada ('Summary' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-02-12T17:00:41.000Z"
+                },
+                {
+                    "note": "New guidance issued by Public Health Canada and Transport Canada about testing and hotel quarantine on arrival (See 'Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-02-13T08:14:02.000Z"
+                },
+                {
+                    "note": "New information on an attack in Ontario on 6 June 2021 ('Terrorism' page)",
+                    "public_timestamp": "2021-06-16T11:21:22.000Z"
+                },
+                {
+                    "note": "New information on entry requirements to Canada due to COVID-19 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-06-23T12:57:06.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Canada (\u2018Coronavirus\u2019 page) \r\n",
+                    "public_timestamp": "2021-07-20T08:16:48.000Z"
+                },
+                {
+                    "note": "New information on the \u2018Terrorism\u2019 page. ",
+                    "public_timestamp": "2021-07-26T10:09:54.000Z"
+                },
+                {
+                    "note": "New information on the \u2018COVID-19 entry restrictions to Canada\u2019 page ('Entry requirements' page).",
+                    "public_timestamp": "2021-07-28T14:07:20.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Canada, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2021-08-06T10:35:24.000Z"
+                },
+                {
+                    "note": "Mandatory stay in hotel quarantine will cease to be a requirement from 9 August. New entry rules for fully vaccinated US residents enter into force from 9 August (\"Entry Clearance\" page).",
+                    "public_timestamp": "2021-08-08T18:02:29.000Z"
+                },
+                {
+                    "note": "Mandatory stay in hotel quarantine has ceased to be a requirement. New entry rules for fully vaccinated US residents entered into force from 9 August ('Entry requirement' page).",
+                    "public_timestamp": "2021-08-12T11:59:14.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 30 August Canada will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-26T18:21:54.000Z"
+                },
+                {
+                    "note": "Canada has moved to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-31T13:19:53.000Z"
+                },
+                {
+                    "note": "Canada has moved to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland (\u2018Summary\u2019 page).\r\n\r\nFully vaccinated travellers are now eligible to enter Canada, and are exempt from quarantine.\r\n\r\n",
+                    "public_timestamp": "2021-09-08T06:09:40.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine requirements and international flights ('Entry requirements' page)",
+                    "public_timestamp": "2021-09-21T12:28:54.000Z"
+                },
+                {
+                    "note": "Update to information on 'Travelling to the USA' from Canada and updates to links to Government of Canada webpages ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-11T11:43:40.000Z"
+                },
+                {
+                    "note": "Information for travellers departing from Canada ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-18T09:48:48.000Z"
+                },
+                {
+                    "note": "Updated information for travellers entering Canada (See 'Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-11-20T13:25:54.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules prohibiting entry to foreign nationals if they have spent any time at all, including in transit, in the following countries within 14 days of travel: South Africa, Mozambique, Zimbabwe, Botswana, Lesotho, Eswatini, Namibia, Nigeria, Egypt and Malawi. Update on plans to introduce mandatory testing on arrival. ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-02T15:22:31.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements on arrival ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-15T11:22:57.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-20T16:31:32.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for fully vaccinated travellers ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-31T10:10:16.000Z"
+                },
+                {
+                    "note": "Updated information on protests in Ottawa (on 'Safety and Security' page).",
+                    "public_timestamp": "2022-02-07T23:02:27.000Z"
+                },
+                {
+                    "note": "Updated information on protests in Ottawa (adding to 'Summary' as well as 'Safety and Security' page).",
+                    "public_timestamp": "2022-02-17T23:57:51.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 testing ('Entry requirements' page) ",
+                    "public_timestamp": "2022-02-18T23:34:57.000Z"
+                },
+                {
+                    "note": "Updated information on changes to COVID-19 testing and self-isolation requirements that came into force on 28 February ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-01T12:42:40.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 rules for boarding flights and cruise ships in Canada ('Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-03-11T16:30:42.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 pre-departure testing for vaccinated and unvaccinated travellers ('Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-03-18T11:51:58.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 pre-departure testing for vaccinated travellers ('Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-04-01T19:40:59.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 entry requirements for vaccinated travellers ('Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-05-13T10:40:10.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of mandatory random arrival testing for fully vaccinated travellers at all airports until 30 June ('Entry requirements' page)",
+                    "public_timestamp": "2022-06-15T11:28:51.000Z"
+                },
+                {
+                    "note": "Updated information on the removal of  vaccination requirements for domestic and outbound travel from 20 June ('Coronavirus' page)",
+                    "public_timestamp": "2022-06-17T14:42:28.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of the requirement to be vaccinated against COVID-19 to board a plane or train in Canada ('Coronavirus' page)",
+                    "public_timestamp": "2022-06-21T08:46:58.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of COVID-19 arrivals testing for fully vaccinated travellers ('Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-06-30T17:33:12.000Z"
+                },
+                {
+                    "note": "Updated information on the resumption of COVID-19 randomised arrivals testing for fully vaccinated travellers ('Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-07-19T12:16:03.000Z"
+                },
+                {
+                    "note": "Updated information on the reported multiple stabbing incidents in Saskatchewan ('Summary' page).",
+                    "public_timestamp": "2022-09-05T00:12:28.000Z"
+                },
+                {
+                    "note": "Updated information on the reported multiple stabbing incidents in Saskatchewan on 4 September ('Summary' page).",
+                    "public_timestamp": "2022-09-06T10:21:38.000Z"
+                },
+                {
+                    "note": "Addition of information that Environment Canada forecast that Tropical Cyclone Fiona will impact Atlantic Canada and eastern Quebec from early Saturday 24 September 2022 ('Summary' and 'Natural disasters' pages). ",
+                    "public_timestamp": "2022-09-23T14:28:10.000Z"
+                },
+                {
+                    "note": "Addition of information that the Government of Canada has announced the removal of all COVID-19 entry restrictions from 1 October 2022. ('Summary' and 'Natural disasters' pages).",
+                    "public_timestamp": "2022-09-27T17:18:47.000Z"
+                },
+                {
+                    "note": "Addition of information that the Government of Canada has removed  COVID-19 entry restrictions and additional measures from 1 October. (See 'Summary' and  \u2018Coronavirus\u2019 pages).",
+                    "public_timestamp": "2022-10-01T04:02:30.000Z"
+                },
+                {
+                    "note": "Addition of information about new requirements for travelling to Canada from China, Hong Kong or Macao from 5 January 2023 ('Summary', 'Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2023-01-04T14:15:11.000Z"
+                },
+                {
+                    "note": "Addition of information about new requirements for travelling to Canada from China, Hong Kong or Macao from 5 January 2023 ('Summary', 'Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2023-01-04T15:42:33.000Z"
+                },
+                {
+                    "note": "Removal of COVID-19 testing requirements for travellers to Canada from China, Hong Kong or Macao ('Summary', 'Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2023-03-24T11:33:05.000Z"
+                },
+                {
+                    "note": "Updated information about wildfires in the province of Alberta (\u2018Summary\u2019 and \u2018Natural disasters\u2019 pages).",
+                    "public_timestamp": "2023-05-10T16:42:26.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-05-16T12:58:28.000Z"
+                },
+                {
+                    "note": "Information regarding wildfires in Canada ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-05-30T14:30:30.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:40:49.000Z"
+                },
+                {
+                    "note": "Information on flooding in Nova Scotia ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-07-25T10:54:36.000Z"
+                },
+                {
+                    "note": "Wildfires in parts of Canada (Summary)",
+                    "public_timestamp": "2023-07-30T20:16:12.000Z"
+                },
+                {
+                    "note": "Removal of information about the Nova Scotia floods ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-07-31T14:40:29.000Z"
+                },
+                {
+                    "note": "Information on Wildfires in the Northwest Territories",
+                    "public_timestamp": "2023-08-17T15:53:30.000Z"
+                },
+                {
+                    "note": "\r\nUpdate on Wildfires in Canada",
+                    "public_timestamp": "2023-08-18T20:18:07.000Z"
+                },
+                {
+                    "note": "\"Updated information on Wildfires in Canada (warnings and insurance page)\"",
+                    "public_timestamp": "2023-08-19T03:28:33.000Z"
+                },
+                {
+                    "note": "Removal of information about states of emergency and evacuation orders in relation to wildfires ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-09-19T09:01:41.000Z"
+                },
+                {
+                    "note": "Removal of information about wildfires ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-10-23T15:03:30.000Z"
+                },
+                {
+                    "note": "Latest update: Updated assessment that the risk of terrorist attacks happening in Canada is very likely (see 'Safety and security' page). ",
+                    "public_timestamp": "2023-11-03T21:03:47.000Z"
+                },
+                {
+                    "note": "New information on winter storms and updated information on forest fires ('Safety and security' page).",
+                    "public_timestamp": "2023-11-08T10:49:07.000Z"
+                }
+            ],
+            "country": {
+                "name": "Canada",
+                "slug": "canada",
+                "synonyms": [
+                    "arctic"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/canada/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a>, which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/canada/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Canada set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact <a rel=\"external\" href=\"https://www.international.gc.ca/country-pays/united_kingdom-royaume_uni/london-londres.aspx?lang=eng\">Canada\u2019s High Commission in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Visit TravelHealthPro (from the UK Health Security Agency) for <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">general</a> <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">COVID-19 advice</a> <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">for travellers</a>.</p>\n\n<h3 id=\"travel-to-canada\">Travel to Canada</h3>\n\n<p>There are no COVID-19 testing or vaccination requirements for passengers entering Canada. Avoid travelling if you have symptoms of COVID-19. See the <a rel=\"external\" href=\"https://travel.gc.ca/travel-covid\">Government of Canada\u2019s</a> website for more information on COVID-19 and travel.</p>\n\n<h3 id=\"public-spaces-and-services\">Public spaces and services</h3>\n\n<p>The Government of Canada recommends that all travellers wear a face mask on public transport.</p>\n\n<p>You may be asked to wear a face mask indoors, such as in hospitals or on public transport. You may need proof of vaccination to visit settings such as care homes.</p>\n\n<p>Local authorities in Canada can introduce restrictions or measures at short notice. Comply with the rules and advice of the local authorities. Check the COVID-19 <a rel=\"external\" href=\"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms/provincial-territorial-resources-covid-19.html\">guidance for each province and territory</a>.</p>\n\n<h3 id=\"passport-validity-requirements\">Passport validity requirements</h3>\n\n<p>Your passport must be valid for the duration of your stay.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>Most people need a visa or an Electronic Travel Authorization (eTA) to travel to Canada \u2013 not both.</p>\n\n<p>You do not need a visa for short visits (normally up to six months). You will need an eTA instead. Check <a rel=\"external\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html\">entry requirements</a> and find out if you need a visa or an eTA for your visit using this <a rel=\"external\" href=\"https://ircc.canada.ca/english/visit/visas.asp\">tool.</a></p>\n\n<p>You may need to provide fingerprints and photos at a visa application centre to apply for permanent residence or a study or work permit. <a rel=\"external\" href=\"https://www.cic.gc.ca/english/visit/biometrics.asp\">Find out if you need to give biometrics.</a> If you do need to give biometrics, see the <a rel=\"external\" href=\"https://www.cic.gc.ca/english/information/where-to-give-biometrics.asp\">list of biometrics collection points</a>.</p>\n\n<p>When you arrive, you must show that you have enough funds to support yourself during your stay, even if you are staying with family or friends.</p>\n\n<p>Contact <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">Canada\u2019s High Commission in the UK</a> if you are unsure about visa requirements or your eligibility to enter the country, for example, if you have a criminal record or have been arrested.</p>\n\n<h2 id=\"electronic-travel-authorisation-eta\">Electronic Travel Authorisation (eTA)</h2>\n\n<p>You must get an Electronic Travel Authorisation (eTA) to enter or transit Canada by air, unless you\u2019re exempt. Read the <a rel=\"external\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#eta-exemptions\">list of exemptions on the ETA website</a>. If you enter Canada by land or sea, you don\u2019t need an eTA. However, you must travel with <a rel=\"external\" href=\"http://www.cbsa.gc.ca/travel-voyage/td-dv-eng.html\">acceptable travel documents and identification</a>.</p>\n\n<p>If you have British-Canadian dual nationality, you cannot apply for an eTA. You need a valid Canadian passport instead.</p>\n\n<p>The eTA website has information about the <a rel=\"external\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html?utm_campaign=eta_20150417_travel&amp;utm_source=online_vanity-url&amp;utm_medium=web-marketing&amp;utm_content=canada.ca-eta\"> eTA system and how to apply</a>.</p>\n\n<h3 id=\"visa-and-eta-scams\">Visa and eTA scams</h3>\n\n<p>Some\u00a0<a rel=\"external\" href=\"http://www.cic.gc.ca/english/department/media/notices/notice-fraud.asp\">unauthorised websites</a>\u00a0charge for submitting visa applications. These websites are not associated with the Government of Canada.</p>\n\n<p>If you think you may have been a victim of a scam, use the <a rel=\"external\" href=\"https://onlineservices-servicesenligne.cic.gc.ca/eta/applicationQuery?lang=en\">eTA Check Status tool</a> to confirm if your eTA is valid. If it has been 72 hours since you applied, and you have not received a confirmation of your application, <a rel=\"external\" href=\"https://secure.cic.gc.ca/enquiries-renseignements/canada-case-cas-eng.aspx\">complete this enquiry form</a>.</p>\n\n<h2 id=\"transiting-through-canada\">Transiting through Canada</h2>\n\n<p>You must have a valid Electronic Travel Authorisation (eTA) to transit Canada, unless you are exempt.</p>\n\n<p>If you have questions, contact:</p>\n\n<ul>\n  <li>your airline</li>\n  <li><a rel=\"external\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship.html\">Immigration, Refugees and Citizenship Canada</a></li>\n  <li>your nearest Canadian high commission, embassy or consulate</li>\n</ul>\n\n<p><a rel=\"external\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html\">Find out more about transiting Canada</a>.</p>\n\n<h2 id=\"travelling-with-children\">Travelling with children</h2>\n\n<p>If only one parent is present, <a rel=\"external\" href=\"https://travel.gc.ca/travelling/children/consent-letter\">carry a letter of consent</a> from the non-travelling parent.\u00a0Immigration officers have the right to question children using simple and appropriate language to see if there are any concerns about child abduction.</p>\n\n<p>For further information, check with <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">Canada\u2019s High Commission in the UK</a> or the <a rel=\"external\" href=\"http://cbsa-asfc.gc.ca/travel-voyage/td-dv-eng.html#_s3\">Canada Border Services Agency</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://travel.gc.ca/returning/customs/what-you-can-bring-home-to-canada\">goods that can be taken into - and out - of Canada</a>.  You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<p>Banned food products will be confiscated and you could be fined. Check the <a rel=\"external\" href=\"https://inspection.canada.ca/importing-food-plants-or-animals/eng/1573836795867/1573836899201\">Canadian Food Inspection Agency website</a> for more information.</p>\n\n<p>If you visited a farm, or had contact with wild animals before entering Canada, and intend to visit a farm during your stay, you must complete the relevant section in your Customs Declaration Card. For more information, see the Government of Canada\u2019s website on <a rel=\"external\" href=\"https://inspection.canada.ca/animal-health/terrestrial-animals/biosecurity/general-public/border/eng/1344754371697/1344754930771\">biosecurity</a>.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out how to reduce your risk from\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">terrorism</a>\u00a0while abroad.</p>\n</div>\n\n<h3 id=\"terrorism-in-canada\">Terrorism in Canada</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are very likely to try to carry out attacks in Canada.</p>\n</div>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. You should remain aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.</p>\n\n<p>Recent attacks include:</p>\n\n<ul>\n  <li>in 2023, one person was stabbed and injured in Surrey, British Columbia</li>\n  <li>in 2021, 4 people were killed and one injured by a vehicle in London, Ontario</li>\n  <li>in 2020, one person was killed with a hammer in Scarborough, Ontario</li>\n  <li>in 2020, one  person was killed and 2 wounded in a machete attack in Toronto, Ontario</li>\n</ul>\n\n<p>See the\u00a0<a rel=\"external\" href=\"http://canada.ca/en/services/defence/nationalsecurity/terrorism-threat-level.html\">Government of Canada\u2019s national terrorism threat level</a>.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Take precautions to protect yourself from petty crime, including:</p>\n\n<ul>\n  <li>not leaving your bag or luggage unattended</li>\n  <li>keeping luggage out of sight in cars</li>\n  <li>keeping valuables and passport in a hotel safe</li>\n  <li>leaving copies of important documents with family and friends in the UK</li>\n  <li>carrying a photocopy of your passport for ID</li>\n</ul>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"cannabis\">Cannabis</h3>\n\n<p>Recreational cannabis is legally available in Canada. <a rel=\"external\" href=\"https://www.canada.ca/en/health-canada/services/drugs-medication/cannabis/laws-regulations/provinces-territories.html\">Local laws vary depending on the province or territory you are visiting</a>. It is illegal to carry any form of cannabis into the UK without a valid licence issued by the Home Office. This includes cannabis and cannabinoid oils prescribed for medicinal purposes in Canada. It is illegal to take cannabis across the Canadian border without a permit or exemption authorised by Health Canada.</p>\n\n<p>There is more information on the\u00a0<a rel=\"external\" href=\"http://www.cbsa-asfc.gc.ca/travel-voyage/cannabis-eng.html\">Canadian Border Services Agency website</a>.</p>\n\n<h3 id=\"wildlife\">Wildlife</h3>\n\n<p>If you are hiking or camping, be considerate and cautious of local wildlife. You should:</p>\n\n<ul>\n  <li>\n    <p>take all rubbish with you including food items to avoid attracting animals to your site</p>\n  </li>\n  <li>\n    <p>be careful around animals with nearby young or nests \u2013 they may be aggressive when protecting their territory</p>\n  </li>\n  <li>\n    <p>research the region to learn about the local wildlife</p>\n  </li>\n  <li>\n    <p>take particular care if you\u2019re in an area where bears have been sighted</p>\n  </li>\n  <li>\n    <p>keep a safe distance from any wildlife including marine animals and birds</p>\n  </li>\n  <li>\n    <p>follow park regulations</p>\n  </li>\n</ul>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>Traffic and safety laws vary between provinces and territories. This includes laws on whether you are allowed to turn right on a red light. See more information on <a rel=\"external\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/driving.html\">driving in Canada.</a></p>\n\n<p>Follow speed limits and take extra care when travelling on country roads. Watch out for wild animals.</p>\n\n<p>For more information on road conditions and road safety, see <a rel=\"external\" href=\"https://tc.canada.ca/en\">Transport Canada</a>, the <a rel=\"external\" href=\"http://www.caa.ca/\">Canadian Automobile Association</a> and <a rel=\"external\" href=\"http://uk.canada.travel/\">Travel Canada</a>.</p>\n\n<h3 id=\"driving-in-winter\">Driving in winter</h3>\n\n<p>In winter, highways are often closed because of snowstorms and avalanches in Alberta, British Columbia and other provinces. Check local weather conditions on\u00a0<a rel=\"external\" href=\"http://www.theweathernetwork.com/\">The Weather Network</a>.</p>\n\n<p>Driving conditions can be dangerous, even when roads remain open during a winter storm. Take care, follow local restrictions or guidelines, and make sure your vehicle has snow tyres and emergency supplies.</p>\n\n<h3 id=\"car-hire-in-canada\">Car hire in Canada</h3>\n\n<p>You can drive a car in Canada using a full UK driving licence. However, some car hire companies may require you to have an <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">International Driving Permit</a>. Check your car hire company\u2019s requirements before you travel. Always carry your driving licence and take out full insurance cover if you hire a vehicle.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"hurricanes\">Hurricanes</h3>\n\n<p>From July to November, coastal areas can be affected by hurricanes. Check the\u00a0<a rel=\"external\" href=\"http://www.nhc.noaa.gov/\">National Hurricane Centre</a>,\u00a0<a rel=\"external\" href=\"https://www.canada.ca/en/environment-climate-change.html\">Environment Canada</a>\u00a0and\u00a0<a rel=\"external\" href=\"http://www.theweathernetwork.com/\">The Weather Network</a>\u00a0websites for the latest weather conditions. See\u00a0FCDO advice on <a href=\"https://www.gov.uk/tropical-cyclones\">tropical cyclones.</a></p>\n\n<h3 id=\"avalanches\">Avalanches</h3>\n\n<p>Avalanches can happen in mountainous regions, including Alberta and British Columbia. Always follow avalanche advice and stay away from closed trails. Follow the directions of local guides or instructors. For more information and avalanche news, visit the\u00a0<a rel=\"external\" href=\"http://www.avalanche.ca/cac/about/overview\">Canadian Avalanche Foundation.</a></p>\n\n<h3 id=\"earthquakes-and-tsunamis\">Earthquakes and tsunamis</h3>\n\n<p>Familiarise yourself with safety procedures in the event of an earthquake or tsunami. The <a rel=\"external\" href=\"https://www.getprepared.gc.ca/cnt/hzd/index-eng.aspx\">Government of Canada has more information about emergency preparedness</a>.</p>\n\n<h3 id=\"thunderstorms\">Thunderstorms</h3>\n\n<p>Summer thunderstorms are frequent in most parts of Canada, particularly between April and September. They can cause property damage and threaten lives.</p>\n\n<h3 id=\"winterstorms\">Winterstorms</h3>\n\n<p>Winter storms, which can involve severe freezing rain, blizzards and hail are frequent in many parts of Canada, particularly between November and April. They can cause perilous driving conditions, property damage and threaten lives. Follow local warnings or news for details.</p>\n\n<h3 id=\"tornadoes\">Tornadoes</h3>\n\n<p>Tornadoes can occur anywhere in Canada between May and September, but June to July is the peak season in:</p>\n\n<ul>\n  <li>Southern Ontario</li>\n  <li>Alberta</li>\n  <li>southeastern Quebec</li>\n  <li>Southern Saskatchewan and Manitoba through to Thunder Bay</li>\n  <li>the interior of British Columbia and western New Brunswick</li>\n</ul>\n\n<p>Follow instructions from Canadian officials or law enforcement. Check the\u00a0<a rel=\"external\" href=\"http://www.nhc.noaa.gov/\">National Hurricane Centre</a>\u00a0for weather updates.</p>\n\n<h3 id=\"forest-fires\">Forest fires</h3>\n\n<p>Forest fires can start at any time, whatever the season. There is more risk of fire in the grasslands and forests of western Canada, although in summer 2023 there were also significant fires in parts of Ontario, Quebec and Nova Scotia. Follow local warnings or news for details on latest outbreaks.</p>\n\n<p>For more information about active wildfires and forecasts, visit the <a rel=\"external\" href=\"https://cwfis.cfs.nrcan.gc.ca/home\">Canadian Wildland Fire Information System website</a>.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Most British nationals travel safely around the Arctic each year.  However, consular assistance and support to British nationals is limited by the capacity of national and local authorities. Make sure you have appropriate travel insurance and accessible funds to cover the cost of any medical treatment or potential repatriation.</p>\n\n<p>Before you visit:</p>\n\n<ul>\n  <li>consider the remote nature of certain destinations and access to medical facilities, search and rescue and evacuation options</li>\n  <li>have emergency plans in place, particularly if you are an independent traveller</li>\n</ul>\n\n<h3 id=\"sea-travel-in-the-arctic\">Sea travel in the Arctic</h3>\n\n<p>Most people visit the Arctic by ship. Some areas of the Arctic are uncharted and ice-covered. Before you travel:</p>\n\n<ul>\n  <li>check the experience and credentials of operators offering travel in the region</li>\n  <li>consider the on-board medical facilities and discuss any pre-existing medical conditions with the cruise operator</li>\n</ul>\n\n<h3 id=\"search-and-rescue\">Search and rescue</h3>\n\n<p>In the highest latitude regions of the Arctic, cruise ships may be isolated from other vessels or populated areas. Be aware that:</p>\n\n<ul>\n  <li>search and rescue response may be very far away</li>\n  <li>assistance to stranded vessels may take several days to arrive, particularly in bad weather</li>\n  <li>search and rescue teams will only offer basic transport and medical care; they are unlikely to be able to offer advanced life support</li>\n</ul>\n",
+                    "slug": "arctic-travel",
+                    "title": "Arctic travel"
+                },
+                {
+                    "body": "<p>Before you travel, check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 911 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip, check:</p>\n\n<ul>\n  <li>the latest information on health risks and what vaccinations you need for Canada on <a rel=\"external\" href=\"https://www.travelhealthpro.org.uk/country/41/canada\">TravelHealthPro</a> (from the UK\u2019s National Travel Health Network and Centre)</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"altitude-sickness\">Altitude sickness</h2>\n\n<p>Altitude sickness is a risk in parts of Canada, including the ski and hiking destinations in the Canadian Rockies, such as Banff and Lake Louise. More information about altitude sickness is available from <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/26/altitude-illness\">TravelHealthPro</a>.</p>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>TravelHealthPro explains <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-canada\">Healthcare facilities in Canada</h2>\n\n<p>The cost of medical treatment can be very expensive. There are no special arrangements for British visitors.\u00a0</p>\n\n<p>For emergency healthcare, go to a hospital emergency room or a walk-in clinic.</p>\n\n<p>If you have dual British-Canadian citizenship, you may still have to pay for medical treatment if you don\u2019t meet provincial residency requirements for healthcare. Check with the <a rel=\"external\" href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/new-life-canada/health-care/universal-system.html#ministries\">relevant province or territory for more information</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-canada\">COVID-19 healthcare in Canada</h2>\n\n<p>Check the latest information on risk from COVID-19 for Canada on <a rel=\"external\" href=\"https://www.travelhealthpro.org.uk/country/41/canada\">TravelHealthPro.</a></p>\n\n<p>Seek medical assistance if you develop COVID-19 symptoms while in Canada. Follow the advice from <a rel=\"external\" href=\"https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/symptoms.html\">Public Health Canada</a>\u00a0 for updates and guidance. These Twitter accounts are also official sources of information and guidance:</p>\n\n<ul>\n  <li><a rel=\"external\" href=\"https://twitter.com/GovCanHealth\">@GovCanHealth</a></li>\n  <li><a rel=\"external\" href=\"https://twitter.com/CPHO_Canada\">@CPHO_Canada</a></li>\n</ul>\n\n<p>The TravelHealthPro website has more advice on\u00a0<a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">FCDO guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">guidance on TravelHealthPro</a>.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-canada\">Emergency services in Canada</h2>\n\n<p>Telephone: 911 (ambulance, fire, police)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h3 id=\"coastguard-maritime-emergencies\">Coastguard maritime emergencies</h3>\n\n<p>Telephone: 1-800-463-4393</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Canada&amp;serviceType=lawyers\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Canada&amp;serviceType=funeralDirectors\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Canada&amp;serviceType=translatorsInterpreters\">translators and interpreters</a> in Canada</li>\n  <li>dealing with <a href=\"https://www.gov.uk/government/publications/bereavement-information-for-canada\">a\u202fdeath in Canada</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/canada-prisoner-pack\">arrested in Canada</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<p>Find more <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a>.</p>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/canada/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/embassies\">British embassy, consulate or high commission</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Canada&amp;post=Canada%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<p><strong>Risk information for British companies</strong></p>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-11-08T10:49:07Z",
+            "updated_at": "2023-11-08T10:49:07Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-18T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/canada",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/canada",
+                    "base_path": "/foreign-travel-advice/canada",
+                    "content_id": "f402b8de-2e99-4ff3-949f-31fe65796cae",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T10:49:07Z",
+                    "schema_name": "travel_advice",
+                    "title": "Canada travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/canada",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/canada",
+                    "api_url": "https://www.gov.uk/api/content/world/canada",
+                    "base_path": "/world/canada",
+                    "content_id": "4e3d81e5-ea79-419e-959c-aa936729dccf",
+                    "description": "Services if you're visiting, studying, working or living in Canada. Includes information about trading with and doing business in the UK and Canada.",
+                    "details": {
+                        "internal_name": "UK help and services in Canada",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:24Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Canada",
+                    "web_url": "https://www.gov.uk/world/canada",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/usa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/usa",
+                    "base_path": "/foreign-travel-advice/usa",
+                    "content_id": "f2cecaae-77ce-4df3-bf27-7783c3975706",
+                    "details": {
+                        "change_description": "Removal of information on an active shooter in Maine ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "USA",
+                            "slug": "usa",
+                            "synonyms": [
+                                "United States",
+                                "America",
+                                "Arctic",
+                                "Puerto Rico",
+                                "US Virgin Islands",
+                                "Florida",
+                                "Orlando",
+                                "American Samoa",
+                                "Guam",
+                                "Hawaii"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:23:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "USA travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/usa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/living-in-canada",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-canada",
+                    "base_path": "/guidance/living-in-canada",
+                    "content_id": "5ec6b012-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2021-03-23T14:35:03Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Canada",
+                    "web_url": "https://www.gov.uk/guidance/living-in-canada",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/publications/foreign-embassies-in-the-uk",
+                    "api_url": "https://www.gov.uk/api/content/government/publications/foreign-embassies-in-the-uk",
+                    "base_path": "/government/publications/foreign-embassies-in-the-uk",
+                    "content_id": "5c9abed0-7631-11e4-a3cb-005056011aef",
+                    "document_type": "guidance",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T11:46:42Z",
+                    "schema_name": "publication",
+                    "title": "Foreign embassies in the UK",
+                    "web_url": "https://www.gov.uk/government/publications/foreign-embassies-in-the-uk",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/china",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/china",
+                    "base_path": "/foreign-travel-advice/china",
+                    "content_id": "cb91b5b1-d4af-43d6-a9ea-48d56fe03300",
+                    "details": {
+                        "change_description": "Updated information about entry requirements ('Entry requirements' page).",
+                        "country": {
+                            "name": "China",
+                            "slug": "china",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-06T13:57:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "China travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/china",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-canada",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-canada",
+                    "base_path": "/world/living-in-canada",
+                    "content_id": "b25d8553-2720-422d-94c7-c9374460c84b",
+                    "description": "How to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Canada",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/canada",
+                                "api_url": "https://www.gov.uk/api/content/world/canada",
+                                "base_path": "/world/canada",
+                                "content_id": "4e3d81e5-ea79-419e-959c-aa936729dccf",
+                                "description": "Services if you're visiting, studying, working or living in Canada. Includes information about trading with and doing business in the UK and Canada.",
+                                "details": {
+                                    "internal_name": "UK help and services in Canada",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:24Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Canada",
+                                "web_url": "https://www.gov.uk/world/canada",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2019-08-08T10:38:46Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Canada",
+                    "web_url": "https://www.gov.uk/world/living-in-canada",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-canada",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-canada",
+                    "base_path": "/world/travelling-to-canada",
+                    "content_id": "8ae7beb7-0117-4275-9959-56b51f3941df",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Canada",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/canada",
+                                "api_url": "https://www.gov.uk/api/content/world/canada",
+                                "base_path": "/world/canada",
+                                "content_id": "4e3d81e5-ea79-419e-959c-aa936729dccf",
+                                "description": "Services if you're visiting, studying, working or living in Canada. Includes information about trading with and doing business in the UK and Canada.",
+                                "details": {
+                                    "internal_name": "UK help and services in Canada",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:24Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Canada",
+                                "web_url": "https://www.gov.uk/world/canada",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:14:29Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Canada",
+                    "web_url": "https://www.gov.uk/world/travelling-to-canada",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-08T10:49:07Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1699440547.173-10.13.20.83-32323",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Canada travel advice",
+        "updated_at": "2023-11-15T11:08:45Z",
+        "withdrawn_notice": {}
+    }
+}

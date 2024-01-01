@@ -1,0 +1,954 @@
+{
+    "Country Slug": "luxembourg",
+    "Country Name": "Luxembourg",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/luxembourg",
+        "content_id": "bfff46a6-c3d8-4881-af8e-e62af3f5a03a",
+        "description": "FCDO travel advice for Luxembourg. Includes safety and security, insurance, entry requirements and legal differences.\r\n",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU; Health section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:22:46.808Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Crime) - this sub-section has been reviewed with amendments ",
+                    "public_timestamp": "2018-12-18T11:10:08.443Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T17:43:24.890Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:38:41.577Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T18:25:05.050Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal",
+                    "public_timestamp": "2019-02-19T12:13:53.026Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Luxembourg",
+                    "public_timestamp": "2019-03-25T18:47:06.763Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2019-07-02T14:43:01.000Z"
+                },
+                {
+                    "note": "Summary - Luxembourg is currently experiencing extreme temperatures across the country; addition of link to tips and advice from the National Travel Health Network and Centre",
+                    "public_timestamp": "2019-07-25T10:53:40.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on the heatwave",
+                    "public_timestamp": "2019-07-30T10:06:31.000Z"
+                },
+                {
+                    "note": "Summary and Terrorism section \u2013 updated information and advice about the threat from terrorism reflecting a decreased threat",
+                    "public_timestamp": "2019-12-10T10:07:52.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T18:37:02.000Z"
+                },
+                {
+                    "note": "Addition of information about coronavirus (COVID-19) following a confirmed case of the virus in the country ('Health' and 'Summary' pages) ",
+                    "public_timestamp": "2020-03-02T13:36:17.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following announcement that Flybe has ceased operations ",
+                    "public_timestamp": "2020-03-05T04:17:12.000Z"
+                },
+                {
+                    "note": "Updated information on recommendations and measures introduced by the Luxembourg Government in response to coronavirus ('Health' page)",
+                    "public_timestamp": "2020-03-13T19:40:40.000Z"
+                },
+                {
+                    "note": "Updated information on recommendations and measures introduced by the Luxembourg government in response to coronavirus ('Health' page)",
+                    "public_timestamp": "2020-03-16T22:01:34.000Z"
+                },
+                {
+                    "note": "Updated information on recommendations and measures introduced by the Luxembourg government in response to coronavirus ('Health' page)",
+                    "public_timestamp": "2020-03-19T18:12:58.000Z"
+                },
+                {
+                    "note": "Update to information in response to the coronavirus (COVID-19) pandemic. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-25T13:59:42.000Z"
+                },
+                {
+                    "note": "There are currently no scheduled passenger services operating from Luxembourg Airport (Findel). You should consult airline websites for details of when services will resume. ('Coronavirus' and 'Return to UK' pages)",
+                    "public_timestamp": "2020-03-30T17:04:12.000Z"
+                },
+                {
+                    "note": "Advice if travelling back to UK through France. See Return to UK",
+                    "public_timestamp": "2020-04-10T12:21:38.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-17T10:03:07.000Z"
+                },
+                {
+                    "note": "Update to information on phased easing of coronavirus (COVID-19) restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-11T17:28:38.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:13:38.000Z"
+                },
+                {
+                    "note": "Addition of information on domestic measures and returning to the UK (\u2018Staying during coronavirus\u2019 and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-05-29T11:50:39.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:53:36.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-01T16:40:57.000Z"
+                },
+                {
+                    "note": "From 4 July, Luxembourg is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:22:07.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) measures including use of masks, accommodation, public transport and public spaces and services ('Coronavirus' and 'Safety and security' pages)",
+                    "public_timestamp": "2020-07-07T12:00:17.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Luxembourg. This is based on the current assessment of COVID-19 risks ('Summary' page)",
+                    "public_timestamp": "2020-07-30T19:36:53.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T13:28:22.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Luxembourg in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-05T10:11:58.000Z"
+                },
+                {
+                    "note": "New domestic measures set in Luxembourg to limit the spread of COVID-19 (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-10-30T17:06:57.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T10:56:36.000Z"
+                },
+                {
+                    "note": "Update to information on the threat of terrorism, reflecting an increased threat ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-11-12T12:54:52.000Z"
+                },
+                {
+                    "note": "Update to information on local coronavirus restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2020-11-27T12:32:17.000Z"
+                },
+                {
+                    "note": "Extension of Coronavirus restriction on restaurants and bars which are to remain closed to the public until 15 January 2021 ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-14T19:10:10.000Z"
+                },
+                {
+                    "note": "The Luxembourg government have banned all air passenger flights between the UK and Luxembourg from 00:00 (CET) 20 December for an initial 24-hour period. ('Summary' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-12-20T18:07:50.000Z"
+                },
+                {
+                    "note": "Update on ban of all passenger flights between the UK and Luxembourg from 20 December 2020 until 4 January 2021 ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-22T17:16:09.000Z"
+                },
+                {
+                    "note": "The Luxembourg government have banned all air passenger flights between the UK and Luxembourg until 3 January 2021. ('Summary' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-12-22T17:49:15.000Z"
+                },
+                {
+                    "note": "From 24 December, all airline passengers from the UK are required to have a negative COVID-19 test result. ('Summary' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-12-23T23:54:53.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page)",
+                    "public_timestamp": "2020-12-29T16:56:47.000Z"
+                },
+                {
+                    "note": "Additional information on Luxembourg COVID-19 restrictions; if your travelling to Luxembourg by air you will be asked to complete a passenger locator form ('Summary', 'Coronavirus' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-12-30T12:51:17.000Z"
+                },
+                {
+                    "note": "Update to entry requirements ('Entry Requirements')",
+                    "public_timestamp": "2020-12-31T17:39:23.000Z"
+                },
+                {
+                    "note": "Updated information on Luxembourg COVID-19 restrictions; curfew has changed to 11pm to 6am and most public spaces and services have now reopened ('Coronavrius' page)",
+                    "public_timestamp": "2021-01-11T13:58:33.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Luxembourg (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-13T16:06:15.000Z"
+                },
+                {
+                    "note": "Updated information regarding the extension of existing safety measures until 21 February 2021 ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-23T19:19:25.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Luxembourg ('Summary\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2021-01-28T16:28:40.000Z"
+                },
+                {
+                    "note": "Addition of information on COVID-19 vaccinations if you live in Luxemburg (See 'Coronavirus' page)",
+                    "public_timestamp": "2021-02-06T15:22:01.000Z"
+                },
+                {
+                    "note": "Addition of information on COVID-19 vaccinations if you live in Luxembourg (See 'Coronavirus' page)",
+                    "public_timestamp": "2021-02-06T15:24:42.000Z"
+                },
+                {
+                    "note": "Addition of information on extension to domestic COVID-19 measures ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-08T14:50:41.000Z"
+                },
+                {
+                    "note": "Additional information on domestic COVID-19 measures ('Coronavirus' page) ",
+                    "public_timestamp": "2021-04-01T17:25:48.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions to public places and services; restaurants and bars are now open for outdoor service ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-23T14:20:31.000Z"
+                },
+                {
+                    "note": "Updated information on Luxembourg's restrictions for curfews, accommodation and public places and services ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-18T08:37:27.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-03T14:08:57.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for passengers arriving into Luxembourg from the UK ('Entry requirements - Entry rules in response to coronavirus (COVID-19)' page)",
+                    "public_timestamp": "2021-06-04T23:42:18.000Z"
+                },
+                {
+                    "note": "Updated information on domestic coronavirus measures.  (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-06-22T11:15:22.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Luxembourg, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-07-08T16:51:15.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Luxembourg (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T09:07:05.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Luxembourg (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-07-23T10:22:20.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:37:04.000Z"
+                },
+                {
+                    "note": "Removal of quarantine requirements for travellers from the UK ('Entry requirements' page)",
+                    "public_timestamp": "2021-08-03T14:31:51.000Z"
+                },
+                {
+                    "note": "Update to information on the threat of terrorism, reflecting a reduced threat ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-08-26T15:05:34.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T12:16:06.000Z"
+                },
+                {
+                    "note": "Updated information for UK nationals who are able to demonstrate their Covid-19 status are now permitted to enter Luxembourg (See \u2019Entry Requirements\u2019 page)",
+                    "public_timestamp": "2021-10-29T19:23:07.000Z"
+                },
+                {
+                    "note": "Updated information on demonstrating COVID-19 status using the NHS COVID Pass (See 'Entry Requirements\u2019 page) ",
+                    "public_timestamp": "2021-11-01T20:38:11.000Z"
+                },
+                {
+                    "note": "Addition of information on vaccinated UK nationals being permitted to enter Luxembourg for non-essential purposes ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-02T13:09:56.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-11-11T14:05:31.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:15:01.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Luxembourg (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-17T15:25:33.000Z"
+                },
+                {
+                    "note": "Addition of information on Luxembourg's COVID-19 measures (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-12-23T11:07:06.000Z"
+                },
+                {
+                    "note": "You should check the travel advice for any neighbouring country you travel through during your journey to Luxembourg. ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-31T18:41:29.000Z"
+                },
+                {
+                    "note": "Update on entry requirements related to COVID-19. ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-07T16:53:06.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:28:22.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-07-28T12:09:59.000Z"
+                },
+                {
+                    "note": "Updated information on the removal of most domestic COVID-19 restrictions and removal of entry restrictions (See 'Coronavirus' and \u2018Entry requirements\u2019 pages). ",
+                    "public_timestamp": "2022-09-30T22:00:02.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 travel restrictions for Luxembourg being lifted and updated figures on road travel incidents ('Entry requirements' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-11-28T09:27:56.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:55:57.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. ",
+                    "public_timestamp": "2023-08-18T11:12:58.000Z"
+                }
+            ],
+            "country": {
+                "name": "Luxembourg",
+                "slug": "luxembourg",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/luxembourg/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/luxembourg/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Luxembourg set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://londres.mae.lu/en/service_citoyens.html\">Embassy of Luxembourg in London</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Luxembourg.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To travel to Luxembourg, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a>.</p>\n\n<p>To enter Luxembourg (and all Schengen countries) your passport must:</p>\n\n<ul>\n  <li>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports issued after 1 October 2018 are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</li>\n  <li>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</li>\n</ul>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document, or try to use a passport that has been reported lost or stolen.</p>\n\n<h3 id=\"checks-at-border-control\">Checks at border control</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped.</p>\n</div>\n\n<p>If you\u2019re a visitor, your passport must be stamped when you enter or leave the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (which includes Luxembourg). Border guards will use passport stamps to check you have not overstayed the <a href=\"https://www.gov.uk/travel-to-eu-schengen-area#:~:text=You%20do%20not%20need%20a,or%20for%20certain%20other%20reasons\">90-day visa-free limit</a> for stays in the Schengen area. If your passport was not stamped, border guards will presume you have overstayed the visa-free limit.</p>\n\n<p>If your passport was not stamped, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.</p>\n\n<p>Read about <a href=\"https://www.gov.uk/guidance/living-in-luxembourg\">passport stamping if you live in Luxembourg.</a></p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel without a visa to the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (including Luxembourg)\u202f for up to 90 days in any 180-day period. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>\n    <p>to attend business meetings, cultural or sports events</p>\n  </li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>If you\u2019re travelling to Luxembourg and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries in the 180 days before you travel count towards your 90 days.</p>\n\n<p>To stay longer (to work or study, for business travel or for other reasons), you must meet the Luxembourg government\u2019s entry requirements. Check which type of visa or work permit you need with the <a rel=\"external\" href=\"https://londres.mae.lu/en/service_citoyens.html\">Embassy of Luxembourg in London</a>.</p>\n\n<p>If you stay in Luxembourg with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<h3 id=\"applying-for-a-visa\">Applying for a visa</h3>\n\n<p>Check with the <a rel=\"external\" href=\"https://londres.mae.lu/en/service_citoyens.html\">Embassy of Luxembourg in London</a> what type of visa or work permit you may need.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the vaccinations and certificates you need in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/132/luxembourg\">TravelHealthPro\u2019s Luxembourg guide</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about goods that can be brought into and taken out of Luxembourg. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food. <a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a> on the European Commission website.</p>\n\n<h2 id=\"taking-money-into-luxembourg\">Taking money into Luxembourg</h2>\n\n<p>If you bring more than 10,000 euros in cash (even in transit) into Luxembourg, you must complete a cash declaration form. You must declare this to the <a rel=\"external\" href=\"https://guichet.public.lu/en/citoyens/immigration/nouveau-resident-luxembourg/declaration-devises/declaration-paiement-devises.html#:~:text=Each%20cross%2Dborder%20transportation%20of,douanes%20et%20accises%20%2D%20ADA\">Customs and Excise Agency (Administration des douanes et accises \u2013 ADA)</a>.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-luxembourg\">Terrorism in Luxembourg</h3>\n\n<p>Terrorist attacks in Luxembourg cannot be ruled out.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Violent crime is not common in Luxembourg cities. However, robberies with violence occur.</p>\n\n<p>Report any thefts in person to the nearest police station within 24 hours and get a police report crime number.</p>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Pickpockets operate on buses and in train stations, particularly in the main train station of Luxembourg Gare. Hotel lobbies in the Findel area are reported to be hotspots for thefts and pickpocketing.</p>\n\n<h3 id=\"scams\">Scams</h3>\n\n<p>Foreign visitors and residents can be targeted by scam artists. Be cautious and make sure you have all the information you need before providing any personal or bank details.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"alcohol-laws\">Alcohol laws</h3>\n\n<p>The minimum legal drinking age is 16, but being drunk and disorderly in public is a criminal offence that can result in arrest for a night and a heavy fine.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Luxembourg, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"http://www.rac.co.uk/driving-abroad/luxembourg\">RAC Luxembourg guide</a>.</p>\n\n<p>You may be fined if you cannot produce the following documents if they are requested:</p>\n\n<ul>\n  <li>driving licence</li>\n  <li>vehicle registration document</li>\n  <li>car insurance certificate</li>\n  <li>road tax</li>\n  <li>MOT certificate</li>\n</ul>\n\n<p>Carry a passport, because it\u2019s easy to cross into neighbouring countries without realising it. Beware that road traffic laws are strict and you can be fined for minor traffic infringements.</p>\n\n<p>The minimum age for driving a car is 18.</p>\n\n<p>You can use your UK licence for a period of one year before having to exchange it for a Luxembourgish licence.</p>\n\n<p>Drink-drive laws are strictly enforced. You can be arrested for having a blood alcohol content of 0.5% or above.</p>\n\n<h3 id=\"winter-tyres\">Winter tyres</h3>\n\n<p>It is compulsory for all motor vehicles driving on public roads in winter conditions (black ice, packed snow, slush, ice sheets or frost) to have regulation winter tyres (winter tyres or all-weather tyres marked \u201cM.S.\u201d, \u201cM+S\u201d, \u201cM&amp;S\u201d or the alpine symbol) mounted on all wheels of the vehicle.</p>\n\n<p>This regulation applies to all drivers, regardless of the country of registration of the vehicle. You will be fined if you do not have the correct tyres. However, this does not apply to vehicles parked on public roads. For more information see <a rel=\"external\" href=\"https://guichet.public.lu/en/citoyens/transports-mobilite/transports-individuels/vehicule-motorise/pneus-hiver.html\">Luxembourg government advice on winter driving</a>.</p>\n\n<h3 id=\"taxis\">Taxis</h3>\n\n<p>It is safer to use official taxis at clearly marked taxi stands. A price list is displayed on official taxis. Check the rate per kilometre before getting into the taxi. Beware that some taxis may charge highly inflated prices. Taxi drivers are allowed to charge extra in the evenings and on Sunday.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 and ask for an ambulance. If you ask for a <abbr title=\"Service d\u2019Aide Medicale Urgente\">SAMU</abbr> (Service d\u2019Aide Medicale Urgente) the ambulance will come together with a doctor.</p>\n\n<p>Contact your insurance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>\n    <p>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/132/luxembourg\">TravelHealthPro\u2019s Luxembourg guide</a></p>\n  </li>\n  <li>\n    <p>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a></p>\n  </li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-luxembourg\">Healthcare facilities in Luxembourg</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/luxembourg-list-of-medical-facilitiespractitioners\">English-speaking doctors in Luxembourg</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-luxembourg\">COVID-19 healthcare in Luxembourg</h2>\n\n<p>See <a rel=\"external\" href=\"https://covid19.public.lu/en/sanitary-measures.html\">Luxembourg government information about COVID-19</a>.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>)</a> before leaving the UK. If you already have a <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>)</a>, it will still be valid as long as it remains in date.</p>\n\n<p>The <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Luxembourg\u2019s nationals. If you do not have your card with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> is not an alternative to travel insurance and you should have both before you travel. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Global Health Insurance Card\">GHIC</abbr> and <abbr title=\"European Health Insurance Card\">EHIC</abbr> cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-luxembourg\">Emergency services in Luxembourg</h2>\n\n<p>Ambulance: 112</p>\n\n<p>Fire: 112</p>\n\n<p>Police: 113</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about  <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a> including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/results?serviceType=lawyers&amp;readNotice=ok&amp;country=Luxembourg&amp;region=Not%20set&amp;practiceArea=All&amp;readDisclaimer=ok\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/results?serviceType=funeralDirectors&amp;readNotice=ok&amp;insurance=yes&amp;contactInsurance=done&amp;repatriation=yes&amp;country=Luxembourg&amp;region=Not%20set&amp;readDisclaimer=ok\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?serviceType=translatorsInterpreters&amp;readNotice=ok&amp;country=Luxembourg\">translators and interpreters</a> in Luxembourg</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/bereavement-information-pack-luxembourg\">death</a> in Luxembourg</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/luxembourg-prisoner-pack\">arrested</a> in Luxembourg</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>\n    <p>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a></p>\n  </li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/luxembourg/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are in Luxembourg and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-in-luxembourg\">British Embassy, Luxembourg</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Luxembourg&amp;post=Luxembourg%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a>.</p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-08-18T11:12:58Z",
+            "updated_at": "2023-08-18T11:12:58Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2012-12-19T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/luxembourg",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/luxembourg",
+                    "base_path": "/foreign-travel-advice/luxembourg",
+                    "content_id": "bfff46a6-c3d8-4881-af8e-e62af3f5a03a",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-18T11:12:58Z",
+                    "schema_name": "travel_advice",
+                    "title": "Luxembourg travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/luxembourg",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/luxembourg",
+                    "api_url": "https://www.gov.uk/api/content/world/luxembourg",
+                    "base_path": "/world/luxembourg",
+                    "content_id": "c90c1c76-549d-478f-b258-dc74e7a27099",
+                    "description": "Services if you're visiting, studying, working or living in Luxembourg. Includes information about trading with and doing business in the UK and Luxembourg, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Luxembourg",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T16:17:43Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Luxembourg",
+                    "web_url": "https://www.gov.uk/world/luxembourg",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/malta",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/malta",
+                    "base_path": "/foreign-travel-advice/malta",
+                    "content_id": "0b04ef72-ed4f-427c-82fb-851004d9a4d9",
+                    "details": {
+                        "change_description": "Removal of information on adverse weather in Malta and Gozo ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "Malta",
+                            "slug": "malta",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-11T15:06:20Z",
+                    "schema_name": "travel_advice",
+                    "title": "Malta travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/malta",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/norway",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/norway",
+                    "base_path": "/foreign-travel-advice/norway",
+                    "content_id": "5db38510-b08a-4e4c-b84f-ca2d62353ab6",
+                    "details": {
+                        "change_description": "Information about restrictions on vehicles with Russian licence plates and advice on political demonstrations (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+                        "country": {
+                            "name": "Norway",
+                            "slug": "norway",
+                            "synonyms": [
+                                "arctic",
+                                "Oslo",
+                                "Scandinavia"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:20:03Z",
+                    "schema_name": "travel_advice",
+                    "title": "Norway travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/norway",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/monaco",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/monaco",
+                    "base_path": "/foreign-travel-advice/monaco",
+                    "content_id": "09c1d197-d95b-44ea-bc64-489b126c2246",
+                    "details": {
+                        "change_description": "Update to refresh information on terrorism risk ('Safety and security' page).",
+                        "country": {
+                            "name": "Monaco",
+                            "slug": "monaco",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-26T14:14:07Z",
+                    "schema_name": "travel_advice",
+                    "title": "Monaco travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/monaco",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/netherlands",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/netherlands",
+                    "base_path": "/foreign-travel-advice/netherlands",
+                    "content_id": "98641f11-0391-4679-a033-6d79db918d05",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Netherlands",
+                            "slug": "netherlands",
+                            "synonyms": [
+                                "Holland",
+                                "Amsterdam"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-26T15:01:04Z",
+                    "schema_name": "travel_advice",
+                    "title": "Netherlands travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/netherlands",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/malaysia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/malaysia",
+                    "base_path": "/foreign-travel-advice/malaysia",
+                    "content_id": "126d47f7-5fd2-41ff-af17-b23564355e03",
+                    "details": {
+                        "change_description": "Information about political situation and demonstrations ('Safety and security' page).",
+                        "country": {
+                            "name": "Malaysia",
+                            "slug": "malaysia",
+                            "synonyms": [
+                                "Borneo"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-03T14:04:49Z",
+                    "schema_name": "travel_advice",
+                    "title": "Malaysia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/malaysia",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-luxembourg",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-luxembourg",
+                    "base_path": "/world/living-in-luxembourg",
+                    "content_id": "7f8cfd25-41dd-447c-be23-cdabfca8e008",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Luxembourg",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/luxembourg",
+                                "api_url": "https://www.gov.uk/api/content/world/luxembourg",
+                                "base_path": "/world/luxembourg",
+                                "content_id": "c90c1c76-549d-478f-b258-dc74e7a27099",
+                                "description": "Services if you're visiting, studying, working or living in Luxembourg. Includes information about trading with and doing business in the UK and Luxembourg, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Luxembourg",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:17:43Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Luxembourg",
+                                "web_url": "https://www.gov.uk/world/luxembourg",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T16:59:25Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Luxembourg",
+                    "web_url": "https://www.gov.uk/world/living-in-luxembourg",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-luxembourg",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-luxembourg",
+                    "base_path": "/world/travelling-to-luxembourg",
+                    "content_id": "8b22cf55-d08e-4af6-92cf-8765e2c95ce9",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Luxembourg",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/luxembourg",
+                                "api_url": "https://www.gov.uk/api/content/world/luxembourg",
+                                "base_path": "/world/luxembourg",
+                                "content_id": "c90c1c76-549d-478f-b258-dc74e7a27099",
+                                "description": "Services if you're visiting, studying, working or living in Luxembourg. Includes information about trading with and doing business in the UK and Luxembourg, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Luxembourg",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:17:43Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Luxembourg",
+                                "web_url": "https://www.gov.uk/world/luxembourg",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:27Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Luxembourg",
+                    "web_url": "https://www.gov.uk/world/travelling-to-luxembourg",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-08-18T11:12:58Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1692357178.171-10.13.22.171-24884",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Luxembourg travel advice",
+        "updated_at": "2023-11-15T11:04:34Z",
+        "withdrawn_notice": {}
+    }
+}

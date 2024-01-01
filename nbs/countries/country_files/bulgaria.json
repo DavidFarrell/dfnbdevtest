@@ -1,0 +1,1019 @@
+{
+    "Country Slug": "bulgaria",
+    "Country Name": "Bulgaria",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/bulgaria",
+        "content_id": "94aa06ba-2d58-4299-88ba-8861acc18729",
+        "description": "FCDO travel advice for Bulgaria. Includes safety and security, insurance, entry requirements and legal differences.  ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU",
+                    "public_timestamp": "2018-11-22T18:16:43.917Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T18:16:58.634Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:42:38.937Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T17:28:08.268Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Bulgaria",
+                    "public_timestamp": "2019-03-25T18:11:04.191Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section - updated information on passport validity and visa requirements",
+                    "public_timestamp": "2019-04-05T13:49:49.063Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with amendments throughout",
+                    "public_timestamp": "2019-09-05T13:43:51.000Z"
+                },
+                {
+                    "note": "Summary - advice following the announcement that Thomas Cook has ceased trading",
+                    "public_timestamp": "2019-09-23T01:44:48.000Z"
+                },
+                {
+                    "note": "Summary - addition of link to advice page for England\u2019s match with Bulgaria on 14 October 2019 in Sofia",
+                    "public_timestamp": "2019-10-11T09:43:12.000Z"
+                },
+                {
+                    "note": "Summary - removal of information Thomas Cook ceasing to trade and on England\u2019s match with Bulgaria on 14 October 2019 in Sofia",
+                    "public_timestamp": "2019-10-17T11:26:05.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T15:28:41.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-09T11:32:37.000Z"
+                },
+                {
+                    "note": "Summary and Health \u2013 updated information on coronavirus (COVID-19)",
+                    "public_timestamp": "2020-03-14T12:54:41.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advises against all but essential travel to Bulgaria. Information also updated on local measures taken to limit the spread of coronavirus (\u2018Health\u2019 and \u2018Summary\u2019 pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-17T11:38:10.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-19T17:18:06.000Z"
+                },
+                {
+                    "note": "Addition of links to British Embassy Sofia social media for further information on options to depart Bulgaria ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2020-03-20T20:00:12.000Z"
+                },
+                {
+                    "note": "Updated information and advice on coronavirus (COVID-19 ('Coronavirus')",
+                    "public_timestamp": "2020-03-21T14:46:11.000Z"
+                },
+                {
+                    "note": "Commercial flights from Sofia continue to operate, but a reduced level.  If you are in the ski resort of Bansko you should remain there until the end of quarantine. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-27T23:57:26.000Z"
+                },
+                {
+                    "note": "Commercial flights from Sofia continue to operate, but a reduced level. If you are in the ski resort of Bansko you should remain there until the end of quarantine. ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-06T21:20:33.000Z"
+                },
+                {
+                    "note": "Update to road border restrictions ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-07T10:43:43.000Z"
+                },
+                {
+                    "note": "Updated information following the suspension of all direct flights between Bulgaria and the UK on 16 April. ('Summary', Coronavirus' and 'Return to the UK' pages) ",
+                    "public_timestamp": "2020-04-16T23:54:05.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of all direct flights between Bulgaria and the UK on 16 April ('Summary', 'Coronavirus' and 'Return to the UK' pages).",
+                    "public_timestamp": "2020-04-17T13:07:39.000Z"
+                },
+                {
+                    "note": "Updated information on internal travel to/from Sofia on the Safety and Security page. ",
+                    "public_timestamp": "2020-04-22T15:44:28.000Z"
+                },
+                {
+                    "note": "Updated information on direct flights between UK and Bulgaria ('Return to UK')",
+                    "public_timestamp": "2020-04-24T20:02:44.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of direct flights between Bulgaria and UK, which was lifted on 27 April. ('Summary', 'Coronavirus' and 'Return to the UK' page)",
+                    "public_timestamp": "2020-04-27T16:29:10.000Z"
+                },
+                {
+                    "note": "Updated information on the relaxation of some domestic COVID-19 related restrictions. ('Coronavirus', 'Return to the UK' and 'Safety and security' pages)",
+                    "public_timestamp": "2020-05-05T21:22:24.000Z"
+                },
+                {
+                    "note": "Updated information following the end of the State of Emergency in Bulgaria from 13th May 2020. ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-13T17:54:33.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T13:54:17.000Z"
+                },
+                {
+                    "note": "Lifting of the travel ban for UK nationals (\u2018Staying during coronavirus\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2020-06-01T12:39:09.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:36:27.000Z"
+                },
+                {
+                    "note": "Update to information on the extension of the Emergency Epidemic situation until 15 July (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-06-29T14:58:12.000Z"
+                },
+                {
+                    "note": "Addition of information on local quarantine measures. (\u2018Entry Requirements\u2019 page)",
+                    "public_timestamp": "2020-07-06T16:22:26.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-16T15:37:07.000Z"
+                },
+                {
+                    "note": "Addition of information on ongoing protests. ('Summary' page)",
+                    "public_timestamp": "2020-07-24T16:40:00.000Z"
+                },
+                {
+                    "note": "Update to information on the extension of the \u2018Epidemic Emergency\u2019 situation (\u2018Coronavirus\u2019 page) and additional information on entry for British nationals, health requirements and quarantine measures ('Summary' and \u2018Entry Requirements\u2019 pages) ",
+                    "public_timestamp": "2020-07-30T17:32:22.000Z"
+                },
+                {
+                    "note": "The Emergency Epidemic situation has been extended until 30 September 2020. ('Coronavirus' page) ",
+                    "public_timestamp": "2020-08-28T14:36:21.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (see \u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T11:59:12.000Z"
+                },
+                {
+                    "note": "Update on the extension of the \u2018Epidemic Emergency\u2019 situation until 30 November 2020 (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2020-09-25T13:37:26.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Bulgaria in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-02T14:18:10.000Z"
+                },
+                {
+                    "note": "New requirements to wear face masks outside (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2020-10-21T19:45:12.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures and self-isolation requirements in Bulgaria (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-10-26T16:30:20.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T11:15:06.000Z"
+                },
+                {
+                    "note": "New information on the extension of the \u2018Epidemic Emergency\u2019 until 31 January 2021 and update to coronavirus restrictions in Bulgaria (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-11-27T17:14:17.000Z"
+                },
+                {
+                    "note": "The Government of Bulgaria have announced they will be restricting air travel to/from Bulgaria and the UK from 00:00 on 21 December until 31 January 2021",
+                    "public_timestamp": "2020-12-20T23:51:41.000Z"
+                },
+                {
+                    "note": "The Government of Bulgaria has put in place a temporary travel ban on visitors arriving from the UK from 00:00 on 21 December until 31 January 2021. British nationals with a valid Bulgarian resident permit are exempt, but they must self-isolate for 10-days upon arrival. ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-21T12:40:44.000Z"
+                },
+                {
+                    "note": "The Government of Bulgaria has issued further information on exemptions to its temporary travel ban on visitors arriving from the UK. British nationals with a valid Bulgarian resident permit continue to be exempt, but they must self-isolate for 10-days upon arrival. ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-22T16:06:15.000Z"
+                },
+                {
+                    "note": "The Government of Bulgaria has announced that direct commercial flights from the UK can recommence with immediate effect, but with a new Covid-19 testing requirement in place from 00:01 on 24 December for all travellers. The  temporary travel ban on visitors arriving from the UK still remains in place. British nationals with a valid Bulgarian resident permit continue to be exempt from this ban. ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-23T21:04:01.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page). ",
+                    "public_timestamp": "2020-12-29T15:59:27.000Z"
+                },
+                {
+                    "note": "Update to entry requirements from 1 January 2021 (\u2018Summary\u2019 and 'Entry Requirements' page). ",
+                    "public_timestamp": "2020-12-31T21:42:29.000Z"
+                },
+                {
+                    "note": "Update to entry requirements to reflect that Bulgarian Citizens, residents and their immediate family members may travel to Bulgaria without having taken a PCR test, but will be subject to a mandatory 10-day quarantine period. (See \u2018Summary\u2019 and 'Entry Requirements' pages)",
+                    "public_timestamp": "2021-01-02T18:15:02.000Z"
+                },
+                {
+                    "note": "Addition of information on the requirement for all travellers to Bulgaria to carry the correct documentation to demonstrate that they are permitted to travel (\u2018Summary\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-06T11:37:04.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Bulgaria (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-15T18:50:33.000Z"
+                },
+                {
+                    "note": "Update on an extension to Bulgaria\u2019s state of Epidemic Emergency and changes to Covid-19 entry requirements and restrictions in Bulgaria (\u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2021-01-28T17:34:45.000Z"
+                },
+                {
+                    "note": "Clarification on type of negative COVID-19 test accepted by Bulgarian authorities (\u2018Summary\u2019, 'Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2021-01-29T19:29:14.000Z"
+                },
+                {
+                    "note": "Update to COVID-19 entry requirements for people legally resident in Bulgaria  (\u2018Summary\u2019, 'Coronavirus\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2021-02-04T16:20:59.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Bulgaria (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-10T10:25:48.000Z"
+                },
+                {
+                    "note": "Updated information on how to get a COVID-19 vaccine if you live in Bulgaria and COVID-19 regulations in Bulgaria (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-03-02T11:13:57.000Z"
+                },
+                {
+                    "note": "Updated information on how to get a COVID-19 vaccine if you live in Bulgaria (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-03-09T11:22:32.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions in the Sofia municipality in Bulgaria (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-03-16T12:41:04.000Z"
+                },
+                {
+                    "note": "Updated information on new national COVID-19 restrictions from 22 March (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-03-19T16:24:43.000Z"
+                },
+                {
+                    "note": "updated information on national COVID-19 restrictions from 1 April ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-01T15:33:13.000Z"
+                },
+                {
+                    "note": "Update to information on national coronavirus (COVID-19) restrictions for public spaces and services from 12 April ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-12T15:22:01.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements and national coronavirus (COVID-19) restrictions from 1 May ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-04-30T17:06:15.000Z"
+                },
+                {
+                    "note": "Update to domestic measures, correction of Bulgarian vaccine certificates and entry requirements ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-05-21T16:32:23.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension to the Bulgarian Epidemic Emergency situation. Update to Bulgarian vaccine certificates information ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-04T11:53:07.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-21T15:09:00.000Z"
+                },
+                {
+                    "note": "Updated information on Bulgarian traffic light system for classifying international arrivals, plus information about the NHS COVID status app and letter. Updated advice for LGBT+ travellers (See 'Entry requirements' and 'Local laws and customs' pages);",
+                    "public_timestamp": "2021-07-02T21:46:57.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 19 July Bulgaria will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-07-14T17:53:28.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Bulgaria, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2021-07-16T08:11:33.000Z"
+                },
+                {
+                    "note": "From Monday 19 July the UK will be added to Bulgaria\u2019s red list.  Arrival from the UK will only be permitted for Bulgarian citizens and long-term residents. (\u2018Summary\u2019 and \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-07-16T16:26:29.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Bulgaria (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T09:27:30.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Bulgaria (\u2018Coronavirus\u2019 page) \r\n",
+                    "public_timestamp": "2021-07-22T15:37:46.000Z"
+                },
+                {
+                    "note": "Updated information regarding requirements for travelling to Bulgaria (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-07-23T19:02:37.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:49:33.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for travellers from \u2018red list\u2019 countries travelling to Bulgaria. Extension of the Epidemic Emergency until 31 August 2021 (\u2018Entry requirements\u2019 and \u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-07-29T16:47:00.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for students holding type D visas. Extension of the Epidemic Emergency until 30 November 2021 (\u2018Entry requirements\u2019 and \u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-08-31T14:44:11.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T11:51:42.000Z"
+                },
+                {
+                    "note": "Update on changes to domestic restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-13T10:58:24.000Z"
+                },
+                {
+                    "note": "Updated information on the easing of restrictions for UK nationals travelling to Bulgaria (See 'Entry requirements') ",
+                    "public_timestamp": "2021-10-09T10:49:14.000Z"
+                },
+                {
+                    "note": "Additional information on the domestic COVID restrictions in Sofia. (See 'Coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-10-15T19:06:14.000Z"
+                },
+                {
+                    "note": "New information on domestic COVID-19 restrictions in Bulgaria ('Coronavirus' page) ",
+                    "public_timestamp": "2021-10-22T13:15:01.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-02T15:46:55.000Z"
+                },
+                {
+                    "note": "Extension of the \u2018Epidemic Emergency\u2019 in Bulgaria and changes to entry rules from 1 December plus addition of information regarding access to Covid-19 booster vaccinations in Bulgaria. (See 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-30T18:27:56.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T14:59:15.000Z"
+                },
+                {
+                    "note": " Updated information on COVID-19 entry requirements for entry to Bulgaria ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-22T16:24:22.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Bulgaria (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-06T16:01:06.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 entry requirements for entry to Bulgaria and Bulgaria\u2019s vaccination programme ('Entry requirements' and \u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2022-01-06T16:30:30.000Z"
+                },
+                {
+                    "note": "Updated information  on vaccination and certification requirements in response to coronavirus (See 'Entry requirements' page)",
+                    "public_timestamp": "2022-01-06T19:30:17.000Z"
+                },
+                {
+                    "note": "Clarification on entry requirements in response to coronavirus (See 'Entry requirements' page)",
+                    "public_timestamp": "2022-01-07T15:13:22.000Z"
+                },
+                {
+                    "note": "Change to coronavirus entry requirements for children aged 12-18 years from 19 January; detail on how to prove a previous infection; and information on reduced self-isolation periods (See \u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages) ",
+                    "public_timestamp": "2022-01-15T13:17:07.000Z"
+                },
+                {
+                    "note": "Changes to entry requirements from 1 February and domestic restrictions in Sofia.  (See \u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2022-01-29T18:21:57.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Bulgaria ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-02T13:14:57.000Z"
+                },
+                {
+                    "note": "Changes to domestic requirements for access to public areas ('Coronavirus' page)",
+                    "public_timestamp": "2022-03-24T14:44:28.000Z"
+                },
+                {
+                    "note": "Restrictions updated on 1 April due to the end of the \u2018Epidemic Emergency\u2019 ('Coronavirus', 'Safety and security' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-04-04T15:06:10.000Z"
+                },
+                {
+                    "note": "End of COVID entry rules from 1 May 2022 ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-04-29T21:46:23.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:17:55.000Z"
+                },
+                {
+                    "note": "Updated information on face mask requirements in Sofia ('Coronavirus' page)",
+                    "public_timestamp": "2022-08-03T15:26:29.000Z"
+                },
+                {
+                    "note": "Updated information on face mask requirements ('Coronavirus' page).",
+                    "public_timestamp": "2022-08-11T14:55:56.000Z"
+                },
+                {
+                    "note": "Updated information on reduced COVID-19 isolation period from 10 days to 7 days if you have tested positive and from 7 days to 5 days if you have been in close contact with someone who has tested positive for COVID-19 ('Coronavirus' page).",
+                    "public_timestamp": "2022-08-18T15:32:19.000Z"
+                },
+                {
+                    "note": "Updated information on extension of COVID regulations until 31 August and that the requirement to wear masks on public transport has now ended ('Coronavirus' page).",
+                    "public_timestamp": "2022-08-26T16:09:37.000Z"
+                },
+                {
+                    "note": "Updated information on the continuation of COVID-19 regulations in Bulgaria ('Coronavirus' page).",
+                    "public_timestamp": "2022-09-08T13:39:40.000Z"
+                },
+                {
+                    "note": "Updated information on the COVID-19 regulations in Bulgaria ('Coronavirus' page).",
+                    "public_timestamp": "2022-11-30T11:09:50.000Z"
+                },
+                {
+                    "note": "\r\nInformation about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:31:54.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. ",
+                    "public_timestamp": "2023-09-06T15:27:57.000Z"
+                }
+            ],
+            "country": {
+                "name": "Bulgaria",
+                "slug": "bulgaria",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/bulgaria/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/bulgaria/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Bulgaria set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, <a rel=\"external\" href=\"http://bulgarianembassy-london.org\">contact the Bulgarian Embassy in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Bulgaria.</p>\n\n<h3 id=\"testing-positive-and-self-isolation\">Testing positive and self-isolation</h3>\n\n<p>If you test positive for COVID-19, you will be required by law to self-isolate for 7 days from the date of the laboratory test result.</p>\n\n<p>You must also isolate for 5 days if you have been in close contact with someone who has tested positive for COVID-19 (starting from the date of last contact with the infected person) unless you are fully vaccinated or have received a booster dose in the last 90 days.</p>\n\n<p>You should not leave your place of isolation.</p>\n\n<p>Check <a rel=\"external\" href=\"https://coronavirus.bg/\">COVID-19 information from the Bulgarian government</a> (in Bulgarian).</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>Although Bulgaria is not yet part of the Schengen area, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a> to travel there.</p>\n\n<p>To enter Bulgaria (and all Schengen countries) your passport must:</p>\n\n<ul>\n  <li>\n    <p>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports issued after 1 October 2018 are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</p>\n  </li>\n  <li>\n    <p>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</p>\n  </li>\n</ul>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document, or try to use a passport that has been reported lost or stolen.</p>\n\n<h2 id=\"checks-at-border-control\">Checks at border control</h2>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped.</p>\n</div>\n\n<p>If you\u2019re a visitor, your passport may be stamped when you enter and leave Bulgaria. Border guards will use passport stamps to check you have not overstayed the <a href=\"https://www.gov.uk/travel-to-eu-schengen-area#:~:text=You%20do%20not%20need%20a,or%20for%20certain%20other%20reasons\">90-day visa-free limit</a> for stays in Bulgaria. If your passport was not stamped, border guards will presume you have overstayed the visa-free limit.</p>\n\n<p>If your passport was not stamped, show evidence of when and where you entered or left Bulgaria (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.</p>\n\n<p>Read about <a href=\"https://www.gov.uk/guidance/living-in-bulgaria\">passport stamping if you live in Bulgaria</a>.</p>\n\n<p>At Bulgarian border control, you may also need to:</p>\n\n<ul>\n  <li>\n    <p>show proof of your accommodation, for example, a hotel booking confirmation or proof of address for a second home</p>\n  </li>\n  <li>show proof of <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">your travel insurance</a>\n</li>\n  <li>show a return or onward ticket</li>\n  <li>prove that you have enough money for your stay \u2013 the amount varies depending on your accommodation</li>\n</ul>\n\n<p>If you have a <a href=\"https://www.gov.uk/guidance/living-in-europe#residence-documents-and-status\">Withdrawal Agreement residence document</a> for another country, your passport might still be stamped if you are a visitor to Bulgaria.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>Bulgaria is not part of the Schengen area. Visits to Bulgaria do not count towards your 90-day visa-free limit in the Schengen area.</p>\n\n<p>You can travel to Bulgaria for up to 90 days in any 180-day period without a visa. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit family or friends</li>\n  <li>\n    <p>to attend business meetings cultural or sports events</p>\n  </li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>If you\u2019re travelling to Bulgaria without a visa, make sure your whole visit is within the 90-day limit. Visits in the 180 days before you travel count towards your 90 days.</p>\n\n<p>To stay longer (to work or study, for business travel or for other reasons), you must meet the Bulgarian government\u2019s entry requirements. Check which type of visa or work permit you need with the <a rel=\"external\" href=\"http://bulgarianembassy-london.org/\">Bulgarian Embassy</a>.</p>\n\n<p>If you stay in Bulgaria with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/36/bulgaria\">check the vaccinations and certificates you need in TravelHealthPro\u2019s Bulgaria guide</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://customs.bg/wps/portal/agency-en/home/info-citizens/Important%20notice%20for%20travelers\">goods you can take into or out of Bulgaria</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h3 id=\"taking-food-and-drink-into-the-eu\">Taking food and drink into the EU</h3>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food. <a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a> on the European Commission website.</p>\n\n<h2 id=\"taking-money-into-bulgaria\">Taking money into Bulgaria</h2>\n\n<p>Only exchange money at licensed exchange points, banks or hotels.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u202fterrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-bulgaria\">Terrorism in Bulgaria</h3>\n\n<p>Terrorist attacks in Bulgaria can\u2019t be ruled out. Attacks could be indiscriminate, including in places visited by foreigners.</p>\n\n<p>On 30 December 2016, the Bulgarian Minister of Interior,  announced heightened security measures in all cities, winter ski resorts, and places where large gatherings are expected.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Take sensible precautions to protect yourself from street crime, particularly in larger cities and late at night. Watch out for pickpockets and bag thefts in tourist areas, on buses and trains and major public transport hubs, including airports.</p>\n\n<p>Tourists are targeted by thieves and pickpockets in Sunny Beach and other larger cities and resorts. Do not take valuables to the beach and be wary of poorly lit roads around the resort at night. Thefts on the bus from Nessebar to Sunny Beach have increased.</p>\n\n<h3 id=\"scams\">Scams</h3>\n\n<p>Some tourists have been the victims of overcharging in so-called \u2018gentlemen\u2019s clubs\u2019 in Sofia and in some resorts including Bansko, Borovets and Sunny Beach. Overcharging can amount to hundreds of pounds. Victims can be threatened with violence if they refuse to pay. Seek recommendations for bars and clubs from trustworthy sources like your hotel or other holidaymakers. When paying by credit or debit card make sure the transaction is completed in your presence and be wary of attempts to make you re-enter your pin number.</p>\n\n<h3 id=\"buying-property-in-bulgaria\">Buying property in Bulgaria</h3>\n\n<p>Buyers have been defrauded while buying property. Be cautious and get comprehensive legal advice before you buy. Only deal with established and reputable real estate agents or with other contacts who you know to be reliable and genuine.</p>\n\n<p>If you\u2019re living in or moving to Bulgaria, see <a href=\"https://www.gov.uk/guidance/living-in-bulgaria\">living in Bulgaria</a>.</p>\n\n<h3 id=\"hotels-and-accommodation\">Hotels and accommodation</h3>\n\n<p>There have been burglaries from hotel rooms in Sunny Beach. Make sure you lock your room (including windows and balcony doors) and keep valuables locked in a safe.</p>\n\n<p>There have been break-ins at properties in the residential areas of cities, and rural areas.</p>\n\n<h3 id=\"vehicle-crime\">Vehicle crime</h3>\n\n<p>Distraction theft can occur, with car tyres being deliberately punctured. When drivers investigate the puncture, thieves can distract them and steal personal belongings and documents from the vehicle. If you must stop, make sure your belongings are secure.</p>\n\n<h3 id=\"stray-dogs\">Stray dogs</h3>\n\n<p>Stray dogs are common and can be dangerous.\u202fAvoid getting too close to stray dogs, especially if they are in a pack. Take any animal bites seriously and seek immediate medical advice as rabies and other animal-borne diseases are present in Bulgaria.</p>\n\n<h3 id=\"protests\">Protests</h3>\n\n<p>Sporadic protests occur across Bulgaria, which can cause occasional disruption with roadblocks and transport links. Avoid all protests and follow the advice of local authorities.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>It is a legal requirement to carry a form of ID or copy of the information pages of your passport at all times as proof of identity.</p>\n\n<h3 id=\"buying-items-illegal-in-the-uk\">Buying items illegal in the UK</h3>\n\n<p>It\u2019s possible to buy weapons in Bulgaria that <a href=\"https://www.gov.uk/import-controls-on-offensive-weapons\">are illegal in the UK</a>. Importing them could result in a prison sentence. For example, some shops in and around Burgas and Sunny Beach sell weapons like stun guns, torch stun guns, knives, pepper spray and CS gas.</p>\n\n<h3 id=\"illegal-drugs-and-sex-offences\">Illegal drugs and sex offences</h3>\n\n<p>The Bulgarian authorities treat all drug-related and sex offences very seriously. Prison sentences can be expected for any foreigners convicted of such offences.</p>\n\n<h3 id=\"drunken-and-disorderly-behaviour\">Drunken and disorderly behaviour</h3>\n\n<p>Offences relating to drunken, disorderly behaviour and hooliganism may be treated more seriously than in the UK.</p>\n\n<h3 id=\"using-cameras-and-binoculars-in-secure-areas\">Using cameras and binoculars in secure areas</h3>\n\n<p>Avoid taking photographs near potentially sensitive areas like military establishments. If in doubt, ask permission.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex relationships are not illegal, but public attitudes are less tolerant than in the UK and the LGBT+ community generally keeps a low profile.</p>\n\n<p>There are a few gay bars and clubs in Sofia. The city also holds the annual Sofia Pride. Sofia Pride is growing in popularity and was attended in recent years by over 10,000 people. However, it attracts some negative attention locally and is held with a heightened police presence and security measures. If you want to join the parade, read the organisers\u2019 <a rel=\"external\" href=\"http://en.sofiapride.org/terms-for-participation-and-safety-rules/\">Sofia Pride safety rules</a>. These also contain telephone numbers of local civil society organisations able to provide further advice on reporting of incidents of hate crime. In 2023, a small number of incidents of hate crime were directed at those attending events related to Sofia Pride, including visitors to Bulgaria. These mainly consisted of verbal abuse and vandalism.</p>\n\n<p>Attitudes outside Sofia tend to be more conservative. There have been isolated cases of hostility towards people perceived to be from LGBT+ communities reported in Burgas and Plovdiv. You can find local information on LGBT+ issues in Bulgaria on the website of the <a rel=\"external\" href=\"https://www.bghelsinki.org/en/themes/lgbti\">Bulgarian Helsinki Committee</a>.</p>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information for LGBT+ travellers</a> before you travel.</p>\n\n<h3 id=\"ban-on-face-covering\">Ban on face covering</h3>\n\n<p>Covering your face with garments (such as a burka or similar head covering) in public places, including government buildings, streets, parks, gardens, restaurants, shops and on public transport is illegal in Bulgaria. There is a fine for covering your face in public places.</p>\n\n<h2 id=\"accessibility\">Accessibility</h2>\n\n<p>The condition of pavements, including in the centres of big cities, can be very poor and care should be taken. Travellers with mobility difficulties may find it challenging to move around independently, including on public transport deemed to be accessible. Lifts to platforms and stations on the Sofia Metro system, are sometimes out of order. The Blue Badge Scheme operates in Bulgaria and there are often spaces reserved for badge holders in shopping centres and on-street parking locations in city-centres. Read our <a href=\"https://www.gov.uk/government/publications/disabled-travellers/disability-and-travel-abroad\">information for disabled travellers</a> before you travel.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you plan to drive in Bulgaria, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/bulgaria/\">RAC Bulgaria guide</a>.</p>\n\n<h3 id=\"licences-and-permits\">Licences and permits</h3>\n\n<p>If you enter Bulgaria in a private vehicle, you must have:</p>\n\n<ul>\n  <li>\n    <p>your driving licence</p>\n  </li>\n  <li>all original registration and ownership documents</li>\n  <li>evidence of insurance valid in Bulgaria</li>\n</ul>\n\n<p>If you hire a car, you must have the original contract document, stating that the vehicle can be brought into Bulgaria. Border officials will impound your vehicle if they are not satisfied that you own it or have permission to use it in Bulgaria.</p>\n\n<p>Vehicles that are registered outside the EU are considered to be \u2018temporarily imported\u2019 when driven inside Bulgaria. If they are stolen whilst in Bulgaria, the owners will be liable for import duty and related taxes. This includes cars which are registered in the UK, Channel Islands and the Isle of Man.</p>\n\n<p>If you live in Bulgaria, see <a href=\"https://www.gov.uk/guidance/living-in-bulgaria\">living in Bulgaria</a> for information on requirements for residents.</p>\n\n<h3 id=\"driving-a-british-car-abroad\">Driving a British car abroad</h3>\n\n<p>You may need a UK sticker to drive your car outside the UK. These have replaced GB stickers. Check the <a href=\"https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers\">GOV.UK guidance on displaying number plates </a> for more information on driving outside the UK.</p>\n\n<h3 id=\"driving-standards\">Driving standards</h3>\n\n<p>Road conditions can be dangerous. Take care when driving, particularly at night and outside major cities. Many roads (and pavements) are in poor condition and road works are often unlit or unmarked. Driving standards are generally poor, and drivers can be aggressive, particularly on motorways. Avoid confrontations. Stick to the speed limit and make sure your vehicle is roadworthy. There are on-the-spot fines for minor violations. It is not unusual to encounter slow-moving cars and animal-drawn vehicles on the roads, particularly in rural areas.</p>\n\n<h3 id=\"driving-regulations\">Driving regulations</h3>\n\n<p>If you want to use motorways and main roads outside towns, you\u2019ll need to buy a vignette (ticket) in advance of your journey. The vignette is a form of toll. If you use the roads without purchasing a vignette, you will be fined. For more information on cost and where to buy a vignette, visit the <a rel=\"external\" href=\"https://www.tolltickets.com/en/country/bulgarien/\">BG Toll website</a>. You must drive with running lights or dipped beam headlights throughout the year, even during the daytime. For rules on what equipment you must carry in the vehicle, see the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/bulgaria/\">RAC Bulgaria guide</a>.</p>\n\n<h3 id=\"taxis\">Taxis</h3>\n\n<p>Taxis may not be in very good condition. Most taxis are on a meter and yellow taxis are generally considered reliable. Avoid taxis parked outside hotels or in tourist areas. Ask your hotel to call a taxi or flag down a passing taxi with a green \u2018available\u2019 light in the window. Check the licence sticker and the tariffs on the window before getting in as cost can vary considerably.</p>\n\n<p>There are regular reports of robberies and threatening behavior by taxi drivers in Sunny Beach. Use a taxi recommended by your tour operator or accommodation provider.</p>\n\n<p>There has been an increase in unlicensed taxis from Sofia airport overcharging passengers. If you\u2019re travelling from the airport, make sure you take an official, licensed taxi. There is an official taxi rank in the arrivals hall. Check that the taxi meter is working before starting your journey.</p>\n\n<h3 id=\"rail-and-bus-travel\">Rail and bus travel</h3>\n\n<p>Thieves operate on trains. Make sure that documents and valuables are safe. The train system is very poor by European standards. There have been several fires on Bulgarian trains. Bulgaria has a comprehensive rail network but trains can be cancelled at short notice and rail travel is slow by European standards. For travel updates see the <a rel=\"external\" href=\"https://www.bdz.bg/en\">Bulgaria Railways website</a>.</p>\n\n<p>Intercity bus travel is generally reliable and cheap by UK standards, but the roadworthiness of vehicles and driving standards are not always as they should be, and there have been a number of serious accidents in recent years.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"forest-fires\">Forest fires</h3>\n\n<p>In summer and early autumn, Bulgaria is on a regular alert for wildfires. There is danger of large-scale and quick-spreading fires in forests and fields. Follow media reports and the advice of local authorities if wildfires occur in your area.</p>\n\n<h3 id=\"flooding\">Flooding</h3>\n\n<p>Many parts of Bulgaria can flood following heavy rains. Flooding is usually localised but can occasionally be widespread and has caused deaths. Follow the weather forecast on the <a rel=\"external\" href=\"http://www.meteo.bg/en\">National Institute of Meteorology and Hydrology</a> website, which provides detailed information and severe weather warnings for Bulgaria.</p>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>There are earthquakes and small tremors throughout the year, usually without consequences. The last significant earthquakes were in 1928.</p>\n\n<p>To learn more about what to do before, during and after an earthquake, read the <a rel=\"external\" href=\"http://www.ready.gov/earthquakes\">US Federal Emergency Management Agency\u2019s earthquake advice</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/36/bulgaria\">vaccinations and health risks in TravelHealthPro\u2019s Bulgaria guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-bulgaria\">Healthcare facilities in Bulgaria</h2>\n\n<p>You can view a list of <a href=\"https://www.gov.uk/government/publications/bulgaria-list-of-medical-facilities\">English-speaking doctors in Bulgaria</a>.</p>\n\n<p>Facilities in most Bulgarian hospitals are basic and old-fashioned compared to those in the UK. Standards of medical care are generally good, but specialised equipment and treatment may not be available. Hospital staff rarely speak English.</p>\n\n<p>Private clinics and hospitals are generally well-equipped and not expensive in comparison with the UK. Some private hospitals will not accept the European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>) or Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>). Check with hospital administrators.</p>\n\n<p>Foreign tourists have sometimes been overcharged in private medical clinics in tourist resorts. If you use these services, agree a price in advance.</p>\n\n<h2 id=\"covid-19-healthcare-in-bulgaria\">COVID-19 healthcare in Bulgaria</h2>\n\n<p>The Bulgarian authorities have a <a rel=\"external\" href=\"https://coronavirus.bg/bg/937\">list of COVID-19 test centres</a> across Bulgaria (in Bulgarian).</p>\n\n<p>The <a rel=\"external\" href=\"https://coronavirus.bg/bg/\">Bulgarian Ministry of Health</a> has published COVID-19 information (in Bulgarian).</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>)</a> or <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>)</a> before leaving the UK. If you already have an <abbr title=\"European Health Insurance Card\">EHIC</abbr>, it will still be valid as long as it remains in date.</p>\n\n<p>The <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Bulgarian nationals. If you do not have your <abbr title=\"European Health Insurance Card\">EHIC</abbr> with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> is not an alternative to travel insurance and you should have both before you travel. An <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Global Health Insurance Card\">GHIC</abbr> and <abbr title=\"European Health Insurance Card\">EHIC</abbr> cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-bulgaria\">Emergency services in Bulgaria</h2>\n\n<p>Telephone: 112 (ambulance, fire, police)</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Bulgaria&amp;serviceType=lawyers\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Bulgaria&amp;serviceType=funeralDirectors\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Bulgaria&amp;serviceType=translatorsInterpreters\">translators and interpreters</a> in Bulgaria</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-bulgaria\">death in Bulgaria</a>\n</li>\n  <li>\n    <p>being <a href=\"https://www.gov.uk/government/publications/bulgaria-prisoner-pack/information-pack-for-british-nationals-detained-or-imprisoned-in-bulgaria\">arrested in Bulgaria</a></p>\n  </li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/bulgaria/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Bulgaria&amp;post=Bulgaria%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/embassies\">British embassy or consulate</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-bulgaria\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-09-06T15:27:57Z",
+            "updated_at": "2023-09-11T09:52:55Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-20T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/bulgaria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/bulgaria",
+                    "base_path": "/foreign-travel-advice/bulgaria",
+                    "content_id": "94aa06ba-2d58-4299-88ba-8861acc18729",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-06T15:27:57Z",
+                    "schema_name": "travel_advice",
+                    "title": "Bulgaria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/bulgaria",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/bulgaria",
+                    "api_url": "https://www.gov.uk/api/content/world/bulgaria",
+                    "base_path": "/world/bulgaria",
+                    "content_id": "d36f4ed0-ec3c-4828-ac30-9e069001cdca",
+                    "description": "Services if you're visiting, studying, working or living in Bulgaria. Includes information about trading with and doing business in the UK and Bulgaria, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Bulgaria",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T15:45:21Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Bulgaria",
+                    "web_url": "https://www.gov.uk/world/bulgaria",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/living-in-bulgaria",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-bulgaria",
+                    "base_path": "/guidance/living-in-bulgaria",
+                    "content_id": "5d8f0f7f-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-31T11:17:18Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Bulgaria",
+                    "web_url": "https://www.gov.uk/guidance/living-in-bulgaria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/croatia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/croatia",
+                    "base_path": "/foreign-travel-advice/croatia",
+                    "content_id": "f531e87f-78f5-4d67-9515-79c7cedbd5c4",
+                    "details": {
+                        "change_description": "Information on increased border controls between Croatia and Slovenia (\u2018Entry requirements\u2019 page).",
+                        "country": {
+                            "name": "Croatia",
+                            "slug": "croatia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-21T16:41:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Croatia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/croatia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/romania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/romania",
+                    "base_path": "/foreign-travel-advice/romania",
+                    "content_id": "ddf42429-0853-4737-b75d-2aeaf16b30a0",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Romania",
+                            "slug": "romania",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-22T14:33:42Z",
+                    "schema_name": "travel_advice",
+                    "title": "Romania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/romania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/turkey",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/turkey",
+                    "base_path": "/foreign-travel-advice/turkey",
+                    "content_id": "385d62b6-1fb3-4b29-80f3-cef2efa73cce",
+                    "details": {
+                        "change_description": "Removal of information about disruption to Turkish Airlines flights on 1 November.",
+                        "country": {
+                            "name": "Turkey",
+                            "slug": "turkey",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T15:12:12Z",
+                    "schema_name": "travel_advice",
+                    "title": "Turkey travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/turkey",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-bulgaria",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-bulgaria",
+                    "base_path": "/world/living-in-bulgaria",
+                    "content_id": "811cadfb-d5db-4cfa-b149-ebdb2ab835fa",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Bulgaria",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/bulgaria",
+                                "api_url": "https://www.gov.uk/api/content/world/bulgaria",
+                                "base_path": "/world/bulgaria",
+                                "content_id": "d36f4ed0-ec3c-4828-ac30-9e069001cdca",
+                                "description": "Services if you're visiting, studying, working or living in Bulgaria. Includes information about trading with and doing business in the UK and Bulgaria, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Bulgaria",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T15:45:21Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Bulgaria",
+                                "web_url": "https://www.gov.uk/world/bulgaria",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T16:45:07Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Bulgaria",
+                    "web_url": "https://www.gov.uk/world/living-in-bulgaria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-bulgaria",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-bulgaria",
+                    "base_path": "/world/travelling-to-bulgaria",
+                    "content_id": "4cc7fba4-842a-406a-8c30-e650a7c68b61",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Bulgaria",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/bulgaria",
+                                "api_url": "https://www.gov.uk/api/content/world/bulgaria",
+                                "base_path": "/world/bulgaria",
+                                "content_id": "d36f4ed0-ec3c-4828-ac30-9e069001cdca",
+                                "description": "Services if you're visiting, studying, working or living in Bulgaria. Includes information about trading with and doing business in the UK and Bulgaria, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Bulgaria",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T15:45:21Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Bulgaria",
+                                "web_url": "https://www.gov.uk/world/bulgaria",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:14:21Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Bulgaria",
+                    "web_url": "https://www.gov.uk/world/travelling-to-bulgaria",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-09-06T15:27:57Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1694425975.694-10.13.22.74-34690",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Bulgaria travel advice",
+        "updated_at": "2023-11-15T11:00:49Z",
+        "withdrawn_notice": {}
+    }
+}

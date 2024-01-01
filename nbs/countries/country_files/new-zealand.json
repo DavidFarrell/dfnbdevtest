@@ -1,0 +1,1008 @@
+{
+    "Country Slug": "new-zealand",
+    "Country Name": "New Zealand",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/new-zealand",
+        "content_id": "9221e19e-95ea-4045-bafa-1b22671e227c",
+        "description": "FCDO travel advice for New Zealand. Includes safety and security, insurance, entry requirements and legal differences.  ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-12-04T17:51:55.954Z"
+                },
+                {
+                    "note": "Latest Update: Summary - Due to an ongoing serious fire in the Nelson-Tasman region on 6 February\u00a02019,\u00a0a local civil defence emergency has been declared by the National Crisis Management Centre. If you're in the affected area, you should follow the advice of the Nelson Tasman Civil Defence.\r\n\r\n",
+                    "public_timestamp": "2019-02-05T22:14:52.990Z"
+                },
+                {
+                    "note": "Latest update: Summary - We are aware of reports of an incident at a mosque in Christchurch. British Nationals in the area are advised to follow the advice of local authorities.",
+                    "public_timestamp": "2019-03-15T02:12:15.485Z"
+                },
+                {
+                    "note": "Latest update: Summary - There has been a series of shootings in multiple locations in Christchurch. British Nationals in the area are advised to remain vigilant and follow the advice of local authorities. The British High Commission in Wellington is in contact with the New Zealand authorities and urgently seeking further information. ",
+                    "public_timestamp": "2019-03-15T04:35:02.873Z"
+                },
+                {
+                    "note": "Latest update: Summary - There has been a series of shootings in multiple locations in Christchurch; if you are in the area you are advised to remain vigilant and follow the advice of local authorities; the British High Commission in Wellington is in contact with the New Zealand authorities and urgently seeking further information; anyone worried that a British national may have been affected should call the New Zealand Police hotline: (+64) 0800 115 019 from within New Zealand or register with the Restoring Family Links (RFL) website from overseas",
+                    "public_timestamp": "2019-03-15T09:11:37.769Z"
+                },
+                {
+                    "note": "Latest update: Summary and Terrorism section \u2013 update to information on the shootings in Christchurch on 15 March 2019, removing contact details for police hotlines issued after the incident ",
+                    "public_timestamp": "2019-03-21T13:14:54.174Z"
+                },
+                {
+                    "note": "Summary and Safety & Security Road Travel Section: Due to extreme weather conditions a Civil Defence Emergency was declared on New Zealand\u2019s West Coast on 26 March 2019.  State Highway 6 is closed between Hokitika and Makarora.  Anyone considering travel to the West Coast should check the NZ Transport Agency (NZTA) website and the Civil Defence West Coast Facebook page.",
+                    "public_timestamp": "2019-03-26T23:34:40.461Z"
+                },
+                {
+                    "note": "Summary and Safety & Security Section - Due to extreme weather conditions a Civil Defence Emergency was declared on New Zealand\u2019s West Coast on 26 March 2019. State Highway 6 is down to one lane in many places  between Hokitika and Makarora and is closed by a bridge washout between Fox and Franz Josef. Anyone considering travel to the West Coast should check the NZ Transport Agency (NZTA) website and the Civil Defence West Coast Facebook page.",
+                    "public_timestamp": "2019-03-28T03:56:05.729Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Electronic Travel Authority (ETA)) - From 1 October 2019, British nationals travelling by air or cruise and entering New Zealand without a visa (tourists) will need to hold an ETA before travelling to New Zealand; you will be able to apply for an ETA from July 2019; Entry requirements section (International Visitor Conservation and Tourism Levy (IVL)) -  the IVL will be introduced alongside the ETA and will last as long as the ETA is valid",
+                    "public_timestamp": "2019-05-16T16:56:45.506Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on a current measles outbreak concentrated in Auckland; removal of information about road closures on State Highway 6 earlier in 2019",
+                    "public_timestamp": "2019-09-04T12:08:33.000Z"
+                },
+                {
+                    "note": "Entry requirements section (Visas) and summary - editorial amendments to information about the New Zealand Electronic Travel Authority (NZeTA)",
+                    "public_timestamp": "2019-10-04T09:23:47.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following the eruption of the Whakaari / White Island volcano on 9 December",
+                    "public_timestamp": "2019-12-09T12:44:22.000Z"
+                },
+                {
+                    "note": "Latest update: Summary and Health sections - updated information and advice following an outbreak of coronavirus in China and elsewhere in the region",
+                    "public_timestamp": "2020-01-26T23:46:44.000Z"
+                },
+                {
+                    "note": "Update to Entry Requirements and Health sections concerning travel restrictions relating to the coronavirus outbreak. ",
+                    "public_timestamp": "2020-02-03T01:48:25.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) following the first confirmed cases in the country ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-02-28T14:45:51.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) following the first confirmed cases in the country ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-14T10:41:23.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-19T08:02:10.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) ('Summary', \u2018Entry Requirements\u2019 and \u2018Health\u2019 pages)",
+                    "public_timestamp": "2020-03-20T21:57:45.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) ('Summary', \u2018Entry Requirements\u2019 and \u2018Health\u2019 pages)",
+                    "public_timestamp": "2020-03-22T11:35:06.000Z"
+                },
+                {
+                    "note": "The New Zealand Government has announced, with strict health and onward flight criteria, the ability for travellers to transit NZ; this ability to transit may change at short notice and is only available for a short period.  More information on this is available from Immigration New Zealand",
+                    "public_timestamp": "2020-03-22T13:15:17.000Z"
+                },
+                {
+                    "note": "New Zealand to move to Level 4 (highest level) of national COVID-19 Alert Level response from Wednesday. ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-23T17:27:51.000Z"
+                },
+                {
+                    "note": "New Zealand to move to Level 4 (highest level) of national COVID-19 Alert Level response from 2359 local time on 25 March 2020. ('Coronavirus' page).  Register your current situation in New Zealand (\u2018Summary\u2019, 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-24T13:35:58.000Z"
+                },
+                {
+                    "note": "Update of information on local measures introduced to combat the spread of Coronavirus (COVID-19 and addition of information on obtaining prescriptions (Coronavirus and \u2018Health\u2019 pages).",
+                    "public_timestamp": "2020-03-26T17:13:26.000Z"
+                },
+                {
+                    "note": "Further restrictions placed on domestic travel to connect with an international flight.  (\u2018Summary\u2019, 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-27T19:40:14.000Z"
+                },
+                {
+                    "note": "Latest update: Further restrictions placed on domestic travel to connect with an international flight. (\u2018Summary\u2019, 'Coronavirus' and 'Return to the UK' pages).",
+                    "public_timestamp": "2020-04-01T22:33:47.000Z"
+                },
+                {
+                    "note": "Restrictions on domestic travel lifted for those connecting to an international flight. ('Return to the UK' page).",
+                    "public_timestamp": "2020-04-02T05:37:02.000Z"
+                },
+                {
+                    "note": "Updated information on the availability of flight options to the UK from New Zealand. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-03T14:13:34.000Z"
+                },
+                {
+                    "note": "Addition of information about options for paying for return flights to the UK ('Return to the UK' pages)",
+                    "public_timestamp": "2020-04-07T18:02:38.000Z"
+                },
+                {
+                    "note": "Updated information on transit and self-isolation requirements on arrival. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-09T10:02:30.000Z"
+                },
+                {
+                    "note": "Updated information on border closures and exceptions, transit (\u2018Summary\u2019, 'Coronavirus', and \u2018Entry Requirements\u2019 page)",
+                    "public_timestamp": "2020-04-14T12:40:13.000Z"
+                },
+                {
+                    "note": "Addition of information on UK special charter flights from Auckland and Christchurch (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-19T20:48:09.000Z"
+                },
+                {
+                    "note": "Addition of information on UK special charter flights from Auckland and Christchurch, and move to Level 3 restrictions ('Coronavirus' and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-04-22T05:42:04.000Z"
+                },
+                {
+                    "note": "Addition of information on flights and remaining in New Zealand ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-25T07:35:27.000Z"
+                },
+                {
+                    "note": "Addition of information on change of national alert level and access to health information ('Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-04-27T12:44:59.000Z"
+                },
+                {
+                    "note": "Addition of information on extra charter flights and remaining commercial routes ('Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-30T01:57:50.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-05T09:18:27.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information on flights (Return to the UK' page)\r\n",
+                    "public_timestamp": "2020-05-08T06:16:48.000Z"
+                },
+                {
+                    "note": "Updated information on domestic measures in place in New Zealand in response to Covid-19 ('Staying during Coronavirus\u2019; \u2018Return to the UK pages) ",
+                    "public_timestamp": "2020-05-11T07:32:21.000Z"
+                },
+                {
+                    "note": "Update to information and advice on consular assistance ('Summary' page), UK charter flights, lifting of the State of National Emergency and COVID-19 level alert moving to level 2 ('Return to the UK' and 'Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-14T15:30:00.000Z"
+                },
+                {
+                    "note": "Factual update on transiting via the USA on commercial routes from New Zealand to the UK.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-20T13:10:30.000Z"
+                },
+                {
+                    "note": "Update to information on flights ('Return to the UK' page) information and advice on consular assistance ('Summary' and \u2018Staying during Coronavirus\u2019 pages) and onward travel to the Cooks Islands (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2020-05-22T10:58:49.000Z"
+                },
+                {
+                    "note": "Update on changes to travel exemption requirements through Australia ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-26T16:03:28.000Z"
+                },
+                {
+                    "note": "Update on domestic restrictions in response to COVID-19 ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-27T11:26:07.000Z"
+                },
+                {
+                    "note": "Addition of information on Qatar Air and Air New Zealand code-share flights (\u2019Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-05-28T16:26:07.000Z"
+                },
+                {
+                    "note": "Updated information about flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-02T15:08:26.000Z"
+                },
+                {
+                    "note": "Updated information on domestic COVID-19 measures and border measures ('Staying during coronavirus and \u2018Entry Requirements\u2019 pages)",
+                    "public_timestamp": "2020-06-03T16:17:52.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:41:35.000Z"
+                },
+                {
+                    "note": "Updated information on domestic COVID-19 measures. ('Staying during coronavirus)",
+                    "public_timestamp": "2020-06-08T16:25:56.000Z"
+                },
+                {
+                    "note": "Updated information on flights to the UK. (\u2019Return to the UK\u2019)",
+                    "public_timestamp": "2020-06-11T05:41:29.000Z"
+                },
+                {
+                    "note": "Information on changes to certain entry requirements for New Zealand and the Cook Islands (\u2018Entry requirements\u2019).",
+                    "public_timestamp": "2020-06-12T05:50:02.000Z"
+                },
+                {
+                    "note": "Latest update: Information on changes to healthcare for temporary visitors (\u2018Staying during coronavirus\u2019).\r\n",
+                    "public_timestamp": "2020-06-16T05:21:47.000Z"
+                },
+                {
+                    "note": "Update to information on changes to support for British nationals in New Zealand (\u2018Staying during coronavirus\u2019 page) and exemptions to border closure (\u2018Entry Requirements\u2019 page) ",
+                    "public_timestamp": "2020-06-18T16:14:28.000Z"
+                },
+                {
+                    "note": "Update to information on transiting New Zealand and other border measures (\u2018Entry Requirements\u2019 page)",
+                    "public_timestamp": "2020-06-24T15:36:16.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.  Update to information on the New Zealand government's Programme for Assistance for Foreign Nationals Impacted by COVID-19 ('Coronavirus' page). ",
+                    "public_timestamp": "2020-07-02T11:11:12.000Z"
+                },
+                {
+                    "note": "From 4 July, New Zealand is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:13:18.000Z"
+                },
+                {
+                    "note": "Latest update: Update to quarantine exemptions (see \u2018Entry Requirements\u2019).\r\n\r\n",
+                    "public_timestamp": "2020-07-22T04:46:13.000Z"
+                },
+                {
+                    "note": "From 24 July, the Cook Islands is exempt from the FCO advice against all non-essential international travel.  This is based on the current assessment of COVID-19 risks   ",
+                    "public_timestamp": "2020-07-24T09:52:49.000Z"
+                },
+                {
+                    "note": "From 1 August 2020, pre-departure Coronavirus testing will be mandatory for flights with Emirates and Etihad airlines.  New legislation that proposes changes to managed isolation for New Zealanders ('Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-07-29T19:01:53.000Z"
+                },
+                {
+                    "note": "Updated information following publication of a separate travel advice page for the Cook Islands, Tokelau and Niue",
+                    "public_timestamp": "2020-07-30T17:15:57.000Z"
+                },
+                {
+                    "note": "Addition of information on acceptance of negative test results ('Coronavirus' page) ",
+                    "public_timestamp": "2020-08-07T15:39:37.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on the introduction of lockdown measures (Alert Level 3) in Auckland from 12 August and movement of the rest of New Zealand to level 2 measures following cases of coronavirus (COVID-19) ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-11T14:33:29.000Z"
+                },
+                {
+                    "note": "Updated information on travel within New Zealand and confirmation that travellers are still able to join international flights from Auckland ('Coronavirus' page).",
+                    "public_timestamp": "2020-08-12T13:30:04.000Z"
+                },
+                {
+                    "note": "Update to information on domestic restrictions in Auckland and the rest of New Zealand ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-24T08:24:12.000Z"
+                },
+                {
+                    "note": "Update to information on mandatory face coverings in New Zealand ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-28T04:37:08.000Z"
+                },
+                {
+                    "note": "Update on domestic restrictions in New Zealand ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-01T07:50:32.000Z"
+                },
+                {
+                    "note": "Updated information on Alert Level changes \r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-09-21T16:25:01.000Z"
+                },
+                {
+                    "note": "New information on road deaths in New Zealand in 2019 (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2020-10-05T11:25:42.000Z"
+                },
+                {
+                    "note": "Alert level for Auckland to be raised to Alert Level 1 from 7 October.  Before travelling to New Zealand, there is a requirement to register to secure place in a managed isolation facility ('Coronavirus' and 'Entry requirements' pages).  ",
+                    "public_timestamp": "2020-10-05T17:07:21.000Z"
+                },
+                {
+                    "note": "Minor editorial amendments to the 'Coronavirus' page.",
+                    "public_timestamp": "2020-10-08T16:18:23.000Z"
+                },
+                {
+                    "note": "Updated information on local coronavirus restrictions, managed isolation and the government's 'Programme for Assistance for Foreign Nationals Impact by COVID-19'. Additional information on the classification of products containing codeine ('Coronavirus' 'Health' and 'Entry requirements pages)",
+                    "public_timestamp": "2020-11-20T17:04:39.000Z"
+                },
+                {
+                    "note": "Addition of information regarding leaving NZ and transit hubs, update on information regarding visa extensions ('Entry requirements')",
+                    "public_timestamp": "2020-12-23T05:13:13.000Z"
+                },
+                {
+                    "note": "Addition of information regarding extra testing if arriving from the UK and USA. Update to the Covid-19 pre-departure testing requirements by airlines for passengers leaving New Zealand.",
+                    "public_timestamp": "2020-12-29T11:07:09.000Z"
+                },
+                {
+                    "note": "Addition of information regarding pre-departure testing, required from 15 January, if arriving from the UK or USA ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2021-01-03T00:10:04.000Z"
+                },
+                {
+                    "note": "Additional information on the requirement to have evidence of a negative COVID-19 test result up to 72 hours prior to departure ('Summary', 'Coronavirus' and 'Entry requirements' page)",
+                    "public_timestamp": "2021-01-13T15:21:44.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from New Zealand on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T01:24:06.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements due to Coronavirus ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-22T16:19:38.000Z"
+                },
+                {
+                    "note": "Updated information on other specific country and airline restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-27T10:52:11.000Z"
+                },
+                {
+                    "note": "Updated information on change of alert levels and COVID-19 vaccination options ('Coronavirus', 'Travel in New Zealand' and 'Healthcare in New Zealand' pages)  ",
+                    "public_timestamp": "2021-02-14T12:02:00.000Z"
+                },
+                {
+                    "note": "Updated information on change of alert levels, visa extension and COVID-19 vaccination options (See 'Coronavirus')",
+                    "public_timestamp": "2021-02-19T18:08:43.000Z"
+                },
+                {
+                    "note": "Updated information on change of alert levels ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-23T13:31:12.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in New Zealand (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-26T11:29:11.000Z"
+                },
+                {
+                    "note": "Update to COVID-19 Alert Levels and Travel in New Zealand ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-27T21:47:21.000Z"
+                },
+                {
+                    "note": "Update to COVID-19 Alert Levels and Travel in New Zealand ('Coronavirus' page). ",
+                    "public_timestamp": "2021-03-06T17:09:45.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions; the whole of New Zealand is under COVID-19 Level 1 restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-12T16:12:45.000Z"
+                },
+                {
+                    "note": "Updated information on the temporary suspension of all travel from India.  Updated information on quarantine-free travel from Australia. ('Entry requirements' page) ",
+                    "public_timestamp": "2021-04-09T16:33:58.000Z"
+                },
+                {
+                    "note": "Updated information on the restrictions for travel to New Zealand from very high risk countries ('Entry requirements' page)",
+                    "public_timestamp": "2021-04-30T10:01:17.000Z"
+                },
+                {
+                    "note": "Updated information on the quarantine free travel between New Zealand and the Cook Islands ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-14T14:59:52.000Z"
+                },
+                {
+                    "note": "Updated information on pre-departure testing for travellers from Australia; different restrictions for travellers that have been in the State of Victoria since 7:59pm on 25 May 2021 ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-28T10:42:04.000Z"
+                },
+                {
+                    "note": "Update to COVID-19 Alert Levels, and travel between New Zealand and Australia. This travel advice page covers New Zealand. For the Cook Islands, Tokelau and Niue, see our new travel advice page for Cook Islands, Tokelau and Niue.",
+                    "public_timestamp": "2021-06-23T16:04:22.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 Alert Levels, and travel between New Zealand and Australia ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-06-30T16:05:44.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in New Zealand (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-08-12T14:06:37.000Z"
+                },
+                {
+                    "note": "New information on New Zealand Government requirements for vaccinations for non-citizens entering the country and reduction of time spent in MIQ followed by newly introduced home isolation ( 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-10-29T23:21:30.000Z"
+                },
+                {
+                    "note": "Addition of information on New Zealand\u2019s border settings and COVID-19 Protection Framework. Updated information on pre-departure COVID-19 testing for entry to New Zealand, vaccination and testing evidence for domestic travel in New Zealand and the international vaccination certificate ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-13T17:17:12.000Z"
+                },
+                {
+                    "note": "Updated information on New Zealand\u2019s border settings. Updated information on pre-departure COVID-19 testing for entry to New Zealand, vaccination and quarantine requirements ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-01-07T10:49:41.000Z"
+                },
+                {
+                    "note": "Full review of New Zealand's 'Entry requirements' page",
+                    "public_timestamp": "2022-02-11T10:38:39.000Z"
+                },
+                {
+                    "note": "Updated information on removal of self-isolation requirements on arrival and information on travel to the Cook Islands ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-03-16T18:56:31.000Z"
+                },
+                {
+                    "note": "Updated information on New Zealand's national vaccination programme ('Coronavirus' page)",
+                    "public_timestamp": "2022-03-17T10:58:18.000Z"
+                },
+                {
+                    "note": "Updated information about New Zealand\u2019s COVID-19 domestic restrictions and new requirements to complete the Travel Declaration for entry into New Zealand (\u2018Coronavirus\u2019 page and \u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-04-13T15:51:21.000Z"
+                },
+                {
+                    "note": "Updated information on the re-opening of New Zealand\u2019s borders (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-05-04T10:36:18.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of the requirement to provide evidence of a negative pre-departure COVID-19 test to enter New Zealand (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-06-29T09:36:28.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of the COVID-19 Protection Framework, also known as the traffic light system (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages).  ",
+                    "public_timestamp": "2022-09-20T10:25:16.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of the COVID-19 Protection Framework, also known as the traffic light system (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages).  ",
+                    "public_timestamp": "2022-09-20T10:25:16.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of the COVID-19 Protection Framework, also known as the traffic light system ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2022-09-20T16:30:51.000Z"
+                },
+                {
+                    "note": "Updated information on the removal of New Zealand Traveller Declaration form requirement (\u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2022-10-21T15:59:35.000Z"
+                },
+                {
+                    "note": "Updated information on NZeTA fees ('Entry requirements' page)",
+                    "public_timestamp": "2022-11-17T11:30:38.000Z"
+                },
+                {
+                    "note": "Updated information following a State of Emergency being declared in Auckland due to widespread flooding (\"Summary\").",
+                    "public_timestamp": "2023-01-28T04:09:04.000Z"
+                },
+                {
+                    "note": "Updated information on Tropical Cyclone Gabrielle ('Summary' page).",
+                    "public_timestamp": "2023-02-10T13:45:01.000Z"
+                },
+                {
+                    "note": "Updated information on ex-tropical cyclone Gabrielle ('Summary' page).",
+                    "public_timestamp": "2023-02-14T16:26:21.000Z"
+                },
+                {
+                    "note": "Updated information on areas affected by Cyclone Gabrielle and states of emergency ('Summary' page).",
+                    "public_timestamp": "2023-03-03T16:02:20.000Z"
+                },
+                {
+                    "note": "Removal of information about Cycle Gabrielle ('Summary' page).",
+                    "public_timestamp": "2023-03-17T14:08:31.000Z"
+                },
+                {
+                    "note": "Removal of information about Cyclone Gabrielle ('Summary' page).",
+                    "public_timestamp": "2023-03-17T14:10:40.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T08:03:14.000Z"
+                },
+                {
+                    "note": "Information on the Women's World Cup 2023 ('Summary' page).",
+                    "public_timestamp": "2023-07-17T14:53:03.000Z"
+                },
+                {
+                    "note": "Removal of information on the Women's World Cup 2023 ('Summary' page).",
+                    "public_timestamp": "2023-08-21T10:34:42.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-10-03T11:48:31.000Z"
+                }
+            ],
+            "country": {
+                "name": "New Zealand",
+                "slug": "new-zealand",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/new-zealand/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div class=\"example\">\n<p>This travel advice page covers New Zealand. See separate <a href=\"/foreign-travel-advice/cook-islands-tokelau-and-niue\">travel advice for Cook Islands, Tokelau and Niue</a>.</p>\n</div>\n\n<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/new-zealand/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in New Zealand set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://www.mfat.govt.nz/en/countries-and-regions/europe/united-kingdom/new-zealand-high-commission/\">New Zealand High Commission in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering New Zealand.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To enter New Zealand, your passport must have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave. If you\u2019re travelling through another country on your way to or from New Zealand, check the entry requirements for that country. Many countries will only allow entry if you have at least 6 months validity remaining on your passport. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You do not need a visa to enter New Zealand if you are a visitor staying less than 6 months. You do need a New Zealand Electronic Travel Authority (<abbr title=\"New Zealand Electronic Travel Authority\">NZeTA</abbr>).</p>\n\n<p>At New Zealand border control, you will also need to show that you meet the criteria for visa-free entry:</p>\n\n<ul>\n  <li>proof of a return or onward ticket</li>\n  <li>proof that you have enough money for your stay</li>\n</ul>\n\n<p>Check the full criteria on <a rel=\"external\" href=\"https://www.immigration.govt.nz/new-zealand-visas/visas/visa/visa-waiver\">New Zealand Immigration</a>.</p>\n\n<p>New Zealand has strict immigration rules, particularly on employment. Visitors cannot work in New Zealand.</p>\n\n<h3 id=\"new-zealand-electronic-travel-authority-nzeta\">New Zealand Electronic Travel Authority (<abbr title=\"New Zealand Electronic Travel Authority\">NZeTA</abbr>)</h3>\n\n<p>If you are entering without a visa, you need a <a rel=\"external\" href=\"https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta\">New Zealand Electronic Travel Authority (<abbr title=\"New Zealand Electronic Travel Authority\">NZeTA</abbr>)</a> before you travel. You will also need to pay an <a rel=\"external\" href=\"https://www.immigration.govt.nz/new-zealand-visas/preparing-a-visa-application/your-journey-to-new-zealand/before-you-travel-to-new-zealand/paying-ivl\">International Visitor Conservation and Tourism Levy</a> when you apply.</p>\n\n<p>Allow up to 72 hours for it to be processed. Your <abbr title=\"New Zealand Electronic Travel Authority\">NZeTA</abbr> is valid for up to 2 years.</p>\n\n<h3 id=\"applying-for-a-visa\">Applying for a visa</h3>\n\n<p>Check the visa options and costs on <a rel=\"external\" href=\"https://www.immigration.govt.nz/new-zealand-visas\">New Zealand Immigration</a>.</p>\n\n<p>To extend your visa, first check your visa expiry date on the New Zealand <a rel=\"external\" href=\"https://www.immigration.govt.nz/about-us/our-online-systems/visa-verification-service\">Visa Verification Service</a>. See further information from New Zealand Immigration on <a rel=\"external\" href=\"https://www.immigration.govt.nz/new-zealand-visas/already-have-a-visa/my-situation-has-changed\">how to apply for a visa extension</a>.</p>\n\n<h3 id=\"travelling-through-new-zealand\">Travelling through New Zealand</h3>\n\n<p>You will need to get a <abbr title=\"New Zealand Electronic Travel Authority\">NZeTA</abbr> before you travel if you are travelling through New Zealand to another country.</p>\n\n<p>In most cases, transit passengers must hold an <a rel=\"external\" href=\"https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/nzeta\"><abbr title=\"New Zealand Electronic Travel Authority\">NZeTA</abbr> or transit <abbr title=\"New Zealand Electronic Travel Authority\">NZeTA</abbr></a> before travel.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the vaccinations and certificates you need in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/162/new-zealand\">TravelHealthPro\u2019s New Zealand guide</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about goods you can take into or out of New Zealand. It is illegal to import most food products. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<p>Some products, including wood products, golf clubs, footwear, tents, fishing equipment and items made from animal skin, can carry harmful pests or diseases. Check <a rel=\"external\" href=\"https://www.mpi.govt.nz/bring-send-to-nz/bringing-and-posting-items-to-nz/check-if-you-can-bring-or-send-an-item-to-nz/\">what items you are permitted to bring into New Zealand</a>. If in doubt, declare items to a Biosecurity New Zealand official or dispose of them in one of the marked bins available at the airport.</p>\n\n<p>If you break any of these rules you could get a fine of up to 100,000 New Zealand dollars or a prison sentence.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-new-zealand\">Terrorism in New Zealand</h3>\n\n<p>Terrorist attacks in New Zealand cannot be ruled out.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>Crime levels are generally low, but street crime happens in major towns and cities. Thieves may target unattended vehicles, especially hire cars and camper vans in major tourist areas (the Coromandel Peninsula, Rotorua and Queenstown), as well as hotel rooms. You should:</p>\n\n<ul>\n  <li>avoid leaving possessions in unattended vehicles even if out of sight</li>\n  <li>not leave valuables in hotel rooms</li>\n  <li>use the hotel safe if possible</li>\n  <li>keep passports, travellers cheques and credit cards separate</li>\n</ul>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Importing illegal drugs could result in a prison sentence of up to 12 years.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>New Zealand has an established tradition of tolerance towards same-sex relations, but there are still isolated incidents of homophobia-related crimes. LGBT+ travellers should be aware of local sensitivities, particularly when visiting rural areas. Read more <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<h3 id=\"extreme-sports\">Extreme sports</h3>\n\n<p>British nationals have been involved in tragic accidents while doing extreme sports activities. If you\u2019re taking part in extreme sports, check that:</p>\n\n<ul>\n  <li>the company is well established</li>\n  <li>your insurance covers you</li>\n</ul>\n\n<h3 id=\"visiting-remote-areas\">Visiting remote areas</h3>\n\n<p>If you are planning to visit a remote area, check with the local tourist authorities for advice before you leave. Register your details with a visitor information centre or leave details with family or friends. Weather conditions can quickly become dangerous in some coastal and exposed areas. Monitor regional weather forecasts.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in New Zealand, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"http://www.nzta.govt.nz/resources/roadcode/\">Road Code</a>.</p>\n\n<p>You can use a UK photocard driving licence\u00a0to drive in New Zealand for up to 12 months. You can <a href=\"https://www.gov.uk/exchange-paper-driving-licence\">exchange an old-style paper licence</a> if you need to.</p>\n\n<p>Highways can be narrow, winding and hilly. Car rental companies should provide you with information, or read <a rel=\"external\" href=\"https://www.nzta.govt.nz/safety/visiting-new-zealand/\">what\u2019s different about driving in New Zealand</a>.</p>\n\n<h3 id=\"motor-vehicle-insurance\">Motor vehicle insurance</h3>\n\n<p>You should get private motor vehicle insurance. Accident victims do not have a legal right to sue a third party in the event of an accident in New Zealand. The Accident Compensation Commission (<abbr title=\"Accident Compensation Commission\">ACC</abbr>) helps pay for your care if you\u2019re injured as a result of an accident. The <abbr title=\"Accident Compensation Commission\">ACC</abbr> only covers the cost of treatment in New Zealand but delayed travel or loss of income in a third country is not covered. Check you have adequate travel and accident insurance.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<p>Natural disasters can happen in New Zealand. If there is a disaster, follow the advice of the local authorities and the <a rel=\"external\" href=\"https://www.civildefence.govt.nz/\">National Emergency Management Agency</a>. For more information, see the government\u2019s <a rel=\"external\" href=\"https://getready.govt.nz/\">Get Ready</a> website.</p>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>New Zealand is in a major earthquake zone. Tsunamis can happen along the coastlines. You should:</p>\n\n<ul>\n  <li>familiarise yourself with safety procedures</li>\n  <li>take note of instructions in hotel rooms, public areas and on your local emergency services social media pages</li>\n  <li>monitor any warnings or updates from the <a rel=\"external\" href=\"https://www.civildefence.govt.nz/\">National Emergency Management Agency</a>\n</li>\n</ul>\n\n<p>For more information about what to do before, during and after an earthquake, see the New Zealand government\u2019s <a rel=\"external\" href=\"https://getready.govt.nz/en/emergency/earthquakes/\">Get Ready advice for earthquakes</a>.</p>\n\n<p>If there is a tsunami warning, the Local Civil Defence Emergency Management Groups will have tsunami evacuation zone maps and advice.</p>\n\n<h3 id=\"flooding\">Flooding</h3>\n\n<p>Flooding and landslides can happen, resulting in road closures and infrastructure damage.</p>\n\n<h3 id=\"volcanic-eruptions\">Volcanic eruptions</h3>\n\n<p>There are several active volcanoes on the North Island of New Zealand. Get local advice when visiting remote areas about where there might be volcanic activity.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Call 111 and ask for an ambulance.</p>\n\n<p>Contact your insurance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/162/new-zealand\">TravelHealthPro\u2019s New Zealand guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<p>You must declare any prescription medicines on your passenger arrival card. All products containing codeine are classified as prescription-only medication (a controlled drug). You can import controlled drugs for personal use, but you must declare them on arrival to the Customs Service and provide evidence that they are for personal use.</p>\n\n<p>See <a rel=\"external\" href=\"https://www.health.govt.nz/our-work/regulation-health-and-disability-system/medicines-control/bringing-medicines-new-zealand\">New Zealand Customs</a> for more information on restrictions on medication.</p>\n\n<h2 id=\"healthcare-facilities-in-new-zealand\">Healthcare facilities in New Zealand</h2>\n\n<p>British nationals who live in the UK and who are on a short-term visit to New Zealand are eligible for urgent healthcare treatment under the <a rel=\"external\" href=\"https://www.tewhatuora.govt.nz/our-health-system/eligibility-for-publicly-funded-health-services/reciprocal-health-agreements#summaries\">reciprocal health agreement with New Zealand</a>. This agreement does not extend to routine, non-emergency medical treatment including prescriptions.</p>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/new-zealand-list-of-medical-facilities-and-funeral-directors\">medical facilities in New Zealand</a>.</p>\n\n<p>There is also <a href=\"https://www.gov.uk/guidance/living-in-new-zealand\">guidance on healthcare if you\u2019re living in New Zealand</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-new-zealand\">COVID-19 healthcare in New Zealand</h2>\n\n<p>If you have COVID-19 symptoms, you can get health advice and information by calling Healthline (free) on 0800 358 5453. COVID-19 tests and treatment are free of charge.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-new-zealand\">Emergency services in New Zealand</h2>\n\n<p>Telephone: 111 (ambulance, fire, police)</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=New%20Zealand\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=New%20Zealand\">funeral directors</a>\u00a0and\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=New%20Zealand&amp;serviceType=translatorsInterpreters\">translators and interpreters</a>\u00a0in New Zealand</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/new-zealand-bereavement-pack-information\">death in New Zealand</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/new-zealand-prisoner-pack\">arrested or imprisoned in New Zealand</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/new-zealand/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=New%20Zealand&amp;post=New%20Zealand%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you\u2019re in New Zealand and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-high-commission-wellington\">British High Commission in Wellington</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-new-zealand\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-03T11:48:31Z",
+            "updated_at": "2023-10-03T11:48:31Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-18T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/new-zealand",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/new-zealand",
+                    "base_path": "/foreign-travel-advice/new-zealand",
+                    "content_id": "9221e19e-95ea-4045-bafa-1b22671e227c",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-03T11:48:31Z",
+                    "schema_name": "travel_advice",
+                    "title": "New Zealand travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/new-zealand",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/new-zealand",
+                    "api_url": "https://www.gov.uk/api/content/world/new-zealand",
+                    "base_path": "/world/new-zealand",
+                    "content_id": "69944043-ed79-4c8d-a604-799b2a1ab0b4",
+                    "description": "Services if you're visiting, studying, working or living in New Zealand. Includes information about trading with and doing business in the UK and New Zealand.",
+                    "details": {
+                        "internal_name": "UK help and services in New Zealand",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:09Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in New Zealand",
+                    "web_url": "https://www.gov.uk/world/new-zealand",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/australia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/australia",
+                    "base_path": "/foreign-travel-advice/australia",
+                    "content_id": "48baf826-7d71-4fea-a9c4-9730fd30eb9e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Australia",
+                            "slug": "australia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-10T09:51:43Z",
+                    "schema_name": "travel_advice",
+                    "title": "Australia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/australia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/living-in-new-zealand",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-new-zealand",
+                    "base_path": "/guidance/living-in-new-zealand",
+                    "content_id": "5ef3ea2a-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-03-28T08:36:41Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in New Zealand",
+                    "web_url": "https://www.gov.uk/guidance/living-in-new-zealand",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/singapore",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/singapore",
+                    "base_path": "/foreign-travel-advice/singapore",
+                    "content_id": "06ffd544-1097-41b1-90b6-b9a74f78669e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Singapore",
+                            "slug": "singapore",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-07T13:49:30Z",
+                    "schema_name": "travel_advice",
+                    "title": "Singapore travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/singapore",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/usa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/usa",
+                    "base_path": "/foreign-travel-advice/usa",
+                    "content_id": "f2cecaae-77ce-4df3-bf27-7783c3975706",
+                    "details": {
+                        "change_description": "Removal of information on an active shooter in Maine ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "USA",
+                            "slug": "usa",
+                            "synonyms": [
+                                "United States",
+                                "America",
+                                "Arctic",
+                                "Puerto Rico",
+                                "US Virgin Islands",
+                                "Florida",
+                                "Orlando",
+                                "American Samoa",
+                                "Guam",
+                                "Hawaii"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:23:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "USA travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/usa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/thailand",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/thailand",
+                    "base_path": "/foreign-travel-advice/thailand",
+                    "content_id": "724a37c1-2f81-40b2-8640-d3d06e74d2bb",
+                    "details": {
+                        "change_description": "Advice on avoiding protests following Thailand\u2019s general election ('Safety and security' page).",
+                        "country": {
+                            "name": "Thailand",
+                            "slug": "thailand",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-14T11:43:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "Thailand travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/thailand",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-new-zealand",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-new-zealand",
+                    "base_path": "/world/living-in-new-zealand",
+                    "content_id": "d6ddbc3e-635b-40c9-9903-580a6f0f8c90",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in New Zealand",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/new-zealand",
+                                "api_url": "https://www.gov.uk/api/content/world/new-zealand",
+                                "base_path": "/world/new-zealand",
+                                "content_id": "69944043-ed79-4c8d-a604-799b2a1ab0b4",
+                                "description": "Services if you're visiting, studying, working or living in New Zealand. Includes information about trading with and doing business in the UK and New Zealand.",
+                                "details": {
+                                    "internal_name": "UK help and services in New Zealand",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:09Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in New Zealand",
+                                "web_url": "https://www.gov.uk/world/new-zealand",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:09Z",
+                    "schema_name": "taxon",
+                    "title": "Living in New Zealand",
+                    "web_url": "https://www.gov.uk/world/living-in-new-zealand",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-new-zealand",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-new-zealand",
+                    "base_path": "/world/travelling-to-new-zealand",
+                    "content_id": "4670a8c3-a402-46c0-827f-408a3bddd66f",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to New Zealand",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/new-zealand",
+                                "api_url": "https://www.gov.uk/api/content/world/new-zealand",
+                                "base_path": "/world/new-zealand",
+                                "content_id": "69944043-ed79-4c8d-a604-799b2a1ab0b4",
+                                "description": "Services if you're visiting, studying, working or living in New Zealand. Includes information about trading with and doing business in the UK and New Zealand.",
+                                "details": {
+                                    "internal_name": "UK help and services in New Zealand",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:09Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in New Zealand",
+                                "web_url": "https://www.gov.uk/world/new-zealand",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:08Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to New Zealand",
+                    "web_url": "https://www.gov.uk/world/travelling-to-new-zealand",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-03T11:48:31Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1696333711.080-10.13.20.237-25204",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "New Zealand travel advice",
+        "updated_at": "2023-11-15T11:00:35Z",
+        "withdrawn_notice": {}
+    }
+}

@@ -1,0 +1,1607 @@
+{
+    "Country Slug": "spain",
+    "Country Name": "Spain",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/spain",
+        "content_id": "24df0bb1-0ca1-4675-9237-528ecd3d17a5",
+        "description": "FCDO travel advice for Spain. Includes safety and security, insurance, entry requirements and legal differences.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information on transport strikes ('Safety and security' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary - removal of information about flash floods on Mallorca in October 2018; other minor editorial amendments",
+                    "public_timestamp": "2018-11-14T10:18:29.714Z"
+                },
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU; Health section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:29:01.236Z"
+                },
+                {
+                    "note": "Latest update: Summary \u2013 there may be increased security in place over the Christmas and New Year period, including at major events that might attract large crowds; you should remain vigilant and follow the advice of local authorities",
+                    "public_timestamp": "2018-12-03T11:18:48.661Z"
+                },
+                {
+                    "note": "Latest update: Summary - Tottenham take on FC Barcelona in a UEFA Champions League match in Barcelona on Tuesday 11 December; addition of link to our dedicated information and advice page for travelling fans",
+                    "public_timestamp": "2018-12-04T11:41:50.970Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of link to information page for the Barcelona v Tottenham match on 11 December",
+                    "public_timestamp": "2018-12-18T10:32:10.208Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about possible increased security over the Christmas and New Year period",
+                    "public_timestamp": "2019-01-04T14:52:11.424Z"
+                },
+                {
+                    "note": "Latest update: Summary and Terrorism section - updated information and advice about the threat from terrorism, reflecting an increased threat",
+                    "public_timestamp": "2019-01-22T15:17:31.833Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T17:23:50.313Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:00:04.288Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T18:10:43.676Z"
+                },
+                {
+                    "note": "Latest update: Summary - Celtic take on Valencia CF in a UEFA Europa League match in Valencia on Thursday 21 February 2018; addition of link to information and advice page for travelling supporters",
+                    "public_timestamp": "2019-02-15T10:49:56.669Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T14:09:23.598Z"
+                },
+                {
+                    "note": "Latest update: Summary  - removal of information for fans travelling to Valencia for Celtic v Valencia CF UEFA Europa League Round on 21 February ",
+                    "public_timestamp": "2019-02-28T14:52:13.471Z"
+                },
+                {
+                    "note": "Summary section - addition of link to guidance on doing business in Spain",
+                    "public_timestamp": "2019-03-25T18:05:30.584Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information about several strikes planned throughout April affecting air travel across Spain; Terrorism section and summary - updated information and advice about the threat from terrorism in Spain, reflecting a reduced threat",
+                    "public_timestamp": "2019-04-16T17:18:11.563Z"
+                },
+                {
+                    "note": "Latest update:  Summary - removal of information on Air Nostrum pilots strike from 15 to 17 April and 22 to 24 April",
+                    "public_timestamp": "2019-04-17T07:49:23.886Z"
+                },
+                {
+                    "note": "Latest update: Summary - RENFE Spanish railway company workers have announced a strike for 17 April and possibly 24 April; cancellation of trains include some long distance high speed trains (AVE); you should contact RENFE for information",
+                    "public_timestamp": "2019-04-17T08:30:36.733Z"
+                },
+                {
+                    "note": "Latest update: Summary - Arsenal FC take on Valencia CF in a UEFA Europa League semi-final match in Valencia on Thursday 9 May 2019; if you\u2019re travelling to Spain for the match, check our dedicated information and advice page",
+                    "public_timestamp": "2019-05-07T08:18:18.680Z"
+                },
+                {
+                    "note": "Latest update: Summary - Updated information on strikes",
+                    "public_timestamp": "2019-05-08T10:25:58.138Z"
+                },
+                {
+                    "note": "Latest update: Summary - Liverpool FC take on Tottenham Hotspur FC in the UEFA Champions League Final in Madrid on Saturday 1 June 2019; if you\u2019re travelling to Spain for the match, check our dedicated information and advice page",
+                    "public_timestamp": "2019-05-17T15:47:05.375Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on the strike at Madrid Barajas Airport",
+                    "public_timestamp": "2019-05-24T13:20:20.198Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on UEFA Champions League Final in Madrid on Saturday 1 June ",
+                    "public_timestamp": "2019-06-03T10:53:57.016Z"
+                },
+                {
+                    "note": "Latest update: Summary - Extreme temperatures are expected across Spain in the last week of June; the Spanish authorities have issued heatwave warnings; these temperatures bring an increased risk of forest fires; check on the outbreak of fires with the local civil protection authority; anyone affected should follow the advice of the local authorities",
+                    "public_timestamp": "2019-06-28T13:19:18.000Z"
+                },
+                {
+                    "note": "Summary - If you\u2019re heading to a Spanish festival this summer, check our dedicated information and advice page",
+                    "public_timestamp": "2019-07-02T15:31:31.000Z"
+                },
+                {
+                    "note": "Summary - the 2019 San Fermin festival is being held from 6 to 14 July in Pamplona; if you\u2019re heading to Spain for the festival, check our dedicated information and advice page",
+                    "public_timestamp": "2019-07-05T11:38:51.000Z"
+                },
+                {
+                    "note": "Latest update: Local laws and customs section \u2013 additional information about local laws and attitudes on LGBT issues",
+                    "public_timestamp": "2019-07-05T16:26:34.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on extreme temperatures in late June; revised information on risk of forest fires",
+                    "public_timestamp": "2019-07-09T14:39:09.000Z"
+                },
+                {
+                    "note": "Sumarry - removal of information on San Fermin festival; updated information on ongoing forest fires in Gran Canaria; if you\u2019re in the area, check the latest updates and follow the advice of the local authorities",
+                    "public_timestamp": "2019-08-19T15:51:15.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on San Fermin festival; updated information on ongoing forest fire in Gran Canaria; if you\u2019re in the area, check the latest updates and follow the advice of the local authorities",
+                    "public_timestamp": "2019-08-19T16:01:54.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on  significant delays expected at the main border crossings between France and Spain from 23 to 26 August",
+                    "public_timestamp": "2019-08-23T10:00:11.000Z"
+                },
+                {
+                    "note": "Health section and summary - addition of information about an international alert issued by the Spanish Health Ministry on meat products manufactured under the brand name \u201cLa Mech\u00e1\u201d  following a confirmed outbreak of listeriosis; Summary - removal of information about expected travel disruption at main border crossings with France during the G7 summit in Biarritz, France from 23-26 August",
+                    "public_timestamp": "2019-08-27T15:27:52.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about forest fires on Gran Canaria earlier in August 2019",
+                    "public_timestamp": "2019-08-30T17:00:54.000Z"
+                },
+                {
+                    "note": "Summary - Spain\u2019s meteorological agency (AEMET) has issued an \"extreme risk\" weather warning for the regions of Valencia, Alicante, Murcia and Almeria for 12 and 13 September due to forecasted torrential rain; flash floods may occur and could cause disruption and delays to transport services; if you're in these areas, you should follow the advice of local authorities",
+                    "public_timestamp": "2019-09-12T11:26:22.000Z"
+                },
+                {
+                    "note": "Summary - Spain\u2019s meteorological office (AEMET) has issued an \"extreme risk\" weather warning  for the regions of Valencia, Alicante, Murcia, Almeria and Balearic Islands due to torrential rain; flash floods are causing road closures and serious disruption to transport services; if you are in these areas you should exercise extreme caution and follow the advice of the local authorities",
+                    "public_timestamp": "2019-09-13T12:24:01.000Z"
+                },
+                {
+                    "note": "Summary - updated factual information on recent flooding",
+                    "public_timestamp": "2019-09-18T14:59:45.000Z"
+                },
+                {
+                    "note": "Health section - removal of information on an outbreak of listeriosis",
+                    "public_timestamp": "2019-09-20T12:46:30.000Z"
+                },
+                {
+                    "note": "Summary-- advice following the announcement that Thomas Cook has ceased trading",
+                    "public_timestamp": "2019-09-23T01:51:03.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on demonstrations in Barcelona and other areas of Catalonia",
+                    "public_timestamp": "2019-10-15T10:36:09.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Thomas Cook ceasing to trade",
+                    "public_timestamp": "2019-10-17T11:27:35.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on severe rain and thunderstorms and updated factual information on protests in Catalonia",
+                    "public_timestamp": "2019-10-23T16:14:49.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on severe weather in October",
+                    "public_timestamp": "2019-11-08T15:28:08.000Z"
+                },
+                {
+                    "note": "Summary \u2013 addition of information and advice about events over the Christmas and New Year period",
+                    "public_timestamp": "2019-11-12T18:29:53.000Z"
+                },
+                {
+                    "note": "Summary - Chelsea take on Valencia CF in a UEFA Champions League group match in Valencia on Wednesday 27 November 2019; addition of link to information and advice page for travelling fans",
+                    "public_timestamp": "2019-11-15T11:13:46.000Z"
+                },
+                {
+                    "note": "Summary - removal of link to advice page for the Valencia v Chelsea match",
+                    "public_timestamp": "2019-11-29T11:47:38.000Z"
+                },
+                {
+                    "note": "Safety and security section (Road travel) and summary - addition of information about low emission zones",
+                    "public_timestamp": "2019-12-23T17:02:11.000Z"
+                },
+                {
+                    "note": "Summary \u2013 removal of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2020-01-15T13:42:44.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice following weather warnings issued by Spain\u2019s meteorological office",
+                    "public_timestamp": "2020-01-20T12:41:37.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T19:17:05.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about weather warnings for parts of Spain in January 2020",
+                    "public_timestamp": "2020-02-03T11:45:44.000Z"
+                },
+                {
+                    "note": "Health section and summary - addition of information on coronavirus",
+                    "public_timestamp": "2020-02-04T16:49:47.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with amendments across all sections; Summary - addition of links to information and advice pages for fans travelling to the Atletico Madrid-Liverpool and Real Madrid-Manchester City matches in Madrid in February 2020",
+                    "public_timestamp": "2020-02-06T19:20:05.000Z"
+                },
+                {
+                    "note": "Updated information and advice to reflect that Spanish authorities are dealing with confirmed cases of coronavirus in the H10 Costa Adeje Palace Hotel in Tenerife ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-02-26T16:05:35.000Z"
+                },
+                {
+                    "note": "Updated information and advice to Health page to reflect latest measures taken by the Spanish authorities to tackle the coronavirus outbreak.",
+                    "public_timestamp": "2020-03-10T19:15:49.000Z"
+                },
+                {
+                    "note": "Addition of information on the suspension of incoming flights from Italy until 25 March, and update to information on regional authority measures against coronavirus ('Health')",
+                    "public_timestamp": "2020-03-11T13:53:03.000Z"
+                },
+                {
+                    "note": "Update of information on coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-12T15:21:53.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) against all but essential travel to the regions that the Spanish Ministry of Health have designated as areas of community transmission of coronavirus, as follows: Madrid and La Rioja, and the municipalities of La Bastida and Vitoria (both in the Basque Country) and Miranda de Ebro (in Castilla y Le\u00f3n)  ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-13T11:41:02.000Z"
+                },
+                {
+                    "note": "The FCO advises against all travel to Spain due to restrictions put in place by the Spanish government in response to the outbreak of coronavirus (Covid-19) (Summary and Health page)",
+                    "public_timestamp": "2020-03-15T00:20:03.000Z"
+                },
+                {
+                    "note": "The FCO advises against all but essential travel to Spain due to restrictions put in place by the Spanish government in response to the outbreak of coronavirus (Covid-19) (Summary)",
+                    "public_timestamp": "2020-03-15T12:33:40.000Z"
+                },
+                {
+                    "note": "Addition of information on measures imposed by Spain due to the coronavirus (Covid-19) pandemic. From Tuesday 17 March until the end of the State of Emergency, Spain is closing its land borders to those who wish to enter Spain, with some exceptions. The land borders remain open for those leaving Spain. At present, air and maritime borders remain open ('Summary' and 'Health 'pages)",
+                    "public_timestamp": "2020-03-17T03:48:12.000Z"
+                },
+                {
+                    "note": "\r\nAddition of information on measures imposed by Spain due to the coronavirus (Covid-19) pandemic. From Tuesday 17 March until the end of the State of Emergency, Spain is closing its land borders to those who wish to enter Spain, with some exceptions. The land borders remain open for those leaving Spain. At present, air and maritime borders remain open ('Summary' and 'Health 'pages)",
+                    "public_timestamp": "2020-03-17T21:24:11.000Z"
+                },
+                {
+                    "note": "Addition of information and advice following an announcement by the Spanish Government on hotels and short-stay accommodation ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-18T13:39:13.000Z"
+                },
+                {
+                    "note": "Addition of information and advice following an announcement by the Spanish Government on hotels and short-stay accommodation ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-18T19:36:44.000Z"
+                },
+                {
+                    "note": "Revised information on short-stay accommodation during coronavirus (COVID-19). ('Health' page)",
+                    "public_timestamp": "2020-03-21T16:05:18.000Z"
+                },
+                {
+                    "note": "Updated information on Spanish measures to limit the spread of coronavirus (COVID-19) (Coronavirus).",
+                    "public_timestamp": "2020-03-23T23:22:58.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information on Spanish measures to limit the spread of coronavirus (COVID-19) (Coronavirus)",
+                    "public_timestamp": "2020-03-29T17:35:14.000Z"
+                },
+                {
+                    "note": "Update on list of the essential services designated by the government, exceptions to ban (Coronavirus' page) \r\n",
+                    "public_timestamp": "2020-03-30T14:56:15.000Z"
+                },
+                {
+                    "note": "Updated advice for people wishing to return to the UK from Spain (\u2019Return to the UK\u2019  pages)",
+                    "public_timestamp": "2020-04-03T14:05:17.000Z"
+                },
+                {
+                    "note": "Addition of information about options for paying for return flights to the UK and new requirements to enter/transit France ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-07T18:02:20.000Z"
+                },
+                {
+                    "note": "Updated information regarding travelling through France ('Summary' 'Return to UK')",
+                    "public_timestamp": "2020-04-10T12:00:50.000Z"
+                },
+                {
+                    "note": "Additional information following further border restrictions and information regarding flights from Gibraltar to the UK ('Coronavirus' and 'Return to UK' pages) ",
+                    "public_timestamp": "2020-04-24T23:06:03.000Z"
+                },
+                {
+                    "note": "Addition of information on the de-escalation plan announced by the Spanish government on 28 April to gradually ease the current confinement and mobility measures ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-30T17:51:17.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) local measures ('Coronavirus' page)",
+                    "public_timestamp": "2020-05-04T13:08:39.000Z"
+                },
+                {
+                    "note": "Updated information on rules about entering Spain.  You must meet the requirements in order to enter.  From 15 May, additionally, international arrivals will need to self-isolate for 14 days. ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-05-12T18:33:59.000Z"
+                },
+                {
+                    "note": "Updated information for travellers requiring to transit Spain to return to the UK ('Staying during coronavirus', 'Return to the UK' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-05-14T20:26:33.000Z"
+                },
+                {
+                    "note": "Updated information on travelling within Spain and Spain's de-escalation measures on coronavirus ('Staying during coronavirus' page) and information on transiting through Spain ('Entry requirements' page)",
+                    "public_timestamp": "2020-05-19T14:44:35.000Z"
+                },
+                {
+                    "note": "Addition of information on registering for possible future passenger ferry availability on Brittany Ferries freight services ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-20T09:30:40.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T12:21:16.000Z"
+                },
+                {
+                    "note": "Update to information and advice on the use of face masks from 21 May ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-20T16:38:44.000Z"
+                },
+                {
+                    "note": "Update to information and advice on the use of face masks ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-21T15:08:45.000Z"
+                },
+                {
+                    "note": "Addition of information on the re-opening of hotels and other short stay accommodation and removal of information on the closure of shops ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-26T16:26:41.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:14:09.000Z"
+                },
+                {
+                    "note": "Update to information on flight availability (\u2018Return to the UK\u2019 page) ",
+                    "public_timestamp": "2020-06-09T15:22:45.000Z"
+                },
+                {
+                    "note": "Addition of information on the re-opening of Spanish borders ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-16T15:39:03.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements and moving around in Spain ('Staying during coronavirus' 'Entry requirements')",
+                    "public_timestamp": "2020-06-20T20:19:39.000Z"
+                },
+                {
+                    "note": "Updated information about the end of the State of Emergency ('Summary' and 'Entry requirements' pages), information about flights and inter-regional travel ('Return to the UK' page), the mandatory use of face masks ('Staying during coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2020-06-23T16:23:29.000Z"
+                },
+                {
+                    "note": "Addition of information about the resumption of passenger ferry services between Spain and the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-25T14:07:20.000Z"
+                },
+                {
+                    "note": "Removal of information on border restrictions between Spain and Portugal  ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-01T15:56:46.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-02T12:13:51.000Z"
+                },
+                {
+                    "note": "From 4 July, Spain is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:42:20.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures including protective protocols, testing and screening entry requirements and local outbreak information ('Summary', Coronavirus' and 'Entry requirements' pages.",
+                    "public_timestamp": "2020-07-03T16:29:25.000Z"
+                },
+                {
+                    "note": "Updated information on use of face masks. ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-08T16:08:11.000Z"
+                },
+                {
+                    "note": "Updated information on use of face masks. ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-21T15:30:18.000Z"
+                },
+                {
+                    "note": "Addition of information on restrictions introduced in Catalonia ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-22T16:01:46.000Z"
+                },
+                {
+                    "note": "Addition of information on recent reports of substantial increases in cases of COVID-19 in the regions of Aragon and Catalonia ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-07-23T17:17:29.000Z"
+                },
+                {
+                    "note": "Update to advise against all non-essential travel to mainland Spain ('Summary').",
+                    "public_timestamp": "2020-07-25T19:03:54.000Z"
+                },
+                {
+                    "note": "FCO advice against all non-essential travel to Spain now applies to the whole country, including the Balearic and Canary Islands ('Summary' page)",
+                    "public_timestamp": "2020-07-27T17:01:45.000Z"
+                },
+                {
+                    "note": "Update to information on parts of Catalonia affected by coronavirus (COVID-19) outbreaks ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-04T16:14:07.000Z"
+                },
+                {
+                    "note": "Updated information about further outbreaks and measures to limit the spread of COVID19 ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-08-21T13:57:08.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T15:34:06.000Z"
+                },
+                {
+                    "note": "Updated information on social gathering limitations\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-09-24T14:52:36.000Z"
+                },
+                {
+                    "note": "Addition of information on the application of coronavirus (COVID-19) entry and exit measures within regional governments, including the municipality of central Madrid, from 10pm local time on 2 October ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-02T15:38:00.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Spain in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-05T11:04:03.000Z"
+                },
+                {
+                    "note": "New information on entry and exit restrictions and other measures in regions and municipalities ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-09T16:18:34.000Z"
+                },
+                {
+                    "note": "The Canary Islands are now exempt from FCDO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-10-22T16:22:48.000Z"
+                },
+                {
+                    "note": "Updated information on self-isolation rules on return to the UK; the requirement to self-isolate on return to the UK from the Canary Islands will be lifted for those arriving on or after 4am on 25 October; you must still self-isolate if returning to the UK from any other part of Spain ('Summary' page)",
+                    "public_timestamp": "2020-10-22T22:41:41.000Z"
+                },
+                {
+                    "note": "Update to information on the nationwide State of Emergency ('Coronavirus' page).",
+                    "public_timestamp": "2020-10-26T15:20:18.000Z"
+                },
+                {
+                    "note": "Addition of information clarifying entry requirements for travel to Spain ( 'Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-28T17:46:59.000Z"
+                },
+                {
+                    "note": "New information on road travel for travellers that are travelling to and transiting through France from Spain ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-29T16:28:29.000Z"
+                },
+                {
+                    "note": "From 14 November, travellers to the Canary Islands will need to provide a negative COVID-19 test when checking-in to regulated tourist accommodation ('Entry requirements' page).",
+                    "public_timestamp": "2020-11-03T14:08:36.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T10:51:44.000Z"
+                },
+                {
+                    "note": "Update to information on measures in place in the Canary Islands, to reflect that they apply to all guests aged 6 years and over, unless they have proof of travel confirming their uninterrupted presence on the islands for the previous 15 days ('Entry requirements' page)",
+                    "public_timestamp": "2020-11-06T11:17:27.000Z"
+                },
+                {
+                    "note": "Updated information on entry measures in the Canary Islands. The measures apply to all guests aged 6 years and over. New testing measures for arrivals will be in place from 23 November ('Summary' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-11-13T12:34:05.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements for entry to Spain ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-17T17:04:28.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period ('Summary' page).",
+                    "public_timestamp": "2020-11-20T09:57:33.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements for children of all ages entering Spain from 'risk countries' ('Summary' and 'Entry requirements' pages). Update to information on testing requirements in tourist accommodation in the Canary Islands ('Entry requirements' page).",
+                    "public_timestamp": "2020-11-26T15:24:21.000Z"
+                },
+                {
+                    "note": "If you are returning to the UK from the Canary Islands on or after 4am on 12 December, you will need to self-isolate on your return. ('Summary' page) Children under the age of 6 years old do not need to present a negative PCR test on entering Spain ('Smmary' page) ",
+                    "public_timestamp": "2020-12-11T14:06:53.000Z"
+                },
+                {
+                    "note": "If you are returning to the UK from the Canary Islands on or after 4am on 12 December, you will need to self-isolate on your return. ('Summary' page) Children under the age of 6 years old do not need to present a negative PCR test on entering Spain ('Summary' page)",
+                    "public_timestamp": "2020-12-11T14:26:24.000Z"
+                },
+                {
+                    "note": "Updated information on Covid-19 testing requirements (see 'Entry requirements' page)",
+                    "public_timestamp": "2020-12-14T20:13:13.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 testing if you're travelling to the Canary Islands ('Summary' and 'Entry requirements' page).",
+                    "public_timestamp": "2020-12-15T13:15:39.000Z"
+                },
+                {
+                    "note": "Removal of information on antigen tests for entry to the Canary Islands ('Summary' and Entry requirements' pages).",
+                    "public_timestamp": "2020-12-16T11:30:59.000Z"
+                },
+                {
+                    "note": "Spain have announced they will be restricting passenger travel on inbound flights from the UK from Tuesday 22 December, with the exception of Spanish nationals and those legally resident in Spain. ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-21T17:46:51.000Z"
+                },
+                {
+                    "note": "Update to information on the restriction of passenger travel on inbound flights from the UK from Tuesday 22 December; this includes flights from the UK to the Balearic Islands and Canary Islands.  ('Summary' page)",
+                    "public_timestamp": "2020-12-22T10:54:13.000Z"
+                },
+                {
+                    "note": "Update to information on the restriction of passenger travel from the UK; travel from the UK (by air and sea) will be restricted from 6pm on 22 December until 6pm on 5 January ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-12-22T15:39:52.000Z"
+                },
+                {
+                    "note": "Addition of information on entry restrictions travelling to Spain via Gibraltar and update to information on passenger travel from the UK to Spain ('Summary', Coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-23T10:45:40.000Z"
+                },
+                {
+                    "note": "Update to information on passenger travel from the UK to the Canary Islands ('Summary', and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-24T10:10:16.000Z"
+                },
+                {
+                    "note": "Updated information on documents accepted as proof of residency for travel from the UK to Spain ('Summary', and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-29T13:33:26.000Z"
+                },
+                {
+                    "note": "Updated information on transiting Spain and to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Entry Requirements' and 'Health' pages)",
+                    "public_timestamp": "2020-12-29T17:48:56.000Z"
+                },
+                {
+                    "note": "New information on what to do if you do not have access to your residence document ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-30T14:01:07.000Z"
+                },
+                {
+                    "note": "New information on requirements for travellers that are transiting through Spain ('Entry requirements' page)",
+                    "public_timestamp": "2020-12-30T15:07:44.000Z"
+                },
+                {
+                    "note": "Updated information on documents accepted as proof of residency for entry to Spain. (\u2018Summary\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-30T17:59:45.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Spain; LAMP test is not required if you are a overland traveller exempted from entry requirements. Removal of rules on travel, driving license requirements and passport validity that are no longer in place ('Summary', 'Coronavirus' , 'Safety and security' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-31T11:12:59.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions to passenger travel from the UK to Spain.",
+                    "public_timestamp": "2021-01-01T15:08:08.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions to passenger travelling from the UK to Spain (See 'Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-02T17:46:46.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions to passenger travelling from the UK to Spain (See 'Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-03T14:55:46.000Z"
+                },
+                {
+                    "note": "Removal of information on what to do if you are entering Spain by air or sea in order to transit to another destination ('Entry requirements' page)",
+                    "public_timestamp": "2021-01-04T15:05:26.000Z"
+                },
+                {
+                    "note": "Update to information on transiting Spain ('Entry requirements' page)",
+                    "public_timestamp": "2021-01-05T17:41:48.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions for passengers in transit and entering Spain ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-10T14:24:52.000Z"
+                },
+                {
+                    "note": "New information on restrictions on personal food items ('Local laws and customs' page). Addition of timings for current entry restrictions. ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-11T17:26:19.000Z"
+                },
+                {
+                    "note": "Updated information on extension of current entry restrictions and information on travel on compassionate grounds ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-13T16:14:29.000Z"
+                },
+                {
+                    "note": "Updated information on international transit through Spanish airports by passengers on flights departing from the UK ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-14T15:51:02.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-19T18:13:38.000Z"
+                },
+                {
+                    "note": "Update on the extension of Spanish restrictions on passenger travel from the UK ( \u2018Summary\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2021-01-27T14:14:11.000Z"
+                },
+                {
+                    "note": "New information on border controls at Portugal\u2019s land border with Spain and the suspension of rail and ferry connections (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-01-29T16:58:42.000Z"
+                },
+                {
+                    "note": "Update on extension of Spanish travel restrictions on travel from the UK (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-02-10T15:27:37.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Spain (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-11T16:28:54.000Z"
+                },
+                {
+                    "note": "New information on documents accepted as proof of residence for entry to Spain ('Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-02-17T16:47:40.000Z"
+                },
+                {
+                    "note": "Addition of information on documents being accepted as proof of enrolment in an educational course for entry to Spain (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-02-23T16:34:54.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of Spanish restrictions on travel from the UK until 16 March 2021 (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-02-24T13:07:18.000Z"
+                },
+                {
+                    "note": "Updates to information on transit restrictions, visa requirements for students and timeshares. (\u2018Summary\u2019, \u2018Safety and security\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-02-26T16:38:22.000Z"
+                },
+                {
+                    "note": "Updated information on entry and transit restrictions (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-03-03T17:03:07.000Z"
+                },
+                {
+                    "note": "Updated information on extension to entry restrictions for passengers travelling from the UK, extension is now until 30 March (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-03-10T13:20:42.000Z"
+                },
+                {
+                    "note": "Information on changes to entry restrictions for passengers travelling from the UK from 6pm (GMT+1) on 30 March 2021 (5pm / GMT in the Canary Islands). (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-03-24T18:00:58.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full.  New information has been added on changes to testing requirements for overland passengers arriving from France, which will be in place from 30 March 2021 ('Entry requirements' page)",
+                    "public_timestamp": "2021-03-29T14:32:02.000Z"
+                },
+                {
+                    "note": "Information on what to do if your visa or visa-free period of travel has expired and you are unable to return to the UK due to COVID-19 travel restrictions and updates to the permitted reasons to enter Spain after 30 March 2021 (\u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-03-30T14:42:31.000Z"
+                },
+                {
+                    "note": "Removal of information on restrictions before 30 March 2021 (\u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-03-31T15:24:21.000Z"
+                },
+                {
+                    "note": "Clarification on entry restrictions for anyone travelling from the UK to Spain on compassionate grounds (See \u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-04-02T15:06:03.000Z"
+                },
+                {
+                    "note": "New information on how to get COVID-19 vaccine if you live in Spain but are not registered for public healthcare ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-16T16:30:14.000Z"
+                },
+                {
+                    "note": "Updated information on transiting Spain by air ('Entry Requirements' page)",
+                    "public_timestamp": "2021-04-21T18:35:21.000Z"
+                },
+                {
+                    "note": "Additional information on how to get a COVID-19 vaccine if you live in Spain ('Coronavirus' page) and further information on who to contact if you are unsure whether your circumstances, meet the current exemptions for entry to Spain ('Entry requirements' page)",
+                    "public_timestamp": "2021-04-23T14:48:21.000Z"
+                },
+                {
+                    "note": "Information on how to contact the Spanish consulate for advice on travel for imperative family reasons ('Entry requirements' page)",
+                    "public_timestamp": "2021-04-26T15:20:34.000Z"
+                },
+                {
+                    "note": "Information on the lifting of border controls at the Portugal land border from 1 May ('Entry requirements' page)",
+                    "public_timestamp": "2021-04-30T17:15:42.000Z"
+                },
+                {
+                    "note": "Further information on how to get a COVID-19 vaccines if you live in the Canary Islands or Valencia region but are not registered for public healthcare ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-04T15:28:48.000Z"
+                },
+                {
+                    "note": "Updated information on national and regional restrictions following the end of the nationwide State of Emergency at 12:01am on 9 May. (See \u2018Summary\u2019 and \u2018Coronavirus\u2019 pages) ",
+                    "public_timestamp": "2021-05-07T17:55:01.000Z"
+                },
+                {
+                    "note": "Updates to list of documents accepted as proof of residence for entry to Spain ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-12T16:50:51.000Z"
+                },
+                {
+                    "note": "Further information on COVID-19 vaccines if you live in the Canary Islands but are not registered for public healthcare ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-14T09:10:36.000Z"
+                },
+                {
+                    "note": "Further information on Schengen border controls on arrival in Spain where passengers who meet entry requirements may be asked to demonstrate sufficient funds for their stay, present a return or onward ticket, and proof of accommodation (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2021-05-20T15:23:09.000Z"
+                },
+                {
+                    "note": "New information on changes to entry requirements for Spain if you are travelling from the UK from 24 May onwards. No changes have been made to the level of our travel advice for any regions of Spain. We continue to advise against all but essential travel to Spain, including the Balearic Islands, but excluding the Canary Islands. (\u2018Summary\u2019 and \u2018Entry Clearance' pages)",
+                    "public_timestamp": "2021-05-21T18:42:53.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for Spain following changes on 24 May ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-24T16:05:07.000Z"
+                },
+                {
+                    "note": "Update to information on testing requirements if you\u2019re arriving in the Canary or Balearic islands from mainland Spain. No changes have been made to the level of FCDO travel advice for any regions of Spain. We continue to advise against all but essential travel to Spain, including the Balearic Islands, but excluding the Canary Islands. (\u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-05-25T15:21:41.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-03T11:02:27.000Z"
+                },
+                {
+                    "note": "Update to information under \u2018Requirements for UK nationals resident in Spain\u2019 (\u2018Entry requirements\u2019 page). No changes have been made to the level of FCDO travel advice for any regions of Spain. We continue to advise against all but essential travel to Spain, including the Balearic Islands, but excluding the Canary Islands",
+                    "public_timestamp": "2021-06-04T16:09:05.000Z"
+                },
+                {
+                    "note": "Update to \u2018Testing requirements if travelling from a \u2018risk country\u2019\u2019 and \u2018Testing requirements for arrivals from the UK\u2019 (\u2018Entry requirements\u2019 page). No changes have been made to the level of FCDO travel advice for any regions of Spain. We continue to advise against all but essential travel to Spain, including the Balearic Islands, but excluding the Canary Islands.",
+                    "public_timestamp": "2021-06-07T16:26:44.000Z"
+                },
+                {
+                    "note": "Updated information on the requirement for pre-travel tests to be taken 48 hours prior to arrival (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2021-06-08T16:22:11.000Z"
+                },
+                {
+                    "note": "Updated information on the testing requirement for overland travellers from France (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-06-09T15:21:55.000Z"
+                },
+                {
+                    "note": "Updated information on change to the minimum age at which children are subject to testing requirements on entry to Spain if they have visited a \u2018risk country\u2019 in the previous 14 days (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2021-06-10T15:05:59.000Z"
+                },
+                {
+                    "note": "Additional information on COVID-19 vaccines if you live in Asturias, Castilla La Mancha or Galicia, but are not registered for public healthcare (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-06-18T16:01:09.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 30 June the Balearic Islands will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-06-24T20:01:25.000Z"
+                },
+                {
+                    "note": "Update on changes to the rules on face mask use from 26 June (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-06-25T16:34:49.000Z"
+                },
+                {
+                    "note": "Update on entry requirements for all arrivals to Spain from the UK, expected to come into force from 1 July (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-06-28T16:59:23.000Z"
+                },
+                {
+                    "note": "Update on entry requirements for all arrivals to Spain from the UK, coming into force from 2 July (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-06-29T16:36:46.000Z"
+                },
+                {
+                    "note": "Update on types of test accepted under entry requirements for arrivals to Spain from the UK, coming into force from 2 July \u2013 antigen tests not accepted. (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-06-30T16:02:50.000Z"
+                },
+                {
+                    "note": "Update on types of test accepted under entry requirements for arrivals to Spain from the UK, coming into force from 2 July (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-07-02T18:37:39.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Spain, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-07-08T16:27:05.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 19 July the Balearic Islands will move to the amber list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-07-14T17:59:24.000Z"
+                },
+                {
+                    "note": "Update on COVID-19 test validity times under 'Testing and vaccination requirements for arrivals from the UK' ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-15T09:14:43.000Z"
+                },
+                {
+                    "note": "Update on testing positive while in Spain and self-isolation under 'Healthcare in Spain' ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-16T15:01:43.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Spain (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T08:53:35.000Z"
+                },
+                {
+                    "note": "Updated information on Testing and vaccination requirements for arrivals from the UK  (\u2018Entry requirements\u2019 page) and testing requirements for tourist accommodation in the Canary Islands. ",
+                    "public_timestamp": "2021-07-23T16:19:31.000Z"
+                },
+                {
+                    "note": "Updated information on testing positive for COVID-19 while in Spain and regional hotlines (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-26T16:01:07.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:47:06.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Spain (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-07-29T10:23:23.000Z"
+                },
+                {
+                    "note": "Update to information and advice on entering quarantine while in Spain (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-30T15:11:44.000Z"
+                },
+                {
+                    "note": "Additional information on COVID-19 vaccines if you live in Aragon, Castilla y Leon, Catalonia, La Rioja or Navarra, but are not registered for public healthcare (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-08-16T13:42:04.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page) ",
+                    "public_timestamp": "2021-09-08T12:34:26.000Z"
+                },
+                {
+                    "note": "latest Update: Information on a volcanic eruption on the Spanish Canary Island of La Palma ('Summary') and ('Natural Disasters') page \r\n\r\n",
+                    "public_timestamp": "2021-09-19T18:58:22.000Z"
+                },
+                {
+                    "note": "Updated information on local evacuation areas due to the volcanic eruption on the Spanish Canary Island of La Palma (See 'Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2021-09-20T17:43:17.000Z"
+                },
+                {
+                    "note": "Updated information on transiting Spain with an Emergency Travel Document ('Entry requirements\u2019 page) and additional links to local information sources on the volcanic eruption on the Spanish Canary Island of La Palma ( 'Natural disasters' page)",
+                    "public_timestamp": "2021-09-22T15:41:31.000Z"
+                },
+                {
+                    "note": "Added link to advice page for fans travelling to Spain for the Liverpool FC match against Atl\u00e9tico de Madrid CF on Tuesday 19 October 2021 ('Summary' page).",
+                    "public_timestamp": "2021-10-14T11:23:33.000Z"
+                },
+                {
+                    "note": "Updated information on proof of being fully vaccinated for entry to Spain ('Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-10-15T12:29:33.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-03T11:19:37.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-15T11:43:32.000Z"
+                },
+                {
+                    "note": "Adding link to advice page for the Villareal CF v Manchester United FC match on Tuesday 23 November 2021 ('Summary' page).",
+                    "public_timestamp": "2021-11-15T16:49:42.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-11-26T11:27:49.000Z"
+                },
+                {
+                    "note": "Changes to entry rules in response to coronavirus (COVID-19). From 1 December, all arrivals to Spain from the UK (excluding children over the age of 12 years old) must present proof of vaccination.  (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-11-27T20:50:15.000Z"
+                },
+                {
+                    "note": "Changes to entry rules in response to coronavirus (COVID-19). From 1 December, all arrivals to Spain from the UK (excluding children under the age of 12 years old) must present proof of vaccination.  (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-11-27T21:36:23.000Z"
+                },
+                {
+                    "note": "Updated information on volcanic eruptions in La Palma (\u2018Natural disasters\u2019 section); the COVID-19 situation in Spain (\u2018Coronavirus\u2019 section); and the use of UK Emergency Travel Documents to enter, transit and exit Spain (\u2018Regular entry requirements\u2019 section) ",
+                    "public_timestamp": "2021-11-29T17:46:06.000Z"
+                },
+                {
+                    "note": "Updated information on changes to entry requirements to Spain (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-01T16:48:54.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for UK and other non-EU citizens travelling to Spain for tourism (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-04T20:11:31.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Spain (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-07T16:45:21.000Z"
+                },
+                {
+                    "note": "Update to information on the use of COVID passports to access public spaces in some Spanish regions (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-12-10T14:07:19.000Z"
+                },
+                {
+                    "note": "Update on proof of vaccination for children to enter Spain (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-13T17:21:59.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:19:02.000Z"
+                },
+                {
+                    "note": "Updated information about Spanish rules on use of face masks (\u2018Coronavirus\u2019 page) and additional health checks on entry to Spain (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2021-12-23T13:54:12.000Z"
+                },
+                {
+                    "note": "Updated information about Spanish rules on use of face masks (See \u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-12-24T00:00:01.000Z"
+                },
+                {
+                    "note": "Updated information about La Palma volcanic eruption (\u2018Natural Disasters' page)",
+                    "public_timestamp": "2021-12-29T12:39:39.000Z"
+                },
+                {
+                    "note": "Advice for people\u00a0travelling to Spain via France to also check travel advice for France before starting their journey ('Summary' page)",
+                    "public_timestamp": "2021-12-29T17:21:42.000Z"
+                },
+                {
+                    "note": "Information on proof of vaccination and new 270-day validity period requirement to be enforced from 1 February for people travelling to Spain ('Entry requirements\u2019 page) ",
+                    "public_timestamp": "2022-01-26T13:32:05.000Z"
+                },
+                {
+                    "note": "Change to entry rules regarding antigen tests requiring tests to be taken within 24 hours of arrival in Spain. Antigen tests only accepted for UK arrivals to Spain travelling under one of the exemptions listed by Spanish authorities. (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-02-01T17:28:59.000Z"
+                },
+                {
+                    "note": "Updated information regarding when booster jabs must be administered for entry to Spain. (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-02-08T14:58:52.000Z"
+                },
+                {
+                    "note": "Change to rules regarding the mandatory use of face masks outdoors in Spain (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-02-10T14:40:32.000Z"
+                },
+                {
+                    "note": "New information on requirements for children and young people; from 14 February travellers aged 12 to 17 inclusive will be able to enter Spain by presenting a negative COVID-19 nucleic acid amplification test - NAAT (PCR or similar) within 72 hours prior to arrival (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-02-11T15:28:21.000Z"
+                },
+                {
+                    "note": "Travellers can now enter Spain by presenting documentation that certifies they have recovered from COVID-19 infection in the last 6 months. (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-02-28T17:07:21.000Z"
+                },
+                {
+                    "note": "Updated information on completing a Health Control Form for entry to Spain (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2022-03-10T16:40:15.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 public health measures in Spain (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2022-04-01T14:27:06.000Z"
+                },
+                {
+                    "note": "Updated information on the requirement to complete a Health Control Form for entry to Spain (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2022-04-08T12:03:40.000Z"
+                },
+                {
+                    "note": "Updated information on the use of face masks in Spain (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-04-20T15:46:11.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions on the sale of alcohol in Balearic Islands and irregular commercial parties (\u2018Local laws and customs\u2019 page)",
+                    "public_timestamp": "2022-05-06T15:21:56.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:10:53.000Z"
+                },
+                {
+                    "note": "Updated following changes to entry rules for unvaccinated travellers ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-23T12:05:49.000Z"
+                },
+                {
+                    "note": "Updated information on transiting Spain ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-26T10:47:28.000Z"
+                },
+                {
+                    "note": "Updated information on vaccine validity requirements for 12 to 17 year olds.  ('Entry requirements' page)",
+                    "public_timestamp": "2022-06-17T14:40:15.000Z"
+                },
+                {
+                    "note": "Information on planned strike action by airlines in July ('Summary' page) . ",
+                    "public_timestamp": "2022-07-04T15:48:48.000Z"
+                },
+                {
+                    "note": "Updated information on what to do if you test positive for COVID-19 during your stay in Spain ('Coronavirus\u2019 page).  Addition of information on the use of e-gates on arrival in Spain (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-07-14T10:16:38.000Z"
+                },
+                {
+                    "note": "Information on heightened risk of forest fires (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2022-07-18T15:17:10.000Z"
+                },
+                {
+                    "note": "Updated information on the possibility of strike action disrupting flights to and from Spain (\u2018Summary\u2019 page) ",
+                    "public_timestamp": "2022-08-01T15:09:34.000Z"
+                },
+                {
+                    "note": "New information on attending festivals or concerts in Spain (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages).",
+                    "public_timestamp": "2022-08-12T13:05:40.000Z"
+                },
+                {
+                    "note": "New information about the lifting of the requirement to complete the health control form prior to travel to Spain ('Entry requirements' page).",
+                    "public_timestamp": "2022-09-21T15:53:15.000Z"
+                },
+                {
+                    "note": "From 21 October 2022, all COVID-19 travel restrictions for travellers to Spain have been lifted.  ('Entry requirements' page)",
+                    "public_timestamp": "2022-10-20T23:00:13.000Z"
+                },
+                {
+                    "note": "Updated information on opening times of English-speaking police line ('Safety and Security' page).",
+                    "public_timestamp": "2022-10-24T13:02:03.000Z"
+                },
+                {
+                    "note": "Updated information on demonstrations and processions (\u2018Summary\u2019 and 'Safety and security' pages).",
+                    "public_timestamp": "2022-10-28T12:24:28.000Z"
+                },
+                {
+                    "note": "Information on COVID-19 vaccination and testing requirements for passengers arriving from China ('Entry requirements' page).",
+                    "public_timestamp": "2023-01-03T14:35:13.000Z"
+                },
+                {
+                    "note": "Update on terrorist-related incident in Algeciras on 25 January ('Terrorism' page).\r\n\r\n",
+                    "public_timestamp": "2023-01-26T13:16:46.000Z"
+                },
+                {
+                    "note": "Updated information on use of face masks in Spain following the lifting of the requirement to use face masks on public transport ('Coronavirus' page).",
+                    "public_timestamp": "2023-02-08T14:47:50.000Z"
+                },
+                {
+                    "note": "Information on consulting your airline or tour operator if your onward travel is affected by strike action ('Summary' page).",
+                    "public_timestamp": "2023-05-19T13:46:15.000Z"
+                },
+                {
+                    "note": "Updated information on Storm Oscar weather warnings in the Canary Islands ('Summary' page).",
+                    "public_timestamp": "2023-06-05T17:45:01.000Z"
+                },
+                {
+                    "note": "Removal of information on Storm Oscar weather warnings in the Canary Islands ('Summary' page).",
+                    "public_timestamp": "2023-06-09T09:50:12.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:23:16.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.  ",
+                    "public_timestamp": "2023-06-28T15:38:23.000Z"
+                },
+                {
+                    "note": "The Spanish government has declared an end to the health crisis caused by the COVID-19 pandemic and has lifted all compulsory requirements to wear face coverings ('Entry requirements' page).",
+                    "public_timestamp": "2023-07-05T13:21:13.000Z"
+                },
+                {
+                    "note": "Updated information on how to report a crime in Spain (\u2018Getting help \u2019 page).",
+                    "public_timestamp": "2023-07-07T14:29:34.000Z"
+                },
+                {
+                    "note": "Addition of English-speaking police line ('Getting help' page).",
+                    "public_timestamp": "2023-07-10T14:27:31.000Z"
+                },
+                {
+                    "note": "Information on the extreme temperatures currently affecting many parts of Spain ('Safety and security' page).",
+                    "public_timestamp": "2023-07-17T12:12:16.000Z"
+                },
+                {
+                    "note": "Updated information on providing personal ID when renting a vehicle, water safety, altitude sickness, and what to do in the event of a forest fire ('Safety and security' page).",
+                    "public_timestamp": "2023-07-26T14:44:13.000Z"
+                },
+                {
+                    "note": "Updated information on attacks and sexual assaults in Spain ('Safety and security' page).",
+                    "public_timestamp": "2023-08-09T15:01:55.000Z"
+                },
+                {
+                    "note": "Updated information on transport strikes commencing Monday 2 October. ",
+                    "public_timestamp": "2023-09-30T15:08:34.000Z"
+                },
+                {
+                    "note": "Information on low emission zone's in Spain and on reporting a crime in Spain ('Safety and security' page).",
+                    "public_timestamp": "2023-10-02T14:46:16.000Z"
+                },
+                {
+                    "note": "Information on transport strikes ('Safety and security' page).",
+                    "public_timestamp": "2023-10-19T12:53:45.000Z"
+                }
+            ],
+            "country": {
+                "name": "Spain",
+                "slug": "spain",
+                "synonyms": [
+                    "Ibiza",
+                    "Majorca",
+                    "Mallorca",
+                    "Menorca",
+                    "Minorca",
+                    "Lanzarote",
+                    "Barcelona",
+                    "Benidorm",
+                    "Tenerife",
+                    "Canary Islands",
+                    "Canaries",
+                    "Gran Canaria",
+                    "Fuerteventura"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/spain/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (FCDO) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about FCDO travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>\n    <p>advice on preparing for travel abroad and reducing risks</p>\n  </li>\n  <li>\n    <p>information for women, LGBT+ and disabled travellers</p>\n  </li>\n</ul>\n\n<div class=\"example\">\n<p>Follow and contact FCDO travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/spain/email-signup\">get email notifications</a> when this advice is updated.</p>\n</div>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Spain set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, <a rel=\"external\" href=\"https://www.exteriores.gob.es/Embajadas/londres/en/Paginas/index.aspx\">contact Spain\u2019s embassy or consulates in the UK</a>.</p>\n\n<p>If you are planning to travel to Spain through France, <a href=\"https://www.gov.uk/foreign-travel-advice/france\">check the latest FCDO travel advice for France</a> before you start your journey.</p>\n\n<p>If you are planning to travel to Spain through Gibraltar, <a href=\"https://www.gov.uk/foreign-travel-advice/gibraltar\">check the latest FCDO travel advice for Gibraltar</a> before you start your journey.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Spain.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>If you are planning to travel to an EU country (except Ireland), or Switzerland, Norway, Iceland, Liechtenstein, Andorra, Monaco, San Marino or Vatican City, you must follow the <a rel=\"external\" href=\"https://europa.eu/youreurope/citizens/travel/entry-exit/non-eu-nationals/index_en.htm\">Schengen area passport requirements</a>.</p>\n\n<p>Your passport must be:</p>\n\n<ul>\n  <li>issued less than 10 years before the date you enter the country (check the \u2018date of issue\u2019)</li>\n  <li>valid for at least 3 months after the day you plan to leave (check the \u2018expiry date\u2019)</li>\n</ul>\n\n<p>Check your passport meets these requirements before you travel. If your passport was issued before 1 October 2018, extra months may have been added to its expiry date.</p>\n\n<p><a rel=\"external\" href=\"https://www.exteriores.gob.es/Embajadas/londres/en/Paginas/index.aspx\">Contact Spain\u2019s embassy or consulates in the UK</a> if you think that your passport does not meet both these requirements. <a href=\"https://www.gov.uk/apply-renew-passport\">Renew your passport if you need to</a>.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can travel to countries in the <a rel=\"external\" href=\"https://ec.europa.eu/home-affairs/sites/homeaffairs/files/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf\">Schengen area</a> for up to 90 days in any 180-day period without a visa. This applies if you travel as a tourist, to visit family or friends, to attend business meetings, cultural or sports events, or for short-term studies or training.</p>\n\n<p>If travelling to Spain and other Schengen countries without a visa, make sure your whole visit is within the 90-day limit. Visits to Schengen countries within the previous 180 days before you travel count towards your 90 days.</p>\n\n<p>To stay longer, to work or study, for business travel or for other reasons, you need to meet the Spanish government\u2019s entry requirements. Check with Spain\u2019s embassy or consulates in the UK before you travel about what type of visa or work permit you may need.</p>\n\n<p>If <a href=\"https://www.gov.uk/guidance/travel-to-spain-for-work\">travelling to Spain for work</a>, read the guidance on visas and permits.</p>\n\n<p>If you cannot return to the UK before the expiry of your visa, permit or visa-free limit, <a rel=\"external\" href=\"https://sede.administracionespublicas.gob.es/pagina/index/directorio/ayuda_extranjeria/language/en\">contact the Spanish government\u2019s national information service</a> (In Spanish, English speaking operators are available). You can dial 060 from a Spanish phoneline.</p>\n\n<p>If you are visiting Spain and need to extend your visa-free stay for exceptional reasons, such as a medical emergency, you must <a rel=\"external\" href=\"https://www.inclusion.gob.es/web/migraciones/w/autorizacion-de-residencia-temporal-por-circunstancias-excepcionales-por-razones-humanitarias.-incluye-anexo-de-autorizacion-de-trabajo-hi-39-\">apply to the immigration authorities (\u2018Extranjer\u00eda\u2019)</a>(in Spanish).</p>\n\n<p>If you stay in Spain with a residence permit or long-stay visa, this does not count towards your 90-day visa-free limit.</p>\n\n<h2 id=\"passport-stamping\">Passport stamping</h2>\n\n<p>Check your passport is stamped as you enter or exit the Schengen area through Spain as a visitor.</p>\n\n<p>Border guards check you\u2019re complying with the 90-day visa-free limit for short stays in the Schengen area. If you do not have relevant entry or exit stamps in your passport, they will assume you have overstayed.</p>\n\n<p>You can show evidence of when and where you entered or exited the Schengen area, and ask the border guards to add this date and location in your passport. Examples of acceptable evidence includes boarding passes and tickets.</p>\n\n<h2 id=\"e-gates\">E-gates</h2>\n\n<p>Use the desks staffed by border officers. If you are aged 18 or over, and airport staff instruct you to, you may be able to use e-gates where they are in operation.</p>\n\n<p>If you use an e-gate, make sure you get your passport stamped by a border officer.</p>\n\n<h2 id=\"additional-documents-required-by-tourists\">Additional documents required by tourists</h2>\n\n<p>If you enter the Schengen area as a tourist, you may need to provide additional documents at the border. As well as a valid return or onward ticket, when travelling to Spain you could be asked to show:</p>\n\n<ul>\n  <li>you have enough money for your stay</li>\n  <li>proof of accommodation for your stay, for example:\n    <ul>\n      <li>a hotel booking confirmation</li>\n      <li>proof of address if visiting your own property (such as second home)</li>\n      <li>an invitation or proof of address if staying with a third party, friends or family. A carta de invitation completed by your hosts is one of the options available.</li>\n    </ul>\n  </li>\n</ul>\n\n<p>You can <a rel=\"external\" href=\"https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/extranjeria/regimen-general/entrada-requisitos-y-condiciones/\">visit the Spanish Ministry of Interior website</a> for more information (only available in Spanish).</p>\n\n<h2 id=\"residents-of-spain\">Residents of Spain</h2>\n\n<p>If you are resident in Spain your passport should not be stamped when entering or leaving Spain.</p>\n\n<p>Actively show your proof of residence, such as the foreigner\u2019s identity card (\u2018la tarjeta de identidad de extranjero\u2019 or \u2018TIE\u2019), when presenting your passport at Spanish border control. For further information, <a href=\"https://www.gov.uk/guidance/living-in-spain\">read about living in Spain</a>.</p>\n\n<h2 id=\"travel-between-spain-and-gibraltar\">Travel between Spain and Gibraltar</h2>\n\n<p>Spanish border checks can cause delays when crossing between Spain and Gibraltar. If you are travelling to Spain through Gibraltar, <a href=\"https://www.gov.uk/foreign-travel-advice/gibraltar\">check the travel advice for entry requirements for Gibraltar</a>.</p>\n\n<p>There is no charge to enter or leave Gibraltar. You should not hand over money to anybody claiming there is a charge.</p>\n\n<h2 id=\"unaccompanied-minors\">Unaccompanied minors</h2>\n\n<p>Spanish law considers anyone under 18 to be a minor. If an unaccompanied minor comes to the attention of the Spanish authorities (particularly in connection with criminal incidents or when in hospital) they will be considered vulnerable and may be taken to a minors centre until a parent or guardian is found.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/203/spain\">check the vaccinations and certificates you need on TravelHealthPro</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about what goods can be taken into and out of Spain. You can find details on the <a rel=\"external\" href=\"https://www.agenciatributaria.es/static_files/AEAT/Aduanas/Contenidos_Privados/Viajeros/Viajeros/Folleto_viaj_noUE.pdf\">National Tax Agency leaflet</a> (in Spanish and English). Declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h3 id=\"taking-food-and-drink-into-spain\">Taking food and drink into Spain</h3>\n\n<p>You cannot take meat, milk or products containing them into EU countries. There are some exceptions for medical reasons, for example certain amounts of powdered infant milk, infant food, or pet food required for medical reasons. <a rel=\"external\" href=\"https://ec.europa.eu/food/animals/animalproducts/personal_imports_en\">Check the rules about taking food and drink into the EU</a> on the European Commission website.</p>\n\n<h3 id=\"taking-money-and-goods-into-spain\">Taking money and goods into Spain</h3>\n\n<p><a rel=\"external\" href=\"https://www.aena.es/en/passengers/baggage-controls/customs-vat-refund/circulation-goods-money.html#:~:text=%E2%82%AC10%2C000,submitted%20to%20the%20customs%20service\">Check the National Airport Association</a> website for guidance on taking money and goods into and out of Spain.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>You should also <a href=\"https://www.gov.uk/foreign-travel-advice/spain/\">read FCDO\u2019s overall travel advice</a>.</p>\n\n<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British Nationals, including from groups and individuals who view the UK and British Nationals as targets.  Stay aware of your surroundings at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-spain\">Terrorism in Spain</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are likely to try to carry out attacks in Spain.</p>\n</div>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. Stay aware of your surroundings, keep up to date with local media reports and follow the advice of local authorities.</p>\n\n<p>Recent terrorist attacks in Spain include:</p>\n\n<ul>\n  <li>in January 2023, one person was killed and others injured in a machete attack at 2 churches in Cadiz</li>\n  <li>in 2017, 14 people were killed and over 100 injured across 2 incidents where vehicles were driven into pedestrians in Barcelona and Cambrils</li>\n</ul>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Demonstrations, political gatherings or marches can take place with little or no warning, particularly in cities. Follow the advice of police and local authorities.</p>\n\n<p>While most demonstrations are peaceful, there is a risk of unrest or violence. If you\u2019re in and around areas where demonstrations are taking place, be aware of what is happening around you and move away if there are signs of disorder.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Most visits to Spain are trouble-free, but be alert to street crime. Thieves use distraction techniques, and often work in teams. Take care of your passports, money and personal belongings, particularly when collecting or checking in luggage at the airport, and while arranging car hire.</p>\n\n<p>Do not carry all your valuables in one place. Keep a photocopy or scanned copy of your passport somewhere safe.</p>\n\n<p>Make sure your accommodation has adequate security. Lock all doors and windows at night, or when out. If concerned about the security of your accommodation, speak to your travel operator or the property owner.</p>\n\n<h3 id=\"vehicle-crime\">Vehicle crime</h3>\n\n<p>\u2018Highway pirates\u2019 target foreign-registered and hire cars, especially those towing caravans. They may (forcefully) try to make you stop, claiming there is something wrong with your car or that you have damaged theirs. If you decide to stop to check the condition of a vehicle, stop in a public area with lights, such as a service station. Be wary of anyone offering help.</p>\n\n<p>When driving, be wary of approaches by people posing as police officers in plain clothes travelling in unmarked cars. In all traffic-related matters, police officers will usually be in uniform. All police officers, including those in plain clothes, carry official ID. Unmarked police vehicles have a flashing electronic sign on the rear window which reads Police (\u2018Polic\u00eda\u2019) or Civil Guard (\u2018Guardia Civil\u2019), and may use blue flashing lights. Genuine police officers will only ask you to show them your documents and will not ask for your bag or wallet.</p>\n\n<h3 id=\"attacks-and-sexual-assault\">Attacks and sexual assault</h3>\n\n<p>In an emergency call 112.</p>\n\n<p>Attacks, including sexual assaults, are rare but do occur. See\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">Get help if you are a victim of crime abroad.</a></p>\n\n<p>Avoid splitting up from your friends, do not leave drinks unattended and do not go off with people you do not know. Save the location of your accommodation on your maps app, so it\u2019s easy to find. <a rel=\"external\" href=\"https://travelaware.campaign.gov.uk/#stick_with_your_mates\">See TravelAware \u2018Stick with your mates\u2019</a> for tips and advice.</p>\n\n<p><a href=\"https://www.gov.uk/world/organisations/british-embassy-madrid\">British Consulates in Spain</a> (+34 917 146 300 or +44 207 008 5000) can provide local information and support.</p>\n\n<h3 id=\"drink-and-food-spiking\">Drink and food spiking</h3>\n\n<p>Be alert to the possible use of \u2018date rape\u2019 and other drugs including GHB and liquid ecstasy.</p>\n\n<p>Buy your own drinks and always keep them in sight to avoid them being spiked. Alcohol and drugs can reduce your vigilance, making you less in control. If you drink, know your limit. Drinks served in bars in Spain are often stronger than those in the UK.</p>\n\n<h3 id=\"scams\">Scams</h3>\n\n<p>Thieves posing as police officers may ask to see your wallet, claiming they need to see it for identification. Genuine police officers will ask to see ID, but will not ask for wallets or purses.</p>\n\n<h3 id=\"timeshare-and-holiday-clubs\">Timeshare and holiday clubs</h3>\n\n<p>Timeshare ownership is well established in Spain. There are respected companies, agents and resorts who operate legally and fairly. However, there are also unscrupulous companies who falsely claim to provide incentives.</p>\n\n<p><a rel=\"external\" href=\"https://www.actionfraud.police.uk/a-z-of-fraud/timeshare-fraud\">Read timeshare fraud advice from Action Fraud</a>, the UK\u2019s national fraud reporting centre.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>You must provide photo ID if requested by a police officer. This includes the Guardia Civil and national, regional and local police forces. The police have the right to hold you at a police station until they have confirmed your identity.</p>\n\n<p>Ignoring direct requests of a police officer can be considered as \u2018disobedience\u2019, which is a criminal offence.</p>\n\n<p>Hotels, tourist accommodation and car rental companies have a legal duty to register passport details of tourists when they check-in or collect a vehicle.</p>\n\n<p>When checking-in to your accommodation, wait until hotel staff have registered your passport details, or taken a photocopy of your passport. Do not leave your passport at reception to collect later.</p>\n\n<p>You may need to show ID when buying goods with credit or debit cards. Your driving licence or a photocopy of your passport may be accepted, but they may need you to show your original passport.</p>\n\n<h3 id=\"alcohol-laws-and-bans\">Alcohol laws and bans</h3>\n\n<p>You cannot drink alcohol in the street in some areas of Spain. You can be given an on-the-spot fine. There are strict controls on drinking and sexual activity in public places, including on beaches.</p>\n\n<h3 id=\"alcohol-laws-in-the-balearic-islands\">Alcohol laws in the Balearic Islands</h3>\n\n<p>Local laws limit the sale and availability of alcohol in areas of some resorts on the islands of:</p>\n\n<ul>\n  <li>\n    <p>Mallorca</p>\n  </li>\n  <li>\n    <p>Magaluf (Calvi\u00e0)</p>\n  </li>\n  <li>\n    <p>Playa de Palma</p>\n  </li>\n  <li>\n    <p>Ibiza</p>\n  </li>\n  <li>\n    <p>San Antonio (San Antoni de Portmany)</p>\n  </li>\n</ul>\n\n<p>This prohibits:</p>\n\n<ul>\n  <li>\n    <p>happy hours</p>\n  </li>\n  <li>open bars (such as all you can drink in 1-hour offers)</li>\n  <li>the sale of alcohol from vending machines</li>\n  <li>self-service alcohol dispensers</li>\n  <li>the organising of pub-crawls and party boat trips</li>\n  <li>\u2018off-licence\u2019 sales between 9:30pm and 8am</li>\n</ul>\n\n<p>Hotels and other establishments are obliged to evict customers who behave dangerously on balconies. Both the customer and the establishment can be fined for such behaviour.</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Possession of even a small quantity of drugs can lead to arrest and detention. Possession of large quantities will usually result in prosecution and a prison sentence.</p>\n\n<h3 id=\"illegal-commercial-parties-in-villas-and-private-homes\">Illegal commercial parties in villas and private homes</h3>\n\n<p>There have been a number of serious accidents involving people attending illegal commercially promoted parties in villas and private homes on the islands of Ibiza and Mallorca.</p>\n\n<p>Licensed clubs and bars are required to meet safety and security standards, including emergency exits and capacity limits, and to have trained, licensed security staff. Illegal commercial parties may not meet these standards. Take care of your belongings, make sure you know where emergency exits are and do not take unnecessary risks.</p>\n\n<p>You may receive a fine for attending illegal commercially promoted parties.</p>\n\n<h3 id=\"dress\">Dress</h3>\n\n<p>In some parts of Spain it\u2019s against the law to be in the street wearing only a bikini or swimming shorts. Being bare-chested is also illegal in some areas in Spain. You may be fined if you\u2019re caught wearing swimwear on the seafront promenade or adjacent streets.</p>\n\n<p>For security reasons, some public authorities in Spain do not allow the burka or niqab to be worn in their buildings. If you visit town council buildings wearing a burka or niqab, you may be asked to remove it while inside.</p>\n\n<h3 id=\"changing-money\">Changing money</h3>\n\n<p>When changing money, always use official money exchange offices or banks because unofficial money changers may give you counterfeit money. Possession or use of counterfeit money is considered a serious crime in Spain and may lead to prosecution.</p>\n\n<h3 id=\"lgbt\">LGBT+</h3>\n\n<p>Spain is a generally tolerant and progressive place for LGBT+ travellers. There are active LGBT+ communities and social venues, particularly in big cities. Same-sex marriage has been legal in Spain since 2005. Since 2007, transgender people are able to register under their preferred sex in public documents such as birth certificates, identity cards and passports without undergoing prior gender reassignment surgery. Spain does not recognise a third gender.</p>\n\n<p><a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">Read more advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<h3 id=\"falls-from-height\">Falls from height</h3>\n\n<p>There have been a number of very serious accidents (some fatal) as a result of falls from height, including balconies. Many accidents have involved British nationals, and have had a devastating impact on those involved and their loved ones.</p>\n\n<p>Do not take unnecessary risks around balconies or other high places, particularly if you\u2019re under the influence of drink or drugs. If you are staying in a room with a balcony, follow the safety advice and watch out for friends who may be at risk.</p>\n\n<p>In some regions you may be fined or evicted from your hotel if you are found to be behaving irresponsibly around balconies. Your travel insurance may not cover you for incidents that take place on a balcony or if you were under the influence of drink or drugs when the incident happened.</p>\n\n<h3 id=\"festivals-concerts-and-processions\">Festivals, concerts and processions</h3>\n\n<p>Many large events and public processions are held in Spain each year. Follow the advice of police and local authorities when attending events.</p>\n\n<p>Take care of your valuables if attending a festival or large concert. <a href=\"https://www.gov.uk/guidance/festival-travel-checklist\">See the festival travel checklist</a> for more advice.</p>\n\n<h3 id=\"swimming-and-beaches\">Swimming and beaches</h3>\n\n<p>Every year, people drown in the sea and in swimming pools in Spain. Children should always be supervised, even if they can swim or there is a lifeguard present.</p>\n\n<p>Take care when swimming in the sea. Some beaches, especially around Spanish islands, may have strong undercurrents.</p>\n\n<p>Avoid swimming at beaches that are close to rivers. Do not dive into unknown water as hidden rocks or shallow depths can cause serious injury or death.</p>\n\n<p>Many beaches have a flag system. Make sure you understand the system and follow any warnings (a red flag means you must not enter the water). Take extra care and seek local knowledge if there are no lifeguards, flags or signs.</p>\n\n<p>If you are walking along unmanned beaches, be aware that waves can come in further than expected and have strong undertows.</p>\n\n<p>Further tips can be found on <a rel=\"external\" href=\"https://www.abta.com/tips-and-advice/staying-safe-on-holiday/swim-safe\">ABTA\u2019s swim safe pages</a> and the <a rel=\"external\" href=\"https://www.rlss.org.uk/safety-on-holiday\">Royal Life Saving Society\u2019s \u2018Water Safety on Holiday\u2019</a> page.</p>\n\n<p>Follow local advice if jellyfish are present.</p>\n\n<h3 id=\"hill-walking-skiing-and-mountain-activities\">Hill walking, skiing and mountain activities</h3>\n\n<p>Temperatures in some parts of Spain can change very quickly. Take extra care when planning a hike or walk. Check local weather reports for warnings of extreme heat or cold temperatures.</p>\n\n<p>For advice on safety and weather conditions for skiing or other outdoor activities you can:</p>\n\n<ul>\n  <li>\n    <p>call the Spanish National Tourist Office in London on 020 7317 2028</p>\n  </li>\n  <li>\n    <p>see the <a rel=\"external\" href=\"http://www.avalanches.org/\">European Avalanche Warning Services</a></p>\n  </li>\n</ul>\n\n<p>If an accident occurs while mountaineering, canoeing, potholing or climbing, or if you become lost in the mountains and need mountain rescue, call:</p>\n\n<ul>\n  <li>112 for the emergency services</li>\n  <li>062 for the Civil Guard</li>\n</ul>\n\n<p>The Catalonia region has started billing climbers, skiers and other adventurers whose negligent behaviour causes them to need to be rescued.</p>\n\n<p>Altitude sickness may be a risk in some of the higher mountain ranges in Spain, particularly in the regions of Granada, Huesca and Tenerife. More information about altitude sickness is available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/26/altitude-illness\">TravelHealthPro</a> website.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<p>Check with your airline, tour operator or transport company whether there is any planned strike action which might disrupt your journey.</p>\n\n<h3 id=\"taxis\">Taxis</h3>\n\n<p>Only use official registered or licensed taxis, or reputable transport companies you recognise. Licensing regulations differ across Spain and in certain cities pre-booking is required.</p>\n\n<p>Passengers caught using unlicensed taxi services are liable for fines of up to 600 Euros. Make sure you book your taxi or airport transfer through a licensed firm.</p>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Spain, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/spain/\">read the RAC guide</a>.</p>\n\n<p>In 2021 there were 1,508 road deaths in Spain (<a href=\"https://www.gov.uk/government/statistical-data-sets/reported-road-accidents-vehicles-and-casualties-tables-for-great-britain\">source: Department for Transport</a>). This equates to 32 road deaths per million population and compares to the UK average of 24 road deaths per million population in 2021.</p>\n\n<h3 id=\"licences-and-permits\">Licences and permits</h3>\n\n<p>To drive a car or a motorcycle over 125cc in Spain you must be 18 years of age or above, and at least 16 years old to ride a motorcycle up to 125cc. You must carry a valid driving licence and ID at all times.</p>\n\n<p>If visiting Spain, you can drive on your full UK driving licence. Provisional licences are not valid for driving in Spain.</p>\n\n<p>If you\u2019re living in Spain, <a href=\"https://www.gov.uk/guidance/living-in-spain#driving-in-spain\">check the Living in Guide</a> for information on requirements for residents.</p>\n\n<p>If you are using UK insurance, always carry your certificate with you in case you are stopped. Check that your UK insurance will cover you to drive in Spain, and for how long. This certificate is generally only valid for a stay of less than 3 months.</p>\n\n<h3 id=\"driving-a-british-car-abroad\">Driving a British car abroad</h3>\n\n<p>You may need a UK sticker to drive your car outside the UK. In 2021 UK stickers replaced GB stickers. Check the <a href=\"https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers\">GOV.UK Displaying number plates website</a> for more information on what to do if you are driving outside the UK.</p>\n\n<h3 id=\"driving-regulations\">Driving regulations</h3>\n\n<p>Motorists drive on the right-hand side of the road in Spain. Driving rules and customs are different from those in the UK.</p>\n\n<p>You must carry 2 red warning triangles which, in the event of an accident or breakdown should be placed in front of and behind the vehicle. They should be at least 50 metres away from the vehicle in each direction. You must have a spare wheel and the tools to change it. If you get out of your vehicle during an accident or breakdown, or while waiting for the arrival of the emergency services, you must wear a reflective vest or you may face a fine.</p>\n\n<p>Spain has strict drink driving laws. Police regularly carry out roadside checks for alcohol and drugs. Penalties include fines, loss of licence and imprisonment.</p>\n\n<p>You can be given an on-the-spot fines from the police for a variety of driving offences including speeding. If you accept the fine and pay within 20 days, it will be reduced by 50%. More information on how to pay is available on the <a rel=\"external\" href=\"https://sedeclave.dgt.gob.es/IWPS5/help/sincertificado_en.html\">Spanish driving agency website.</a></p>\n\n<p>Seat belts are compulsory for all passengers in the front and back seats. Children under the age of 12 or under 1.35m in height must use an approved child safety seat and be positioned in the back seat. Children are only permitted to travel in the front seat of the car if the rear seats are already occupied by other children or if the vehicle does not have rear seats. Car hire agencies can provide child seats, so let them know you need one when you reserve the car. Incorrect installation of a child seat or not wearing a seat belt can be considered a serious offence and met with fines.</p>\n\n<p>Motorcyclists (including drivers of mopeds and quads) must wear an approved safety helmet and other protective clothing. Not wearing one is considered a serious offence and can result in a fine.</p>\n\n<p>It is illegal to use a mobile phone when driving, even if you have pulled over to the side of the road. You must be completely away from the road. Using an earpiece is also illegal. Only completely hands-free units are allowed to be used.</p>\n\n<h3 id=\"low-emission-zones\">Low emission zones</h3>\n\n<p>Some inner city areas in Spain have introduced permanent low emission zones (\u2018Zonas de bajas emisiones\u2019 \u2013 ZBE) where only vehicles that meet specific exhaust emission standards and display an air pollution sticker can enter. While air pollution stickers cannot be issued to vehicles with foreign registration plates, some cities do require you to register your vehicle in advance of travel if you wish to enter a low emission zone (e.g. Barcelona). You should check with local authorities in advance of travel for information on local regulations and the requirements for vehicles registered outside of Spain.</p>\n\n<p>The Spanish government\u2019s general information helpline 060 (if calling in Spain) or +34 902 887 060 (if calling from UK) may be able to provide further information.</p>\n\n<p>Some cities also operate emergency anti-pollution protocols to limit exhaust emissions when air pollution levels are high. When activated, vehicle access is restricted and speed limits are imposed. Follow the instructions of the local authorities.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"extreme-temperatures\">Extreme temperatures</h3>\n\n<p>Extreme temperatures can affect many areas of Spain over the summer months. For severe weather warnings and updates, visit the <a rel=\"external\" href=\"https://www.aemet.es/en/portada\">Spanish Meteorological Office (AEMET)</a> and <a rel=\"external\" href=\"https://www.meteoalarm.org/en/?s=italy\">European Meteorological Services website</a>.</p>\n\n<p>For information on how to take care in the heat visit the <a rel=\"external\" href=\"https://www.nhs.uk/live-well/seasonal-health/heatwave-how-to-cope-in-hot-weather/\">NHS</a> website or the website of the <a rel=\"external\" href=\"https://www.sanidad.gob.es/en/ciudadanos/saludAmbLaboral/planAltasTemp/2023/recomendaciones_gnrals_protec_prevencion.htm\">Spanish Ministry of Health</a> (only available in Spanish).</p>\n\n<p>You should check with your travel provider before traveling and follow the advice of local authorities at all times.</p>\n\n<h3 id=\"forest-fires\">Forest fires</h3>\n\n<p>Forest fires occur frequently in Spain (including in the Spanish islands) during the summer months, when temperatures regularly reach over 40\u00baC. Be aware of your environment when visiting or driving through woodland areas. For information on forest fire risk visit the <a rel=\"external\" href=\"https://www.aemet.es/en/eltiempo/prediccion/incendios\">Spanish Meteorological Office (AEMET).</a></p>\n\n<p>Causing a forest fire is a criminal offence in Spain, even if unintentional. Make sure cigarette ends are properly extinguished, do not light barbecues and do not leave empty bottles behind. You can be heavily fined for not following the rules against lighting outdoor barbecues in forest areas. Make sure you know the rules if considering a barbeque.</p>\n\n<p>For information on what to do in the event of a forest fire, visit the <a rel=\"external\" href=\"https://www.proteccioncivil.es/coordinacion/gestion-de-riesgos/incendios-forestales\">Civil Protection website</a> (only available in Spanish). Immediately report any fire you see to the emergency services on 112. In the case of wildfires, the situation can change quickly, so you should stay up to date with official advice.</p>\n\n<h3 id=\"flooding\">Flooding</h3>\n\n<p>Flash flooding can occur, causing travel disruption and damage to property and infrastructure. <a rel=\"external\" href=\"http://www.aemet.es/en/eltiempo/prediccion/avisos\">Check weather warnings from Spain\u2019s meteorological office (AEMET)</a> before travel and follow the advice of the local authorities.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/203/spain\">TravelHealthPro\u2019s Spain guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK may be different in Spain.</p>\n\n<p>TravelHealthPro explains <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p><a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">Apply for a free UK Global Health Insurance Card (GHIC) or European Health Insurance Card (EHIC)</a> before leaving the UK. If you already have an EHIC, it will still be valid as long as it remains in date.</p>\n\n<p>The GHIC or EHIC entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Spanish nationals. If you do not have your EHIC with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A GHIC or EHIC is not an alternative to travel insurance and you should have both before you travel. An EHIC or GHIC does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">Read more about what your travel insurance should cover</a>.</p>\n\n<p>EHIC and GHIC cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<p>For information regarding access to healthcare in Spain <a href=\"https://www.gov.uk/guidance/living-in-spain#healthcare\">see healthcare for UK nationals visiting Spain</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-spain\">Healthcare facilities in Spain</h2>\n\n<p>You can <a href=\"https://www.gov.uk/government/publications/spain-list-of-medical-facilitiespractitioners\">view a list of English speaking doctors</a> in Spain.</p>\n\n<p>If you need hospital treatment in Spain you\u2019re more likely to receive appropriate care in a public healthcare facility. However, in some tourist areas there may not be any public healthcare facilities nearby. Your insurance or medical assistance company will be able to provide further details. Some hotels may call private doctors or ambulances to take patients to private hospitals.  The GHIC or EHIC will not be accepted there. For more information, <a href=\"https://www.gov.uk/guidance/healthcare-in-spain-including-the-balearic-and-canary-islands\">visit Healthcare for UK nationals</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-spain\">COVID-19 healthcare in Spain</h2>\n\n<p>Rapid lateral flow tests (\u2018pruebas de ant\u00edgenos\u2019) are widely available in pharmacies in Spain for a fee.</p>\n\n<p>If you have symptoms or test positive for COVID-19 during your stay in Spain, you are not required to self-isolate.</p>\n\n<p>Hotels and other accommodation providers may have their own COVID-19 protocols in place. Follow any safety measures put in place by your accommodation provider. Your accommodation provider may have a list of private doctors that they can call to assess your symptoms and conduct a COVID-19 test.</p>\n\n<p>Follow the advice of the local authorities.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p><a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">Read FCDO guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">guidance on TravelHealthPro</a>.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-spain\">Emergency services in Spain</h2>\n\n<p>Telephone:</p>\n\n<p>112 (ambulance, fire, police)</p>\n\n<p>Make sure you know the contact details of the local emergency services and the location of the nearest police station.</p>\n\n<h2 id=\"reporting-crime\">Reporting crime</h2>\n\n<p>To report a crime, including stolen property and lost or stolen passports, visit the nearest National Police (\u2018Policia Nacional\u2019), regional police (\u2018Ertzaintza\u2019 in the Basque Country, \u2018Mossos d\u2019Esquadra\u2019 in Catalonia, and \u2018Policia Foral\u2019 in Navarre) or Civil Guard (\u2018Guardia Civil\u2019) station to file a police report (\u2018denuncia\u2019).</p>\n\n<p>Some Spanish cities also offer a <a rel=\"external\" href=\"https://www.policia.es/_es/dependencias_localizador_accesible.php\">Foreign Tourist Assistance Service</a> (\u2018Servicio de Atenci\u00f3n al Turista Extranjero\u2019 or \u2018SATE\u2019) run by the Town Hall and National Police where you will be able to report a crime in English.</p>\n\n<p>Violent crime or sexual assault must be reported in person at the nearest police station. If you\u2019ve had belongings stolen, you\u2019ll need to keep the police report for insurance purposes.</p>\n\n<p>While in Spain, you can <a rel=\"external\" href=\"https://denuncias.policia.es/OVD/\">file a police report online</a> for minor offences such as bag or car theft.</p>\n\n<p>If your passport is lost or stolen, you\u2019ll need to <a href=\"https://www.gov.uk/emergency-travel-document\">apply for an emergency travel document</a> from the nearest British Consulate and to apply for a replacement passport when you return to the UK.</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about changing or cancelling travel plans, including:</p>\n\n<ul>\n  <li>\n    <p>where to get advice if you are in a dispute with a provider</p>\n  </li>\n  <li>\n    <p>how to access previous versions of travel advice to support a claim</p>\n  </li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from FCDO</h2>\n\n<p>FCDO has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>\n    <p>finding <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?serviceType=lawyers&amp;country=spain\">English-speaking\u202flawyers</a>,\u202f<a href=\"https://www.gov.uk/government/publications/spain-list-of-funeral-directors\">funeral directors</a> and\u202f<a href=\"https://www.gov.uk/government/publications/spain-list-of-translators-and-interpreters/list-of-translators-and-interpreters-in-spain\">translators and interpreters</a>\u202fin Spain</p>\n  </li>\n  <li>\n    <p>dealing with a\u202f<a href=\"https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-spain\">death in Spain</a></p>\n  </li>\n  <li>\n    <p>being\u202f<a href=\"https://www.gov.uk/government/publications/spain-prisoner-pack\">arrested in Spain</a></p>\n  </li>\n  <li>\n    <p>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a></p>\n  </li>\n  <li>\n    <p>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a></p>\n  </li>\n  <li>\n    <p>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</p>\n  </li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting FCDO</h2>\n\n<p>Follow and contact FCDO travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/spain/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are in Spain and you need emergency help from the UK government, <a href=\"https://www.gov.uk/world/organisations/british-embassy-madrid\">contact the British Embassy in Madrid or your nearest consulate</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Spain&amp;post=spain%20travel%20advice%20team\">contact FCDO online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">FCDO in London</h3>\n\n<p>You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h3 id=\"living-in-spain\">Living in Spain</h3>\n\n<p>If you\u2019re living in or moving to Spain, read the <a href=\"https://www.gov.uk/guidance/living-in-spain\">Living in Spain guide</a> in addition to this travel advice.</p>\n\n<h3 id=\"risk-information-for-british-companies\">Risk information for British companies</h3>\n\n<p>The\u202f<a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a>\u202foffers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-19T12:53:45Z",
+            "updated_at": "2023-10-19T12:53:45Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-19T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/spain",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/spain",
+                    "base_path": "/foreign-travel-advice/spain",
+                    "content_id": "24df0bb1-0ca1-4675-9237-528ecd3d17a5",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T12:53:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Spain travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/spain",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/spain",
+                    "api_url": "https://www.gov.uk/api/content/world/spain",
+                    "base_path": "/world/spain",
+                    "content_id": "7463bc01-8b53-448a-af7a-401e01388a61",
+                    "description": "Services if you're visiting, studying, working or living in Spain. Includes information about trading with and doing business in the UK and Spain, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Spain",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T16:45:11Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Spain",
+                    "web_url": "https://www.gov.uk/world/spain",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/government/publications/foreign-embassies-in-the-uk",
+                    "api_url": "https://www.gov.uk/api/content/government/publications/foreign-embassies-in-the-uk",
+                    "base_path": "/government/publications/foreign-embassies-in-the-uk",
+                    "content_id": "5c9abed0-7631-11e4-a3cb-005056011aef",
+                    "document_type": "guidance",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T11:46:42Z",
+                    "schema_name": "publication",
+                    "title": "Foreign embassies in the UK",
+                    "web_url": "https://www.gov.uk/government/publications/foreign-embassies-in-the-uk",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/living-in-spain",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-spain",
+                    "base_path": "/guidance/living-in-spain",
+                    "content_id": "5d8c3247-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-04T08:59:59Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Spain",
+                    "web_url": "https://www.gov.uk/guidance/living-in-spain",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-spain",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-spain",
+                    "base_path": "/world/living-in-spain",
+                    "content_id": "2b479119-7612-4a76-a695-c429c98c89a0",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Spain",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/spain",
+                                "api_url": "https://www.gov.uk/api/content/world/spain",
+                                "base_path": "/world/spain",
+                                "content_id": "7463bc01-8b53-448a-af7a-401e01388a61",
+                                "description": "Services if you're visiting, studying, working or living in Spain. Includes information about trading with and doing business in the UK and Spain, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Spain",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:45:11Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Spain",
+                                "web_url": "https://www.gov.uk/world/spain",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T17:05:01Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Spain",
+                    "web_url": "https://www.gov.uk/world/living-in-spain",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-spain",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-spain",
+                    "base_path": "/world/travelling-to-spain",
+                    "content_id": "f79474e9-911a-49b5-a301-0ea11fdde1d5",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Spain",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/spain",
+                                "api_url": "https://www.gov.uk/api/content/world/spain",
+                                "base_path": "/world/spain",
+                                "content_id": "7463bc01-8b53-448a-af7a-401e01388a61",
+                                "description": "Services if you're visiting, studying, working or living in Spain. Includes information about trading with and doing business in the UK and Spain, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Spain",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:45:11Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Spain",
+                                "web_url": "https://www.gov.uk/world/spain",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:18:12Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Spain",
+                    "web_url": "https://www.gov.uk/world/travelling-to-spain",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-19T12:53:45Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1697720024.991-10.13.21.40-47142",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Spain travel advice",
+        "updated_at": "2023-11-15T10:46:59Z",
+        "withdrawn_notice": {}
+    }
+}

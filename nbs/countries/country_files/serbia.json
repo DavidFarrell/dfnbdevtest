@@ -1,0 +1,1043 @@
+{
+    "Country Slug": "serbia",
+    "Country Name": "Serbia",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/serbia",
+        "content_id": "e21957c3-680e-4b4a-bc04-589abc3a2b60",
+        "description": "FCDO travel advice for Serbia. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-12-04T14:44:39.078Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) \u2013 updated information about International Driving Permits/driving licence requirements\r\n\r\n",
+                    "public_timestamp": "2019-03-11T11:30:45.356Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Political situation) and summary - weekly protests are currently taking place in Belgrade and some other towns and cities; these usually remain peaceful, but can cause significant disruption, including to public transport; you should keep up to date with local developments and avoid any large crowds or demonstrations",
+                    "public_timestamp": "2019-03-20T15:57:34.805Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security (Political situation) - Large gatherings have been announced for 12 April in Novi Sad and 13 and 19 April in Belgrade; keep up to date with local developments and avoid any large crowds and demonstrations",
+                    "public_timestamp": "2019-04-09T09:27:29.493Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised dates; large gatherings have been announced for 11 and 12 April in Novi Sad and 13 and 19 April in Belgrade; you should keep up to date with local developments and avoid any large crowds or demonstrations",
+                    "public_timestamp": "2019-04-10T09:27:36.598Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security section (Political situation) - removal of information on large gatherings on 11 and 12 April in Novi Sad and 13 and 19 April in Belgrade",
+                    "public_timestamp": "2019-04-24T16:43:37.427Z"
+                },
+                {
+                    "note": "Health section - some private clinics in Serbia offer treatment for addiction; you should seek advice from your local GP or health provider in the UK before undertaking such treatment",
+                    "public_timestamp": "2019-09-18T13:00:38.000Z"
+                },
+                {
+                    "note": "Summary - addition of link to advice page for Partizan v Manchester United Europa League match on Thursday 24 October 2019",
+                    "public_timestamp": "2019-10-22T09:14:00.000Z"
+                },
+                {
+                    "note": "Summary - Removal of information about the Partizan-Manchester United match on 24 October.",
+                    "public_timestamp": "2019-11-05T16:53:43.000Z"
+                },
+                {
+                    "note": "Health - addition of information and advice on air pollution\r\n",
+                    "public_timestamp": "2020-01-17T16:35:56.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) following a confirmed case of the virus in Serbia ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-06T17:01:11.000Z"
+                },
+                {
+                    "note": "Addition of information on a temporary ban on entry for foreign nationals coming from areas with intense coronarvirus transmission ('Health' page)",
+                    "public_timestamp": "2020-03-10T17:43:26.000Z"
+                },
+                {
+                    "note": "update on Information on precautionary measures in response to coronavirus.  (Summary, Entry requirements and Health pages)",
+                    "public_timestamp": "2020-03-12T22:36:46.000Z"
+                },
+                {
+                    "note": "Update on Information on precautionary measures in response to coronavirus. (Summary, Political Situation, Entry requirements and Health pages)",
+                    "public_timestamp": "2020-03-14T11:55:42.000Z"
+                },
+                {
+                    "note": "Update on a number of measures in response to the coronavirus (COVID-19) pandemic ('Summary', 'Entry requirements' and 'Health'",
+                    "public_timestamp": "2020-03-15T01:06:56.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Serbia, due to measures introduced by the Serbian government in response to the ongoing coronavirus (COVID-19) pandemic ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-16T17:07:11.000Z"
+                },
+                {
+                    "note": "Update on additional restrictions on travellers arriving into Serbia in response to the coronavirus (COVID-19) pandemic ('Summary'  and 'Health')",
+                    "public_timestamp": "2020-03-17T18:43:26.000Z"
+                },
+                {
+                    "note": "Update on state of emergency announced on 15 March in response to the coronavirus (COVID-19) pandemic ('Summary'  and 'Health') ",
+                    "public_timestamp": "2020-03-18T19:49:14.000Z"
+                },
+                {
+                    "note": "Update on airport closures to civilian flights in response to the coronavirus (COVID-19) pandemic (Summary and Health) ",
+                    "public_timestamp": "2020-03-20T01:19:18.000Z"
+                },
+                {
+                    "note": "Update on availability of public transport and some retail, bar and restaurant closures in response to the coronavirus (COVID-19) pandemic (Summary and Health)",
+                    "public_timestamp": "2020-03-21T11:35:35.000Z"
+                },
+                {
+                    "note": "Update on extension of daily curfew and closure of parks, playgrounds and public spaces in response to the coronavirus (COVID-19) pandemic (Summary and Health) ",
+                    "public_timestamp": "2020-03-21T22:50:01.000Z"
+                },
+                {
+                    "note": "Update on curfew hours during the weekend. ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-28T22:23:13.000Z"
+                },
+                {
+                    "note": "Update on local measures and updated advice for people wishing to return to the UK from Serbia ('Coronavirus' and \u2018Return to UK\u2019 pages)",
+                    "public_timestamp": "2020-04-03T14:47:16.000Z"
+                },
+                {
+                    "note": "Update on curfew hours during the weekend. ('Coronavirus' page).",
+                    "public_timestamp": "2020-04-09T09:42:11.000Z"
+                },
+                {
+                    "note": "Update on curfew hours during the weekend and shopping window for over 65s. ('Coronavirus' page).",
+                    "public_timestamp": "2020-04-09T19:37:36.000Z"
+                },
+                {
+                    "note": "Updated information on curfew hours during the weekend and on returning to the UK ('Coronavirus' and 'Return to the UK' pages). ",
+                    "public_timestamp": "2020-04-15T21:44:42.000Z"
+                },
+                {
+                    "note": "Updated information on curfew hours and measures relating to over-65s. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-20T16:21:02.000Z"
+                },
+                {
+                    "note": "Updated information on weekend curfew hours and the right to remain in Serbia for foreign nationals ('Coronavirus' page).",
+                    "public_timestamp": "2020-04-24T11:44:20.000Z"
+                },
+                {
+                    "note": "Updated information on weekend curfew hours, restrictions for over-65s, businesses that may re-open and flights to and from the UK ('Coronavirus' and \u2018Return to UK\u2019 pages).",
+                    "public_timestamp": "2020-04-29T15:41:53.000Z"
+                },
+                {
+                    "note": "Updated information on curfew hours and restrictions for over-65s, over the early May public holiday weekend. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-30T17:30:19.000Z"
+                },
+                {
+                    "note": "Updated information on local measures to limit the spread of coronavirus ('Coronavirus' page).",
+                    "public_timestamp": "2020-05-04T13:33:30.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) local measures ('Coronavirus page)",
+                    "public_timestamp": "2020-05-07T18:26:13.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for foreign nationals, advice on visas and local measures to limit the spread of Coronavirus (Return to the UK, Staying During Coronavirus and Entry Requirements)",
+                    "public_timestamp": "2020-05-16T11:13:48.000Z"
+                },
+                {
+                    "note": "Updated information on resumption of commercial flights. ('Return to the UK' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-05-19T19:06:20.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T12:12:59.000Z"
+                },
+                {
+                    "note": "Updated entry requirements. ('Entry Requirements' page)",
+                    "public_timestamp": "2020-05-21T23:01:02.000Z"
+                },
+                {
+                    "note": "Border crossings are now open. ('Summary', 'Return to the UK', 'Staying during coronavirus' and 'Entry Requirements')",
+                    "public_timestamp": "2020-05-25T15:27:39.000Z"
+                },
+                {
+                    "note": "Update to information on flights to the UK, entry requirements and staying during Coronavirus ( \u201cReturn to the UK\u201d, Staying During Coronavirus\u201d and \u201cEntry Requirements\u201d) ",
+                    "public_timestamp": "2020-06-05T18:08:32.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:57:33.000Z"
+                },
+                {
+                    "note": "Addition of information on obligation to wear a protective face mask on public transport and recommendation to wear one in indoor public places ('Staying during coronavirus' and 'Safety and security' pages).",
+                    "public_timestamp": "2020-06-25T14:48:29.000Z"
+                },
+                {
+                    "note": "Addition of information on: obligation to wear a protective face mask on public transport and in closed public spaces in certain parts of Serbia; and a reduction in the size of gatherings ('Staying during coronavirus' page).",
+                    "public_timestamp": "2020-06-30T09:21:43.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section\u2019 ",
+                    "public_timestamp": "2020-07-01T16:52:59.000Z"
+                },
+                {
+                    "note": "Addition of information on the introduction of further restrictive coronavirus (COVID-19) measures in Novi Pazar, Kragujevac, Tutin, and Vranje ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-02T15:59:50.000Z"
+                },
+                {
+                    "note": "From 4 July, [Country/territory] is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:43:50.000Z"
+                },
+                {
+                    "note": "Addition of information on the introduction of further restrictive coronavirus (COVID-19) measures. ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-03T16:11:48.000Z"
+                },
+                {
+                    "note": "Additional information on the introduction of further restrictive Coronavirus (COVID-19) measures ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-03T22:22:03.000Z"
+                },
+                {
+                    "note": "Additional information on the introduction of further restrictive Coronavirus (COVID-19) measures and updated information on local flooding  ('Coronavirus' 'Natural Disasters')\r\n",
+                    "public_timestamp": "2020-07-06T18:09:29.000Z"
+                },
+                {
+                    "note": "Additional information on the introduction of further restrictive Coronavirus  measures  and update on protests ('Summary', 'Coronavirus' and 'Safety and security')",
+                    "public_timestamp": "2020-07-08T18:58:04.000Z"
+                },
+                {
+                    "note": "The FCO now advise against all but essential travel to Serbia, based on the current assessment of COVID-19 risks. Serbia is no longer exempt from the FCO advice against all non-essential international travel. The Coronavirus page has updated information on local measures and healthcare",
+                    "public_timestamp": "2020-07-09T23:04:58.000Z"
+                },
+                {
+                    "note": "Update to information on new coronavirus (COVID-19) measures affecting public spaces and services and to information on border entry and exit ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-16T16:43:47.000Z"
+                },
+                {
+                    "note": "Update to entry requirements ('Coronavirus' and 'Entry requirements' sections); update on flooding (\u2018Natural Disasters\u2019 section); update on protests (\u2018Safety and security section)",
+                    "public_timestamp": "2020-08-14T23:00:13.000Z"
+                },
+                {
+                    "note": "Update on exemptions to Coronavirus - related entry requirements \r\n('Coronavirus' and 'Entry requirements' sections)",
+                    "public_timestamp": "2020-08-18T10:23:19.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) measures, including curfew hours, public space restrictions ('Coronavirus' page), online self-assessment entry requirements ('Entry requirements' page) and editorial amendments to information on driving standards ('Safety and security' page) ",
+                    "public_timestamp": "2020-09-18T16:03:48.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Serbia in 2019 (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2020-10-05T11:17:39.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions to public spaces and service to limit the spread of Covid-19 ('Coronavirus' page).",
+                    "public_timestamp": "2020-10-08T15:36:18.000Z"
+                },
+                {
+                    "note": "Updated information on latest rules on wearing face masks ('Coronavirus' page).",
+                    "public_timestamp": "2020-10-16T13:46:23.000Z"
+                },
+                {
+                    "note": "Update to information on the rules around the size of gatherings ('Coronavirus' page)",
+                    "public_timestamp": "2020-11-06T17:18:51.000Z"
+                },
+                {
+                    "note": "Updated information on Serbia\u2019s Healthcare System ('Coronavirus' page)",
+                    "public_timestamp": "2020-11-16T09:30:13.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period ('Summary' page).\r\n",
+                    "public_timestamp": "2020-11-19T17:07:30.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus restrictions and healthcare during the pandemic (\u201cCoronavirus\u201d page)",
+                    "public_timestamp": "2020-11-21T19:15:59.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions for public places and services in Serbia ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-04T10:13:02.000Z"
+                },
+                {
+                    "note": "Updated entry requirements in response to Coronavirus ('Entry Requirements' page)",
+                    "public_timestamp": "2020-12-18T17:23:14.000Z"
+                },
+                {
+                    "note": "Updated entry requirements in response to Coronavirus ('Entry Requirements' page)",
+                    "public_timestamp": "2020-12-19T11:50:05.000Z"
+                },
+                {
+                    "note": "Update to information on public space local measures in response to Coronavirus (COVID-19) ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-23T11:23:16.000Z"
+                },
+                {
+                    "note": "Updated opening hours of public spaces and services ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-25T18:15:47.000Z"
+                },
+                {
+                    "note": "Updated information on opening hours of public spaces and services over the New Year due to COVID-19 ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-29T13:44:59.000Z"
+                },
+                {
+                    "note": "Removal of information on exemptions to coronavirus restrictions on 31 December 2020 and 1 January 2021 ('Coronavirus' page).  Update to information on entry rules in response to coronavirus (\u2018Entry requirements\u2019 page) ",
+                    "public_timestamp": "2021-01-11T16:48:37.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Serbia due to COVID-19 restrictions (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-01-14T14:34:32.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Serbia (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-18T15:38:33.000Z"
+                },
+                {
+                    "note": "Update to information on exemptions to PCR testing and self-isolation requirements (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2021-02-04T16:47:05.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Serbia (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-11T10:55:06.000Z"
+                },
+                {
+                    "note": "Update on new measures to limit the spread of Coronavirus on 27 and 28 February (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-26T16:53:41.000Z"
+                },
+                {
+                    "note": "Removal of information on coronavirus measures in place on 27 and 28 February (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-03-02T10:41:02.000Z"
+                },
+                {
+                    "note": "New measures to limit the spread of coronavirus on 6 and 7 March ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-05T17:15:07.000Z"
+                },
+                {
+                    "note": "New measures to limit the spread of coronavirus on 13 and 14 March ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-12T16:52:27.000Z"
+                },
+                {
+                    "note": "New measures introduced in Serbia to limit the spread of coronavirus ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-16T16:06:08.000Z"
+                },
+                {
+                    "note": "Revised information on COVID restrictions for public spaces and services ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-22T17:41:58.000Z"
+                },
+                {
+                    "note": "Revised information on relaxation of COVID-19 restrictions for public spaces and services ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-12T06:58:22.000Z"
+                },
+                {
+                    "note": "Revised information on COVID-19 restrictions ('Coronavirus' page) and COVID-19 entry requirements (\u201cEntry Requirements\u201d page)\r\n",
+                    "public_timestamp": "2021-05-07T15:59:49.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions in Serbia; Cinema screening times have extended ('Coronavirus' page) ",
+                    "public_timestamp": "2021-06-01T14:47:22.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions in Serbia ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-17T15:57:13.000Z"
+                },
+                {
+                    "note": "Clarification on entry requirements into Serbia from Albania, Bosnia and Herzegovina, Bulgaria, Hungary, North Macedonia and Montenegro ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-05T15:09:50.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Serbia, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-07-08T16:28:57.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Serbia ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-07-21T15:33:29.000Z"
+                },
+                {
+                    "note": "Updated advice for visitors who test positive for coronavirus in Serbia ('Coronavirus' page) ",
+                    "public_timestamp": "2021-07-23T09:56:47.000Z"
+                },
+                {
+                    "note": "Clarification on COVID-19 testing requirements for entry to Serbia ('Entry requirements' page)",
+                    "public_timestamp": "2021-09-02T13:11:33.000Z"
+                },
+                {
+                    "note": "Update on local measures in response to Coronavirus in Serbia ('Coronavirus' page).",
+                    "public_timestamp": "2021-10-22T16:33:36.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules in response to Coronavirus (\u2018Entry requirements\u2019 page) and amended guidance on mandatory Covid Passes (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-10-26T16:16:14.000Z"
+                },
+                {
+                    "note": "Amended guidance on mandatory COVID Passes and opening hours for catering facilities (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-11-08T14:34:45.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-11-26T11:26:06.000Z"
+                },
+                {
+                    "note": "Updated entry requirements for travellers arriving from certain countries (\u2019Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-03T16:49:26.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for travel to Serbia ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-09T16:26:11.000Z"
+                },
+                {
+                    "note": "Updated Coronavirus restrictions in Serbia ('Coronavirus' page)",
+                    "public_timestamp": "2022-03-12T00:07:05.000Z"
+                },
+                {
+                    "note": "Adding link to advice page for Red Star v Rangers in Belgrade on 17 March ('Summary' page)",
+                    "public_timestamp": "2022-03-15T08:39:11.000Z"
+                },
+                {
+                    "note": "Updated information on the lifting of COVID-19 entry requirements (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-05-03T15:59:35.000Z"
+                },
+                {
+                    "note": "Update on a number of hoax bomb threats since mid-May (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2022-05-20T14:57:03.000Z"
+                },
+                {
+                    "note": "Updated information on passport validity requirements ('Entry Requirements' page)",
+                    "public_timestamp": "2022-07-25T15:36:08.000Z"
+                },
+                {
+                    "note": "Information on EuroPride which takes place in Belgrade from 12 -18 September 2022 (Safety and Security\u2019 page)",
+                    "public_timestamp": "2022-09-10T12:26:12.000Z"
+                },
+                {
+                    "note": "Updated information on EuroPride taking place in Belgrade 12 -18 September 2022 ('Safety and Security' page).",
+                    "public_timestamp": "2022-09-15T08:13:48.000Z"
+                },
+                {
+                    "note": "Updated information on EuroPride taking place in Belgrade 12 -18 September 2022 ('Safety and Security' page).",
+                    "public_timestamp": "2022-09-16T19:27:21.000Z"
+                },
+                {
+                    "note": "Removal of on EuroPride, which took place in Belgrade 12 -18 September 2022 ('Safety and Security' page).",
+                    "public_timestamp": "2022-09-20T12:57:46.000Z"
+                },
+                {
+                    "note": "Updated information on mass gatherings planned for 26 and 27 May in Belgrade and other towns and cities in Serbia ('Summary' page).",
+                    "public_timestamp": "2023-05-24T14:47:59.000Z"
+                },
+                {
+                    "note": "Removal of specific information on mass gatherings which took place in May in Belgrade and other towns and cities in Serbia ('Summary' page).",
+                    "public_timestamp": "2023-06-06T15:53:44.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:13:00.000Z"
+                },
+                {
+                    "note": "Updated information on travel between Serbia and Kosovo ('Entry Requirements' page).",
+                    "public_timestamp": "2023-06-26T15:39:50.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-08-15T14:29:50.000Z"
+                }
+            ],
+            "country": {
+                "name": "Serbia",
+                "slug": "serbia",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/serbia/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/serbia/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Serbia set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact <a rel=\"external\" href=\"http://www.london.mfa.gov.rs/\">Serbia\u2019s embassy in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Serbia.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>If you are visiting Serbia, your passport should be valid for at least 90 days after your planned date of departure from Serbia.</p>\n\n<h2 id=\"registration\">Registration</h2>\n\n<p>You must register with the local police where you\u2019re staying within 24 hours of your arrival in Serbia. If you\u2019re staying in a hotel, check-in staff will register you automatically. If you do not register, you could get a fine, and face arrest and a court appearance.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>British nationals do not need a visa to visit Serbia for up to 90 days. For further information on entry and exit requirements, contact the <a rel=\"external\" href=\"http://www.london.mfa.gov.rs/\">Serbian embassy in the UK</a>.</p>\n\n<p>If you want to extend your stay in Serbia, you must apply for temporary residence status. You must do this at the police station where you\u2019re registered at least 30 days before the 90-day period expires. For more information visit the website of the <a rel=\"external\" href=\"http://www.mfa.gov.rs/en/\">Serbian Ministry of Foreign Affairs</a>.</p>\n\n<h3 id=\"checks-at-border-control\">Checks at border control</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped.</p>\n</div>\n\n<p>When entering Serbia, make sure border guards stamp your passport. Temporary residents should have an exit-entry visa as well as a residence stamp. If you try to leave Serbia without an entry stamp or exit-entry visa, you may face charges of illegal immigration, a heavy fine and a prison sentence.</p>\n\n<p>You should only enter Serbia through recognised border crossings. Serbian borders remain open for entry and exit, subject to any entry requirements currently in place in neighbouring countries.</p>\n\n<h2 id=\"travelling-between-serbia-and-kosovo\">Travelling between Serbia and Kosovo</h2>\n\n<p>The authorities in Serbia do not consider the designated crossing points with Kosovo to be official international border crossing points.</p>\n\n<p>It is possible to travel from Serbia to Kosovo, and back again.</p>\n\n<p>You cannot travel from Kosovo to Serbia without a Serbian entry stamp from Belgrade, Ni\u0161 or Kraljevo airports, or one of Serbia\u2019s other border crossings with:</p>\n\n<ul>\n  <li>Bosnia and Herzegovina</li>\n  <li>Bulgaria</li>\n  <li>Croatia</li>\n  <li>Hungary</li>\n  <li>Montenegro</li>\n  <li>North Macedonia</li>\n  <li>Romania</li>\n</ul>\n\n<p>You are likely to be refused entry without a valid Serbian entry stamp. You should take a route through a third country.</p>\n\n<p>Border guards have denied foreign nationals entry to Serbia if they have Republic of Kosovo stamps in their passports. We are also aware of isolated incidents where Serbian authorities have cancelled Kosovo stamps in passports of foreign nationals.</p>\n\n<p>Tensions between Serbia and Kosovo can cause difficulties at border crossings with Kosovo.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/193/serbia\">check the vaccinations and certificates you need in TravelHealthPro\u2019s Serbia guide</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.carina.rs/en/passengers/passenger-customs-clearance/useful-information-for-passengers.html\">goods that can be brought into and taken out of Serbia</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<p>You must declare items of value if you are temporarily bringing them to Serbia to avoid customs charges \u2013 for example, jewellery, cameras and computing equipment.</p>\n\n<h2 id=\"taking-money-into-serbia\">Taking money into Serbia</h2>\n\n<p>If you are carrying more than 10,000 euros (or an equal amount in other currencies), you must:</p>\n\n<ul>\n  <li>complete a declaration form at customs on arrival in Serbia \u2013 a customs officer will certify this by signing or stamping the form</li>\n  <li>keep a copy of the certified form while you are in Serbia</li>\n  <li>show the certified form when you leave Serbia</li>\n  <li>show a receipt if you are carrying Serbian dinars bought from a foreign bank</li>\n</ul>\n\n<p>Customs officers may seize your money if you do not follow these rules.</p>\n\n<p>You should exchange any unwanted dinars before you leave Serbia. British banks do not normally exchange dinars. Do not use street dealers. Only change money through banks or official exchange offices.</p>\n\n<p>It is not possible to exchange Scottish and Northern Irish banknotes in Serbia.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>You should also read <a href=\"/foreign-travel-advice/serbia\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a>.</p>\n\n<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-serbia\">Terrorism in Serbia</h3>\n\n<p>Terrorist attacks in Serbia can\u2019t be ruled out.</p>\n\n<p>There is a general threat from terrorism. There may be increased security in place over the festive period, including at Christmas markets and other major events that might attract large crowds. Remain vigilant and follow the advice of the local authorities.</p>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. Terrorists may target religious sites, including churches.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>There is the potential for disturbances in Belgrade and other towns and cities. There have been mass gatherings in Belgrade and other cities since May 2023. Further gatherings are planned. These can cause significant disruption, including to public transport. You should:</p>\n\n<ul>\n  <li>keep up to date with local developments</li>\n  <li>plan ahead to avoid disruption</li>\n  <li>avoid crowds or demonstrations to avoid injury</li>\n</ul>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Take sensible precautions to protect yourself from street crime, particularly in larger cities. Pickpockets work in tourist areas, airports, on public transport and at motorway petrol stations.</p>\n\n<p>As a foreigner, criminals may assume you are carrying large amounts of cash. Four-wheel drive and luxury vehicles are also popular targets.</p>\n\n<p>Some sporting events have had incidents of violence and petty crime.\nReport all incidents of crime to the local police and get a report.</p>\n\n<h2 id=\"unexploded-landmines-and-bombs\">Unexploded landmines and bombs</h2>\n\n<p>There is still some danger from unexploded landmines and bombs from the 1999 war in Kosovo and Serbia. Most of the affected areas are in the mountains to the north and east of Kosovo. Take special care in these areas and keep to marked roads.</p>\n\n<p>Thick vegetation covers most of the dangerous areas. Do not touch anything suspicious and report it to the police.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>It is a legal requirement to carry your passport (as a tourist) or ID card (as a resident) with you for identification purposes.  Keep a copy separately in a safe place.</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>There are strict penalties for possessing and trafficking drugs, including long prison sentences.</p>\n\n<h3 id=\"using-cameras-in-secure-areas\">Using cameras in secure areas</h3>\n\n<p>Taking photographs of military and police installations, personnel or vehicles anywhere in Serbia may lead to arrest or difficulties with the authorities.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex relationships are legal in Serbia, and there are anti-discrimination laws. There are LGBT+ friendly hostels, clubs and other events in Belgrade. However, the level of public prejudice against LGBT+ people is still relatively high. Be aware that showing affection in public could result in unwanted attention.</p>\n\n<p>Read more <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>You need either a 1968 <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">international driving permit (<abbr title=\"international driving permit\">IDP</abbr>)</a> or a valid UK driving licence to drive in Serbia. The 1949 <abbr title=\"international driving permit\">IDP</abbr> is not accepted anymore. You cannot buy an <abbr title=\"international driving permit\">IDP</abbr> outside the UK, so get one before you travel. You can buy an <abbr title=\"international driving permit\">IDP</abbr> in person from some UK post offices \u2013 <a rel=\"external\" href=\"https://www.postoffice.co.uk/identity/international-driving-permit#bf-full-width\">find your nearest post office branch</a> that offers this service.</p>\n\n<p>You can drive with a UK driving licence or <abbr title=\"international driving permit\">IDP</abbr> for a series of short visits up to a year after you first entered Serbia, or for a single stay of up to 6 months. If you\u2019re staying longer than 6 months, you must get a local licence.</p>\n\n<p>If you are planning to drive in Serbia, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/serbia/\">RAC Serbia guide</a>.</p>\n\n<p>The general standard of roads in Serbia varies widely. Roads are worse in rural areas, especially after bad weather. One particularly dangerous road is the Ibarska Magistrala (linking Belgrade, via \u010ca\u010dak and U\u017eice, to Montenegro).</p>\n\n<p>Dial 1987 for roadside assistance.</p>\n\n<h3 id=\"taxis\">Taxis</h3>\n\n<p>You should only use registered taxis \u2013 look for a municipal registration number alongside the cab number. Instead of hailing a taxi, you can call one of the radio taxi phone numbers (most operators speak English). See information about taxis and public transport from the <a rel=\"external\" href=\"https://www.tob.rs/en/info/useful-info/taxi\">Belgrade tourism organisation</a>.</p>\n\n<h3 id=\"car-hire\">Car hire</h3>\n\n<p>Many Serbian car hire firms will not allow you to drive their vehicles to Kosovo, Albania or Bulgaria because of security concerns. There have been some incidents where Serbian registered cars have been vandalised, or in some cases set on fire, in more isolated areas of Kosovo.</p>\n\n<h3 id=\"bringing-a-vehicle-into-serbia\">Bringing a vehicle into Serbia</h3>\n\n<p>If you are bringing a vehicle to Serbia, you must have vehicle registration and ownership documents and a locally valid insurance policy. European green card vehicle insurance is now valid in Serbia, but you no longer need to hold a green card. Confirm with your insurance company that your policy covers Serbia.</p>\n\n<p>Contact the <a rel=\"external\" href=\"http://www.london.mfa.gov.rs/\">Serbian embassy in London</a> if you have more detailed questions about bringing a vehicle to Serbia. The British embassy cannot help you if you arrive at the border without the correct documents.</p>\n\n<h3 id=\"rail-travel\">Rail travel</h3>\n\n<p>Trains can be slow, particularly in winter when there are often long delays. On overnight trains, sleeping berths can be locked from the inside for safety. Each carriage has an attendant. Local police carry out random ID checks onboard trains in Serbia. Thieves operate on trains, so take particular care that documents and other valuables are safe.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"forest-fires\">Forest fires</h3>\n\n<p>During especially hot and dry periods there is a danger of forest fires.  Take care when visiting or driving through woodland areas. Make sure cigarette are properly extinguished and do not light barbecues.</p>\n\n<h3 id=\"flooding\">Flooding</h3>\n\n<p>Parts of Serbia can flood after heavy rain. See flood warnings from the <a rel=\"external\" href=\"http://www.hidmet.gov.rs/index_eng.php\">Serbian Hydrometeorological Service</a>. If floods affect your area, follow the instructions of the Serbian authorities.</p>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>Serbia lies in a seismically active zone, and earth tremors are common. Serious earthquakes are less frequent but can occur. The <a rel=\"external\" href=\"https://www.ready.gov/earthquakes\">US Federal Emergency Management Agency</a> has advice on what to before, during and after an earthquake.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>\n    <p>your destination can provide the healthcare you may need</p>\n  </li>\n  <li>\n    <p>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</p>\n  </li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 194 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>\n    <p>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/193/serbia\">TravelHealthPro\u2019s Serbia guide</a></p>\n  </li>\n  <li>\n    <p>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a></p>\n  </li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-serbia\">Healthcare facilities in Serbia</h2>\n\n<p>You can view a list of <a href=\"https://www.gov.uk/government/publications/serbia-list-of-medical-facilitiespractitioners\">English-speaking doctors in Serbia</a>.</p>\n\n<p>There is a reciprocal healthcare agreement for British nationals visiting Serbia, which entitles you to free emergency treatment. To get treatment you must show:</p>\n\n<ul>\n  <li>a British passport</li>\n  <li>evidence of registration with the local police (if you\u2019re not staying in a hotel)</li>\n  <li>a certificate confirming entitlement to benefit under the UK Social Security Acts \u2013 you can get the certificate from <a href=\"https://www.gov.uk/government/organisations/hm-revenue-customs\">HM Revenue &amp; Customs before you travel</a> or <a href=\"https://www.gov.uk/world/embassies\">contact the British Embassy if you need assistance</a>\n</li>\n</ul>\n\n<p>You may need to pay cash for non-emergency treatment or treatment that is not covered under the reciprocal agreement. Make sure you can access money to cover medical treatment.</p>\n\n<p>Some private clinics in Serbia offer treatment for addiction which may not meet UK standards. Seek advice from your local GP or health provider in the UK before undertaking any treatment.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-serbia\">Emergency services in Serbia</h2>\n\n<p>All emergencies: 112</p>\n\n<p>Ambulance: 194</p>\n\n<p>Fire: 193</p>\n\n<p>Police: 192</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=serbia\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=serbia\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=serbia\">translators and interpreters</a> in Serbia.</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/bereavement-guide-for-serbia\">death in Serbia</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/prisoner-pack-serbia\">arrested in Serbia</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/serbia/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/embassies\">British embassy, consulate or high commission</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Serbia&amp;post=Serbia%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a>.</p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-08-15T14:29:50Z",
+            "updated_at": "2023-08-15T14:29:50Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-24T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/serbia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/serbia",
+                    "base_path": "/foreign-travel-advice/serbia",
+                    "content_id": "e21957c3-680e-4b4a-bc04-589abc3a2b60",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-15T14:29:50Z",
+                    "schema_name": "travel_advice",
+                    "title": "Serbia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/serbia",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/serbia",
+                    "api_url": "https://www.gov.uk/api/content/world/serbia",
+                    "base_path": "/world/serbia",
+                    "content_id": "889ce970-1b33-4d79-b698-a39237351870",
+                    "description": "Services if you're visiting, studying, working or living in Serbia. Includes information about trading with and doing business in the UK and Serbia.",
+                    "details": {
+                        "internal_name": "UK help and services in Serbia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:20Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Serbia",
+                    "web_url": "https://www.gov.uk/world/serbia",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/kosovo",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/kosovo",
+                    "base_path": "/foreign-travel-advice/kosovo",
+                    "content_id": "261a33bd-bf2f-401e-b5e1-31d0b085f4ae",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Kosovo",
+                            "slug": "kosovo",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-12T12:06:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "Kosovo travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/kosovo",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/bosnia-and-herzegovina",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/bosnia-and-herzegovina",
+                    "base_path": "/foreign-travel-advice/bosnia-and-herzegovina",
+                    "content_id": "49bcb1b3-69b8-4351-84af-adb907ce3d2b",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Bosnia and Herzegovina",
+                            "slug": "bosnia-and-herzegovina",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-27T14:50:54Z",
+                    "schema_name": "travel_advice",
+                    "title": "Bosnia and Herzegovina travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/ukraine",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/ukraine",
+                    "base_path": "/foreign-travel-advice/ukraine",
+                    "content_id": "ed654721-0bf5-415e-ad51-4fe93e6b3a0b",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Ukraine",
+                            "slug": "ukraine",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-05T15:59:37Z",
+                    "schema_name": "travel_advice",
+                    "title": "Ukraine travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/ukraine",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/montenegro",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/montenegro",
+                    "base_path": "/foreign-travel-advice/montenegro",
+                    "content_id": "ec6dceb9-de27-496d-be5d-da7f1dfc25bb",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Montenegro",
+                            "slug": "montenegro",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-07T15:55:52Z",
+                    "schema_name": "travel_advice",
+                    "title": "Montenegro travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/montenegro",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/north-macedonia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/north-macedonia",
+                    "base_path": "/foreign-travel-advice/north-macedonia",
+                    "content_id": "269306a3-45ab-4d96-a004-9abfcb7f7972",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "North Macedonia",
+                            "slug": "north-macedonia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-14T15:49:13Z",
+                    "schema_name": "travel_advice",
+                    "title": "North Macedonia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/north-macedonia",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-serbia",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-serbia",
+                    "base_path": "/world/living-in-serbia",
+                    "content_id": "a573446b-78eb-4a74-a15d-79012ff391b2",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Serbia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/serbia",
+                                "api_url": "https://www.gov.uk/api/content/world/serbia",
+                                "base_path": "/world/serbia",
+                                "content_id": "889ce970-1b33-4d79-b698-a39237351870",
+                                "description": "Services if you're visiting, studying, working or living in Serbia. Includes information about trading with and doing business in the UK and Serbia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Serbia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:20Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Serbia",
+                                "web_url": "https://www.gov.uk/world/serbia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:48Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Serbia",
+                    "web_url": "https://www.gov.uk/world/living-in-serbia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-serbia",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-serbia",
+                    "base_path": "/world/travelling-to-serbia",
+                    "content_id": "aec9a6b5-0905-47a8-adac-725d55219203",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Serbia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/serbia",
+                                "api_url": "https://www.gov.uk/api/content/world/serbia",
+                                "base_path": "/world/serbia",
+                                "content_id": "889ce970-1b33-4d79-b698-a39237351870",
+                                "description": "Services if you're visiting, studying, working or living in Serbia. Includes information about trading with and doing business in the UK and Serbia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Serbia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:20Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Serbia",
+                                "web_url": "https://www.gov.uk/world/serbia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:48Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Serbia",
+                    "web_url": "https://www.gov.uk/world/travelling-to-serbia",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-08-15T14:29:50Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1692109790.670-10.13.20.5-27017",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Serbia travel advice",
+        "updated_at": "2023-11-15T11:07:19Z",
+        "withdrawn_notice": {}
+    }
+}

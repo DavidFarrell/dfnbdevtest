@@ -1,0 +1,1062 @@
+{
+    "Country Slug": "norway",
+    "Country Name": "Norway",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/norway",
+        "content_id": "5db38510-b08a-4e4c-b84f-ca2d62353ab6",
+        "description": "FCDO travel advice for Norway. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about restrictions on vehicles with Russian licence plates and advice on political demonstrations (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Health section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:24:47.661Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal; Entry requirements section (Passport validity) - updated information on passport validity rules if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T17:34:20.832Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:41:24.062Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T18:00:24.235Z"
+                },
+                {
+                    "note": "Latest update:  Entry requirements section (Passport validity) - updated information and link to HM Passport Office tool to check passport validity for travel to Europe if the UK leaves the EU with no deal\r\n",
+                    "public_timestamp": "2019-02-19T13:48:34.358Z"
+                },
+                {
+                    "note": "Latest update: Summary and Terrorism section \u2013 updated information and advice on the threat from terrorism in Norway, reflecting a reduced threat \r\n",
+                    "public_timestamp": "2019-03-12T16:49:15.227Z"
+                },
+                {
+                    "note": "Latest update: Summary section - addition of link to guidance on doing business in Norway",
+                    "public_timestamp": "2019-03-25T18:51:58.399Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Passports) - revised information on passport validity",
+                    "public_timestamp": "2019-04-15T08:52:28.810Z"
+                },
+                {
+                    "note": "Terrorism section and summary - addition of factual information about a shooting incident at the Al-Noor Mosque in Baerum, west of Oslo, on 10 August",
+                    "public_timestamp": "2019-08-12T16:24:59.000Z"
+                },
+                {
+                    "note": "Terrorism section and Summary - updated factual information on an arrest on 10 August 2019; Entry requirements section (Visas) - addition of link to Norwegian Directorate of Immigration website",
+                    "public_timestamp": "2019-10-24T10:05:58.000Z"
+                },
+                {
+                    "note": "Summary \u2013 addition of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2019-11-12T17:45:47.000Z"
+                },
+                {
+                    "note": "Summary \u2013 removal of information and advice about Christmas markets and events over the festive period",
+                    "public_timestamp": "2020-01-06T13:22:36.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T19:33:44.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19), following a confirmed case of the virus in Norway ('Health' and 'Summary' pages) ",
+                    "public_timestamp": "2020-02-28T10:52:02.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in response to coronavirus ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-13T13:56:40.000Z"
+                },
+                {
+                    "note": "Information about coronavirus (COVID-19)\r\n",
+                    "public_timestamp": "2020-03-14T11:03:28.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Norway, due to the ongoing coronavirus (COVID-19) pandemic and in line with various controls and restrictions imposed by the Norwegian authorities. British nationals in Norway should follow the advice of the Norwegian authorities. ",
+                    "public_timestamp": "2020-03-14T18:08:09.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Norway, due to the ongoing coronavirus (COVID-19) pandemic and in line with various controls and restrictions imposed by the Norwegian authorities. British nationals in Norway should follow the advice of the Norwegian authorities. ",
+                    "public_timestamp": "2020-03-15T15:02:44.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Norway and Svalbard due to the ongoing coronavirus (COVID-19) pandemic. ('Summary' and 'Health' pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-16T15:09:03.000Z"
+                },
+                {
+                    "note": "British nationals who are not showing symptons are advised to leave Norway immediately (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-19T17:46:56.000Z"
+                },
+                {
+                    "note": "British nationals who are showing no symptoms and wish to leave Norway are advised to make arrangements to do so as soon as possible ('Health' and 'Summary')",
+                    "public_timestamp": "2020-03-19T20:35:47.000Z"
+                },
+                {
+                    "note": "Update to information on travel restriction in relation to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T16:07:27.000Z"
+                },
+                {
+                    "note": "Update to information on travel restriction in relation to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T16:07:27.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-01T18:15:31.000Z"
+                },
+                {
+                    "note": "Updated advice for people wishing to return to the UK from Norway (\u2019Return to the UK\u2019  pages)\r\n",
+                    "public_timestamp": "2020-04-07T12:20:05.000Z"
+                },
+                {
+                    "note": "Update on advice for people wishing to return to the UK from Norway (\u2018Summary\u2019 and \u2019Return to the UK\u2019 pages) ",
+                    "public_timestamp": "2020-04-30T17:07:44.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:50:30.000Z"
+                },
+                {
+                    "note": "Updated information on easing of entry restrictions ('Entry requirements' page) and domestic restrictions in response to coronavirus ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-29T18:21:24.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:12:49.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-01T14:22:41.000Z"
+                },
+                {
+                    "note": "From 4 July, Norway is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2020-07-03T14:23:34.000Z"
+                },
+                {
+                    "note": "Update to information on easing of some coronavirus (COVID-19) entry requirements ('Entry requirements' page) and editorial update on terrorism ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2020-07-03T16:02:23.000Z"
+                },
+                {
+                    "note": "From 15 July, travellers normally resident in the UK may enter Norway and are not required to self-quarantine ('Coronavirus' and 'Entry requirements' sections)",
+                    "public_timestamp": "2020-07-14T16:43:13.000Z"
+                },
+                {
+                    "note": "Update to information on cruise trip travel restrictions ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-05T14:13:53.000Z"
+                },
+                {
+                    "note": "From midnight on 21 August, UK residents will be required to self-quarantine for 10 days on arrival (Summary, Coronavirus and Entry requirements)",
+                    "public_timestamp": "2020-08-21T19:43:59.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T13:37:15.000Z"
+                },
+                {
+                    "note": "New information on road deaths in in 2019 (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2020-10-05T11:14:51.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Norway in 2019 (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2020-10-05T11:15:22.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T10:55:33.000Z"
+                },
+                {
+                    "note": "Update to information on entry rules in Norway in response to COVID-19 ('Entry requirements' page).  New information on advice from the Norwegian government to avoid unnecessary domestic travel ('Coronavirus' page).",
+                    "public_timestamp": "2020-11-06T17:03:44.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period ('Summary' page).",
+                    "public_timestamp": "2020-11-19T17:05:50.000Z"
+                },
+                {
+                    "note": "Addition of information on the rules around visiting Norway from 1 January 2021 ('Summary' page)",
+                    "public_timestamp": "2020-12-07T14:52:45.000Z"
+                },
+                {
+                    "note": "Update to information on entry rules in response to coronavirus ('Entry requirements' page).",
+                    "public_timestamp": "2020-12-18T13:02:36.000Z"
+                },
+                {
+                    "note": "Norway has announced additional restrictions on travel to/from the UK for 48 hours from 21 December ('Summary' page).",
+                    "public_timestamp": "2020-12-21T12:26:30.000Z"
+                },
+                {
+                    "note": "Update to restrictions on travel to and from the UK and update on travel form 1 January 2021 ('Summary'  and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-12-21T19:36:18.000Z"
+                },
+                {
+                    "note": "Further update to restrictions on travel to and from the UK and update on travel from 1 January 2021 ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-12-23T15:57:36.000Z"
+                },
+                {
+                    "note": "Update to restrictions on travel to and from the UK('Summary' page)",
+                    "public_timestamp": "2020-12-27T10:47:51.000Z"
+                },
+                {
+                    "note": "Updated information on travel to Norway from 1 January 2021 and restrictions on travel to and from the UK ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-29T13:02:40.000Z"
+                },
+                {
+                    "note": "Updated information on Norway's travel restrictions to and from the UK. Additional information on accessing healthcare after 1 January 2021 ('Summary', 'Entry requirements' and 'Health' page)",
+                    "public_timestamp": "2020-12-30T11:15:57.000Z"
+                },
+                {
+                    "note": "Updates information following the end of the Brexit Transition Period. ",
+                    "public_timestamp": "2020-12-31T17:18:06.000Z"
+                },
+                {
+                    "note": "Updated information on the end of the ban on flights from the United Kingdom (See 'Summary' and Entry requirements' pages) .",
+                    "public_timestamp": "2021-01-01T14:26:16.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in \r\nNorway (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-15T16:44:41.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from Norway on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page) ",
+                    "public_timestamp": "2021-01-16T01:20:49.000Z"
+                },
+                {
+                    "note": "Time period in which travellers have to get a negative test before departing for Norway reduced from 72 hrs to 24 hrs ('Entry requirements' page) ",
+                    "public_timestamp": "2021-01-24T15:01:15.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Norway (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-12T11:22:38.000Z"
+                },
+                {
+                    "note": "Updated links for entry restrictions for travel to Norway (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-02-26T16:18:34.000Z"
+                },
+                {
+                    "note": "Updated information on entry restrictions for Norway (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-03-10T16:48:45.000Z"
+                },
+                {
+                    "note": "New information on changes to quarantine requirements from 29 March 2021 ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-03-26T17:16:16.000Z"
+                },
+                {
+                    "note": "New information on changes to quarantine requirements from 9 May 2021 ( 'Entry requirements' page).",
+                    "public_timestamp": "2021-05-07T15:46:47.000Z"
+                },
+                {
+                    "note": "New information on changes to entry restrictions from 13 May ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-14T08:17:55.000Z"
+                },
+                {
+                    "note": "New information on testing and quarantine requirements for entry to Norway and information on new guidance for work visas and permits. From 27 May, quarantine requirements for the UK, EU, EEA and Schengen countries will be specific to each country ('Entry requirements' page)\r\n",
+                    "public_timestamp": "2021-06-03T11:06:52.000Z"
+                },
+                {
+                    "note": "From 21 June, travellers who have been in the UK in the last 10 days will be required to stay in a quarantine hotel; a negative test may allow this period to be shortened (Entry requirements)",
+                    "public_timestamp": "2021-06-18T21:29:20.000Z"
+                },
+                {
+                    "note": "From 5 July, travellers from the UK will be required to quarantine at a suitable location for 10 days; a negative test may allow this period to be shortened (Entry requirements)",
+                    "public_timestamp": "2021-07-09T15:05:07.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements from 19 July for UK travellers entering Norway ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-16T15:12:48.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Norway (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T08:44:45.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Norway (\u2018Coronavirus\u2019 page) \r\n",
+                    "public_timestamp": "2021-07-26T15:08:19.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:42:01.000Z"
+                },
+                {
+                    "note": "From 4am on Sunday 8 August Norway will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-05T08:55:38.000Z"
+                },
+                {
+                    "note": "From 3pm on Thursday 12 August Norway will accept the England and Wales NHS COVID Pass for entry (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-08-12T11:40:06.000Z"
+                },
+                {
+                    "note": "From 3pm on Wednesday 18 August Norway will accept the Northern Ireland NHS COVID Pass for entry (\u2018Entry requirements\u2019 page).",
+                    "public_timestamp": "2021-08-19T14:00:15.000Z"
+                },
+                {
+                    "note": "Addition of information on acceptance of the Scottish NHS COVID Pass for entry to Norway from 3 September (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-09-03T17:02:26.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T12:16:49.000Z"
+                },
+                {
+                    "note": "Removal of most COVID restrictions, changes to entry for those without a COVID pass and clarification on length of time after vaccination for entry (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-09-24T15:32:00.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-03T12:28:42.000Z"
+                },
+                {
+                    "note": "Addition of information on travelling via Denmark and changes to the rules for those in close contact with individuals who have tested positive for COVID-19 (\u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-11-08T11:35:20.000Z"
+                },
+                {
+                    "note": "Addition of information about getting your passport stamped when you enter or leave the Schengen area ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-11T14:13:03.000Z"
+                },
+                {
+                    "note": "Updated information on new entry requirements for travel to Norway from 26 November ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-25T17:09:10.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about Christmas markets and events over the festive period (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-11-26T11:25:37.000Z"
+                },
+                {
+                    "note": "Changes in testing rules on entry to Norway (\u2018Entry requirements page)",
+                    "public_timestamp": "2021-12-03T17:09:50.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Norway; information for those with or without a valid QR coded UK NHS Covid Pass ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-09T11:52:55.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:15:47.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccine requirements for entry to Norway (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-17T17:31:43.000Z"
+                },
+                {
+                    "note": "Update to information on proof of residency in Norway (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-12-31T23:59:52.000Z"
+                },
+                {
+                    "note": "Update to information for those without a valid QR coded NHS Covid Pass (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-27T10:00:09.000Z"
+                },
+                {
+                    "note": "Update information on entry requirements; from 12 February no testing, quarantine or registration requirements are required for arrival in Norway apart from Svalbard ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-02-16T17:08:48.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:14:38.000Z"
+                },
+                {
+                    "note": "Addition of information following an attack on a bar in Oslo on 25 June ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2022-06-25T10:08:46.000Z"
+                },
+                {
+                    "note": "Oslo Police has asked people not to attend a solidarity rally planned for 1930 (local time) on Monday 27 June outside Oslo City Hall.",
+                    "public_timestamp": "2022-06-27T17:05:09.000Z"
+                },
+                {
+                    "note": "The Norwegian authorities have raised the threat level, following the shooting incident in Oslo on 25 June ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2022-06-29T09:47:55.000Z"
+                },
+                {
+                    "note": "\"Updated information about the current SAS airline strike that is currently impacting UK travellers booked to fly in Norway and limiting options in and out of Svalbard ('Summary' and 'Svalbard Terrorism' pages)\"",
+                    "public_timestamp": "2022-07-06T17:52:07.000Z"
+                },
+                {
+                    "note": "\"Updated information about the current SAS airline strike that is currently impacting UK travellers booked to fly in Norway and limiting options in and out of Svalbard ('Summary' and 'Svalbard' pages)",
+                    "public_timestamp": "2022-07-06T18:03:55.000Z"
+                },
+                {
+                    "note": "Removal of information on SAS strikes and updated information about the current  terrorism level ('Summary' and 'Terrorism' pages).",
+                    "public_timestamp": "2022-07-29T14:40:39.000Z"
+                },
+                {
+                    "note": "Removal of information on Svalbard coronavirus entry requirements ('Coronavirus' page)",
+                    "public_timestamp": "2022-09-06T15:06:56.000Z"
+                },
+                {
+                    "note": "Removal of reference to a June 2022 incident ('Summary' and 'Terrorism' pages).",
+                    "public_timestamp": "2022-10-05T08:08:24.000Z"
+                },
+                {
+                    "note": "Updated link to advice on extreme weather and crises ('Security and Safety' pages).",
+                    "public_timestamp": "2022-10-12T16:08:58.000Z"
+                },
+                {
+                    "note": "Change of information on terrorism ('Terrorism' page).",
+                    "public_timestamp": "2023-01-20T13:01:26.000Z"
+                },
+                {
+                    "note": "Updated information on avalanche risks ('Summary' page).",
+                    "public_timestamp": "2023-04-05T11:48:15.000Z"
+                },
+                {
+                    "note": "Updated information on hiring electric cars ('Safety and Security' page).",
+                    "public_timestamp": "2023-06-06T09:16:08.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:40:41.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. ",
+                    "public_timestamp": "2023-08-04T15:25:24.000Z"
+                },
+                {
+                    "note": "Information on an extreme weather warning issued for southern Norway including Oslo ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-08-07T14:17:09.000Z"
+                },
+                {
+                    "note": "Updated information on an extreme weather warning issued for southern Norway ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-08-14T14:26:07.000Z"
+                },
+                {
+                    "note": "Removal of information on extreme weather in southern Norway ('Warnings and insurance' page). ",
+                    "public_timestamp": "2023-08-23T11:32:59.000Z"
+                },
+                {
+                    "note": "Information about restrictions on vehicles with Russian licence plates and advice on political demonstrations (\u2018Entry requirements\u2019 and \u2018Safety and security\u2019 pages).",
+                    "public_timestamp": "2023-10-30T16:20:03.000Z"
+                }
+            ],
+            "country": {
+                "name": "Norway",
+                "slug": "norway",
+                "synonyms": [
+                    "arctic",
+                    "Oslo",
+                    "Scandinavia"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/norway/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/norway/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Norway set and enforce entry rules. If you\u2019re not sure how Norway\u2019s entry requirements apply to you, <a rel=\"external\" href=\"https://www.norway.no/en/uk\">contact the Norwegian Embassy in London</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel provider for changes.</p>\n\n<p>You should also read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">TravelHealthPro\u2019s general COVID-19 advice for travellers</a>.</p>\n\n<h3 id=\"entry-to-norway\">Entry to Norway</h3>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Norway.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>Your passport must:</p>\n\n<ul>\n  <li>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports issued after 1 October 2018 are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</li>\n  <li>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</li>\n</ul>\n\n<p><a rel=\"external\" href=\"https://www.norway.no/en/uk\">Contact the Norwegian Embassy in London</a> if your passport does not meet both these requirements.</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document, or try to use a passport that has been reported lost or stolen.</p>\n\n<h3 id=\"checks-at-border-control\">Checks at border control</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Make sure you get your passport stamped.</p>\n</div>\n\n<p>If you\u2019re a visitor, your passport must be stamped when you enter or leave the <a rel=\"external\" href=\"https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/schengen-area_en\">Schengen area</a> (which includes Norway). Border guards will use passport stamps to check you have not overstayed the <a href=\"https://www.gov.uk/travel-to-eu-schengen-area#:~:text=You%20do%20not%20need%20a,or%20for%20certain%20other%20reasons\">90-day visa-free</a> limit for stays in the Schengen area. If your passport was not stamped, border guards will presume you have overstayed the visa-free limit.</p>\n\n<p>If your passport was not stamped, show evidence of when and where you entered or left the Schengen area (for example, boarding passes or tickets) and ask the border guards to add the date and location in your passport.</p>\n\n<p>Read about <a href=\"https://www.gov.uk/guidance/living-in-norway\">passport stamping if you live in Norway</a>.</p>\n\n<p>At Norwegian border control, you may also need to:</p>\n\n<ul>\n  <li>show proof of your accommodation, for example, a hotel booking confirmation or proof of address for a second home</li>\n  <li>show proof of your travel insurance</li>\n  <li>show a return or onward ticket</li>\n  <li>prove that you have enough money for your stay \u2013 the amount varies depending on your accommodation</li>\n</ul>\n\n<h2 id=\"svalbard\">Svalbard</h2>\n\n<p>You\u2019ll need your passport to travel to and enter the Svalbard archipelago.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.toll.no/en/travelling-to-and-from-norway/travel-to-norway/\">goods that can be brought into and taken out of Norway</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<p>It is illegal to import whale meat from Norway into the UK or EU. You could get a fine of up to \u00a35,000 or be imprisoned.</p>\n\n<h3 id=\"restrictions-on-russian-vehicles\">Restrictions on Russian vehicles\u00a0</h3>\n\n<p>There are restrictions on vehicles with Russian licence plates in Norway. See <a rel=\"external\" href=\"https://www.regjeringen.no/en/aktuelt/norway-is-tightening-its-restrictive-measures-against-russia/id2996416/\">Norway\u2019s Ministry of Foreign Affairs for more information</a>.</p>\n\n<h2 id=\"taking-money-into-norway\">Taking money into Norway</h2>\n\n<p>You  can take up to 25,000 Norwegian krone into Norway without declaring it. If you bring in any more than this, you must declare it to customs on arrival.   If you do not declare it, you could get a substantial fine and temporary confiscation of the excess currency, which may then be released only through a bank.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>You should also read <a href=\"/foreign-travel-advice/norway/warnings-and-insurance\"><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a> and <a href=\"/foreign-travel-advice/norway/regional-risks\">regional risks advice </a>.</p>\n\n<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-norway\">Terrorism in Norway</h3>\n\n<p>Terrorist attacks in Norway cannot be ruled out.</p>\n\n<h2 id=\"norway-political-demonstrations\">Norway political demonstrations\u00a0</h2>\n\n<p>Demonstrations in Norway are usually peaceful. If you\u2019re in and around areas where demonstrations are taking place, follow the advice of local authorities and move away if there are signs of disorder.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>There\u2019s a small risk of petty theft, particularly at airports and railway stations in and around Oslo.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<p>Get information about the risk of avalanches from the <a rel=\"external\" href=\"http://www.varsom.no/en/\">Norwegian Avalanche Warning Service</a> or the <a rel=\"external\" href=\"http://www.avalanches.org/\">European Avalanche Warning Services</a>.</p>\n\n<p>Police enforce bans on campfires in many hiking areas during the summer months.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you plan to drive in Norway, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read the <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/norway/\">RAC Norway guide</a>.</p>\n\n<p>For stays of less  than 90 days you can drive with a UK photocard driving licence. For longer stays or if you only have a paper licence, you need an <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">international driving permit (<abbr title=\"international driving permit\">IDP</abbr>)</a>.</p>\n\n<p>Drink-driving laws are strict in Norway. The legal alcohol limit is one quarter of the UK\u2019s legal limit. There are frequent roadside checks for alcohol. Penalties for driving under the influence are severe and include prison sentences.</p>\n\n<p>Car drivers must use winter tyres with a minimum 3 millimetre (mm) tread if there is snow or ice covering the roads. You may also need to use studded tyres or snow chains. Truck drivers must use winter tyres with a minimum 5mm tread and have a sufficient number of snow chains.</p>\n\n<p>You can get the <a rel=\"external\" href=\"https://www.vegvesen.no/en/vehicles/own-and-maintain/tyre-requirements/\">full tyre requirements from Norway\u2019s State Highways</a>.</p>\n\n<p>Keep your headlights on, but dipped, during the daytime all year round in all places.</p>\n\n<p>On roads that are not marked with a priority sign (yellow diamond), you must give way to traffic coming from the right.</p>\n\n<p>If  you commit a driving offence, you could get an on-the-spot fine of up to 10,000 Norwegian krone.</p>\n\n<h2 id=\"arctic-travel\">Arctic travel</h2>\n\n<p>Nearly half of Norway\u2019s land mass is in the Arctic Circle, and if you are travelling to remote Arctic areas in Norway, or travelling by sea in the Arctic you could be at risk.</p>\n\n<p>Consular  assistance and support to British nationals in these areas is limited by the capacity of national and local authorities. Make sure you have appropriate travel insurance and accessible funds to cover the cost of any medical treatment or potential repatriation.</p>\n\n<p>Before you visit:</p>\n\n<ul>\n  <li>consider your access to medical facilities, search and rescue and evacuation options</li>\n  <li>have emergency plans in place, particularly if you are an independent traveller</li>\n</ul>\n\n<h3 id=\"sea-travel-in-the-arctic\">Sea travel in the Arctic</h3>\n\n<p>Most people visit the Arctic by ship. Some areas of the Arctic are uncharted and ice-covered. Before you travel:</p>\n\n<ul>\n  <li>check the experience and credentials of operators offering travel in the region</li>\n  <li>consider the on-board medical facilities and discuss any pre-existing medical conditions with the cruise operator</li>\n</ul>\n\n<h3 id=\"search-and-rescue\">Search and rescue</h3>\n\n<p>In the highest latitude regions of the Arctic, cruise ships may be isolated from other vessels or populated areas. Be aware that:</p>\n\n<ul>\n  <li>search and rescue responders may be very far off, due to extreme distances</li>\n  <li>assistance to stranded vessels may take several days to arrive, particularly in bad weather</li>\n  <li>search and rescue teams only offer basic transport and medical care, and are unlikely to be able to give advanced life support</li>\n</ul>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<p>Extreme weather, floods and landslides can occur. You should follow the advice of local authorities.</p>\n\n<h3 id=\"climate-and-temperature\">Climate and temperature</h3>\n\n<p>The weather can change rapidly, producing Arctic conditions even in summer on exposed mountain tops. Extreme weather can cause floods and landslides.</p>\n\n<p>The winter is long and can last well into April. Temperatures can drop to -25\u00b0C and below. There is also a high wind chill factor, particularly in unsheltered areas and mountain ranges. Weather conditions can worsen quickly.</p>\n\n<h3 id=\"forest-fires\">Forest fires</h3>\n\n<p>During especially hot and dry periods there is a danger of forest fires. Police enforce bans on campfires in many areas.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>This section has safety advice for regions of Norway. It only covers regions where <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> has specific advice.</p>\n\n<p>You should also read <a href=\"/foreign-travel-advice/norway\"><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a> and <a href=\"/foreign-travel-advice/norway/safety-and-security\">safety and security advice</a>.</p>\n\n<h2 id=\"svalbard\">Svalbard</h2>\n\n<p>Follow the <a rel=\"external\" href=\"http://www.sysselmannen.no/en/\">safety advice of the Governor of Svalbard</a>, including on how to protect yourself from polar bear attacks, the risks of glaciers, avalanches and other dangers outside the main town of Longyearbyen.</p>\n\n",
+                    "slug": "regional-risks",
+                    "title": "Regional risks"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 113 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare#visiting-norway-iceland-and-liechtenstein\">healthcare when travelling in Norway</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/168/norway\">TravelHealthPro\u2019s Norway guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-norway\">Healthcare facilities in Norway</h2>\n\n<p>If you\u2019re a UK national, you can use your UK passport to get free state-provided medical treatment in hospitals. Some doctors may charge for their services elsewhere.</p>\n\n<p>Access to free healthcare is not an alternative to travel insurance. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/norway-list-of-medical-facilitiespractitioners\">English-speaking doctors in Norway</a>.</p>\n\n<h2 id=\"covid-19-healthcare-in-norway\">COVID-19 healthcare in Norway</h2>\n\n<p>If you think you may be infected with COVID-19, check for updated information from <a rel=\"external\" href=\"https://www.helsenorge.no/en/coronavirus\">Coronavirus: Norway</a>.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-norway\">Emergency services in Norway</h2>\n\n<p>Fire: 110</p>\n\n<p>Police: 112</p>\n\n<p>Ambulance: 113</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a href=\"https://www.gov.uk/government/publications/norway-list-of-lawyers\">lawyers</a>, <a href=\"https://www.gov.uk/government/publications/norway-list-of-funeral-directors\">funeral directors</a> and <a href=\"https://www.gov.uk/government/publications/norway-list-of-translators-and-interpreters\">translators and interpreters</a> in Norway</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/government/publications/norway-bereavement-packinformation\">death in Norway</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/norway-prisoner-pack\">arrested in Norway</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/norway/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/embassies\">British embassy, consulate or high commission</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Norway&amp;post=Norway%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonweath &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a>.</p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The\u202f<a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a>\u202foffers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-30T16:20:03Z",
+            "updated_at": "2023-10-30T16:20:03Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-20T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/norway",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/norway",
+                    "base_path": "/foreign-travel-advice/norway",
+                    "content_id": "5db38510-b08a-4e4c-b84f-ca2d62353ab6",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:20:03Z",
+                    "schema_name": "travel_advice",
+                    "title": "Norway travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/norway",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/norway",
+                    "api_url": "https://www.gov.uk/api/content/world/norway",
+                    "base_path": "/world/norway",
+                    "content_id": "9b46ab7f-b4b5-48ce-a54f-b03d2503cd63",
+                    "description": "Services if you're visiting, studying, working or living in Norway. Includes information about trading with and doing business in the UK and Norway, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Norway",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-02T16:08:41Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Norway",
+                    "web_url": "https://www.gov.uk/world/norway",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/living-in-norway",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-norway",
+                    "base_path": "/guidance/living-in-norway",
+                    "content_id": "5e342062-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-03-11T08:00:00Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Norway",
+                    "web_url": "https://www.gov.uk/guidance/living-in-norway",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/sweden",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/sweden",
+                    "base_path": "/foreign-travel-advice/sweden",
+                    "content_id": "9772ac3f-b0ea-4787-b859-9a091e1f8af6",
+                    "details": {
+                        "change_description": "Removal of information about extreme weather warning for parts of Sweden ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "Sweden",
+                            "slug": "sweden",
+                            "synonyms": [
+                                "Arctic",
+                                "Stockholm",
+                                "Gothenburg"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-22T09:15:24Z",
+                    "schema_name": "travel_advice",
+                    "title": "Sweden travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/sweden",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/denmark",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/denmark",
+                    "base_path": "/foreign-travel-advice/denmark",
+                    "content_id": "8d0d439c-dcf3-4239-8049-4a7c465baad6",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Denmark",
+                            "slug": "denmark",
+                            "synonyms": [
+                                "arctic",
+                                "Faroe Islands",
+                                "Faroes",
+                                "Copenhagen",
+                                "Greenland"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-24T09:39:42Z",
+                    "schema_name": "travel_advice",
+                    "title": "Denmark travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/denmark",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/russia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/russia",
+                    "base_path": "/foreign-travel-advice/russia",
+                    "content_id": "821537bc-8189-4347-b04d-3c3029f8c947",
+                    "details": {
+                        "change_description": "Information on the restriction of entry for cars registered in Russia (Under \u2018Leaving Russia'; 'By Road\u2019 on the 'Warnings and insurance' page). ",
+                        "country": {
+                            "name": "Russia",
+                            "slug": "russia",
+                            "synonyms": [
+                                "arctic"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T16:32:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "Russia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/russia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/poland",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/poland",
+                    "base_path": "/foreign-travel-advice/poland",
+                    "content_id": "5931cad1-dc75-4c21-b84e-c176441e0190",
+                    "details": {
+                        "change_description": "Updated information about Polish borders ('Safety and security' page).",
+                        "country": {
+                            "name": "Poland",
+                            "slug": "poland",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-25T12:27:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Poland travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/poland",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-norway",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-norway",
+                    "base_path": "/world/living-in-norway",
+                    "content_id": "6413b546-d752-4271-879f-77ad68a6dfed",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Norway",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/norway",
+                                "api_url": "https://www.gov.uk/api/content/world/norway",
+                                "base_path": "/world/norway",
+                                "content_id": "9b46ab7f-b4b5-48ce-a54f-b03d2503cd63",
+                                "description": "Services if you're visiting, studying, working or living in Norway. Includes information about trading with and doing business in the UK and Norway, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Norway",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-03-02T16:08:41Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Norway",
+                                "web_url": "https://www.gov.uk/world/norway",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T17:07:15Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Norway",
+                    "web_url": "https://www.gov.uk/world/living-in-norway",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-norway",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-norway",
+                    "base_path": "/world/travelling-to-norway",
+                    "content_id": "77963b63-9df1-4b40-8420-00cbdc3a701b",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Norway",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/norway",
+                                "api_url": "https://www.gov.uk/api/content/world/norway",
+                                "base_path": "/world/norway",
+                                "content_id": "9b46ab7f-b4b5-48ce-a54f-b03d2503cd63",
+                                "description": "Services if you're visiting, studying, working or living in Norway. Includes information about trading with and doing business in the UK and Norway, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Norway",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-03-02T16:08:41Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Norway",
+                                "web_url": "https://www.gov.uk/world/norway",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:15Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Norway",
+                    "web_url": "https://www.gov.uk/world/travelling-to-norway",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-30T16:20:03Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698682803.652-10.13.20.67-25627",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Norway travel advice",
+        "updated_at": "2023-11-15T10:52:49Z",
+        "withdrawn_notice": {}
+    }
+}

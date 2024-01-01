@@ -1,0 +1,959 @@
+{
+    "Country Slug": "romania",
+    "Country Name": "Romania",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/romania",
+        "content_id": "ddf42429-0853-4737-b75d-2aeaf16b30a0",
+        "description": "FCDO travel advice for Romania. Includes safety and security, insurance, entry requirements and legal differences.  ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary \u2013 addition of link to Living In country guide; Entry requirements section (Visas) - information on draft withdrawal agreement in principle between the UK and EU; Health section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-22T18:27:11.610Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of links to pages with latest updates for UK nationals travelling and living in Europe; Safety and security section (Road travel) - addition of link to information on International Driving Permits if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-01-22T18:21:44.110Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) \u2013 addition of information; EU exit visa requirements ",
+                    "public_timestamp": "2019-01-30T14:46:51.875Z"
+                },
+                {
+                    "note": "Latest update: Health section - addition of information and advice on access to healthcare after the UK leaves the EU",
+                    "public_timestamp": "2019-01-31T18:32:20.430Z"
+                },
+                {
+                    "note": "Summary section - addition of link to guidance on doing business in Romania",
+                    "public_timestamp": "2019-03-25T17:54:30.233Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section - updated information on passport validity and visa requirements",
+                    "public_timestamp": "2019-04-05T13:53:13.479Z"
+                },
+                {
+                    "note": "Summary - addition of information on planned political protest in Bucharest on Saturday 10 August.  You should follow local police instructions",
+                    "public_timestamp": "2019-08-09T11:15:50.000Z"
+                },
+                {
+                    "note": "Summary - removal of information regarding a political demonstration on Saturday 10 August",
+                    "public_timestamp": "2019-08-12T08:48:21.000Z"
+                },
+                {
+                    "note": "Safety and security (Road travel), Entry requirements and Health sections - editorial amendments to add existing information on travel if the UK leaves the EU with a deal",
+                    "public_timestamp": "2020-01-21T18:59:40.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-03T17:14:27.000Z"
+                },
+                {
+                    "note": "Update to information on restrictions for travellers arriving in Romania and restrictions within the country ('Summary')",
+                    "public_timestamp": "2020-03-11T15:54:08.000Z"
+                },
+                {
+                    "note": "Summary and Health \u2013 updated information on coronavirus (COVID-19).",
+                    "public_timestamp": "2020-03-14T18:47:40.000Z"
+                },
+                {
+                    "note": "Summary and Health \u2013 updated information on coronavirus (COVID-19). ",
+                    "public_timestamp": "2020-03-15T22:36:06.000Z"
+                },
+                {
+                    "note": "Further update on travel restrictions ('Summary' page)",
+                    "public_timestamp": "2020-03-19T17:54:26.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus (COVID-19) (Summary and Health)",
+                    "public_timestamp": "2020-03-22T03:10:52.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus (COVID-19) ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-24T11:34:35.000Z"
+                },
+                {
+                    "note": "Further information on local measures taken in response to coronavirus (COVID-19) pandemic ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-25T10:54:27.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-25T17:29:52.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine and self-isolation requirements. ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-27T23:28:27.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine and self-isolation requirements. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-02T19:13:45.000Z"
+                },
+                {
+                    "note": "Latest update: updated advice in the 'Return to the UK' pages.",
+                    "public_timestamp": "2020-04-04T05:40:24.000Z"
+                },
+                {
+                    "note": "Updated information on limited commercial options to return to UK. ('Return to UK' page)",
+                    "public_timestamp": "2020-04-04T14:36:44.000Z"
+                },
+                {
+                    "note": "Addition of information that direct flights between Romania and the UK have been suspended as of 2300 on Sunday 5 April and updated information on local measures to combat the spread of coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-06T16:42:28.000Z"
+                },
+                {
+                    "note": "Addition of information about closest airports to Romania with flight services to the UK (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-15T11:51:07.000Z"
+                },
+                {
+                    "note": "Updated information on closest airports to Romania with direct flights to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-17T00:04:13.000Z"
+                },
+                {
+                    "note": "Updated information on flights to the UK via Dublin ('Return to the UK' page).",
+                    "public_timestamp": "2020-04-22T11:09:36.000Z"
+                },
+                {
+                    "note": "Update to information and advice on internal travel restrictions, quarantine period, movement to State of Alert and easing of some coronavirus (COVID-19) measures ('Return to the UK', 'Staying during coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2020-05-15T15:29:38.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T12:01:37.000Z"
+                },
+                {
+                    "note": "Update to information on transiting Romania ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-20T17:25:40.000Z"
+                },
+                {
+                    "note": "Updated information about the lifting of the travel suspension to and from Romania from 1 June ('Return to the UK' page) and updated information on moving around in Romania ('Staying during coronavirus' page) ",
+                    "public_timestamp": "2020-05-29T15:48:54.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:39:35.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-09T16:21:48.000Z"
+                },
+                {
+                    "note": "Addition of information on entry requirements and passport validity from January 2021 (see \u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-09-07T11:59:40.000Z"
+                },
+                {
+                    "note": "New information on road deaths in Romania in 2019 (\u2018Safety and security\u2019page)",
+                    "public_timestamp": "2020-10-05T10:22:48.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements and restrictions in public spaces. Travellers planning to stay in Romania for 3 days or less are exempt from quarantine and travellers arriving into Romania from the UK must quarantine for 14 days on arrival (\u2018Coronavirus' and 'Entry requirements\u2019 pages)",
+                    "public_timestamp": "2020-10-06T16:02:28.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine for travellers arriving into Romania from the UK ('Entry requirements' page).",
+                    "public_timestamp": "2020-10-07T09:10:21.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions in Romania ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-19T15:50:24.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions  - public spaces and services ('Coronavirus' page)",
+                    "public_timestamp": "2020-10-22T16:49:02.000Z"
+                },
+                {
+                    "note": "Update to information on visas from January 2021 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-06T11:19:08.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 restrictions in Romania (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-11-06T16:48:08.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for Romania (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-11-13T15:58:51.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements and extension of State of Alert in Romania (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-12-15T13:47:57.000Z"
+                },
+                {
+                    "note": "The Romanian government has announced that from 24:00 (CET) December 20 all arrivals from the UK, regardless of nationality, are required to self-isolate for 14 days and from 19:00 (CET) 21 December all passenger flights to and from the UK will be banned for 14 days (\u2018Summary\u2019 and \u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-12-20T21:58:53.000Z"
+                },
+                {
+                    "note": "Update to reflect that UK-issued European Health Insurance Cards (EHIC) will still be accepted from 1 January 2021 ('Health' page)",
+                    "public_timestamp": "2020-12-29T18:11:53.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements from 1 January 2021 (\u2018Summary\u2019 and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-12-31T18:23:41.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements from 1 January 2021 (\u2018Summary\u2019 and 'Entry Requirements' pages). ",
+                    "public_timestamp": "2021-01-03T23:38:32.000Z"
+                },
+                {
+                    "note": "Update to information on exemptions to regulation on self-isolation for entry to Romania ('Entry requirements' page)",
+                    "public_timestamp": "2021-01-05T16:43:52.000Z"
+                },
+                {
+                    "note": "Update to information on measures in place in public spaces and on services ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-15T16:47:14.000Z"
+                },
+                {
+                    "note": "Update to information on COVID 19 tests and changes to entry restrictions (See \u2018Summary, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages).",
+                    "public_timestamp": "2021-01-20T20:04:11.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Romania (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-22T15:46:57.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Romania (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-11T14:22:21.000Z"
+                },
+                {
+                    "note": "Update on extension to State of Alert in Romania (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-15T12:47:20.000Z"
+                },
+                {
+                    "note": "Update on COVID-19 entry requirements (\u2018Entry requirements\u2019 and 'Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-03-05T12:20:56.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Romania; travellers arriving from the UK no longer need to have had a negative PCR test before flying, or present evidence of vaccination, or to self-isolate on arrival to Romania (Summary' and 'Entry requirements' pages). Additional COVID-19 restrictions for religious festivals and public places and services ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-01T12:24:03.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements and COVID-19 restrictions for public places and services ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-05-07T16:43:19.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for travellers from the UK and COVID-19 restrictions for public places and services ('Coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-05-30T14:52:10.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for travellers arriving into Romania from the UK ('Entry requirements' page) ",
+                    "public_timestamp": "2021-06-04T15:21:30.000Z"
+                },
+                {
+                    "note": "Addition of information on applying for an EU Digital COVID Certificate if you received your vaccination in Romania (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-22T08:57:04.000Z"
+                },
+                {
+                    "note": "Update to information on passport validity requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-07-27T16:53:14.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Romania (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-08-03T09:39:30.000Z"
+                },
+                {
+                    "note": "From 4am on Sunday 8 August Romania will move to the green list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-05T08:55:21.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Romania, based on the current assessment of COVID-19 risks.",
+                    "public_timestamp": "2021-08-06T10:48:40.000Z"
+                },
+                {
+                    "note": "Update to information on the State of Alert. Addition of information on certain exceptions from quarantine for travellers arriving in Romania from Great Britain ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-09-06T15:06:07.000Z"
+                },
+                {
+                    "note": "Information about GB and UK stickers, on your car when driving outside the UK ('Safety and security' page)",
+                    "public_timestamp": "2021-09-08T12:18:47.000Z"
+                },
+                {
+                    "note": "Additional information on Romanian COVID regulations ('Coronavirus' page)",
+                    "public_timestamp": "2021-10-06T15:59:03.000Z"
+                },
+                {
+                    "note": "Information on new guidance for work visas and permits ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-21T11:13:07.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules for children ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-26T10:27:06.000Z"
+                },
+                {
+                    "note": "Addition of information that people wanting to use the UK systems to demonstrate their COVID-19 status using a printed PDF version will need to ensure the printout is dated from 1 November ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-03T11:01:43.000Z"
+                },
+                {
+                    "note": "Update on entry requirements to Romania.  With effect from 00:00 on 10 December 2021, a PCR test is required to enter Romania.  ('Entry requirements')",
+                    "public_timestamp": "2021-12-09T22:37:59.000Z"
+                },
+                {
+                    "note": "Updated information about passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T15:17:03.000Z"
+                },
+                {
+                    "note": " Update on entry requirements to Romania, including the requirement for anyone arriving from the UK to present a negative PCR test ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T18:15:01.000Z"
+                },
+                {
+                    "note": "Update on entry requirements. From 20 December 2021, all passengers travelling to Romania must complete a Passenger Locator Form, no more than 24 hours before entering the country. ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-20T19:35:55.000Z"
+                },
+                {
+                    "note": "Clarification on entry requirements and an update on wearing a medical grade mask ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-01-06T15:51:13.000Z"
+                },
+                {
+                    "note": "Update on entry requirements and length of self-isolation periods ('Entry requirements' pages)",
+                    "public_timestamp": "2022-01-14T19:48:19.000Z"
+                },
+                {
+                    "note": "Clarification to entry requirements and length of self-isolation periods ('Entry requirements' pages)",
+                    "public_timestamp": "2022-01-17T16:45:50.000Z"
+                },
+                {
+                    "note": "Changes to the Entry Requirements section. Relaxation of Measures and Mandatory Self-Isolation for Direct Contacts. Passenger Location Form changes and exemptions. ",
+                    "public_timestamp": "2022-02-05T16:28:46.000Z"
+                },
+                {
+                    "note": "Updated information to clarify entry and quarantine requirements for unvaccinated travellers ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-11T16:46:44.000Z"
+                },
+                {
+                    "note": "Updates on travel from Ukraine to Romania. ('Summary' and 'Safety and security' pages)\r\n",
+                    "public_timestamp": "2022-02-18T23:12:48.000Z"
+                },
+                {
+                    "note": "There are multiple reports of widespread military activity in Ukraine.  You should not attempt to cross into Ukraine from Romania. ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-02-24T05:30:08.000Z"
+                },
+                {
+                    "note": "Updated information regarding the ongoing situation in neighbouring Ukraine. You should not attempt to cross into Ukraine from Romania. (See 'Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-02-26T14:51:20.000Z"
+                },
+                {
+                    "note": "Updated information about the ending of the State of Alert regarding COVID-19 and if you enter Romania from Ukraine. (See 'Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-03-16T16:45:23.000Z"
+                },
+                {
+                    "note": "Clarification about current passport validity ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-12T14:34:23.000Z"
+                },
+                {
+                    "note": "Addition of information on Blue Air flights being suspended (\u2018Summary\u2019 page).",
+                    "public_timestamp": "2022-09-08T13:35:02.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T09:48:32.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-08-22T14:33:42.000Z"
+                }
+            ],
+            "country": {
+                "name": "Romania",
+                "slug": "romania",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/romania/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/romania/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Romania set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">Romania\u2019s Embassy in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Romania.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To enter Romania your passport must:</p>\n\n<ul>\n  <li>have a \u2018date of issue\u2019 less than 10 years before the date you arrive. Passports issued after 1 October 2018 are now valid for only 10 years, but for passports issued before 1 October 2018, extra months may have been added if you renewed a passport early</li>\n  <li>have an \u2018expiry date\u2019 at least 3 months after the day you plan to leave</li>\n</ul>\n\n<p>Check the <a rel=\"external\" href=\"https://www.mae.ro/en/node/2035\">Ministry of Foreign Affairs</a> for the latest guidance on passport validity.</p>\n\n<p>Contact the <a rel=\"external\" href=\"https://londra.mae.ro/en\">Romanian embassy in the UK</a> if you think that your passport does not meet both these requirements. <a href=\"https://www.gov.uk/apply-renew-passport\">Renew your passport</a> if you need to.</p>\n\n<h2 id=\"passport-stamping\">Passport stamping</h2>\n\n<p>At the Romanian border your passport may be stamped when you enter and exit Romania. Border guards will use passport stamps to check you have not overstayed the 90-day visa-free limit for short stays in Romania.</p>\n\n<p>You can show tickets or boarding passes as evidence of when and where you entered or exited Romania. Ask the border guards to add this date and location in your passport.</p>\n\n<p>If you have a <a rel=\"external\" href=\"https://commission.europa.eu/strategy-and-policy/relations-non-eu-countries/relations-united-kingdom/eu-uk-withdrawal-agreement/citizens-rights/information-about-national-residence-schemes-each-eu-country_en\">Withdrawal Agreement residency document</a> for another country, your passport might still be stamped if you are a visitor to Romania.</p>\n\n<p>You may also need to:</p>\n\n<ul>\n  <li>show a return or onward ticket</li>\n  <li>show you have enough money for your stay</li>\n</ul>\n\n<p>Read about <a href=\"https://www.gov.uk/guidance/living-in-romania\">passport stamping if you live in Romania</a>.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You can visit Romania for up to 90 days in any 180-day period without a visa. This applies if you travel:</p>\n\n<ul>\n  <li>as a tourist</li>\n  <li>to visit for family or friends</li>\n  <li>to attend business meetings, cultural or sports events</li>\n  <li>for short-term studies or training</li>\n</ul>\n\n<p>To stay longer (to work or study, for business travel or for other reasons) you will need to meet the Romanian government\u2019s entry requirements. Check with the <a rel=\"external\" href=\"http://londra.mae.ro/en\">Romanian Embassy in the UK</a> what type of visa and/or work permit you may need.</p>\n\n<p>Your passport must be valid for at least 6 months after the end date of the visa.</p>\n\n<p>If you stay in Romania with a Romanian residence permit or long-stay visa, this time does not count towards your 90-day visa-free limit for Romania.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/185/romania\">vaccinations and certificates you need in TravelHealthPro\u2019s Romania guide</a>.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.customs.ro/en/\">goods that you can take into or out of Romania</a> (in Romanian). You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h2 id=\"leaving-romania-with-children-aged-17-and-under\">Leaving Romania with children aged 17 and under</h2>\n\n<p>If you\u2019re travelling with a child who holds Romanian citizenship, and you are not the child\u2019s parent, or you are a parent but the other parent is not travelling with you, you may need to show notarised parental consent.</p>\n\n<p>A list of the public notaries can be found on the website of the <a rel=\"external\" href=\"http://www.uniuneanotarilor.ro/?p=2.2.3&amp;lang=en\">National Union of Public Notaries</a> of Romania.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-romania\">Terrorism in Romania</h3>\n\n<p>Terrorist attacks in Romania cannot be ruled out. Attacks could be indiscriminate, including in places visited by foreigners.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>There is widespread military activity in Ukraine. You should not attempt to cross into Ukraine from Romania. See <a href=\"https://www.gov.uk/foreign-travel-advice/ukraine\">Ukraine travel advice</a>.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Be alert to petty theft in large towns, especially Bucharest. Thieves use distraction techniques and organised attacks by groups can happen. Take care of your passport, money and personal belongings, particularly:</p>\n\n<ul>\n  <li>near exchange shops and hotels</li>\n  <li>on public transport, especially to the airport</li>\n  <li>in main railway stations</li>\n  <li>inside airport terminals</li>\n</ul>\n\n<p>Credit or debit cards have been \u2018copied\u2019 when used for payment in some bars and restaurants.</p>\n\n<p>Use a hotel safe for valuables where possible and carry a photocopy or scanned copy of your passport.</p>\n\n<h3 id=\"organised-crime\">Organised crime</h3>\n\n<p>People-trafficking groups operate in the border areas.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>The age of consent is 18. Romanian authorities treat all drug-related and sex offences very seriously. If convicted, you can expect a prison sentence.</p>\n\n<h3 id=\"using-cameras-in-secure-areas\">Using cameras in secure areas</h3>\n\n<p>Most airports and military bases will have signs banning photography. If there could be sensitivity about taking pictures, ask permission.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex relationships are legal in Romania. There are active LGBT+ communities and events in Romania, though the majority of LGBT+ people are not openly gay. Find <a rel=\"external\" href=\"https://www.mozaiqlgbt.ro/en/\">local information on LGBT+ issues in Romania</a> and <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">read more advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>You can use a UK photocard driving licence to drive in Romania. If you still have a paper driving licence, you may need to update it to a photocard licence or get the <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">correct version of the International Driving Permit (<abbr title=\"International Driving Permit\">IDP</abbr>)</a> as well.</p>\n\n<p>If you are planning to drive in Romania, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a> and read <a rel=\"external\" href=\"https://www.rac.co.uk/drive/travel/country/romania/\">RAC\u2019s Romania guide</a>.</p>\n\n<p>Hire car companies often have stricter requirements for their customers, such as a year of driving experience, minimum age and holding an <abbr title=\"International Driving Permit\">IDP</abbr>.</p>\n\n<h3 id=\"driving-a-british-car-abroad\">Driving a British car abroad</h3>\n\n<p>Make sure you have:</p>\n\n<ul>\n  <li>your full, valid driving licence</li>\n  <li>proof of insurance/green card (third party or above)</li>\n  <li>proof of ID (passport)</li>\n  <li>proof of ownership (V5C certificate)</li>\n</ul>\n\n<p>You need a UK sticker to drive your car outside the UK. Since 2021, UK stickers have replaced GB stickers. Check the government guidance on <a href=\"https://www.gov.uk/displaying-number-plates/flags-symbols-and-identifiers\">displaying number plates</a> for more information on what to do if you are driving outside the UK.</p>\n\n<p>Check the <a href=\"https://www.gov.uk/guidance/living-in-romania\">driving requirements if you\u2019re living in Romania</a>.</p>\n\n<h3 id=\"driving-regulations\">Driving regulations</h3>\n\n<p>Carry a first aid kit, fire extinguisher, red warning triangle and a fluorescent jacket. You must have winter tyres from 1 November to 1 March.</p>\n\n<p>You\u2019ll need to pay a road toll \u2018Rovinieta\u2019 to use the national roads. Buy the vignette (sticker) at border points and at most petrol stations. If you do not display the sticker you may get a heavy fine. See <a rel=\"external\" href=\"https://www.roviniete.ro/en/#go-content\">Roviniete.ro</a> for information, including prices.</p>\n\n<p>It\u2019s illegal to drive under the influence of alcohol. The drink-drive limit is zero.</p>\n\n<p>If your vehicle is damaged before you arrive in Romania, ask a Romanian customs officer or police officer to write a report on the damage, so that you avoid any problems when leaving. If any damage happens inside the country, you must get a report at the scene of the accident.</p>\n\n<h3 id=\"road-safety\">Road safety</h3>\n\n<p>Road conditions are variable and secondary roads can be in a bad state of repair. Driving standards can be poor. Look out for:</p>\n\n<ul>\n  <li>double-parked cars</li>\n  <li>people suddenly braking to avoid a pothole</li>\n  <li>horse-drawn carts, livestock and stray dogs in rural areas</li>\n</ul>\n\n<h3 id=\"taxis\">Taxis</h3>\n\n<p>Most taxis in Bucharest should list prices on the side of the vehicle and display a company name. Foreign visitors can be overcharged by taxi drivers.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>Romania is in a seismically active area and tremors happen regularly. The last major earthquake was in 1977.</p>\n\n<p>See the US Federal Emergency Management Agency guidance about <a rel=\"external\" href=\"https://www.ready.gov/earthquakes\">what to do before, during and after an earthquake</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<p>For more information read guidance on <a href=\"https://www.gov.uk/guidance/uk-residents-visiting-the-eueea-and-switzerland-healthcare\">healthcare when travelling in Europe</a>.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/185/romania\">TravelHealthPro\u2019s Romania guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-romania\">Healthcare facilities in Romania</h2>\n\n<p>FCDO has a list of <a href=\"https://www.gov.uk/government/publications/medical-facilities-list-romania\">English-speaking doctors in Romania</a>.</p>\n\n<h2 id=\"health-insurance-cards\">Health insurance cards</h2>\n\n<p>Apply for a free <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">UK Global Health Insurance Card (<abbr title=\"Global Health Insurance Card\">GHIC</abbr>)</a> or <a rel=\"external\" href=\"https://www.nhs.uk/using-the-nhs/healthcare-abroad/apply-for-a-free-uk-global-health-insurance-card-ghic/\">European Health Insurance Card (<abbr title=\"European Health Insurance Card\">EHIC</abbr>)</a> before leaving the UK. If you already have an <abbr title=\"European Health Insurance Card\">EHIC</abbr>, it will still be valid as long as it remains in date.</p>\n\n<p>The <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> entitles you to state-provided medical treatment necessary during your trip. Any treatment provided is on the same terms as Romanian nationals. If you do not have your card with you or you\u2019ve lost it, <a rel=\"external\" href=\"https://www.nhsbsa.nhs.uk/contact-overseas-healthcare-services\">contact the NHS Overseas Healthcare Team</a>.</p>\n\n<p>It\u2019s important to take out appropriate travel insurance for your needs. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> is not an alternative to travel insurance and you should have both before you travel. A <abbr title=\"Global Health Insurance Card\">GHIC</abbr> or <abbr title=\"European Health Insurance Card\">EHIC</abbr> does not cover all health-related costs, for example, medical repatriation, ongoing medical treatment and non-urgent treatment. Read more about <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">what your travel insurance should cover</a>.</p>\n\n<p><abbr title=\"Global Health Insurance Card\">GHIC</abbr> and <abbr title=\"European Health Insurance Card\">EHIC</abbr> cover state healthcare only, not private treatment. You will be responsible for the cost of any treatment provided by a private doctor or private clinic.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">FCDO guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-romania\">Emergency services in Romania</h2>\n\n<p>Telephone: 112 (ambulance, fire, police)</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Romania\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Romania\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters\">translators and interpreters</a> in Romania</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/guidance/what-to-do-after-a-british-person-dies-in-romania\">death in Romania</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/romania-prisoner-pack\">arrested in Romania</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/romania/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are in Romania and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-bucharest\">British Embassy Bucharest</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Romania&amp;post=Romania%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-romania\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-08-22T14:33:42Z",
+            "updated_at": "2023-08-22T15:06:28Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-14T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/romania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/romania",
+                    "base_path": "/foreign-travel-advice/romania",
+                    "content_id": "ddf42429-0853-4737-b75d-2aeaf16b30a0",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-22T14:33:42Z",
+                    "schema_name": "travel_advice",
+                    "title": "Romania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/romania",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/brexit-guidance",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/brexit-guidance",
+                    "base_path": "/government/collections/brexit-guidance",
+                    "content_id": "479cd15b-680f-4fbe-bc64-55058879957e",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-04-05T08:09:16Z",
+                    "schema_name": "document_collection",
+                    "title": "Travel or do business in Europe: Brexit guidance",
+                    "web_url": "https://www.gov.uk/government/collections/brexit-guidance",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/romania",
+                    "api_url": "https://www.gov.uk/api/content/world/romania",
+                    "base_path": "/world/romania",
+                    "content_id": "7fc3848d-676f-4c30-add8-58aaffcd74a6",
+                    "description": "Services if you're visiting, studying, working or living in Romania. Includes information about trading with and doing business in the UK and Romania, and your rights after the UK\u2019s exit from the EU.",
+                    "details": {
+                        "internal_name": "UK help and services in Romania",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-02-28T16:43:48Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Romania",
+                    "web_url": "https://www.gov.uk/world/romania",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/living-in-romania",
+                    "api_url": "https://www.gov.uk/api/content/guidance/living-in-romania",
+                    "base_path": "/guidance/living-in-romania",
+                    "content_id": "5e2dfb6d-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-03-11T08:00:00Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Living in Romania",
+                    "web_url": "https://www.gov.uk/guidance/living-in-romania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/ukraine",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/ukraine",
+                    "base_path": "/foreign-travel-advice/ukraine",
+                    "content_id": "ed654721-0bf5-415e-ad51-4fe93e6b3a0b",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Ukraine",
+                            "slug": "ukraine",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-05T15:59:37Z",
+                    "schema_name": "travel_advice",
+                    "title": "Ukraine travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/ukraine",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/bulgaria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/bulgaria",
+                    "base_path": "/foreign-travel-advice/bulgaria",
+                    "content_id": "94aa06ba-2d58-4299-88ba-8861acc18729",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Bulgaria",
+                            "slug": "bulgaria",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-06T15:27:57Z",
+                    "schema_name": "travel_advice",
+                    "title": "Bulgaria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/bulgaria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/serbia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/serbia",
+                    "base_path": "/foreign-travel-advice/serbia",
+                    "content_id": "e21957c3-680e-4b4a-bc04-589abc3a2b60",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Serbia",
+                            "slug": "serbia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-15T14:29:50Z",
+                    "schema_name": "travel_advice",
+                    "title": "Serbia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/serbia",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-romania",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-romania",
+                    "base_path": "/world/living-in-romania",
+                    "content_id": "d77a68d9-4dd5-43e7-b5c7-53de02ce62f9",
+                    "description": "Guidance on your rights after the UK\u2019s exit from the EU, accessing healthcare, getting a document legalised, English-speaking lawyers, how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Romania",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/romania",
+                                "api_url": "https://www.gov.uk/api/content/world/romania",
+                                "base_path": "/world/romania",
+                                "content_id": "7fc3848d-676f-4c30-add8-58aaffcd74a6",
+                                "description": "Services if you're visiting, studying, working or living in Romania. Includes information about trading with and doing business in the UK and Romania, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Romania",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:43:48Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Romania",
+                                "web_url": "https://www.gov.uk/world/romania",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2020-03-03T17:03:02Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Romania",
+                    "web_url": "https://www.gov.uk/world/living-in-romania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-romania",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-romania",
+                    "base_path": "/world/travelling-to-romania",
+                    "content_id": "44b9841e-b9fb-4130-baa4-e79963d4f3e5",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Romania",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/romania",
+                                "api_url": "https://www.gov.uk/api/content/world/romania",
+                                "base_path": "/world/romania",
+                                "content_id": "7fc3848d-676f-4c30-add8-58aaffcd74a6",
+                                "description": "Services if you're visiting, studying, working or living in Romania. Includes information about trading with and doing business in the UK and Romania, and your rights after the UK\u2019s exit from the EU.",
+                                "details": {
+                                    "internal_name": "UK help and services in Romania",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2020-02-28T16:43:48Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Romania",
+                                "web_url": "https://www.gov.uk/world/romania",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:37Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Romania",
+                    "web_url": "https://www.gov.uk/world/travelling-to-romania",
+                    "withdrawn": false
+                }
+            ],
+            "topical_events": [
+                {
+                    "api_path": "/api/content/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "api_url": "https://www.gov.uk/api/content/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "base_path": "/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "content_id": "bfa79635-ffda-4b5d-8266-a9cd3a03649c",
+                    "document_type": "topical_event",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-02-22T20:38:46Z",
+                    "schema_name": "topical_event",
+                    "title": "Russian invasion of Ukraine: UK government response",
+                    "web_url": "https://www.gov.uk/government/topical-events/russian-invasion-of-ukraine-uk-government-response",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-08-22T14:33:42Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1692716787.979-10.13.20.5-25242",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Romania travel advice",
+        "updated_at": "2023-11-15T11:06:59Z",
+        "withdrawn_notice": {}
+    }
+}

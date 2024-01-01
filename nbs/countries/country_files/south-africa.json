@@ -1,0 +1,1259 @@
+{
+    "Country Slug": "south-africa",
+    "Country Name": "South Africa",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/south-africa",
+        "content_id": "e4649806-d58a-40f7-b86d-09a4376c25a0",
+        "description": "Latest FCDO travel advice for South Africa including on entry requirements, safety and security and local laws and customs",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information on 'smash and grab' attacks on vehicles ('Safety and security' page).\r\n\r\nInformation on the less secure areas around international airports in Johannesburg and Cape Town ('Safety and security' page).\r\n\r\nAdditional information on asking for a life-jacket when participating in water sports ('Safety and security' page).\r\n\r\n",
+            "change_history": [
+                {
+                    "note": "Latest update: This advice has been reviewed in full; Summary - revised information on water consumption in the Western Cape; Health section - revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-13T10:08:45.873Z"
+                },
+                {
+                    "note": "Latest update: Summary and Entry requirements section (Travelling with children (under 18)) - information on travelling with children has been revised in full ",
+                    "public_timestamp": "2018-12-21T14:34:40.053Z"
+                },
+                {
+                    "note": "Latest update: this travel advice has been reviewed in full; Safety and security section (Road travel) - updated information on driving licence requirements for visitors and residents in South Africa; Terrorism section - update to existing information on kidnap threat",
+                    "public_timestamp": "2019-03-22T13:19:05.960Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Local travel) - South Africa will hold national and provincial elections on 8 May 2019; protest marches and demonstrations can occur anywhere in South Africa and sometimes at short notice; you should avoid areas where demonstrations and marches are taking place",
+                    "public_timestamp": "2019-05-02T09:34:21.523Z"
+                },
+                {
+                    "note": "Latest update: Safety and security (Local travel) - removal of information on national and provincial elections on 8 May 2019",
+                    "public_timestamp": "2019-05-13T08:33:11.235Z"
+                },
+                {
+                    "note": "Health section - updated information on medical tourism; if you choose to attend a rehabilitation centre, do extensive research in advance, ensure you have the appropriate visa for your stay and have comprehensive travel insurance",
+                    "public_timestamp": "2019-08-21T11:43:50.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full with amendments throughout",
+                    "public_timestamp": "2019-09-17T14:21:29.000Z"
+                },
+                {
+                    "note": "Entry requirements section (Travelling with children (under 18)) - factual update on consent letter requirements for school tours",
+                    "public_timestamp": "2019-10-21T13:24:34.000Z"
+                },
+                {
+                    "note": "Entry requirements section (UK Emergency Travel Documents) - updated infromation on the use of ETDs for entry, transit and exit from South Africa",
+                    "public_timestamp": "2019-10-31T16:55:14.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on South African Airlines cancelled flights, relaxed requirements for travelling with children under the age of 18 and scams targeted at British nationals ",
+                    "public_timestamp": "2019-11-21T16:45:01.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on South African Airways cancelled flights, relaxed requirements for travelling with children under the age of 18 and scams targeted at British nationals ",
+                    "public_timestamp": "2019-11-21T17:38:10.000Z"
+                },
+                {
+                    "note": "Summary -  removal of information on strike action affecting South African Airways flights",
+                    "public_timestamp": "2019-11-28T10:08:40.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on potential changes to South African Airways timetable",
+                    "public_timestamp": "2019-12-05T16:19:10.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on cancellations to some international and domestic South African Airways flights",
+                    "public_timestamp": "2020-01-21T15:07:23.000Z"
+                },
+                {
+                    "note": "Summary \u2013 update to information on South African Airways international and domestic flight schedules ",
+                    "public_timestamp": "2020-01-31T14:59:46.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on coronavirus (COVID-19) following a confirmed case of the virus in South Africa ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-05T18:34:54.000Z"
+                },
+                {
+                    "note": "Update on measures regarding coronavirus ('Health')",
+                    "public_timestamp": "2020-03-15T06:25:38.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to South Africa.  This is due to entry restrictions announced by the government of South Africa in response to the coronavirus, (COVID-19) pandemic. These measures will come in to effect as of 18 March (Summary, Entry requirements and Health pages)",
+                    "public_timestamp": "2020-03-16T01:09:41.000Z"
+                },
+                {
+                    "note": "Addition of information on a new requirement for British nationals to apply for a visa prior to travel. ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-16T14:40:18.000Z"
+                },
+                {
+                    "note": "Update of information on travel restrictions in relation to coronavirus (COVID-19) ('Summary' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-03-17T14:42:49.000Z"
+                },
+                {
+                    "note": "Update to information and advice about coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-17T17:08:30.000Z"
+                },
+                {
+                    "note": "Update to information and advice about coronavirus (COVID-19) ('Health' page)",
+                    "public_timestamp": "2020-03-18T20:39:54.000Z"
+                },
+                {
+                    "note": "Transit update: travellers wishing to transit South African international airports may do so without a visa unless they have been in the UK, China, Germany, Iran, Italy, the Republic of Korea, Spain or the USA since 15 March 2020",
+                    "public_timestamp": "2020-03-19T17:00:19.000Z"
+                },
+                {
+                    "note": "Transit update: travellers wishing to transit South African international airports may do so without a visa unless they have been in the UK, China, Germany, Iran, Italy, the Republic of Korea, Spain or the USA since 15 March",
+                    "public_timestamp": "2020-03-20T18:27:27.000Z"
+                },
+                {
+                    "note": "Cases of coronavirus have been confirmed in South Africa. The South African authorities have introduced a number of measures to limit the spread of the virus (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019)",
+                    "public_timestamp": "2020-03-24T00:51:04.000Z"
+                },
+                {
+                    "note": "Closure of South African airspace to commercial airlines from midnight on 26 March until at least 16 April, as part of further efforts to contain the spread of coronavirus (COVID-19)  (\u2018Coronavirus\u2019, \u2018Return to the UK\u2019, \u2018Safety and Security\u2019 and \u2018Local laws and customs\u2019 pages)",
+                    "public_timestamp": "2020-03-25T21:07:16.000Z"
+                },
+                {
+                    "note": "Advice for British Nationals affected by the lock down, and closure of South African airspace to commercial airlines from midnight on 26 March until at least 16 April. ('Coronavirus' and \u2018Return to the UK' page) ",
+                    "public_timestamp": "2020-03-27T18:04:11.000Z"
+                },
+                {
+                    "note": "Latest update: Updated information on South African measures to limit the spread of coronavirus (COVID-19) (Summary, Coronavirus, Return to the UK, Entry Requirements pages). ",
+                    "public_timestamp": "2020-03-29T18:56:25.000Z"
+                },
+                {
+                    "note": "Update on repatriation flights (\"Return to UK\" section)",
+                    "public_timestamp": "2020-04-05T17:45:05.000Z"
+                },
+                {
+                    "note": "Update on lockdown (\"Coronavirus\" section)",
+                    "public_timestamp": "2020-04-09T21:32:09.000Z"
+                },
+                {
+                    "note": "Update regarding flights ('summary' 'Return to the UK') ",
+                    "public_timestamp": "2020-04-16T23:15:07.000Z"
+                },
+                {
+                    "note": "Updated information on measures introduced to combat the spread of coronavirus (COVID-19) and update of information and advice on returning to the UK ('Summary', 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-24T17:15:38.000Z"
+                },
+                {
+                    "note": "From 1 May, the South African government has instituted a nationwide curfew from 8pm to 5am.  On 1 May, South Africa moved to level 4 (from level 5) for lockdown restrictions. ('Summary', 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-30T23:15:09.000Z"
+                },
+                {
+                    "note": "Latest update:  The Embassy of Qatar in conjunction with Qatar Airways are arranging special charter repatriation flights to Qatar from where there are onward connections to the UK. Bookings may be made directly with Qatar Airways (see \u2018Return to the UK\u2019 pages). ",
+                    "public_timestamp": "2020-05-03T16:12:51.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on how to book on special charter repatriation flights from ORT Johannesburg to Qatar for onward connections to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-04T16:04:27.000Z"
+                },
+                {
+                    "note": "Removal of information on special charter repatriation flights from ORT Johannesburg to Qatar for onward connections to the UK which have now been cancelled ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-06T17:19:33.000Z"
+                },
+                {
+                    "note": "Addition of information on special flights to the UK between 23 May and 4 June. (\u2018Summary\u2019 'Return to the UK' page)",
+                    "public_timestamp": "2020-05-19T08:41:08.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T12:19:10.000Z"
+                },
+                {
+                    "note": "Update to information on cost of repatriation flight from Johannesburg ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-21T13:01:34.000Z"
+                },
+                {
+                    "note": "Bookings for our Johannesburg flights are now full and the booking site has now closed (Return to the UK page) ",
+                    "public_timestamp": "2020-05-21T16:08:05.000Z"
+                },
+                {
+                    "note": "Updated guidance from the South African authorities concerning South African nationals, including dual British-South African nationals, able to leave the country. ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-24T15:16:28.000Z"
+                },
+                {
+                    "note": "Update to information on closure of booking portals for repatriation charter flights and how to  express interest for possible cancellation seats (\u2018Return to the UK' page)",
+                    "public_timestamp": "2020-05-27T10:26:40.000Z"
+                },
+                {
+                    "note": "Addition of information regarding closure of ticket booking on remaining repatriation charter flights to the UK ('Summary' and 'Return to the UK' pages) and update to information and advice on reduction of level 4 lockdown restrictions to level 3 from 1 June ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-03T13:26:46.000Z"
+                },
+                {
+                    "note": "Updated information to reflect end of special repatriation flights. ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-05T16:25:41.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T13:06:53.000Z"
+                },
+                {
+                    "note": "Updated information on repatriation flights, including limited flights by KLM on 17, 20 and 21 June (\u2019Summary' and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-06-12T10:59:21.000Z"
+                },
+                {
+                    "note": "Updated information on repatriation flights, including limited flights by KLM on 20, 21, 26, 27 June and 3 and 4 July, and by Lufthansa on 27 June (\u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-06-18T15:17:11.000Z"
+                },
+                {
+                    "note": "Addition of information on repatriation flights by Emirates on 23, 25, 28 and 30 June (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-06-22T16:03:18.000Z"
+                },
+                {
+                    "note": "Addition of information on repatriation flights (\u2018Return to the UK\u2019 page) and an update on visas to enter South Africa for UK nationals (see \u2018Entry Requirements\u2019)",
+                    "public_timestamp": "2020-06-30T18:17:25.000Z"
+                },
+                {
+                    "note": "Editorial review to improve \u2018Coronavirus\u2019 and 'Entry requirements' sections.  Updated information on the availability of flights. ('Return to the UK' page)",
+                    "public_timestamp": "2020-07-09T14:29:03.000Z"
+                },
+                {
+                    "note": "Update to information on the process for obtaining a permission to travel letter and using private planes and boats. Update to information on flight options ('Return to the UK' page)",
+                    "public_timestamp": "2020-07-17T09:26:14.000Z"
+                },
+                {
+                    "note": "Update to information on flight options ('Return to the UK' page).",
+                    "public_timestamp": "2020-07-24T13:07:32.000Z"
+                },
+                {
+                    "note": "Update to information on flight options ('Return to the UK' page)",
+                    "public_timestamp": "2020-07-31T11:21:29.000Z"
+                },
+                {
+                    "note": "Updated information on international flights ('Return to the UK' page).",
+                    "public_timestamp": "2020-08-03T14:41:47.000Z"
+                },
+                {
+                    "note": "Removal of a Qatari flight option ('Return to the UK' page)",
+                    "public_timestamp": "2020-08-05T09:04:07.000Z"
+                },
+                {
+                    "note": "Updated information about available flight options ('Return to the UK' page)",
+                    "public_timestamp": "2020-08-12T09:46:42.000Z"
+                },
+                {
+                    "note": "Update to information about travel in South Africa, accommodation, public spaces and services (\u2018Coronavirus\u2019 page). Update to information about available flight options ('Return to the UK' page)",
+                    "public_timestamp": "2020-08-21T15:56:15.000Z"
+                },
+                {
+                    "note": "Update on the British and Irish Lions tour in 2021 & available flight options from South Africa.\r\n(\u2018Coronavirus\u2019 & 'Return to the UK' pages)",
+                    "public_timestamp": "2020-08-25T16:37:41.000Z"
+                },
+                {
+                    "note": "Update on available flight options from South Africa ('Return to the UK' page).  Update to information on quarantine requirements on arrival in South Africa ('Entry requirements' page).\r\n",
+                    "public_timestamp": "2020-09-01T16:44:26.000Z"
+                },
+                {
+                    "note": "Addition of information on available flight options from South Africa ('Return to the UK' page) ",
+                    "public_timestamp": "2020-09-08T16:01:14.000Z"
+                },
+                {
+                    "note": "Addition of information on transiting South Africa for a repatriation flight and update to information on available flight options from South Africa ('Return to the UK' page) ",
+                    "public_timestamp": "2020-09-15T11:20:55.000Z"
+                },
+                {
+                    "note": "Updated information on a change to South Africa\u2019s rules on international flights from 1 October and update to information on available flight options from South Africa ('Return to the UK' page). ",
+                    "public_timestamp": "2020-09-25T13:52:21.000Z"
+                },
+                {
+                    "note": "Updated information on a change to South Africa\u2019s rules on international flights from 1 October ('Summary' page)",
+                    "public_timestamp": "2020-09-30T16:37:31.000Z"
+                },
+                {
+                    "note": "Update to information on international travel to South Africa, including negative COVID-19 test requirements ('Summary', 'Return to the UK' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-02T16:24:53.000Z"
+                },
+                {
+                    "note": "Visa-free travel has been reinstated for British travellers who have been in a low-risk country for at least 10 days immediately prior to arriving in South Africa ('Entry requirements' page)",
+                    "public_timestamp": "2020-10-05T17:46:01.000Z"
+                },
+                {
+                    "note": "Editorial review to remove the 'Return to the UK' page.  Update to information on transiting South Africa, and UK Emergency Travel Documents ('Entry requirements' page).",
+                    "public_timestamp": "2020-10-06T16:10:59.000Z"
+                },
+                {
+                    "note": "Updated information on entry in South Africa for long-term visa holders ('Entry requirements' page)",
+                    "public_timestamp": "2020-10-15T15:34:50.000Z"
+                },
+                {
+                    "note": "Updated information on visitors intending to visit South Africa for three months or more ('Entry requirements' page)",
+                    "public_timestamp": "2020-10-21T15:25:05.000Z"
+                },
+                {
+                    "note": "Addition of information on the easing of travel restrictions ('Summary','Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-13T16:38:42.000Z"
+                },
+                {
+                    "note": "Removal of information on applying for a visa to travel to South Africa ('Entry requirements' page)",
+                    "public_timestamp": "2020-11-18T14:48:42.000Z"
+                },
+                {
+                    "note": "Updated information on how old your COVID-19 test must be to enter South Africa ('Entry requirements' page)",
+                    "public_timestamp": "2020-11-19T10:47:43.000Z"
+                },
+                {
+                    "note": "New testing information for entering South Africa; upon arrival you must present a paper copy of a negative PCR test ('Summary', 'Coronavirus' and 'Entry requirements' page)",
+                    "public_timestamp": "2020-11-30T16:30:09.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full.  The \u2018Coronavirus\u2019 page has updated information on local restrictions and healthcare in South Africa",
+                    "public_timestamp": "2020-12-08T11:16:16.000Z"
+                },
+                {
+                    "note": "The South African government has announced that South Africa has entered a second wave of COVID-19.  Revised testing requirements before entry introduced along with further restrictions ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-15T19:21:57.000Z"
+                },
+                {
+                    "note": "South Africa  is undergoing a second wave of COVID-19. Most new cases are caused by a new variant of COVID-19. Some European countries have decided to restrict flights to and from South Africa. ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-12-21T16:01:23.000Z"
+                },
+                {
+                    "note": "Restrictions on travel to South Africa, in response to a new variant of COVID-19 (Summary, Entry restrictions and Coronavirus)",
+                    "public_timestamp": "2020-12-24T07:29:51.000Z"
+                },
+                {
+                    "note": "Update on restrictions on travel from South Africa in response to a new variant of COVID-19 ('Summary', and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-12-24T12:51:14.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions in South Africa due to the second wave of COVID-19 ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-12-29T13:56:48.000Z"
+                },
+                {
+                    "note": "Updated information on travelling to the UK for those that have visited South Africa in the last 10 days. ('Coronavirus' and \u2018International Travel\u2019 pages)",
+                    "public_timestamp": "2020-12-30T14:21:15.000Z"
+                },
+                {
+                    "note": "Removal of instructions to people who need to travel outside curfew if they have arrived on an international flight ('Coronavirus' pages)",
+                    "public_timestamp": "2020-12-31T10:38:02.000Z"
+                },
+                {
+                    "note": "Removal of advice on UK entry requirements for those travelling from South Africa prior to 31 December 2020.  ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-01T00:44:29.000Z"
+                },
+                {
+                    "note": "Updated information on land border closures in South Africa. ('Coronavirus' and \u2018Entry and Borders\u2019 pages) ",
+                    "public_timestamp": "2021-01-12T18:02:46.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to South Africa; you can only transit via South Africa by air ('Summary', 'Coronavirus' and 'Entry requirements' page)",
+                    "public_timestamp": "2021-01-15T13:53:37.000Z"
+                },
+                {
+                    "note": "New information on tropical storm Eloise (\u2018Summary\u2019 page). ",
+                    "public_timestamp": "2021-01-21T14:33:43.000Z"
+                },
+                {
+                    "note": "Updated information on Tropical Storm Eloise and visa extensions for foreign nationals currently in South Africa ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-22T16:25:50.000Z"
+                },
+                {
+                    "note": "Removal of information on Tropical Storm Eloise ('Summary' page)",
+                    "public_timestamp": "2021-01-29T09:19:38.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures; removal of information on local COVID-19 \"hotspots\" ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-02-04T16:47:42.000Z"
+                },
+                {
+                    "note": "Removal of information on the closure of land borders ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-02-15T17:32:02.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from South Africa. ('Summary' page)",
+                    "public_timestamp": "2021-02-16T17:50:47.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-19T12:40:23.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from South Africa ('Summary' page) ",
+                    "public_timestamp": "2021-02-19T15:51:49.000Z"
+                },
+                {
+                    "note": "New information on getting a COVID-19 vaccine in South Africa and updated information on new quarantine rules for visiting the UK ('Summary' and \u2018Coronavirus\u2019 pages).  ",
+                    "public_timestamp": "2021-02-23T17:10:26.000Z"
+                },
+                {
+                    "note": "Updated information on 'Level One' lockdown restrictions in South Africa ('Coronavirus' page).",
+                    "public_timestamp": "2021-03-01T15:28:33.000Z"
+                },
+                {
+                    "note": "Update to say the validity of short-term visas (up to 90 days) is extended until 30 June and requirement for an antigen test if no evidence of PCR test provided ('Entry Requirements' page).",
+                    "public_timestamp": "2021-03-27T13:03:41.000Z"
+                },
+                {
+                    "note": "Information on a major fire that has broken out on Table Mountain, affecting Newlands Forest, the University of Cape Town and the Vredehoek area ('Summary' page). New information on how to get a COVID-19 vaccine if you are over 60 and live in South Africa ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-19T13:30:04.000Z"
+                },
+                {
+                    "note": "Removal of information on the major fire that had broken out on Table Mountain ('Summary' page)",
+                    "public_timestamp": "2021-04-21T08:22:09.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID -19 vaccines in South Africa and information on  current plans for The British and Irish Lions Tour to South Africa ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-05-24T10:15:53.000Z"
+                },
+                {
+                    "note": "Update on lockdown restrictions and new advice on road safety (\u2018Coronavirus\u2019 and \u2018Safety and Security\u2019) pages.",
+                    "public_timestamp": "2021-05-31T14:27:59.000Z"
+                },
+                {
+                    "note": "From 8 June, direct flights can arrive in England from South Africa, but they must arrive at dedicated terminals at Heathrow and Birmingham airports. Different requirements may apply for arrivals into Scotland, Wales and Northern Ireland. ('Returning to the UK')",
+                    "public_timestamp": "2021-06-04T14:35:53.000Z"
+                },
+                {
+                    "note": "Updated information on travel restrictions between the UK and South Africa (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2021-06-04T15:21:12.000Z"
+                },
+                {
+                    "note": "Update on lockdown regulations and additional information about vaccination registrations for over 50s (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages) ",
+                    "public_timestamp": "2021-06-29T15:28:15.000Z"
+                },
+                {
+                    "note": "Update on visa extension and the COVID situation",
+                    "public_timestamp": "2021-07-06T11:26:28.000Z"
+                },
+                {
+                    "note": "Update to information on protests in parts of the country, including Gauteng and KwaZulu-Natal ('Summary' and 'Safety and security' pages).  Update on the extension of COVID-19 restrictions ('Summary' page).",
+                    "public_timestamp": "2021-07-12T14:19:16.000Z"
+                },
+                {
+                    "note": "Update to information on protests ('Summary' and 'Safety and security' page).",
+                    "public_timestamp": "2021-07-13T13:50:31.000Z"
+                },
+                {
+                    "note": "Update to information on protests including advice on following local media ('Summary' and 'Safety and security' page)",
+                    "public_timestamp": "2021-07-15T14:18:03.000Z"
+                },
+                {
+                    "note": "Updated information about unrest in Gauteng and Kwa-Zulu Natal ('Summary' and 'Safety and security' page)",
+                    "public_timestamp": "2021-07-17T09:48:32.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with editorial amendments throughout. Update to information about the recent unrest ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-07-20T15:53:21.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in South Africa (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-07-21T08:22:22.000Z"
+                },
+                {
+                    "note": "Updated information on lockdown restrictions, political unrest and advice for what to do if you test positive for coronavirus in South Africa (\u2018Summary\u2019, \u2018Safety & Security\u2019, \u2018Coronavirus\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-07-27T15:05:15.000Z"
+                },
+                {
+                    "note": "Information in how to get a COVID-19 vaccine if you live in South Africa and removal of information on The British and Irish Lions Tour (\u2018Summary\u2019, \u2018Safety & Security\u2019 and \u2018Coronavirus\u2019 pages)",
+                    "public_timestamp": "2021-08-23T10:46:37.000Z"
+                },
+                {
+                    "note": "Update to information on the easing of lockdown restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-14T13:18:35.000Z"
+                },
+                {
+                    "note": "Update to information on Level one lockdown restrictions ('Coronavirus' page) and visa extensions ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-07T16:23:52.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, South Africa will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland. ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-10-07T17:10:04.000Z"
+                },
+                {
+                    "note": "Updated information on vaccines included in South Africa's vaccination programme ('Coronavirus' page)",
+                    "public_timestamp": "2021-10-08T10:39:23.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to South Africa, based on the current assessment of COVID-19 risks \r\n",
+                    "public_timestamp": "2021-10-11T10:13:38.000Z"
+                },
+                {
+                    "note": "Updated information on the PCR testing exemption for children under 5 ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-14T14:37:20.000Z"
+                },
+                {
+                    "note": "Updated information on the PCR testing ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-19T14:06:46.000Z"
+                },
+                {
+                    "note": "Update to information on visa requirements for visits to South Africa ('Entry requirements' page)  ",
+                    "public_timestamp": "2021-11-25T09:48:03.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to South Africa based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-11-25T22:05:56.000Z"
+                },
+                {
+                    "note": "From midday Friday 26 November, South Africa will be added to the red list for entering England ('Summary' page)",
+                    "public_timestamp": "2021-11-26T10:31:13.000Z"
+                },
+                {
+                    "note": "South Africa has been added to the red list for entering England ('Coronavirus' page)",
+                    "public_timestamp": "2021-11-26T19:43:41.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 15 December, South Africa will be removed from the red list (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-12-14T15:53:05.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to South Africa based on the current assessment of COVID-19 risks (\u2018Summary\u2019 and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-12-15T04:10:54.000Z"
+                },
+                {
+                    "note": "Changes to the age group that eligible for vaccination registration in South Africa ('Coronavirus' page)",
+                    "public_timestamp": "2021-12-15T14:49:04.000Z"
+                },
+                {
+                    "note": " Updated information on lockdown restrictions in South Africa (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-12-31T12:37:41.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 testing requirements for entry to South Africa ('Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-02-01T16:56:49.000Z"
+                },
+                {
+                    "note": "Full review and update to information on safety and security in South Africa ('Safety and security' page)",
+                    "public_timestamp": "2022-02-22T12:08:01.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus restrictions in South Africa and entry requirements ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-03-25T16:41:11.000Z"
+                },
+                {
+                    "note": "More information on coronavirus restrictions in South Africa and entry requirements ('Entry requirements' pages)",
+                    "public_timestamp": "2022-03-29T14:26:21.000Z"
+                },
+                {
+                    "note": "Addition of information on heavy rain and flooding in parts of KwaZulu-Natal and advice for those travelling in the area (\u2018Summary\u2019 page) ",
+                    "public_timestamp": "2022-04-13T14:32:07.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-13T15:00:19.000Z"
+                },
+                {
+                    "note": "Addition of information on water restrictions ('Local laws and customs' page).  Updated information on providing proof of vaccination status and checking expiry of tourist visas  ('Entry requirements' page)",
+                    "public_timestamp": "2022-06-15T09:31:56.000Z"
+                },
+                {
+                    "note": "Updated information on the easing of local restrictions in South Africa and the lifting of COVID-19 entry requirements ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-06-24T14:40:38.000Z"
+                },
+                {
+                    "note": "New information about power outages, vehicle crime and acceptance of UK Emergency Passports in South Africa ('Local Laws and Customs', 'Safety and Security' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-07-22T15:09:58.000Z"
+                },
+                {
+                    "note": "Updated information on crime ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-07-29T14:28:23.000Z"
+                },
+                {
+                    "note": "New information about the risks of violent crime in South Africa ('Summary' and 'Safety and Security' pages).",
+                    "public_timestamp": "2022-08-04T12:10:27.000Z"
+                },
+                {
+                    "note": "New information about the risks of crime in South Africa ('Summary' and 'Safety and Security' pages).",
+                    "public_timestamp": "2022-10-18T09:19:03.000Z"
+                },
+                {
+                    "note": "New information about a possible terrorist attack in the Sandton area of Johannesburg ('Summary' and \u2019Terrorism' pages).",
+                    "public_timestamp": "2022-10-26T15:37:58.000Z"
+                },
+                {
+                    "note": "Updated information about a possible terrorist attack in the Sandton area of Johannesburg ('Summary' and \u2019Terrorism' pages).",
+                    "public_timestamp": "2022-10-26T15:55:02.000Z"
+                },
+                {
+                    "note": "Updated with information of the likelihood of terrorist attacks in South Africa (\u2018Summary page\u2019) and (\u2018Terrorism Page\u2019)",
+                    "public_timestamp": "2022-10-27T15:47:53.000Z"
+                },
+                {
+                    "note": "Removed information on a United States government security alert issued for the 29-30 October 2022 (\u2018Summary\u2019 and \u2018Terrorism\u2019 pages).",
+                    "public_timestamp": "2022-10-31T11:05:05.000Z"
+                },
+                {
+                    "note": "Updates to safety and security and removal of COVID-19 restrictions text (\u2018Summary\u2019, 'Coronavirus', 'Safety and security', \u2018Terrorism\u2019, \u2018Entry requirements\u201d and \u2018Health\u2019 pages).",
+                    "public_timestamp": "2022-12-23T14:30:42.000Z"
+                },
+                {
+                    "note": "Updates to safety and security text (\u2018Summary\u2019 and 'Safety and security' pages).",
+                    "public_timestamp": "2023-02-14T11:16:56.000Z"
+                },
+                {
+                    "note": "Addition of information about Tropical storm Freddy ('Summary' page).",
+                    "public_timestamp": "2023-02-24T11:20:35.000Z"
+                },
+                {
+                    "note": "Addition of information about critical infrastructure and removal of information about Tropical storm Freddy ('Summary' and 'Safety and Security' pages).\r\n\r\n",
+                    "public_timestamp": "2023-03-02T10:02:15.000Z"
+                },
+                {
+                    "note": "Addition of information about the planned protest on Monday 20 March ('Summary' and 'Safety and security' pages).\r\n\r\n",
+                    "public_timestamp": "2023-03-16T15:16:55.000Z"
+                },
+                {
+                    "note": "Removal of information about the planned protest on Monday 20 March and additions to Safety and security ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-05-09T11:56:11.000Z"
+                },
+                {
+                    "note": "Information on cholera outbreak in Guateng ('Health' page). ",
+                    "public_timestamp": "2023-06-01T14:29:45.000Z"
+                },
+                {
+                    "note": "This travel advice has been updated to make it easier to read and understand.",
+                    "public_timestamp": "2023-06-05T13:13:45.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                    "public_timestamp": "2023-06-22T11:14:53.000Z"
+                },
+                {
+                    "note": "Information about the cross border travel between South Africa and Mozambique and passport requirements for entry ('Entry requirements' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-07-17T15:09:44.000Z"
+                },
+                {
+                    "note": "Information about current strikes affecting Cape Town, including general safety and travel to/from the airport",
+                    "public_timestamp": "2023-08-04T16:57:57.000Z"
+                },
+                {
+                    "note": "Latest update: Information about current strikes affecting Cape Town, which have the potential to turn violent and may impact multiple areas including journeys to and from the airport (see \"Safety and security\" page).",
+                    "public_timestamp": "2023-08-05T11:52:49.000Z"
+                },
+                {
+                    "note": "\"Additional information about current strikes affecting Cape Town, which have the potential to turn violent and may impact multiple areas including journeys to and from the airport (see Safety and security page)\"",
+                    "public_timestamp": "2023-08-07T06:52:06.000Z"
+                },
+                {
+                    "note": "Information about current strikes affecting Cape Town, which have the potential to turn violent and may impact multiple areas including journeys to and from the airport (See 'Political situation' on the 'Safety and security' page).",
+                    "public_timestamp": "2023-08-07T13:40:51.000Z"
+                },
+                {
+                    "note": "Information on checking for disruption before travelling, sticking to major routes and taking care not to divert into less secure areas ('Safety and security' page).",
+                    "public_timestamp": "2023-08-11T13:24:54.000Z"
+                },
+                {
+                    "note": "Removal of information about Cape Town minibus taxi strikes ('Safety and security' page).",
+                    "public_timestamp": "2023-08-14T14:04:19.000Z"
+                },
+                {
+                    "note": "Addition of information about e-hailing services and private taxis ('Safety and security' page).",
+                    "public_timestamp": "2023-09-22T10:54:47.000Z"
+                },
+                {
+                    "note": "Information on outdoor activities and adventure tourism (\u2018Safety and security\u2019 page).",
+                    "public_timestamp": "2023-11-06T15:44:33.000Z"
+                },
+                {
+                    "note": "Information on 'smash and grab' attacks on vehicles ('Safety and security' page).\r\n\r\nInformation on the less secure areas around international airports in Johannesburg and Cape Town ('Safety and security' page).\r\n\r\nAdditional information on asking for a life-jacket when participating in water sports ('Safety and security' page).\r\n\r\n",
+                    "public_timestamp": "2023-11-10T12:12:22.000Z"
+                }
+            ],
+            "country": {
+                "name": "South Africa",
+                "slug": "south-africa",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/south-africa/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h2 id=\"travel-insurance\">Travel insurance</h2>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in South Africa set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact <a rel=\"external\" href=\"https://southafricahouse.uk/\">South Africa\u2019s high commission in the UK.</a></p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Visit TravelHealthPro (from the UK\u2019s National Travel Health Network and Centre) for <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">general COVID-19 advice for travellers</a>.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>To avoid problems at immigration, your passport should:</p>\n\n<ul>\n  <li>be valid for at least 30 days beyond your intended date of exit from South Africa</li>\n  <li>have 2 blank pages for your visa</li>\n</ul>\n\n<p>Some immigration officials still request that a passport should have at least 6 months validity on the date of entry to South Africa. To avoid problems at the airport on arrival, you can ensure your passport is valid for six months.</p>\n\n<h3 id=\"dual-nationals\">Dual nationals</h3>\n\n<p>If you hold South African citizenship, you must use your South African passport to enter and exit the country. It is illegal for a South African citizen aged 18 or over to enter or leave the country on a foreign passport. For more information about South African passports, see the <a rel=\"external\" href=\"http://www.dha.gov.za/index.php/civic-services/travel-documents\">South Africa Department of Home Affairs</a>.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You do not need a visa to visit South Africa for tourism or business for up to 90 days.</p>\n\n<p>Check the expiry date of your visa or entry stamp and make sure you do not overstay.</p>\n\n<p>For more information on visas, contact the <a rel=\"external\" href=\"https://southafricahouse.uk/\">South African High Commission</a>.</p>\n\n<h2 id=\"travelling-with-children\">Travelling with children</h2>\n\n<p>There are special requirements for travelling to South Africa with children under 18, and for unaccompanied children entering South Africa. The <a rel=\"external\" href=\"http://www.dha.gov.za/index.php/statements-speeches/621-updated-advisory-new-requirements-for-children-travelling-through-south-african-ports-of-entry\">South African Department of Home Affairs has more information</a>.</p>\n\n<h2 id=\"vaccination-requirements-other-than-covid-19\">Vaccination requirements (other than COVID-19)</h2>\n\n<p>At least 8 weeks before your trip, check the vaccinations and vaccination certificates you may need on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/201/south-africa\">TravelHealthPro.</a></p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>Check <a href=\"https://www.gov.uk/bringing-food-animals-plants-into-uk/food\">UK customs requirements</a> before buying products to take back to the UK.</p>\n\n<h2 id=\"taking-money-into-south-africa\">Taking money into South Africa</h2>\n\n<p>There are limits on how much currency you can bring into South Africa:</p>\n\n<ul>\n  <li>cash in South African rand \u2013 up to 25,000 rand per person</li>\n  <li>combinations of cash in other currencies \u2013 up to 10,000 US dollars (or equivalent)</li>\n</ul>\n\n<p>If you\u2019re taking more than this, you need to declare it when you enter South Africa.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>You should also <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa\">read the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a>.</p>\n\n<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n\n<h3 id=\"terrorism-in-south-africa\">Terrorism in South Africa</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are very likely to try to carry out attacks in South Africa.</p>\n</div>\n\n<p>The main threat is from individuals who may have been inspired by terrorist groups, including Daesh, may carry out \u2018lone actor\u2019 attacks. Attacks could be indiscriminate, including in places visited by foreigners such as shopping areas in major cities.</p>\n\n<h3 id=\"kidnap\">Kidnap</h3>\n\n<p>Terrorist kidnap is a risk in South Africa.</p>\n\n<p>British government policy is not to make substantive concessions to hostage takers. Paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can increase the risk of hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>There are regular protests and demonstrations that can turn violent. Violence could affect participants and bystanders. This can happen anywhere in South Africa at short notice.</p>\n\n<p>Avoid areas where protests, demonstrations, or marches are taking place, especially in city centres and townships. Do not cross protester roadblocks. This could provoke a violent reaction. Monitor local and social media for updates, including local radio. Where possible stick to major routes and be aware that GPS services could divert you into less secure areas.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"violent-crime\">Violent crime</h3>\n\n<p>There is a high crime rate, including carjacking, \u2018smash and grab\u2019 attacks on vehicles house robbery, rape, sexual assault and murder. Violent crime can take place anywhere, including in tourist destinations and transport hubs.\u00a0 Most violent crimes occur in townships on the outskirts of major cities or in isolated areas. The threat is higher in central business districts of major cities than in suburban areas, and increases after dark.</p>\n\n<p>The risk of violent crime to visitors in the main tourist cities is generally low. There is usually additional security personnel in the main tourist areas who can assist tourists. However, policing and security can be limited, so always remain vigilant.</p>\n\n<p>To protect your personal safety:</p>\n\n<ul>\n  <li>do not have valuables on show</li>\n  <li>do not leave valuables in your car</li>\n  <li>take safe and reliable transport <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security#public-transport\">see public transport</a>\n</li>\n  <li>stay alert and be wary of people who approach you</li>\n  <li>do not walk around after dark</li>\n  <li>travel with friends and make sure someone knows your plans</li>\n  <li>if you visit a township, only go with a responsible and reliable tour guide.</li>\n</ul>\n\n<p>For more information on crime statistics, see the <a rel=\"external\" href=\"https://www.statssa.gov.za/?page_id=737&amp;id=5=5\">Statistics South Africa website</a>.</p>\n\n<h3 id=\"fraud-and-scams\">Fraud and scams</h3>\n\n<p>Be alert to the risk of scams, including through business or employment opportunities, visa facilitation or offers of romance and friendships.</p>\n\n<p>Card skimming and confidence scams are widespread. There has been an increase in cybercrime and internet scamming. Do not meet up with or send money to someone you do not know.</p>\n\n<p>Crime around ATMs is common. You should:</p>\n\n<ul>\n  <li>hide your PIN when withdrawing money or paying by card</li>\n  <li>be aware of fraudsters, such as strangers offering to \u201chelp\u201d when your card doesn\u2019t work, or who try to lure you to an ATM</li>\n  <li>change large sums of money in banks or secure shopping malls, not in busy public areas</li>\n</ul>\n\n<p>If you use a visa agent, be wary of fraud. Always follow the correct visa application process through the <a rel=\"external\" href=\"http://www.dha.gov.za/index.php/applying-for-sa-visa\">Department of Home Affairs</a>.</p>\n\n<p>Criminals often use the details of embassies to carry out their fraud. These scams come in many forms and can pose great financial loss for the victims. Be cautious and check the authenticity of details before responding.</p>\n\n<p>Criminals may pose as officials for financial or personal gain. If in doubt, ask to see their ID and move into a safe, public and open space. All police officers must carry their Appointment Certificate on them. If you have any concerns, call:</p>\n\n<ul>\n  <li>police on 10111</li>\n  <li>emergency services on 112</li>\n</ul>\n\n<h3 id=\"criminal-kidnaps\">Criminal kidnaps</h3>\n\n<p>The threat of kidnap throughout South Africa is increasing. Kidnaps are generally for financial gain or motivated by criminality. In recent years, several foreign nationals, including British nationals, have been kidnapped. There have been reports of young children being kidnapped from shops, shopping malls and beaches.</p>\n\n<p>British nationals can be seen as wealthier than locals and may be at particular risk of kidnap for financial gain.</p>\n\n<h3 id=\"airport-safety\">Airport safety</h3>\n\n<p>Crime can happen in and around the airport, including robbery and theft of baggage and valuables. People have been followed from OR Tambo International Airport in Johannesburg to their destinations and then robbed, often at gunpoint. You should be careful when following GPS navigation. You should avoid taking alternative routes away from main roads as this can often take you into less secure areas.</p>\n\n<p>You should:</p>\n\n<ul>\n  <li>be careful in and around the airport</li>\n  <li>use main roads and highways when driving to and from airports</li>\n  <li>go through public areas quickly</li>\n  <li>avoid isolated areas</li>\n  <li>consider being met on arrival by your hotel or tour operator</li>\n  <li>go to your connecting flight quickly if in transit</li>\n  <li>consider vacuum-wrapping luggage if local regulations allow</li>\n  <li>keep valuables in your carry-on luggage</li>\n</ul>\n\n<p>Specifically for travel to and from Cape Town International Airport, you should:</p>\n\n<ul>\n  <li>stick to the M3 and N2 where possible, and avoid the R300 and the R310 (Baden Powell) between Muizenberg and the N2 intersection</li>\n</ul>\n\n<h3 id=\"vehicle-hijacking-and-robbery\">Vehicle hijacking and robbery</h3>\n\n<p>Vehicle hijacking and robbery are common, particularly after dark and around traffic lights, junctions, petrol stations and driveways. It is common for thieves to break car windows and take valuable while cars are waiting at a junction.</p>\n\n<p>Criminals sometimes force a vehicle to stop so they can rob those inside. Common tactics include throwing spikes (sometimes hidden in plastic bags), stones or glass in front of the vehicle. If you are targeted, drive as far as possible, or to a place of safety, before you stop.</p>\n\n<p>Criminals may pose as police and use \u2018blue lights\u2019 on plain (often white) vehicles to stop motorists and steal the vehicle. If you are suspicious, do not stop and continue to a police station, petrol station or other place of safety to call the police.</p>\n\n<p>Don\u2019t pick up strangers or stop to help apparently distressed motorists. Continue driving and report the incident to the police. If you are involved in a hijacking, stay calm and surrender your valuables and your vehicle if asked. Do not resist.</p>\n\n<p>There have been reports of long queues leading to armed robberies and express kidnappings close to the Lembombo border at Nelspruit, Mpumalanga. These often take place after dark. Consider whether you can use a different crossing or only approach the border during daylight hours.</p>\n\n<p>To reduce your risk:</p>\n\n<ul>\n  <li>check your route for any hazards or disruptions before you set off</li>\n  <li>use a GPS, but take care it does not divert you into less secure areas</li>\n  <li>keep to main roads and park in well-lit areas</li>\n  <li>always take care and consider your surroundings</li>\n  <li>avoid being stationary inside your vehicle for long periods</li>\n  <li>check your car is locked when you leave it</li>\n  <li>keep your windows closed, especially when stopped at junctions</li>\n  <li>keep valuables out of sight, ideally kept in the boot of the vehicle</li>\n  <li>ask your hire car company for a vehicle with \u2018smash and grab\u2019 film installed on the windows</li>\n  <li>ensure you can see the tarmac and the tyres of the car in front of you when you stop your vehicle, giving you space to escape if you need to</li>\n</ul>\n\n<h2 id=\"power-cuts\">Power cuts</h2>\n\n<p>There are ongoing nationwide power shortages with rolling power cuts. Scheduled regular power outages (\u2018loadshedding\u2019) have become longer and can occur daily power cuts affect:</p>\n\n<ul>\n  <li>private accommodation</li>\n  <li>shops</li>\n  <li>banks and ATMs</li>\n  <li>public lighting</li>\n  <li>traffic lights</li>\n  <li>security systems</li>\n  <li>petrol stations</li>\n  <li>water and communication services</li>\n</ul>\n\n<p>There may be higher risk of crime where security systems or public lighting do not work.</p>\n\n<h3 id=\"planning-for-power-cuts\">Planning for power cuts</h3>\n\n<p>To check how it might affect you, you can:</p>\n\n<ul>\n  <li>ask your accommodation provider how they mitigate loadshedding</li>\n  <li>check planned power outages on the <a rel=\"external\" href=\"https://www.eskom.co.za/distribution/customer-service/outages/municipal-loadshedding-schedules/\">Eskom website</a> or \u2018loadshedding\u2019 apps</li>\n  <li>follow the advice of local authorities if water restrictions, including avoiding drinking tap water, are in place</li>\n</ul>\n\n<h3 id=\"preparing-for-power-cuts\">Preparing for power cuts</h3>\n\n<p>Prepare for long power cuts by:</p>\n\n<ul>\n  <li>writing down emergency contact numbers and carry a notepad and pen</li>\n  <li>having an emergency plan so you can let relatives and friends know where you are</li>\n  <li>carrying a power bank with extra charging cables for electronic devices you need</li>\n  <li>carrying portable lighting, for example a torch</li>\n  <li>taking enough medicine and first aid supplies</li>\n  <li>finding safe areas close by in case you need help, such as hotels, hospitals and police stations that may have power</li>\n  <li>reading our advice for <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">if you are affected by a crisis</a>\n</li>\n</ul>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>Always carry a copy of your passport photo page and the page with your visitors permit or residence permit for South Africa. South African officials may request identification and proof of residence at any time. Keep your passport itself in a hotel safe or another secure location and do not carry it with you, unless needed for official identification.</p>\n\n<h3 id=\"legal-and-illegal-drugs\">Legal and illegal drugs</h3>\n\n<p>It is illegal to buy or sell cannabis or to use it in public. Using cannabis for consumption in private is legal. Public and private use of cannabidiol oils (CBD oils) is also legal. The use, sale and purchase of all other drugs is illegal.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT travellers</h3>\n\n<p>Homosexuality is legal, and it is illegal to discriminate based on sexual orientation. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT travellers</a>.</p>\n\n<h3 id=\"wildlife-animal-products-and-souvenirs\">Wildlife, animal products and souvenirs</h3>\n\n<p>It is illegal to buy, sell, kill or capture any protected wild animal or trade any of its parts without a permit. Trading ivory or rhino horn is banned. Anyone caught buying or trafficking banned goods will be prosecuted.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<p>Do not take unnecessary risks when participating in outdoor activities and adventure tourism. Be mindful that health and safety standards vary globally and may not be the same as you can expect in the UK.</p>\n\n<p>Where possible, insist on a receiving a safety briefing.</p>\n\n<h3 id=\"kruger-national-park\">Kruger National Park</h3>\n\n<p>After a violent attack that killed a tourist, South Africa National Parks (SANParks) advise against using the Numbi gate entrance to Kruger National Park. There have been protests and violent incidents on the R538 road leading to the gate.</p>\n\n<p>Follow SANParks advice on using alternative entrances. If you stay outside the park, contact your lodge in advance to find out if any disruptions will affect your trip. Get up-to-date <a rel=\"external\" href=\"https://www.sanparks.org/about/news/\">SANParks news</a> on the park website.</p>\n\n<h3 id=\"beach-safety\">Beach safety</h3>\n\n<p>Beach conditions and local safety measures vary. Every year, many people drown due to strong sea currents. You should ask for a life-jacket if you decide to participate in water sports.</p>\n\n<p>On beaches where there is no equipment or warning signs, speak to local people who know the conditions. If in doubt, do not enter the water.</p>\n\n<p>On busier tourist beaches, only swim between the red and yellow flags, read the warning signs and follow instructions from lifeguards. Learn more about rip currents on the\u00a0<a rel=\"external\" href=\"https://www.nsri.org.za/water-safety/all-about-rip-currents\">National Sea Rescue Institute\u2019s (NSRI) website</a>.</p>\n\n<p>In an emergency, call:</p>\n\n<ul>\n  <li>112 - emergency services</li>\n  <li>+27 87 094 9774 - NSRI emergency line</li>\n</ul>\n\n<h3 id=\"hiking-and-walking\">Hiking and walking</h3>\n\n<p>To stay safe whilst hiking, <a rel=\"external\" href=\"https://www.sanparks.org/about/news/default.php?id=57375\">South African National Parks advise</a> that you:</p>\n\n<ul>\n  <li>save <a rel=\"external\" href=\"https://mcsa.org.za/activities/mountain-rescue/emergency-phone-numbers/\">emergency numbers</a> before you hike</li>\n  <li>don\u2019t hike alone</li>\n  <li>hike in groups of 4 or more</li>\n  <li>stick to busy marked trails on popular days (such as weekends)</li>\n  <li>plan your route and allow enough time</li>\n  <li>carry water, food and bring a fully charged phone</li>\n  <li>dress appropriately and be prepared for changes in weather</li>\n  <li>tell someone your route and when you expect to return</li>\n</ul>\n\n<p>Avoid isolated beaches and picnic spots. Do not walk alone in remote areas or on beaches when deserted, especially after dark.</p>\n\n<h3 id=\"table-mountain-national-park\">Table Mountain National Park</h3>\n\n<p>There have been violent attacks and muggings on hikers and tourists in Table Mountain National Park, including on Lion\u2019s Head and Signal Hill Take care in quieter areas of the park, especially during early mornings and evenings.</p>\n\n<p>Some Cape Town residents use social media platforms e.g. <a rel=\"external\" href=\"https://hikersnetwork.co.za/\">The Hikers Network</a>, <a rel=\"external\" href=\"https://www.meetup.com/Outdoor-Cape-Town/\">Meet up</a>, <a rel=\"external\" href=\"https://www.facebook.com/groups/hikecapetown/\">Facebook</a> to coordinate hikes in larger groups. The Hikers Network offer a <a rel=\"external\" href=\"https://hikersnetwork.co.za/safetymountain/\">free safety tracking service</a> to all mountain users. See the <a rel=\"external\" href=\"https://www.sanparks.org/about/news/default.php?id=57375\">South African Nationals Parks</a> website for more on hiking on Table Mountain.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<h4 id=\"e-hailing-services-like-uber-and-taxis\">E-hailing services (like Uber) and taxis</h4>\n\n<p>E-hailing service scams do occur in major cities. Make sure you use a reliable service, book the service in the app and check the vehicle registration and identity before entering the vehicle. Do not wait in the street and keep your phone or valuables out of sight. When inside the vehicle, ask the driver to close rear windows and lock doors if you cannot do so yourself. At airports, be wary of unregulated drivers posing as Uber or other e-hailing service drivers. If you order an e-hailing service, go to the designated area to wait.</p>\n\n<p>Tension between e-hailing service drivers and metered taxi drivers can lead to armed violence, particularly around Gautrain stations and airports. Strikes and protests by e-hailing service drivers are also known to take place with some attacks against drivers not seen to be participating. Passengers have been harassed or caught up in violence. High-risk areas are generally flagged in the relevant app, but exercise caution when using e-hailing services. During times of strike action find alternative reliable private transportation.</p>\n\n<h4 id=\"driving-standards-and-road-conditions\">Driving standards and road conditions</h4>\n\n<p>Driving standards vary in South Africa. Fatal road accidents are common, particularly around weekends and major public holidays.</p>\n\n<p>On highways, overtaking or undertaking can occur in any lane including the hard shoulder. On single-lane roads, the hard shoulder is also sometimes used by trucks and slower vehicles to allow faster vehicles to overtake. At most intersections, including 4-way stops and where traffic lights are out of service due to power outages, the first vehicle to arrive generally has priority. On larger roundabouts, you should give way to the right, although this rule is often ignored. Small roundabouts (called circles) are treated the same as a 4-way stop.</p>\n\n<p>Road conditions are mostly very good. Some roads in remote areas are less well maintained and may have potholes. If you are travelling to a lodge in a remote area, check road conditions with the lodge management as a car with good ground clearance may be required. Drive cautiously, obey speed limits and avoid unfamiliar areas at night. To avoid running out of fuel, keep fuel levels above half a tank. Learn more about road safety awareness on the <a rel=\"external\" href=\"https://www.arrivealive.co.za/\">Arrive Alive website</a>.</p>\n\n<p>If you rent a car, save the emergency roadside assistance numbers. Download an offline map if you do not have access to a GPS.</p>\n\n<p>When travelling to and from Cape Town International airport, you should stick to the M3 and N2 where possible, and avoid the R300 and the R310 (Baden Powell) between Muizenberg and the N2 intersection.</p>\n\n<h4 id=\"driving-licences-in-south-africa\">Driving licences in South Africa</h4>\n\n<p>You can drive in South Africa with a valid UK photocard driving licence for up to 12 months. If you have a paper licence, you should also get an <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">international driving permit (IDP)</a> before you travel.</p>\n\n<p>If you become a permanent resident, exchange your UK licence for a local licence within 12 months of getting your residency. See our <a href=\"https://www.gov.uk/guidance/living-in-south-africa\">Living in South Africa guide</a> for more information.</p>\n\n<h3 id=\"public-transport\">Public transport</h3>\n\n<p>These transport options are generally safe and reliable:</p>\n\n<ul>\n  <li>\u2018Gautrain\u2019 train between Johannesburg, Pretoria and OR Tambo International Airport. Do not walk to or from Gautrain stations after dark</li>\n  <li>MyCiTi bus in Cape Town (central business district and Atlantic Seaboard). Do not travel into townships by MyCiTi bus. There have been violent attacks reported in Khayelitsha</li>\n  <li>airport shuttle buses through internationally recognised hotels.</li>\n  <li>internationally recognised e-hailing apps where bookings are confirmed through the app</li>\n</ul>\n\n<p>Some transport services can be unreliable and passengers have been subject to theft and violence. These include:</p>\n\n<ul>\n  <li>minibus taxis</li>\n  <li>Metrorail train services</li>\n  <li>long-distance public train and coach services</li>\n</ul>\n\n<h2 id=\"borders\">Borders</h2>\n\n<p>South Africa shares a border with Mozambique, Zimbabwe, Eswatini, Lesotho, Namibia and Botswana. Be careful when crossing land borders and avoid crossing at night. Border queues can be a target for crime. Protests can happen at some border crossings, particularly at the Mozambique border.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"flooding\">Flooding</h3>\n\n<p>Heavy rainfall often leads to widespread flooding. Flooding can take place anywhere and at any time of year. Always check local weather reports and local news for any hazards before you start your journey. The <a rel=\"external\" href=\"https://www.weathersa.co.za/\">South African Weather Service</a> provides up to date information on weather alerts and conditions.</p>\n\n<h3 id=\"wildfires\">Wildfires</h3>\n\n<p>Wildfires can occur in both rural and urban areas during periods of hot and dry weather. If you encounter a wild fire, move to a safe location away from vegetation and smoke. If you are inside a building or a car, close all vents and windows, if it is safe to remain in place.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>There is no healthcare agreement between the United Kingdom and South Africa.</p>\n\n<p>Before you travel check that:</p>\n\n<ul>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n  <li>your destination can provide the healthcare you may need</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 112 (from a mobile) or 10177 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on health risks and find out what vaccinations you need for South Africa on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/201/south-africa\">TravelHealthPro</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<p>Altitude sickness is a risk in parts of South Africa, including in Johannesburg. More information about altitude sickness is available from <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/201/south-africa\">TravelHealthPro</a> (from the UK\u2019s National Travel Health Network and Centre).</p>\n\n<p>HIV is a risk in South Africa.  Take normal precautions to avoid exposure to HIV/AIDS. There is more information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/15/sexually-transmitted-infections\">sexually transmitted infection risk and prevention for travellers on TravelHealthPro</a>.</p>\n\n<h3 id=\"cholera-outbreak\">Cholera outbreak</h3>\n\n<p>In May, the Government announced an outbreak of cholera in Hammanskraal, Gauteng. See <a rel=\"external\" href=\"https://travelhealthpro.org.uk/disease/32/cholera\">information on cholera</a> from TravelHealthPro.</p>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>If you take regular medication, make sure you can get repeat prescriptions if needed. Most prescription medicines in the UK need a prescription (\u2018script\u2019) from a local doctor in South Africa. The doctor may ask you to get an electronic prescription from your medical practitioner in the UK. Pharmacies are readily accessible across the country. Some have medical practitioners on site who can write prescriptions.</p>\n\n<p>TravelHealthPro explains <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h3 id=\"healthcare-facilities-in-south-africa\">Healthcare facilities in South Africa</h3>\n\n<p>Public medical care varies across South Africa. Standards of treatment and hygiene may not be the same as in the UK.</p>\n\n<p>South Africa has a very high standard of private medical care. Private healthcare can be expensive, so make sure you have the right travel health insurance and funds to cover the cost of medical treatment abroad and repatriation if needed.</p>\n\n<p>Most medical practitioners speak English, particularly in major cities and tourist areas. See our <a href=\"https://www.gov.uk/government/publications/south-africa-list-of-medical-facilities\">list of medical providers in South Africa</a>.</p>\n\n<h3 id=\"rehabilitation-centres-for-drug-or-alcohol-addiction\">Rehabilitation centres for drug or alcohol addiction</h3>\n\n<p>Private rehabilitation centres are widely accessible to foreigners. The British High Commission does not usually contact or visit people who have travelled specifically for medical treatment. If you do choose to attend a rehabilitation centre, you should:</p>\n\n<ul>\n  <li>do extensive research in advance and choose a reputable facility that is registered with the South African <a rel=\"external\" href=\"https://www.dsd.gov.za/\">Department of Social Development</a> or the <a rel=\"external\" href=\"https://www.westerncape.gov.za/substance-abuse/\">Western Cape\u2019s Substance Use Disorder Service</a>\n</li>\n  <li>make sure you get the right visa for your stay</li>\n  <li>get the right travel insurance, including medical cover suitable for a rehabilitation stay and your particular circumstances</li>\n</ul>\n\n<p>More information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/699/travelling-abroad-for-treatment\">medical tourism is available from TravelHealthPro</a>.</p>\n\n<p>Organise a contingency plan in case:</p>\n\n<ul>\n  <li>you relapse abroad</li>\n  <li>treatment is unsuccessful</li>\n  <li>you need unplanned repatriation to the UK (this may need to include access to extra funds)</li>\n</ul>\n\n<p>More information on the impact of travel and substance use is available from the <a rel=\"external\" href=\"https://www.iamat.org/elibrary/view/id/1382\">International Association for Medical Assistance to Travellers</a>.</p>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/south-africa-list-of-medical-facilities/south-africa-doctors\">medical providers in South Africa</a>.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">guidance on TravelHealthPro</a> (from the National Travel Health Network and Centre).</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (FCDO) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-south-africa\">Emergency services in South Africa</h2>\n\n<p>All emergencies from mobiles: 112</p>\n\n<p>Ambulance and fire: 10177</p>\n\n<p>Police: 10111</p>\n\n<p>National Sea and Rescue Institute: 112 or +27 87 094 9774</p>\n\n<p>Search and Rescue: 10177 or 10111</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from FCDO</h2>\n\n<p>FCDO provides guidance on how to help yourself stay safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=south-africa&amp;serviceType=lawyers\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=South%20Africa&amp;serviceType=funeralDirectors\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=south-africa&amp;serviceType=translatorsInterpreters\">translators and interpreters</a> in South Africa</li>\n  <li>dealing with a <a href=\"https://www.gov.uk/guidance/when-someone-dies-in-south-africa\">death in South Africa</a>\n</li>\n  <li>being <a href=\"https://www.gov.uk/government/publications/south-africa-prisoner-pack\">arrested in South Africa</a>\n</li>\n  <li>getting help if you\u2019re a <a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re <a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<p>Find more <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a>.</p>\n\n<h2 id=\"contacting-fcdo\">Contacting FCDO</h2>\n\n<p>Follow and contact FCDO travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/embassies\">British embassy, consulate or high commission</a>.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=South%20Africa&amp;post=South%20Africa%20travel%20advice%20team\">contact FCDO online</a>.</p>\n\n<h3 id=\"fcdo-in-london\">FCDO in London</h3>\n\n<p>You can call FCDO in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-11-10T12:12:22Z",
+            "updated_at": "2023-11-10T12:12:22Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-21T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/south-africa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/south-africa",
+                    "base_path": "/foreign-travel-advice/south-africa",
+                    "content_id": "e4649806-d58a-40f7-b86d-09a4376c25a0",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T12:12:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "South Africa travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/south-africa",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/south-africa",
+                    "api_url": "https://www.gov.uk/api/content/world/south-africa",
+                    "base_path": "/world/south-africa",
+                    "content_id": "38e76d87-0f54-48af-82c5-741caa0a96dd",
+                    "description": "Services if you're visiting, studying, working or living in South Africa. Includes information about trading with and doing business in the UK and South Africa.",
+                    "details": {
+                        "internal_name": "UK help and services in South Africa",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:24Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in South Africa",
+                    "web_url": "https://www.gov.uk/world/south-africa",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zimbabwe",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zimbabwe",
+                    "base_path": "/foreign-travel-advice/zimbabwe",
+                    "content_id": "d38db404-4291-4088-951a-1b8d5b696f1e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Zimbabwe",
+                            "slug": "zimbabwe",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T11:59:21Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zimbabwe travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zimbabwe",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zambia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zambia",
+                    "base_path": "/foreign-travel-advice/zambia",
+                    "content_id": "7e2beff5-a1ee-4ed4-ad63-c9a72bb0dc17",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Zambia",
+                            "slug": "zambia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:43:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zambia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zambia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/botswana",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/botswana",
+                    "base_path": "/foreign-travel-advice/botswana",
+                    "content_id": "72181a48-c553-45e4-aa5a-ebe232acea00",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Botswana",
+                            "slug": "botswana",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:31:33Z",
+                    "schema_name": "travel_advice",
+                    "title": "Botswana travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/botswana",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tanzania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tanzania",
+                    "base_path": "/foreign-travel-advice/tanzania",
+                    "content_id": "203432b1-e296-4ffe-9fc9-dcfe110c0d67",
+                    "details": {
+                        "change_description": "(CORRECTION) Terrorists are very likely to try to carry out attacks in Tanzania in the near future.",
+                        "country": {
+                            "name": "Tanzania",
+                            "slug": "tanzania",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T12:04:47Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tanzania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tanzania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/namibia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/namibia",
+                    "base_path": "/foreign-travel-advice/namibia",
+                    "content_id": "5a2d153e-efc6-4dbc-b3ac-d81e51e4f1f7",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Namibia",
+                            "slug": "namibia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:48:39Z",
+                    "schema_name": "travel_advice",
+                    "title": "Namibia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/namibia",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-south-africa",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-south-africa",
+                    "base_path": "/world/living-in-south-africa",
+                    "content_id": "49b03c96-7f2a-4254-adc6-af6267665b8d",
+                    "description": "How to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in South Africa",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/south-africa",
+                                "api_url": "https://www.gov.uk/api/content/world/south-africa",
+                                "base_path": "/world/south-africa",
+                                "content_id": "38e76d87-0f54-48af-82c5-741caa0a96dd",
+                                "description": "Services if you're visiting, studying, working or living in South Africa. Includes information about trading with and doing business in the UK and South Africa.",
+                                "details": {
+                                    "internal_name": "UK help and services in South Africa",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:24Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in South Africa",
+                                "web_url": "https://www.gov.uk/world/south-africa",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2019-08-08T10:35:29Z",
+                    "schema_name": "taxon",
+                    "title": "Living in South Africa",
+                    "web_url": "https://www.gov.uk/world/living-in-south-africa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-south-africa",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-south-africa",
+                    "base_path": "/world/travelling-to-south-africa",
+                    "content_id": "d2dc1cca-8591-4592-8d73-113c78598b87",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to South Africa",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/south-africa",
+                                "api_url": "https://www.gov.uk/api/content/world/south-africa",
+                                "base_path": "/world/south-africa",
+                                "content_id": "38e76d87-0f54-48af-82c5-741caa0a96dd",
+                                "description": "Services if you're visiting, studying, working or living in South Africa. Includes information about trading with and doing business in the UK and South Africa.",
+                                "details": {
+                                    "internal_name": "UK help and services in South Africa",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:24Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in South Africa",
+                                "web_url": "https://www.gov.uk/world/south-africa",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:18:05Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to South Africa",
+                    "web_url": "https://www.gov.uk/world/travelling-to-south-africa",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-10T12:12:22Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1699618342.407-10.13.22.216-40938",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "South Africa travel advice",
+        "updated_at": "2023-11-15T11:07:30Z",
+        "withdrawn_notice": {}
+    }
+}

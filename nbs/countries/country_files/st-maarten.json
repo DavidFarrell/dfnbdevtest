@@ -1,0 +1,654 @@
+{
+    "Country Slug": "st-maarten",
+    "Country Name": "St Maarten",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/st-maarten",
+        "content_id": "f752255c-de89-4b61-af7a-6233dd44a58a",
+        "description": "Latest FCDO travel advice for St Maarten including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary - addition of information about the availability of consular support",
+                    "public_timestamp": "2019-01-10T15:19:48.113Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) - addition of information about the current visa policy for British Citizens visiting St Maarten, which may change if the UK leaves the EU without a deal",
+                    "public_timestamp": "2019-04-09T10:42:51.626Z"
+                },
+                {
+                    "note": "Latest update: Entry requirements section (Visas) - removal of information relating to EU exit ",
+                    "public_timestamp": "2019-04-11T16:59:38.497Z"
+                },
+                {
+                    "note": "Summary -  Tropical Storm Dorian is forecast to affect the eastern Caribbean from Tuesday 27 August; you should exercise due caution and monitor local news and weather reports",
+                    "public_timestamp": "2019-08-26T15:06:27.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and republished with editorial amendments to the Summary",
+                    "public_timestamp": "2019-10-09T08:51:01.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2020-02-13T12:24:07.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-17T14:06:51.000Z"
+                },
+                {
+                    "note": "From 24 July, St Maarten is exempt from the FCO advice against all non-essential international travel. This is based on the current assessment of COVID-19 risks   ",
+                    "public_timestamp": "2020-07-24T09:09:23.000Z"
+                },
+                {
+                    "note": "Removal of information on INSEL Air ('Safety and security' page)",
+                    "public_timestamp": "2020-07-28T16:22:44.000Z"
+                },
+                {
+                    "note": "FCDO now advises against all non-essential travel to St Maarten, based on the current assessment of COVID-19 risks in the country. ('Summary' page)",
+                    "public_timestamp": "2020-10-01T17:20:32.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in St Maarten ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-02-24T15:49:10.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for travellers from the UK ('Summary' and 'Entry Requirements' pages), and where to find St Maarten government information on Coronavirus guidance ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-07T10:29:42.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to St Maarten, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-04-30T13:43:13.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements: UK travellers are now subject to 5 days of self-monitoring (see \u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-11-04T10:22:14.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements (see \u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-06T15:42:10.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for St Maarten ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-21T16:57:15.000Z"
+                },
+                {
+                    "note": "Updated information on the COVID-19 entry requirements provided by the government of St. Maarten ('Entry requirements' page).",
+                    "public_timestamp": "2022-09-27T12:59:26.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for St Maarten ('Entry requirements' page).",
+                    "public_timestamp": "2023-03-21T09:39:46.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:24:06.000Z"
+                }
+            ],
+            "country": {
+                "name": "St Maarten",
+                "slug": "st-maarten",
+                "synonyms": [
+                    "Sint Maarten",
+                    "Saint Maarten"
+                ]
+            },
+            "email_signup_link": "/foreign-travel-advice/st-maarten/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/st-maarten/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for St Maarten\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the FCDO\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>The hurricane season in the Caribbean normally runs from June to November. You should monitor local and international weather updates from the <a rel=\"external\" href=\"http://www.nhc.noaa.gov/\">US National Hurricane Centre</a> and follow the advice of local authorities, including any evacuation orders. See <a href=\"/foreign-travel-advice/st-maarten/natural-disasters\">Natural disasters</a></p>\n\n<p>The island was severely affected by the passage of Hurricanes Irma and Maria in September 2017. Many buildings were destroyed and parts of St Maarten were affected by flooding. Reconstruction has begun, but due to the size of the devastation, the effects are still noticeable. The tourism sector was severely affected and room capacity is reduced; it is advisable to make prior reservations.</p>\n\n<p>St. Maarten is used as a drug passageway from South America to Europe and North America. Do not leave bags unattended or agree to carry a package for anyone. See <a href=\"/foreign-travel-advice/st-maarten/safety-and-security\">Crime</a>.</p>\n\n<p>Although there\u2019s no recent history of terrorism in St Maarten, attacks can\u2019t be ruled out. See <a href=\"/foreign-travel-advice/st-maarten/terrorism\">Terrorism</a>.</p>\n\n<p>Consular support may be limited in St Maarten. However, the <a href=\"https://www.gov.uk/world/organisations/british-embassy-the-hague\">British Consulate General in The Hague</a> can provide consular support to British nationals.</p>\n\n<p>If you need to contact the emergency services in the Dutch part of the island, call 911 (police), 912 (ambulance), 919 (fire) or 913 (Coastguard).</p>\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n<p>Check the latest information on risk from COVID-19 for St Maarten on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/260/sint-maarten-caribbean-islands-netherlands\">TravelHealthPro website</a>.</p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n<p>See <a href=\"/foreign-travel-advice/st-maarten/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in St Maarten.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-st-maarten\">Travel in St Maarten</h2>\n<p>The Government of St Maarten no longer has any COVID-19 related restrictions. For further information, see the <a rel=\"external\" href=\"https://stmaartenehas.com/general-information/\">website of the Government of St Maarten</a>.</p>\n\n<h2 id=\"healthcare-in-st-maarten\">Healthcare in St Maarten</h2>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a>.</p>\n\n<p>View <a href=\"/foreign-travel-advice/st-maarten/health\">Health</a> for further details on healthcare in St Maarten.</p>\n\n<h2 id=\"finance\">Finance</h2>\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h3 id=\"crime\">Crime</h3>\n\n<p>Most visits to the Dutch Caribbean are trouble-free. However, petty theft and street crime occur. There is violent crime amongst members of the illegal drugs world, but this rarely affects tourists. The main tourist areas are generally safe, but you should take sensible precautions. Avoid remote areas at night. Do not take valuables to the beach. Make sure purses and handbags are closed and not easy to snatch.</p>\n\n<p>The islands of the Dutch Caribbean continue to be used to smuggle illegal drugs from South America to Europe and North America. You should have a heightened sense of awareness of this problem and never leave bags unattended. Under no circumstances should you discuss or agree to carry a package for anyone. Some airports have installed \u201cbody scanners\u201d and you may be required to have a scan. Dutch authorities generally screen all baggage and passengers from the Dutch Caribbean.</p>\n\n<h3 id=\"local-travel\">Local travel</h3>\n\n<p>When taking a taxi, always check that it is a registered one and negotiate the price before taking the ride. Most taxis do not have meters.</p>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>Traffic drives on the right-hand side. Main road conditions are relatively good, but roads can become slippery when wet and potholes can appear after serious showers.</p>\n\n<h3 id=\"political-situation\">Political situation</h3>\n<p>St Maarten is an autonomous country within Kingdom of the Netherlands, together with Aruba and Cura\u00e7ao. It has a separate government, and currently shares a central bank with Cura\u00e7ao. The island lies about 100 miles east of Puerto Rico. St Maarten is the Dutch side of an island that is half French (St Martin).</p>\n\n<h3 id=\"language\">Language</h3>\n\n<p>English is the dominant language in St. Maarten although Dutch, Papiamento, and Spanish are also spoken. The Creole language, Papiamento, is a mixture of Spanish, Dutch, Portuguese, English and French.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Although there\u2019s no recent history of terrorism in St Maarten, attacks can\u2019t be ruled out.</p>\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>By Dutch law, you must always carry your ID. You should have a copy of your passport with you at all times.</p>\n\n<p>Local laws are similar to Dutch law.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to St Maarten.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in St Maarten set and enforce entry rules. If you\u2019re unsure how St Maarten\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>The following requirements for entry to St Maarten apply regardless of your vaccination status, and apply to all travellers.</p>\n\n<p>Precise rules are subject to change and you should follow any instructions given on arrival at immigration or airport testing facilities.</p>\n\n<p>Passengers arriving in St Maarten do not need to show a proof of COVID-19 vaccination or a negative COVID-19 test.</p>\n\n<p>There are no border formalities when crossing St Maarten from the Dutch side to the French side.</p>\n\n<h2 id=\"children-and-young-people\">Children and young people</h2>\n\n<p>There are no specific requirements for children and young people.</p>\n\n<h2 id=\"if-youre-transiting-through-st-maarten\">If you\u2019re transiting through St Maarten</h2>\n\n<p>Transiting is when you pass through one country on the way to your final destination.</p>\n\n<p>Check with your airline before departing.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n<p>Your passport should be valid for a minimum period of 6 months from the date of entry into St Maarten.</p>\n\n<h3 id=\"visas\">Visas</h3>\n<p>British passport holders do not need a visa for stays of up to 3 months. For further information about entry requirements, contact the <a rel=\"external\" href=\"https://www.netherlandsworldwide.nl/contact/embassies-consulates-general/united-kingdom/embassy-london\">Embassy of the Kingdom of the Netherlands</a>.</p>\n\n<p>Further information on visa requirements can be found at the <a rel=\"external\" href=\"https://www.netherlandsandyou.nl/travel-and-residence/caribbean-visas/do-i-need-a-visa-for-the-caribbean-parts-of-the-kingdom\">Netherlands and You</a> website.</p>\n\n<p>There are no border formalities when crossing St Maarten from the Dutch side to the French side.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/44/caribbean-islands-netherlands#Vaccine_recommendations\">TravelHealthPro website</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/st-maarten/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>Visit your health professional at least 4 to 6 weeks before your trip to check whether you need any vaccinations or other preventive measures.</p>\n\n<p>Check the latest country-specific information and advice from the National Travel Health Network and Centre (NaTHNaC) on the <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country-information/\">TravelHealthPro website</a> or from NHS (Scotland) on the <a rel=\"external\" href=\"http://www.fitfortravel.nhs.uk/destinations.aspx\">fitfortravel website</a>. Useful information and advice about healthcare abroad is also available on the <a rel=\"external\" href=\"http://www.nhs.uk/NHSEngland/Healthcareabroad/Pages/Healthcareabroad.aspx\">NHS Choices website</a>.</p>\n\n<p>UK health authorities have classified St Maarten as having a risk of Zika virus transmission. For information and advice about the risks associated with Zika virus, visit the <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/44/netherlands-caribbean-islands#Other_risks\">National Travel Health Network and Centre website</a>.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<p>The European Health Insurance Card (<a rel=\"external\" href=\"http://www.nhs.uk/NHSEngland/Healthcareabroad/EHIC/Pages/about-the-ehic.aspx\">EHIC</a>) is not valid. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>Cases of <a rel=\"external\" href=\"http://www.fitfortravel.nhs.uk/advice/disease-prevention-advice/chikungunya-fever.aspx\">Chikungunya virus</a> have been confirmed in St Maarten and the number of reported cases in the region is increasing. You should take steps to <a rel=\"external\" href=\"http://travelhealthpro.org.uk/insect-tick-bite-avoidance/\">avoid being bitten by mosquitoes</a>.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 911 and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The hurricane season in the Dutch Caribbean normally runs from June to November. You should monitor local and international weather updates from the <a rel=\"external\" href=\"http://www.nhc.noaa.gov/\">US National Hurricane Centre</a> and the <a rel=\"external\" href=\"http://www.meteo.cw/\">Meteorological department of Curacao</a>.</p>\n\n<p>See our <a href=\"https://www.gov.uk/tropical-cyclones\">tropical cyclones page</a> for advice about how to prepare effectively and what to do if you\u2019re likely to be affected by a hurricane or tropical cyclone.</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "<p>The official local currency is the Antillean guilder (ANG) and has been fixed to the US Dollar at approximately 1.80 ANG to 1USD for over 35 years. The US Dollar is accepted everywhere on the island. Local currency and US Dollar ATM machines (Maestro/Cirrus) are situated throughout the island. Major credit cards are accepted in most tourist establishments.</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the FCDO in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The FCDO travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/how-the-foreign-commonwealth-office-puts-together-travel-advice\">Read more about how the FCDO assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of FCDO travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the FCDO travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, send the Travel Advice team <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=St%20Maarten&amp;post=St%20Maarten%20travel%20advice%20team\">a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=St%20Maarten&amp;post=St%20Maarten%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-06-22T10:24:06Z",
+            "updated_at": "2023-06-22T10:24:06Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2012-12-19T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/st-maarten",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/st-maarten",
+                    "base_path": "/foreign-travel-advice/st-maarten",
+                    "content_id": "f752255c-de89-4b61-af7a-6233dd44a58a",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:24:06Z",
+                    "schema_name": "travel_advice",
+                    "title": "St Maarten travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/st-maarten",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/st-maarten",
+                    "api_url": "https://www.gov.uk/api/content/world/st-maarten",
+                    "base_path": "/world/st-maarten",
+                    "content_id": "3909b338-a8c8-4aa3-9b78-febf91453bf0",
+                    "description": "Services if you're visiting, studying, working or living in St Maarten. Includes information about trading with and doing business in the UK and St Maarten.",
+                    "details": {
+                        "internal_name": "UK help and services in St Maarten",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:28Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in St Maarten",
+                    "web_url": "https://www.gov.uk/world/st-maarten",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/st-kitts-and-nevis",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/st-kitts-and-nevis",
+                    "base_path": "/foreign-travel-advice/st-kitts-and-nevis",
+                    "content_id": "e07d2af5-f1a8-47e9-b4ff-33d7ff1178ef",
+                    "details": {
+                        "change_description": "Removal of Hurricane Tammy warning ('Summary' and 'Natural disasters' pages).",
+                        "country": {
+                            "name": "St Kitts and Nevis",
+                            "slug": "st-kitts-and-nevis",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-23T14:54:08Z",
+                    "schema_name": "travel_advice",
+                    "title": "St Kitts and Nevis travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/st-kitts-and-nevis",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/st-vincent-and-the-grenadines",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/st-vincent-and-the-grenadines",
+                    "base_path": "/foreign-travel-advice/st-vincent-and-the-grenadines",
+                    "content_id": "c04c4008-678c-43c0-b4f6-bd542f77fda8",
+                    "details": {
+                        "change_description": "Updated information on SVG Carnival ('Summary' and 'Safety and security' pages).",
+                        "country": {
+                            "name": "St Vincent and the Grenadines",
+                            "slug": "st-vincent-and-the-grenadines",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-04T11:01:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "St Vincent and the Grenadines travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/st-vincent-and-the-grenadines",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "base_path": "/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "content_id": "98c0a9e6-54b0-4c67-8007-43bde256e8ad",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "St Martin and St Barth\u00e9lemy",
+                            "slug": "st-martin-and-st-barthelemy",
+                            "synonyms": [
+                                "St Barts",
+                                "St Barthelemy",
+                                "Saint Martin",
+                                "Saint Barts"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-25T15:29:47Z",
+                    "schema_name": "travel_advice",
+                    "title": "St Martin and St Barth\u00e9lemy travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/st-martin-and-st-barthelemy",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/trinidad-and-tobago",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/trinidad-and-tobago",
+                    "base_path": "/foreign-travel-advice/trinidad-and-tobago",
+                    "content_id": "2cacdc4c-913b-463a-b29e-4a5f45b67e4e",
+                    "details": {
+                        "change_description": "Updated information on Coronavirus ('Coronavirus' and 'Entry requirements' pages).",
+                        "country": {
+                            "name": "Trinidad and Tobago",
+                            "slug": "trinidad-and-tobago",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-04T11:17:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Trinidad and Tobago travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/st-lucia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/st-lucia",
+                    "base_path": "/foreign-travel-advice/st-lucia",
+                    "content_id": "5a9e154c-e1dc-4fde-8182-58c5b6e69efa",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "St Lucia",
+                            "slug": "st-lucia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-25T10:59:37Z",
+                    "schema_name": "travel_advice",
+                    "title": "St Lucia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/st-lucia",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-st-maarten",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-st-maarten",
+                    "base_path": "/world/living-in-st-maarten",
+                    "content_id": "6dbd60e3-5d69-433a-b538-fabc6c5a0319",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in St Maarten",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/st-maarten",
+                                "api_url": "https://www.gov.uk/api/content/world/st-maarten",
+                                "base_path": "/world/st-maarten",
+                                "content_id": "3909b338-a8c8-4aa3-9b78-febf91453bf0",
+                                "description": "Services if you're visiting, studying, working or living in St Maarten. Includes information about trading with and doing business in the UK and St Maarten.",
+                                "details": {
+                                    "internal_name": "UK help and services in St Maarten",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:28Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in St Maarten",
+                                "web_url": "https://www.gov.uk/world/st-maarten",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:21:46Z",
+                    "schema_name": "taxon",
+                    "title": "Living in St Maarten",
+                    "web_url": "https://www.gov.uk/world/living-in-st-maarten",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-st-maarten",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-st-maarten",
+                    "base_path": "/world/travelling-to-st-maarten",
+                    "content_id": "d00b7a6d-f3f3-4d6d-90e6-4eeed2527bb4",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to St Maarten",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/st-maarten",
+                                "api_url": "https://www.gov.uk/api/content/world/st-maarten",
+                                "base_path": "/world/st-maarten",
+                                "content_id": "3909b338-a8c8-4aa3-9b78-febf91453bf0",
+                                "description": "Services if you're visiting, studying, working or living in St Maarten. Includes information about trading with and doing business in the UK and St Maarten.",
+                                "details": {
+                                    "internal_name": "UK help and services in St Maarten",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:28Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in St Maarten",
+                                "web_url": "https://www.gov.uk/world/st-maarten",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:21:46Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to St Maarten",
+                    "web_url": "https://www.gov.uk/world/travelling-to-st-maarten",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-06-22T10:24:06Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1687429446.031-10.13.21.65-28667",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "St Maarten travel advice",
+        "updated_at": "2023-11-15T11:09:29Z",
+        "withdrawn_notice": {}
+    }
+}

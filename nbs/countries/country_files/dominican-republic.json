@@ -1,0 +1,1068 @@
+{
+    "Country Slug": "dominican-republic",
+    "Country Name": "Dominican Republic",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/dominican-republic",
+        "content_id": "38051402-bf94-47ab-9ad7-a468280f3d9e",
+        "description": "Latest FCDO travel advice for Dominican Republic including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information on the border between Haiti and the Dominican Republic being closed ('Safety and security' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Safety and security section (Crime) - revised information; safety advice and what to do if you've been the victim of crime; Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2019-01-24T11:37:46.893Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full with editorial amendments throughout",
+                    "public_timestamp": "2019-06-06T13:36:32.225Z"
+                },
+                {
+                    "note": "Summary - Tropical Storm Dorian is forecast to affect the Dominican Republic from Wednesday 28 August; you should exercise due caution and monitor local news and weather reports",
+                    "public_timestamp": "2019-08-27T16:25:26.000Z"
+                },
+                {
+                    "note": "Summary - Tropical Storm Dorian is forecast to affect the Dominican Republic from Wednesday 28 August;  you should exercise due caution and monitor local news and weather reports",
+                    "public_timestamp": "2019-08-28T15:46:41.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on tropical storm Dorian",
+                    "public_timestamp": "2019-08-30T08:55:24.000Z"
+                },
+                {
+                    "note": "Summary - advice following the announcement that Thomas Cook has ceased trading",
+                    "public_timestamp": "2019-09-23T01:53:37.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Thomas Cook ceasing to trade",
+                    "public_timestamp": "2019-10-21T09:46:40.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full; Entry requirements section (Passport validity) - updated information on passport validity requirements to enter the Dominican Republic; Health section - addition of information and advice on cosmetic and elective surgery",
+                    "public_timestamp": "2020-02-05T17:53:24.000Z"
+                },
+                {
+                    "note": "Addition of information about coronavirus (COVID-19) following a confirmed case of the virus in the Dominican Republic ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-03T14:54:19.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to the Dominican Republic, due to travel restrictions imposed by the Dominican government in response to the coronavirus (COVID-19) pandemic. (Summary and Health)",
+                    "public_timestamp": "2020-03-15T16:20:09.000Z"
+                },
+                {
+                    "note": "Update of information and advice on Dominican government measures announced in relation to COVID-19",
+                    "public_timestamp": "2020-03-18T18:05:43.000Z"
+                },
+                {
+                    "note": "Update of information and advice on flights out of the Dominican Republic. Information on resort and hotel activities in response to COVID-19 ('Summary pages')",
+                    "public_timestamp": "2020-03-19T16:39:31.000Z"
+                },
+                {
+                    "note": " Update on the curfew announced by the Dominican Government on 20 March (Summary)",
+                    "public_timestamp": "2020-03-20T23:33:44.000Z"
+                },
+                {
+                    "note": "Update on hotel closures and information about returning to the UK ('Coronavirus', 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-22T23:15:23.000Z"
+                },
+                {
+                    "note": "Update on alternative travel routes back to the UK, domestic information about coronavirus and hotel bookings.  ('Coronavirus' and 'Returning to the UK' pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-25T09:54:09.000Z"
+                },
+                {
+                    "note": "Update on alternative travel routes back to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-03-25T19:24:01.000Z"
+                },
+                {
+                    "note": "Update on alternative travel routes back to the UK ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-26T20:59:37.000Z"
+                },
+                {
+                    "note": "Update on travelling to the UK via the US ('Return to the UK')",
+                    "public_timestamp": "2020-03-30T20:00:27.000Z"
+                },
+                {
+                    "note": "Update to information on local measures.  Addition of information and advice for people wishing to return to the UK ('Coronavirus' and \u2019Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-04-03T17:35:34.000Z"
+                },
+                {
+                    "note": "Update on crossing municipalities (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-04-04T20:27:43.000Z"
+                },
+                {
+                    "note": "Update on crossing municipal or provincial borders (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-05T18:44:18.000Z"
+                },
+                {
+                    "note": "Update on the extension to the state of emergency in the Dominican Republic (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2020-04-14T07:24:05.000Z"
+                },
+                {
+                    "note": "Update on travel across municipal and provincial borders (\u2018Coronavirus\u2019 and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-14T16:34:49.000Z"
+                },
+                {
+                    "note": "Extension of State of Emergency to 30 April and now mandatory to wear a mask in public places ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-16T21:06:54.000Z"
+                },
+                {
+                    "note": "Extension of closure of air, land and sea borders to 30 April ('Coronavirus' and 'Return to UK' pages)",
+                    "public_timestamp": "2020-04-17T23:11:12.000Z"
+                },
+                {
+                    "note": "Addition of information and advice about tourist visa extensions and flights to the UK ('Coronavirus', 'Return to the UK' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-04-23T15:59:46.000Z"
+                },
+                {
+                    "note": "Update on restrictions applied to Puerto Plata on 28 April ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-29T10:19:46.000Z"
+                },
+                {
+                    "note": "Update on extension to State of Emergency in country ('Coronavirus') and to flight options (\u2018Return to the UK\u2019).",
+                    "public_timestamp": "2020-04-30T09:38:21.000Z"
+                },
+                {
+                    "note": "Update on extension to State of Emergency in country ('Coronavirus') until 17 May, and to flight options (\u2018Return to the UK\u2019).",
+                    "public_timestamp": "2020-04-30T21:29:44.000Z"
+                },
+                {
+                    "note": "Update on flight options (\u2018Return to the UK\u2019 page).",
+                    "public_timestamp": "2020-05-04T14:39:08.000Z"
+                },
+                {
+                    "note": "Update on flight options (\u2018Return to the UK\u2019 page).",
+                    "public_timestamp": "2020-05-06T12:16:31.000Z"
+                },
+                {
+                    "note": "Update on State of Emergency extension (\u2018Staying during coronavirus' page).",
+                    "public_timestamp": "2020-05-16T16:49:38.000Z"
+                },
+                {
+                    "note": "Update on curfew hours (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-19T21:27:18.000Z"
+                },
+                {
+                    "note": "Changes to social distancing with easing of some restrictions ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-20T18:07:28.000Z"
+                },
+                {
+                    "note": "Addition of information on UK special flights from Punta Cana from 03 June (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-05-23T13:00:14.000Z"
+                },
+                {
+                    "note": "Updated information on UK special flight from Punta Cana reflecting end of booking period (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-05-28T03:58:03.000Z"
+                },
+                {
+                    "note": "Updated information on State of Emergency, extended until 13 June (Staying during coronavirus)",
+                    "public_timestamp": "2020-06-01T22:34:37.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:23:23.000Z"
+                },
+                {
+                    "note": "Updated information on commercial flight availability ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-09T22:46:44.000Z"
+                },
+                {
+                    "note": "Extension of State of Emergency until 30 June and from Sunday 14 June curfew to be in force from 8pm to 5am everyday ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-13T07:34:30.000Z"
+                },
+                {
+                    "note": "Update to information on curfew hours and health guidance when displaying coronavirus (COVID-19) symptoms ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-16T16:17:35.000Z"
+                },
+                {
+                    "note": "Curfew hours will no longer apply from 05:00 on Sunday 28 June (Staying during coronavirus)",
+                    "public_timestamp": "2020-06-27T12:41:04.000Z"
+                },
+                {
+                    "note": "New social distancing measures declared by Ministry of Health (Staying during coronavirus)",
+                    "public_timestamp": "2020-06-28T15:12:29.000Z"
+                },
+                {
+                    "note": "Update to information and advice on the reopening of Dominican air borders ('Return to the UK' and 'Entry requirements' pages), ending of the State of Emergency and availability of accommodation ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-07-02T09:13:16.000Z"
+                },
+                {
+                    "note": "Update to information and advice on social distancing measures ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-07-16T11:21:30.000Z"
+                },
+                {
+                    "note": "Declaration of a State of Emergency ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-07-20T18:25:43.000Z"
+                },
+                {
+                    "note": "New COVID measures and introduction of national curfew (\u2018Return to the UK\u2019 and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-07-21T17:00:08.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements  (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2020-07-29T21:18:22.000Z"
+                },
+                {
+                    "note": "Update to information on the state of emergency and updated links to local authority advice on health and accommodation ('Staying during coronavirus' page). New information on a Travellers Health Affidavit ('Entry requirements' page).",
+                    "public_timestamp": "2020-09-01T09:37:06.000Z"
+                },
+                {
+                    "note": " Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-09-17T17:01:53.000Z"
+                },
+                {
+                    "note": "Updated information on curfew requirements in Dominican Republic ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-28T15:14:02.000Z"
+                },
+                {
+                    "note": "Updated information on opening of Dominican borders ('Entry requirements' page)",
+                    "public_timestamp": "2020-10-01T08:53:20.000Z"
+                },
+                {
+                    "note": "Addition of information on the application of the normal 7pm weekend curfew to the public holiday on Monday 9 November ('Coronavirus' page)",
+                    "public_timestamp": "2020-11-06T13:19:08.000Z"
+                },
+                {
+                    "note": "New information on customs declaration; all passengers arriving or departing the Dominican Republic must fill in a online form and updated information on visas ('Entry requirements' page). Additional information on COVID-19 restrictions, healthcare and obtaining medication ('Coronavirus' and 'Health' pages) ",
+                    "public_timestamp": "2020-12-15T11:10:57.000Z"
+                },
+                {
+                    "note": "Addition of information on changes to curfew hours, including for Christmas and New Year, restrictions on gathering sizes and the sale of alcohol ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-16T12:36:23.000Z"
+                },
+                {
+                    "note": "The Dominican government has suspended all inbound passenger flights from the UK from Tuesday 22 December. (\u2018Summary\u2019 page).",
+                    "public_timestamp": "2020-12-21T19:23:50.000Z"
+                },
+                {
+                    "note": "The Dominican government has introduced a mandatory seven-day quarantine period for travellers with journeys originating in the UK. Travellers will be required to undertake a PCR test while in quarantine. ('Summary' page)",
+                    "public_timestamp": "2020-12-24T19:06:54.000Z"
+                },
+                {
+                    "note": "Addition of information regarding people who have previously been in the UK within two weeks of arrival in the Dominican Republic. Travellers will be required to undertake a PCR test while in mandatory seven-day quarantine. ('Summary' page)",
+                    "public_timestamp": "2020-12-29T19:20:01.000Z"
+                },
+                {
+                    "note": "New information on the curfew and restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2020-12-30T17:03:24.000Z"
+                },
+                {
+                    "note": "New information on penalties for breaching COVID-19 protocols ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-07T10:49:45.000Z"
+                },
+                {
+                    "note": "New information on entry restrictions for travellers from the United Kingdom ('Summary', 'Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-01-11T17:49:15.000Z"
+                },
+                {
+                    "note": "Updated information on suspension of inbound passenger flights from the UK ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-13T10:09:58.000Z"
+                },
+                {
+                    "note": "Updated information on suspension of inbound passenger flights from the UK ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-19T10:06:34.000Z"
+                },
+                {
+                    "note": "Updated information on curfew hours ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-25T14:09:54.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Dominican Republic (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-27T12:58:56.000Z"
+                },
+                {
+                    "note": "Update to information and advice on social events or activities involving more than 10 people ('Coronavirus' page).",
+                    "public_timestamp": "2021-01-28T15:37:46.000Z"
+                },
+                {
+                    "note": "Update to information and advice on entry requirements and PCR testing ('Summary' and 'Entry requirements' pages).",
+                    "public_timestamp": "2021-02-02T15:37:04.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Dominican Republic (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-02-15T16:39:00.000Z"
+                },
+                {
+                    "note": "Update to information on the nationwide curfew in the Dominican Republic ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-02T15:42:11.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Dominican Republic ('Coronavirus' page) and updated information on submitting customs declaration forms when arriving or departing from DR ('Entry requirements' page)",
+                    "public_timestamp": "2021-03-08T13:00:22.000Z"
+                },
+                {
+                    "note": "Addition of information on exceptional curfew measures and new rules on alcohol consumption during the Easter weekend of 2 \u2013 4 April ('Coronavirus' page) ",
+                    "public_timestamp": "2021-03-17T16:54:13.000Z"
+                },
+                {
+                    "note": "Removal of information on exceptional curfew measures and new rules on alcohol consumption during the Easter weekend of 2 \u2013 4 April ('Coronavirus' and \u2018Public places and services\u2019 page) ",
+                    "public_timestamp": "2021-04-16T16:43:12.000Z"
+                },
+                {
+                    "note": "Updated information on curfew measures ('Coronavirus' page) ",
+                    "public_timestamp": "2021-04-19T14:00:39.000Z"
+                },
+                {
+                    "note": "Updated information on international travel measures ('Summary', 'Coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-04-28T16:03:55.000Z"
+                },
+                {
+                    "note": "Information on requirement to complete a COVID Affidavit Form before travel to the DR ('Coronavirus' and 'Entry requirements' pages) ",
+                    "public_timestamp": "2021-05-21T08:46:02.000Z"
+                },
+                {
+                    "note": "Information on new restrictions for curfew hours and capacity limitations in public places ('Coronavirus' page) ",
+                    "public_timestamp": "2021-05-26T16:00:22.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules and testing requirements in response to coronavirus (See 'Entry requirements')",
+                    "public_timestamp": "2021-05-30T21:54:07.000Z"
+                },
+                {
+                    "note": "Update to information on curfew hours (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-06-02T09:19:54.000Z"
+                },
+                {
+                    "note": "Addition of information on the removal of the requirement for travellers from the UK to present a negative COVID-19 PCR test on arrival in the Dominican Republic (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-06-03T14:46:35.000Z"
+                },
+                {
+                    "note": "Update to information on curfew hours ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-16T11:34:31.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 30 June Dominican Republic will move to the red list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-06-24T19:11:04.000Z"
+                },
+                {
+                    "note": "From 28 June passengers arriving from the UK, or who have spent spent time in the UK in the preceding 14 days, will need to present a negative COVID-19 PCR test taken no more than 72 hours before arrival (See 'Entry requirements')",
+                    "public_timestamp": "2021-06-26T11:55:44.000Z"
+                },
+                {
+                    "note": "Updated information on Dominican Republic's national State of Emergency; from Wednesday 7 July 2021 new restrictions apply ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-06T09:11:01.000Z"
+                },
+                {
+                    "note": "Updated information on Dominican Republic's national State of Emergency; from Wednesday 14 July 2021 new restrictions apply ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-13T13:23:42.000Z"
+                },
+                {
+                    "note": "Updated information on Dominican Republic's national State of Emergency; from 21 July new restrictions apply and information about COVID-19 vaccines if you live in Dominican Republic ('Coronavirus' page) ",
+                    "public_timestamp": "2021-07-21T14:58:43.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions for the province of La Altagracia and the Distrito Nacional (\u2018Coronavirus\u2019 pages) ",
+                    "public_timestamp": "2021-08-06T11:22:46.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions, and the end of the nation-wide State of Emergency and curfew on Monday 11 October (see 'Coronavirus' page).",
+                    "public_timestamp": "2021-10-08T16:18:29.000Z"
+                },
+                {
+                    "note": "Update to information on coronavirus restrictions in the Dominican Republic and update on COVID-19 testing requirements for entry ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-10-12T12:18:13.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 1 November, Dominican Republic will be removed from the red list for entering England ('Summary' page)",
+                    "public_timestamp": "2021-10-29T12:32:09.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Dominican Republic based on the current assessment of COVID-19 risks ('Summary' page)",
+                    "public_timestamp": "2021-11-01T09:50:23.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for accessing services and COVID-19 testing exemptions  ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-09T11:30:03.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements regarding passport validity (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-01-13T16:22:13.000Z"
+                },
+                {
+                    "note": "Updated information on the national vaccination plan, and COVID-19 vaccine requirements for entering public spaces ('Coronavirus' page).",
+                    "public_timestamp": "2022-01-27T10:10:06.000Z"
+                },
+                {
+                    "note": "Updated information on the COVID-19 vaccine requirements for entering public spaces ('Coronavirus' page)",
+                    "public_timestamp": "2022-02-01T11:11:11.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements and COVID-19 measures (\u2018Entry Requirements and Coronavirus pages).",
+                    "public_timestamp": "2022-02-17T18:08:45.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2022-02-18T16:39:27.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 testing requirements for entry to the Dominican Republic ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-03T10:47:48.000Z"
+                },
+                {
+                    "note": "Updated information on the requirement for travellers to fill in an online entry form before travel to the Dominican Republic ('Entry requirements' page)",
+                    "public_timestamp": "2022-07-05T09:43:19.000Z"
+                },
+                {
+                    "note": "Updated information on passport validity (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-08-09T09:49:32.000Z"
+                },
+                {
+                    "note": "Information on Tropical Storm Fiona which is expected to reach the Dominican Republic on Sunday 18 September. You should closely monitor local and international weather updates ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2022-09-18T16:39:25.000Z"
+                },
+                {
+                    "note": "Updated information on hurricanes ('Summary' and 'Natural disasters' pages).",
+                    "public_timestamp": "2022-10-04T08:43:31.000Z"
+                },
+                {
+                    "note": "Updated information on passport validity requirements ('Entry requirements' page).",
+                    "public_timestamp": "2023-05-25T15:15:44.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:07:29.000Z"
+                },
+                {
+                    "note": "Information about Tropical Storm Franklin ('Summary' page).\r\n\r\n",
+                    "public_timestamp": "2023-08-21T15:24:02.000Z"
+                },
+                {
+                    "note": "Removal of information about Tropical Storm Franklin ('Summary' page).",
+                    "public_timestamp": "2023-08-31T09:19:57.000Z"
+                },
+                {
+                    "note": "Information on the border between Haiti and the Dominican Republic being closed ('Safety and security' page).",
+                    "public_timestamp": "2023-09-15T10:10:12.000Z"
+                }
+            ],
+            "country": {
+                "name": "Dominican Republic",
+                "slug": "dominican-republic",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/dominican-republic/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/dominican-republic/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for the Dominican Republic\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>See our <a href=\"https://www.gov.uk/guidance/tropical-cyclones\">Tropical Cyclones</a> page for advice on what to do if you are caught up in a storm. See <a href=\"https://www.gov.uk/foreign-travel-advice/dominican-republic/natural-disasters\">Natural disasters</a>. You should closely monitor local and international weather updates from the <a rel=\"external\" href=\"http://www.nhc.noaa.gov/\">US National Hurricane Center</a> and follow the advice of local authorities and your tour operator. Spanish language alerts are available from the Dominican Emergency Management Centre (COE) via their mobile app \u2018AlertaCOE\u2019, or on their <a rel=\"external\" href=\"https://twitter.com/coe_rd\">Twitter account</a>.</p>\n\n<p>Over 160,000 British nationals visited the Dominican Republic in 2019. Most visits are trouble-free, but there are incidents of crime and violence. See <a href=\"https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security#crime\">Crime</a></p>\n\n<p>Be cautious when travelling in Dominican Republic. Driving standards are variable. Take extra care if you\u2019re travelling close to the Haitian border. There have been armed robberies in the Dominican Republic on roads close to the border with Haiti. See <a href=\"https://www.gov.uk/foreign-travel-advice/dominican-republic/safety-and-security#road-travel\">Road travel</a></p>\n\n<p>Don\u2019t become involved with illegal drugs of any kind. There are severe penalties for all drug offences. A number of British nationals are serving prison sentences in the Dominican Republic for attempting to traffic drugs. See <a href=\"/foreign-travel-advice/dominican-republic/local-laws-and-customs\">Local laws and customs</a></p>\n\n<p>Cases of chikungunya virus and dengue fever have been confirmed in the Dominican Republic. You should take steps to <a rel=\"external\" href=\"http://travelhealthpro.org.uk/insect-tick-bite-avoidance/\">avoid being bitten by mosquitoes</a>. See <a href=\"/foreign-travel-advice/dominican-republic/health\">Health</a></p>\n\n<p>Although there\u2019s no recent history of terrorism in the Dominican Republic, attacks can\u2019t be ruled out. See <a href=\"/foreign-travel-advice/dominican-republic/terrorism\">Terrorism</a></p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n\n<p>The telephone number for the English speaking tourist police (POLITUR) is +1-809-200-3500. The number for emergency services is 911. This does not have 100% coverage across the country, so if you cannot reach 911, call the tourist police for help.</p>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for the Dominican Republic on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/67/dominican-republic#COVID-19\">TravelHealthPro website</a>.</p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n\n<p>See <a href=\"/foreign-travel-advice/dominican-republic/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Dominican Republic.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-the-dominican-republic\">Travel in the Dominican Republic</h2>\n\n<p>On Wednesday 16 February 2022, Dominican authorities announced that with immediate effect all COVID-19 measures were suspended, including mandatory mask wearing, social distancing and proof of vaccination for public spaces and private spaces for public use.</p>\n\n<p>Changes to COVID-19 measures may happen at short notice. You should monitor local media and comply with any instructions from police or the Dominican authorities. You should follow the Dominican rules listed below and check this page and the British Embassy social media channels on <a rel=\"external\" href=\"https://twitter.com/ukindomrep\">Twitter</a> and <a rel=\"external\" href=\"https://www.facebook.com/UKinDomRep/\">Facebook</a> regularly for updates.</p>\n\n<p>Further information is available from the Dominican authorities, <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">in English</a> and <a rel=\"external\" href=\"https://www.godominicanrepublic.com/es/prensa/coronavirus/\">in Spanish</a>.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>See <a href=\"https://www.gov.uk/foreign-travel-advice/dominican-republic/entry-requirements\">Entry Requirements</a> for more information about COVID-19 testing requirements to enter the Dominican Republic.</p>\n\n<p>You will need to fill in a COVID Traveller\u2019s Health Affidavit before travel to the Dominican Republic. This forms part of an online form, which includes the COVID Traveller\u2019s Health Affidavit, the Customs Declaration and the International Boarding / Disembarking forms. The form can be completed via the <a rel=\"external\" href=\"https://eticket.migracion.gob.do/\">Dominican Republic\u2019s Electronic Ticket Portal</a>, before your journey.</p>\n\n<p>The Dominican Republic\u2019s air borders are open and commercial options are departing to the US, Spain, France and other countries. If you are returning to the UK, read the travel advice for any country you may be transiting, to check entry/transit requirements, as well as checking UK government requirements.</p>\n\n<p>You should arrive in sufficient time and comply with any instructions from police or the Dominican authorities.</p>\n\n<h2 id=\"public-places-and-services\">Public places and services</h2>\n\n<p>On Wednesday 16 February 2022, Dominican authorities announced a suspension of all COVID-19 measures. Please follow the instructions of the Dominican authorities. Restaurants, hotels, gyms, workplaces, schools, universities, public and private health centres, public transport and other services may have their own policies which they will require you to follow. You may find more information from the official <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">Dominican government website</a>.</p>\n\n<h2 id=\"healthcare-in-the-dominican-republic\">Healthcare in the Dominican Republic</h2>\n<p>If you develop coronavirus symptoms whilst in the Dominican Republic, you should stay in your home or hotel room and seek medical assistance (contact the hotel\u2019s medical staff if staying in a hotel). Follow the advice of your medical expert and local authorities, on self-isolation or other COVID measures.</p>\n\n<p>For further information and guidance, consult the <a rel=\"external\" href=\"https://coronavirusrd.gob.do/\">dedicated government website</a> (in Spanish) or the\u00a0official <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">Dominican Republic website</a> (in English).</p>\n\n<p>For contact details for English speaking doctors <a href=\"https://www.gov.uk/government/publications/dominican-republic-list-of-medical-facilities-and-practitioners\">visit our list of healthcare providers</a>.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a></p>\n\n<p>View <a href=\"/foreign-travel-advice/dominican-republic/health\">Health</a> for further details on healthcare in Dominican Republic.</p>\n\n<p>See also the guidance on <a href=\"/guidance/healthcare-support-for-when-you-are-unable-to-return-to-the-uk-during-coronavirus-covid-19\">healthcare if you\u2019re waiting to return to the UK</a>.</p>\n\n<h2 id=\"finance\">Finance</h2>\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n<p>Further information is available from the Dominican authorities, <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">in English</a> and <a rel=\"external\" href=\"https://www.coronavirus.gob.do/\">in Spanish</a>.</p>\n\n<p>If you need urgent consular assistance, you can contact the British Embassy on + 1 809 472 7111. Select option 1 for English, then option 2 for consular emergencies.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h2 id=\"crime\">Crime</h2>\n<p>The Dominican Republic is friendly and welcoming and the vast majority of visits to the country are trouble-free. However, there is a high crime rate, ranging from opportunistic crime like bag snatching and pickpocketing to violent crime.</p>\n\n<p>Petty crime, including pickpocketing and robbery takes place across the country. Don\u2019t wear expensive jewellery or carry large amounts of cash or valuable items like smart phones or cameras on the street. Keep electronic devices out of sight and use a hotel safe whenever possible. Don\u2019t leave your bags or other possessions on chairs or tables in restaurants or bars.</p>\n\n<p>Drive-by robberies can occur, where thieves on motorcycles snatch bags and valuables from pedestrians and sometimes reach through the windows of cars at red lights to steal belongings. Victims are sometimes hurt in the process. Keep valuables out of sight, and if you have a bag with you, carry it on the side away from the street. If travelling in a car, drive with doors locked and windows closed.</p>\n\n<p>Violent crime and armed robberies against foreigners do sometimes take place, particularly in large cities. There have been a number of incidents in Santo Domingo where foreigners have been mugged at gunpoint or knifepoint during the daytime while walking in residential districts.</p>\n\n<p>Take particular care at night and in remote areas. If you\u2019re robbed, don\u2019t resist, as this increases the risk of being hurt. Be aware that your attacker may be armed, even if you cannot see a weapon. Don\u2019t use unregistered taxis, or hail a taxi on the street: use an authorised airport or hotel taxi service, or book a taxi from a reliable provider.</p>\n\n<p>Incidents of assault, rape and sexual aggression against foreigners have occurred, including at beach resorts. In some cases, hotel employees or fellow guests have been implicated. Be cautious when dealing with strangers or recent acquaintances, be wary of rides or other invitations, avoid walking alone at night and don\u2019t leave drinks unattended.</p>\n\n<p>If you\u2019re a victim of a sexual assault or other crime, you should report it immediately to the British Embassy. Consular staff can help you to report the incident with local authorities if you wish to do so, explaining the process and assisting with the language barrier if required. No criminal investigation is possible without a formal complaint to Dominican authorities before departing the country.</p>\n\n<p>If you lose your passport or it is stolen, a police report should be obtained before contacting the British Embassy. The English speaking tourist police (POLITUR) can be contacted on +1-809-200-3500.</p>\n\n<h2 id=\"water-safety-and-sports\">Water safety and sports</h2>\n\n<p>Lifeguards may not be present at swimming pools or on beaches and safety and rescue equipment may not be available.</p>\n\n<p>The sea can be dangerous, especially during the hurricane season (June-November). Seek local advice about sea conditions and warning systems and follow instructions.</p>\n\n<p>Don\u2019t go into the water if you\u2019re under the influence of alcohol or other substances.</p>\n\n<p>Providers of recreational and adventure tourism may not meet UK safety standards.\nCheck safety standards and make sure you\u2019re insured if you take part in activities like water sports, quad biking, horse riding etc. If in doubt seek advice from your tour operator.</p>\n\n<h2 id=\"local-travel\">Local travel</h2>\n\n<p>The border between Haiti and the Dominican Republic is closed, this is liable to change at short notice and you should monitor local media for updates. The UK currently advises against all travel to Haiti due to the volatile security situation.</p>\n\n<p>Military and police road blocks are common, especially in the areas near the Haitian border. The road blocks can appear to be unofficial, although the soldiers do wear army uniform and carry weapons.</p>\n\n<p>Take extra care on roads close to the Haitian border. There have been armed robberies in the Dominican Republic on roads close to the border with Haiti, including by criminals dressed as police officers.</p>\n\n<p>Taxis are cheap but many are in a state of disrepair. There have been cases of theft from taxis, so keep valuables and cash secure and out of sight. Tourist taxis are safer and more reliable, but also more expensive. Ride-hailing apps, such as Uber, are available and widely used.</p>\n\n<p>Don\u2019t use motorbike taxis (\u201cmotoconchos\u201d) or motorbike ride-hailing apps: the quality of driving is poor and passengers are often not provided with a helmet.</p>\n\n<p>A range of transport is available, including the newly-expanded metro system in Santo Domingo. Avoid public buses and \u201ccarros publicos\u201d (shared cars which run on certain routes, picking up passengers) for safety and security reasons. However, private companies do operate good bus services between cities.</p>\n\n<p>Pedestrians should take extra care when crossing roads. Drivers will not always signal when they intend to turn and motorbikes in particular will sometimes disregard red traffic lights.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>It\u2019s easy to hire a car in the Dominican Republic, with many international car hire companies available in major cities and at airports.</p>\n\n<p>You can drive using a UK driving licence for visits not exceeding 3 months. For longer visits, you should apply for a local driving licence, for which you will need to present a certified copy of your valid UK licence.</p>\n\n<p>To certify your driving licence, you will need to get a copy certified by a UK notary or lawyer in the UK. Once this is done, the Legalisation Office in the UK needs to attach an apostille and return the legalised driving licence to you. While some notaries may not be willing to carry out a notarial act without an individual being present, others are, and are also willing to forward applications to the Legalisation Office once they have completed their part. You can find a list of notaries currently authorised to practice on the <a rel=\"external\" href=\"http://www.facultyoffice.org.uk/notary/find-a-notary\">website of the Faculty Office</a> (the regulator of Notaries Public in England and Wales). You should contact notaries directly to check whether you would need to be present when they notarise your driving licence.</p>\n\n<p>The Dominican Republic has one of the highest death rates in the world for road traffic accidents. Road accidents are frequent, especially during holiday periods like Christmas and Easter. Drivers often do not respect traffic laws, weave from lane to lane and rarely signal. Many vehicles are in a state of disrepair and don\u2019t have working headlights or mirrors. Drink driving is common. The quality of roads vary, although the motorways connecting cities and tourist areas are good.</p>\n\n<p>Where possible you should avoid driving outside the main cities at night, as there may be poor lighting, animals or pedestrians on the road and other cars driving without headlights. If police stop you for a traffic violation, you are entitled to request a traffic ticket and to ask to see the officer\u2019s identification.</p>\n\n<p>Take particular care if travelling on motorbikes or scooters. According to the WHO, 63% of the road deaths in the Dominican Republic were people on motorcycles or scooters.</p>\n\n<h3 id=\"road-accidents\">Road accidents</h3>\n\n<p>If you\u2019re involved in a road accident, you must file a report with the authorities. If the accident didn\u2019t cause injuries and happened in Santo Domingo or Santiago, you should register it at\u00a0an accident reporting centre such as <a rel=\"external\" href=\"http://casadelconductor.com.do/\">La Casa del Conductor</a> or <a rel=\"external\" href=\"https://www.centrodelautomovilista.com/\">El Centro del Automovilista</a>. You should consult your insurance company for guidance on which centre you should use to report an accident. These are government dependencies with English speaking agents, where there are representatives from all the relevant authorities including the police and insurance companies. If the accident occurs in any other part of the Dominican Republic, you should file a report at the nearest police station.</p>\n\n<p>If you\u2019re involved in an accident that causes serious injury or death, Dominican law requires that the driver is taken into police custody until the circumstances of the accident have been investigated, even if the driver appears not to be at fault. You should call the police, and wait for them to arrive, at the scene of the accident.  If you\u2019re detained as a result of a road accident, ask the police to contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-santo-domingo\">British Embassy in Santo Domingo</a>.</p>\n\n<p>The telephone number for national roadside assistance is +1-829-689-1000.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Political demonstrations sometimes occur, although not usually near tourist areas. Avoid getting caught up in demonstrations or large gatherings of people and follow the instructions of local authorities.</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Although there\u2019s no recent history of terrorism in the Dominican Republic, attacks can\u2019t be ruled out.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>The Dominican Republic is a Christian country with prominent Catholic and evangelical communities.</p>\n\n<p>Public displays of affection (such as hand-holding or kissing) between opposite or same-sex couples are uncommon.</p>\n\n<p>Don\u2019t become involved with illegal drugs of any kind. There are severe penalties for all drug offences. Cases can take several years to go through the judicial process, during which the accused person is likely to be held in detention. Possession of even small quantities can lead to a long prison sentence and a hefty fine. All sentences are served in the Dominican Republic.</p>\n\n<p>Seizures at ports and airports around the Dominican Republic have increased. Pack your own luggage and do not carry anything through customs for anyone else.</p>\n\n<p>Local attitudes towards the LGBT community are mostly conservative throughout the Caribbean. Although same-sex sexual relations are legal in the Dominican Republic, same-sex marriages are not legally recognised. Public displays of affection may attract unwanted and negative attention. Nearly all Dominican hotels welcome LGBT clients, although confirmation with booking agents is advised. <a href=\"/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">Read this information and advice page for the LGBT community</a> before you travel.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to the Dominican Republic.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in the Dominican Republic set and enforce entry rules. If you\u2019re unsure how Dominican Republic\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>As of 23 April 2022, you do not need to present a COVID-19 Vaccination Card, PCR, or antigen test to enter the Dominican Republic, regardless of age or vaccination status. Random COVID-19 testing for passengers and crew upon arrival in the Dominican Republic will no longer be performed as standard. However, when required, random testing operations may be performed. Passengers who present their Vaccination Card will be exempted from random testing.</p>\n\n<p>All travellers will need to fill in a COVID Traveller\u2019s Health Affidavit before travel to the Dominican Republic to confirm if you have any coronavirus symptoms and provide your contact details. This is part of an online form, which includes the COVID Traveller\u2019s Health Affidavit, the Customs Declaration and the International Boarding / Disembarking forms and can be completed via the <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">Dominican Republic\u2019s Electronic Ticket Portal</a>, before your journey.  Since 1 April 2021 the digital forms are mandatory, see the <a rel=\"external\" href=\"https://viajerodigital.mitur.gob.do/\">Viajero Digital website</a>.</p>\n\n<p>The <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">Dominican Republic Travel Center website</a> has further information. The Dominican authorities also provide further information <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">in English</a> and <a rel=\"external\" href=\"https://www.godominicanrepublic.com/es/prensa/coronavirus/\">in Spanish</a>.</p>\n\n<h2 id=\"if-youre-fully-vaccinated\">If you\u2019re fully vaccinated</h2>\n\n<p>Entry requirements for the Dominican Republic are the same for all travellers, regardless of COVID-19 vaccination status.</p>\n\n<h3 id=\"proof-of-vaccination-status\">Proof of vaccination status</h3>\n<p>You don\u2019t need to provide proof of your vaccination status for entry to the Dominican Republic.</p>\n\n<h2 id=\"if-youre-not-fully-vaccinated\">If you\u2019re not fully vaccinated</h2>\n\n<p>Entry requirements for the Dominican Republic are the same for all travellers, regardless of COVID-19 vaccination status.</p>\n\n<h3 id=\"if-youve-had-covid-19-in-the-past-year\">If you\u2019ve had COVID-19 in the past year</h3>\n\n<p>Entry requirements for the Dominican Republic are the same for all travellers, regardless of whether you have tested positive for COVID-19 in the past year.</p>\n\n<h2 id=\"children-and-young-people\">Children and young people</h2>\n\n<p>There are no specific requirements for children and young people.</p>\n\n<h2 id=\"if-youre-transiting-through-the-dominican-republic\">If you\u2019re transiting through the Dominican Republic</h2>\n\n<p>Transiting is when you pass through one country on the way to your final destination. Entry requirements for the Dominican Republic are the same for all travellers, including those in transit.</p>\n\n<p>Check with your airline before departing.</p>\n\n<h2 id=\"exemptions\">Exemptions</h2>\n<p>There are no exemptions to the Dominican Republic\u2019s  entry requirements.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>If you are visiting the Dominican Republic, your passport should be valid for a minimum of six months from the date you arrive.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>British Citizens travelling to the Dominican Republic for tourism don\u2019t need a visa.</p>\n\n<p>As of April 2018, the tourism entry tax (previously known as a tourist card) is no longer collected upon arrival and should be included in your air fare. Contact your airline or tour operator if you\u2019re unsure whether you have already paid this fee. The <a rel=\"external\" href=\"http://www.dominicanembassy.org.uk/\">Dominican Republic Embassy website</a> has more information.</p>\n\n<p>On arrival you will normally be granted a 30-day stay. This can be extended to 120 days by paying for an extension when you leave the country. This can be done online at the <a rel=\"external\" href=\"https://migracion.gob.do/en/servicio/stay-extension\">Dominican Directorate General for Migration website</a> or at the airport on departure. If you\u2019re planning to stay for longer, <a href=\"https://www.gov.uk/government/publications/dominican-republic-list-of-lawyers\">seek advice from a local lawyer</a> or <a rel=\"external\" href=\"https://www.migracion.gob.do/\">contact the local Immigration authorities</a>.</p>\n\n<p>As a foreign national you will be required to give your fingerprints and have a photograph taken in order to enter the Dominican Republic.</p>\n\n<p>You must carry a photocopy of your identification (such as a passport), a copy of your entry stamp and proof of onward or return travel at all times, so that you can produce them if you\u2019re asked to do so by the authorities.</p>\n\n<h3 id=\"proof-of-onward-or-return-travel\">Proof of onward or return travel</h3>\n<p>You may be refused entry if you don\u2019t have proof of onward or return travel.</p>\n\n<h3 id=\"e-ticket\">E-Ticket</h3>\n\n<p>All travellers will need to fill in the online entry form before travel to the Dominican Republic, which includes the COVID Traveller\u2019s Health Affidavit, the Customs Declaration and the International Boarding / Disembarking forms and can be completed via the\u00a0<a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">Dominican Republic\u2019s Electronic Ticket Portal</a>, before your journey.</p>\n\n<h3 id=\"travelling-with-children\">Travelling with children</h3>\n<p>According to the Dominican Republic authorities, visitors under 18 travelling to the Dominican Republic don\u2019t need written authorisation from their parents, as long as they enter and leave with the same person or people. If visitors between the ages of 13 and 18 are travelling alone, or in a group with no one over 18, then parental authorisation is not required as long as the group remains the same on entry and exit.</p>\n\n<p>Otherwise, a visitor under the age of 18 must carry a sworn affidavit drawn up by a solicitor and signed by the child\u2019s parents or legal guardian(s) authorising their travel. The affidavit will need to be legalised by the  <a href=\"https://www.gov.uk/get-document-legalised\">Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>)</a> and the <a rel=\"external\" href=\"http://www.dominicanembassy.org.uk/\">Dominican Republic Embassy</a>.</p>\n\n<p>If you need urgent consular assistance, you can contact the British Embassy on + 1 809 472 7111. Select option 1 for English, then option 2 for consular emergencies.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/67/dominican-republic\">TravelHealthPro website</a>.</p>\n\n<h2 id=\"returning-to-the-uk\">Returning to the UK</h2>\n\n<p>If you are returning to the UK, you should follow any measures implemented by the airport, which may include social distancing, use of masks or temperature checks. You should arrive in sufficient time and comply with any instructions from police or the Dominican authorities.</p>\n\n<p>You should contact local authorities for <a rel=\"external\" href=\"https://www.godominicanrepublic.com/newsroom/coronavirus/\">information on testing facilities</a>.</p>\n\n<p>The National Travel Health Network and Centre (NaTHNaC) also provides <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/514/coronavirus-covid-19-pandemic-advice-for-those-returning-from-abroad\">advice on how to stay safe as you travel by air</a>.</p>\n\n<p>All passengers departing the Dominican Republic must fill in an online exit form, which includes the COVID-19 Traveller\u2019s Health Affidavit, the Customs Declaration and the International Boarding / Disembarking forms. The form can be completed via the <a rel=\"external\" href=\"https://eticket.migracion.gob.do/\">Dominican Republic\u2019s Electronic Ticket Portal</a>, before your journey.</p>\n\n<p>Departure tax to leave the Dominican Republic is US$20. Scheduled airlines include this charge in the price of the tickets. Check with your tour operator or travel provider.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the <a href=\"/foreign-travel-advice/country/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a>\nof the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance page</a>. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre (NaTHNaC)</a>.</p>\n\n<h3 id=\"medical-treatment\">Medical treatment</h3>\n<p>Public medical facilities in Dominican Republic are generally limited. Private hospitals offer good standards of care, although they can be expensive. Dentistry is adequate.</p>\n\n<p>A good range of medicines is available, including some normally only available on prescription in the UK. Some medicines which would be sold by supermarkets and other shops in the UK are only available in pharmacies. Pharmacies are available across the country, including in many shopping malls, and can be identified by a cross sign outside.</p>\n\n<p>Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation. In some cases, if visitors are not able to pay their hospital bills, they have been prevented from leaving the country until the debt is settled.</p>\n\n<p>If you need emergency medical assistance in Santo Domingo dial 911 and ask for an ambulance. Outside Santo Domingo 911 is also used; however there is not 100% coverage across the country, so if you cannot contact,  call the tourist police (1-809-200-3500). If you\u2019re travelling with a tour operator, also contact your representative and/or hotel. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n\n<h3 id=\"cosmetic-or-elective-surgery\">Cosmetic or elective surgery</h3>\n<p>Be aware of the risks associated with cosmetic or elective surgery overseas. Make sure that you do your research and verify the credentials and qualifications of any healthcare providers before you travel.</p>\n\n<h3 id=\"health-risks\">Health risks</h3>\n<p>UK health authorities have classified Dominican Republic as having a risk of Zika virus transmission. For information and advice about the risks associated with Zika virus, visit the <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/67/dominican-republic#Other_risks\">National Travel Health Network and Centre website</a>.</p>\n\n<p>Cases of chikungunya virus and dengue fever have been confirmed in Dominican Republic. You should <a rel=\"external\" href=\"http://travelhealthpro.org.uk/insect-tick-bite-avoidance/\">take steps to avoid being bitten by mosquitoes</a>.</p>\n\n<p>Tap water in the Dominican Republic is not potable.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<h2 id=\"hurricanes\">Hurricanes</h2>\n\n<p>You should closely monitor local and international weather updates from the <a rel=\"external\" href=\"http://www.nhc.noaa.gov/\">US National Hurricane Center</a> and follow the advice of local authorities and your tour operator including any evacuation orders. Spanish language alerts are available from the Dominican Emergency Management Centre (COE) via their mobile app \u2018AlertaCOE\u2019, or on their <a rel=\"external\" href=\"https://twitter.com/coe_rd\">Twitter account</a>.</p>\n\n<p>See our\u00a0<a href=\"https://www.gov.uk/guidance/tropical-cyclones\">Tropical Cyclones</a>\u00a0page for advice on what to do if you are caught up in a storm.</p>\n\n<p>Hurricane Fiona caused some local flooding and damage to buildings in the East and North of the country in September 2022. Hurricanes Irma and Maria caused some local flooding and minor damage to buildings in the north and east of the country in September 2017.</p>\n\n<h2 id=\"earthquakes\">Earthquakes</h2>\n<p>There are occasional earthquakes in the Dominican Republic. To protect yourself during an earthquake, you should drop to the ground, take cover and hold on until the shaking stops. If you\u2019re inside a building don\u2019t exit until it\u2019s safe to do so. If you\u2019re outside, move away from buildings, streetlights and electricity wires. After the earthquake don\u2019t run as there may be aftershocks or debris in your path. If you become trapped, tap on a pipe or wall so rescuers can find you. Only shout as a last resort as this may cause you to inhale dust. In the event of an earthquake, the Dominican Government authorities, fire-fighters and police will provide help to foreigners.\u00a0</p>\n\n<p>If a major earthquake occurs close to shore, you should follow the instructions of the local authorities, bearing in mind that a tsunami could arrive within minutes.</p>\n\n<p>The <a rel=\"external\" href=\"https://www.ready.gov/earthquakes\">US Federal Emergency Management Agency</a> has advice about what to do before during and after an earthquake and tsunami</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "<p>The currency of the Dominican Republic is the Dominican peso. US dollars and travellers\u2019 cheques are easily exchanged. Only exchange money at banks or official exchange offices (casas de cambio). UK credit cards and debit cards will usually work in ATMs. Take great care when withdrawing cash at an ATM and where possible withdraw money inside a bank branch, shopping centre or supermarket, rather than an ATM on the street.</p>\n\n<p>Credit card cloning and identity theft are a risk in the Dominican Republic. You should avoid letting your payment card out of your sight when paying, or pay in cash instead.</p>\n\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the FCDO in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Dominican%20Republic&amp;post=Dominican%20Republic%20travel%20advice%20team\">send the Travel Advice Team a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Dominican%20Republic&amp;post=Dominican%20Republic%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-09-15T10:10:12Z",
+            "updated_at": "2023-09-15T10:10:12Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-25T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/dominican-republic",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/dominican-republic",
+                    "base_path": "/foreign-travel-advice/dominican-republic",
+                    "content_id": "38051402-bf94-47ab-9ad7-a468280f3d9e",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-15T10:10:12Z",
+                    "schema_name": "travel_advice",
+                    "title": "Dominican Republic travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/dominican-republic",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/dominican-republic",
+                    "api_url": "https://www.gov.uk/api/content/world/dominican-republic",
+                    "base_path": "/world/dominican-republic",
+                    "content_id": "491611e9-0dbe-419c-9cd0-4ee4776c47be",
+                    "description": "Services if you're visiting, studying, working or living in the Dominican Republic. Includes information about trading with and doing business in the UK and Dominican Republic.",
+                    "details": {
+                        "internal_name": "UK help and services in Dominican Republic",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:33Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Dominican Republic",
+                    "web_url": "https://www.gov.uk/world/dominican-republic",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/jamaica",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/jamaica",
+                    "base_path": "/foreign-travel-advice/jamaica",
+                    "content_id": "1def455a-6ee1-4235-b109-3b485a208b84",
+                    "details": {
+                        "change_description": "New information that all travellers are required to complete the Immigration/Customs C5 Form online before arrival in Jamaica ('Entry requirements' page).\r\n\r\n",
+                        "country": {
+                            "name": "Jamaica",
+                            "slug": "jamaica",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-11T15:45:19Z",
+                    "schema_name": "travel_advice",
+                    "title": "Jamaica travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/jamaica",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/mexico",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/mexico",
+                    "base_path": "/foreign-travel-advice/mexico",
+                    "content_id": "34dafa2b-24e5-4625-b542-bf5e0bb8cd80",
+                    "details": {
+                        "change_description": "Advise against all but essential travel to the city of Acapulco following Hurricane Otis ('Warnings and insurance' page; \u2018Regional Travel\u2019 page)",
+                        "country": {
+                            "name": "Mexico",
+                            "slug": "mexico",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-29T09:29:10Z",
+                    "schema_name": "travel_advice",
+                    "title": "Mexico travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/mexico",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/cuba",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/cuba",
+                    "base_path": "/foreign-travel-advice/cuba",
+                    "content_id": "d1055857-ece4-4862-9fe1-493545e9fede",
+                    "details": {
+                        "change_description": "Tropical storm conditions are possible from Friday 17 November which could affect southeastern Cuba bringing heavy rainfall ('Summary' and 'Natural disasters' pages).",
+                        "country": {
+                            "name": "Cuba",
+                            "slug": "cuba",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-17T12:00:30Z",
+                    "schema_name": "travel_advice",
+                    "title": "Cuba travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/cuba",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/haiti",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/haiti",
+                    "base_path": "/foreign-travel-advice/haiti",
+                    "content_id": "a6d54a9d-12f7-49e4-84bc-3b5167489ce5",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Haiti",
+                            "slug": "haiti",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T15:30:08Z",
+                    "schema_name": "travel_advice",
+                    "title": "Haiti travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/haiti",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/egypt",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/egypt",
+                    "base_path": "/foreign-travel-advice/egypt",
+                    "content_id": "52e41c89-6f2c-4db6-9370-6d41fb44fd0f",
+                    "details": {
+                        "change_description": "Addition of information to reflect the opening of the Rafah border crossing with Egypt on 1 November ('Warnings and insurance' page).",
+                        "country": {
+                            "name": "Egypt",
+                            "slug": "egypt",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T11:14:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Egypt travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/egypt",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-dominican-republic",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-dominican-republic",
+                    "base_path": "/world/living-in-dominican-republic",
+                    "content_id": "f32e9183-27a5-4b67-b742-63d2a9b07332",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Dominican Republic",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/dominican-republic",
+                                "api_url": "https://www.gov.uk/api/content/world/dominican-republic",
+                                "base_path": "/world/dominican-republic",
+                                "content_id": "491611e9-0dbe-419c-9cd0-4ee4776c47be",
+                                "description": "Services if you're visiting, studying, working or living in the Dominican Republic. Includes information about trading with and doing business in the UK and Dominican Republic.",
+                                "details": {
+                                    "internal_name": "UK help and services in Dominican Republic",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:33Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Dominican Republic",
+                                "web_url": "https://www.gov.uk/world/dominican-republic",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:14:58Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Dominican Republic",
+                    "web_url": "https://www.gov.uk/world/living-in-dominican-republic",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-dominican-republic",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-dominican-republic",
+                    "base_path": "/world/travelling-to-dominican-republic",
+                    "content_id": "8671a650-d140-48df-84ec-c1fa490bdaa0",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Dominican Republic",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/dominican-republic",
+                                "api_url": "https://www.gov.uk/api/content/world/dominican-republic",
+                                "base_path": "/world/dominican-republic",
+                                "content_id": "491611e9-0dbe-419c-9cd0-4ee4776c47be",
+                                "description": "Services if you're visiting, studying, working or living in the Dominican Republic. Includes information about trading with and doing business in the UK and Dominican Republic.",
+                                "details": {
+                                    "internal_name": "UK help and services in Dominican Republic",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:33Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Dominican Republic",
+                                "web_url": "https://www.gov.uk/world/dominican-republic",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:14:57Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Dominican Republic",
+                    "web_url": "https://www.gov.uk/world/travelling-to-dominican-republic",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-09-15T10:10:12Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1694772611.974-10.13.22.74-50984",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Dominican Republic travel advice",
+        "updated_at": "2023-11-17T12:00:32Z",
+        "withdrawn_notice": {}
+    }
+}

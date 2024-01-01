@@ -1,0 +1,975 @@
+{
+    "Country Slug": "namibia",
+    "Country Name": "Namibia",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/namibia",
+        "content_id": "5a2d153e-efc6-4dbc-b3ac-d81e51e4f1f7",
+        "description": "Latest FCDO travel advice for Namibia including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-12-04T17:52:45.208Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) \u2013 addition of information about International Driving Permits",
+                    "public_timestamp": "2019-03-11T16:15:46.944Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full and reissued without amendment",
+                    "public_timestamp": "2019-06-26T09:17:38.565Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and republished without amendment",
+                    "public_timestamp": "2019-12-12T10:45:47.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on potential changes to South African Airways timetable",
+                    "public_timestamp": "2020-01-17T17:01:49.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on cancellations to some international and domestic South African Airways flights",
+                    "public_timestamp": "2020-01-21T15:18:53.000Z"
+                },
+                {
+                    "note": "Summary \u2013 update to information on South African Airways international and domestic flight schedules",
+                    "public_timestamp": "2020-01-31T15:42:29.000Z"
+                },
+                {
+                    "note": "Updated information on measures introduced by the Namibian authorities in response to the coronavirus (COVID-19) pandemic.",
+                    "public_timestamp": "2020-03-14T13:14:25.000Z"
+                },
+                {
+                    "note": "Air routes to and from Namibia are disrupted. You should consult your airline or tour operator before travelling (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-17T11:23:35.000Z"
+                },
+                {
+                    "note": "A state of emergency was declared on 17 March, which includes prohibiting entry to Namibia by all foreign nationals if they have come from countries affected by coronavirus, including the United Kingdom.",
+                    "public_timestamp": "2020-03-17T18:36:48.000Z"
+                },
+                {
+                    "note": "Updated information on restrictions including lockdown from midnight Friday 27th March ('Summary' and 'Health')",
+                    "public_timestamp": "2020-03-24T20:03:32.000Z"
+                },
+                {
+                    "note": "Cancellation of commercial flights out of Namibia ('Coronavirus' and \u2018Return to the UK\u2019)",
+                    "public_timestamp": "2020-03-26T12:35:28.000Z"
+                },
+                {
+                    "note": "Namibia announce a lockdown within the Khomas and Erongo regions including Okahandja, Rehoboth and Windhoek for 21 days from Saturday 28th March. ",
+                    "public_timestamp": "2020-03-29T16:29:12.000Z"
+                },
+                {
+                    "note": "Updated information and advice on returning to the UK (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-01T16:29:55.000Z"
+                },
+                {
+                    "note": "Updated information to local restrictions and advice on returning to the UK ('Summary', 'Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-04-08T11:43:23.000Z"
+                },
+                {
+                    "note": "Updated information and advice on local measures and returning to the UK",
+                    "public_timestamp": "2020-04-17T15:17:05.000Z"
+                },
+                {
+                    "note": "Updated information and advice on local measures and returning to the UK (\u2018Summary\u2019, \u2018Coronavirus\u2019 and \u2018Return to the UK\u2019 pages)",
+                    "public_timestamp": "2020-05-04T14:12:35.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed and reissued without amendment",
+                    "public_timestamp": "2020-05-09T10:11:07.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:32:43.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on changes to stage levels of lockdown restrictions in Namibia (\u2018Staying during coronavirus\u2019 and 'Health' pages) and obtaining visa extensions ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-03T15:56:49.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:39:18.000Z"
+                },
+                {
+                    "note": "Updated information on continuation of stage 1 restrictive measures for Walvis Bay area. ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-18T16:13:26.000Z"
+                },
+                {
+                    "note": "Addition of information of visas whilst remaining in Nambia ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-19T11:31:30.000Z"
+                },
+                {
+                    "note": "Updated information on restrictive measures and entry restrictions in relation to coronavirus. ('Staying during coronavirus' and 'Entry Requirements' pages)",
+                    "public_timestamp": "2020-06-23T16:21:08.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-10T13:37:33.000Z"
+                },
+                {
+                    "note": "Editorial amendments to improve the 'Entry requirements' section.",
+                    "public_timestamp": "2020-07-10T14:34:46.000Z"
+                },
+                {
+                    "note": "Addition of information on repatriation flight from Windhoek to Frankfurt on 5 August ('Coronavirus' page)",
+                    "public_timestamp": "2020-07-29T13:55:57.000Z"
+                },
+                {
+                    "note": "Addition of information on repatriation flights and revision of coronavirus (COVID-19) measures including travel, public space and quarantine requirements ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-04T11:56:16.000Z"
+                },
+                {
+                    "note": "Removal of information on a Qatar Airlines repatriation flight, which has been cancelled. ('Coronavirus' section)",
+                    "public_timestamp": "2020-08-05T16:34:53.000Z"
+                },
+                {
+                    "note": "Information on repatriation flight on 28 August. New information concerning restrictions across Namibia. (\u2018Coronavirus\u2019 section)",
+                    "public_timestamp": "2020-08-13T11:22:54.000Z"
+                },
+                {
+                    "note": "Removal of information on repatriation flight on 21 August. (\u2018Coronavirus\u2019 section)",
+                    "public_timestamp": "2020-08-24T16:23:03.000Z"
+                },
+                {
+                    "note": "Updated information on stage 3 restrictions under the COVID-19 State of Emergency across the country.  Announcement of reopening of Hosea Kutako International Airport to tourists from 1 September. Ethiopian Airlines resuming commercial flights from 11 September (\u2018Coronavirus\u2019 section, \u2018Entry Requirements\u2019 section)",
+                    "public_timestamp": "2020-09-01T16:56:50.000Z"
+                },
+                {
+                    "note": "Addition of information on the resumption of Eurowings flights to and from Namibia from 19 September ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-08T09:07:28.000Z"
+                },
+                {
+                    "note": "Update to information on extension of stage 3 State of Emergency restrictive measures to midnight on 17 September, including curfew hours and public gatherings  ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-11T15:34:58.000Z"
+                },
+                {
+                    "note": "Update to information on the end of the State of Emergency on 17 September and update to entry requirements for tourists ('Summary', 'Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-09-22T11:58:44.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements; resumption of Qatar Airlines flights from 15 October \r\n('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-10-06T15:48:16.000Z"
+                },
+                {
+                    "note": "Updated information on travellers requirements for testing before arrival. Airports, sea ports and some land boards are now open and public gatherings are now limited to 200 people ('Coronavirus' and 'Entry requirements' pages)\r\n",
+                    "public_timestamp": "2020-10-23T12:12:01.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Namibia. Namibia is now on the list of countries and territories where self-isolation is not required on return to England, Wales, and Northern Ireland. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-11-19T17:27:33.000Z"
+                },
+                {
+                    "note": "If you are returning to Scotland from Namibia on or after 4am on 28 November, you do not need to self-isolate on your return. ('Summary' page)",
+                    "public_timestamp": "2020-11-26T18:26:52.000Z"
+                },
+                {
+                    "note": "New information on public health measures in place from 16 December ('Coronavirus' page).",
+                    "public_timestamp": "2020-12-16T15:01:56.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to Namibia based on the current assessment of COVID-19 risks. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2020-12-17T17:43:49.000Z"
+                },
+                {
+                    "note": "Amendment to restrictive measures in place from 2359hrs on 23 December 2020 to 0000hrs on 13 January 2021 ('Coronavirus' page); change to validity of negative PCR test on arrival to 7 days ('Entry requirements' page).",
+                    "public_timestamp": "2020-12-23T11:26:17.000Z"
+                },
+                {
+                    "note": "Addition of advice to check FCDO travel advice if transiting on journeys between the UK and Namibia. (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2020-12-24T12:16:46.000Z"
+                },
+                {
+                    "note": "New information Namibia's weather; there will be a widespread of heavy rainfall and likely flash flooding from 31 December to 2 January (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2020-12-31T10:12:57.000Z"
+                },
+                {
+                    "note": "Removal of weather warning for 31 December 2020 to 2 January 2021 (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2021-01-04T10:41:22.000Z"
+                },
+                {
+                    "note": "From 4am on Saturday 9 December, visitors arriving into the UK who have been in or transited through Namibia in the previous 10 days will not be permitted entry. British and Irish nationals, longer-term visa holders and permanent residents arriving in the UK from Namibia, need to self-isolate on their return. ",
+                    "public_timestamp": "2021-01-07T20:50:06.000Z"
+                },
+                {
+                    "note": "From 4am on Saturday 9 January, visitors arriving into the UK who have been in or transited through Namibia in the previous 10 days will not be permitted entry. British and Irish nationals, longer-term visa holders and permanent residents arriving in the UK from Namibia, need to self-isolate on their return. ",
+                    "public_timestamp": "2021-01-08T09:43:29.000Z"
+                },
+                {
+                    "note": "New information on closure of land borders with South Africa until 15 February 2021, and additional information on visa exemptions due to COVID-19 ('Coronavirus', 'Health' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-01-12T11:43:12.000Z"
+                },
+                {
+                    "note": "Updated information on extension of current COVID-19 restrictive measures, it's been extended till midnight on 3 February 2021 (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-14T15:38:23.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-04T18:29:43.000Z"
+                },
+                {
+                    "note": "Amended regulations in force until 24 February (\u2018Coronavirus\u2019 page); requirement for those vaccinated against COVID-19 to present a negative test result prior to entry into the country (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-02-05T15:08:36.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Namibia (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-16T12:09:02.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from Namibia ('Summary' page)",
+                    "public_timestamp": "2021-02-16T17:23:12.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from Namibia ('Summary' page) ",
+                    "public_timestamp": "2021-02-19T15:37:50.000Z"
+                },
+                {
+                    "note": "Update to information on curfew and other public health restrictions in place ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-04T14:03:22.000Z"
+                },
+                {
+                    "note": "Update to information on local restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-01T15:08:39.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures in Namibia; measures are now in force until midnight on 30 June ('Coronavirus' page). Additional information on testing before arrival to Namibia; Antigen Rapid Diagnostic Test results are not accepted for entry ('Entry requirements' page)",
+                    "public_timestamp": "2021-06-01T10:24:06.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures in Namibia; amended measures are now in force until midnight on 30 June ('Coronavirus' page). ",
+                    "public_timestamp": "2021-06-18T08:11:55.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 measures in Namibia; measures are now in force until midnight on 15 July including a nationwide lockdown ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-01T14:58:03.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Namibia ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-05T10:28:32.000Z"
+                },
+                {
+                    "note": "Restrictions in force until midnight on 29 July ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-16T12:33:00.000Z"
+                },
+                {
+                    "note": "Changes to restrictions in force until midnight on 14 August ('Coronavirus' page)",
+                    "public_timestamp": "2021-08-04T11:26:52.000Z"
+                },
+                {
+                    "note": "Changes to restrictions in force from 15 August until midnight on 14 September('Coronavirus' page)",
+                    "public_timestamp": "2021-08-13T13:53:39.000Z"
+                },
+                {
+                    "note": "Amendment to regulations on alcohol sales ('Coronavirus' page) and testing requirements for entry into Namibia (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-09-09T15:37:51.000Z"
+                },
+                {
+                    "note": "Addition of information on changes to the regulations on alcohol sales ('Coronavirus' page) and testing requirements for entry into Namibia (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-09-09T15:51:06.000Z"
+                },
+                {
+                    "note": "Updated information on regulations in force in public places and services from midnight on 16 September to midnight on 15 October ('Coronavirus' page) ",
+                    "public_timestamp": "2021-09-16T09:41:01.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Namibia will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland. ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-10-07T16:57:28.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Namibia, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-11T09:34:47.000Z"
+                },
+                {
+                    "note": "Updated information on Namibia's public health measures that are in force until midnight on 15 November 2021 and vaccines included in Namibia's national vaccination programme ('Coronavirus' page)",
+                    "public_timestamp": "2021-10-20T10:16:57.000Z"
+                },
+                {
+                    "note": "Addition of information on the use of the Trusted Travel System for verification of COVID-19 test results for travel to Namibia from 15 November ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-08T15:36:55.000Z"
+                },
+                {
+                    "note": "The FCDO advises against all but essential travel to Namibia based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-11-25T22:08:08.000Z"
+                },
+                {
+                    "note": "From midday Friday 26 November, Namibia will be added to the red list for entering England ('Summary' page). Information on public health measures that are in place until 15 December 2021 ('Coronavirus\u2019 page) and extension of implementation period of the Trusted Travel System to 15 January 2022 (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-11-26T10:37:59.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 15 December, Namibia will be removed from the red list (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-12-14T15:47:28.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Namibia based on the current assessment of COVID-19 risks (\u2018Summary\u2019 and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-12-15T04:10:03.000Z"
+                },
+                {
+                    "note": "Addition of information on amended COVID-19 regulations in place until 15 January 2022 (\u2018Coronavirus\u2019 page).  Updated information on the conducting of random PCR testing on all arrivals and requirement for PCR test results to not be older than 72 hours at the time of entry into Namibia ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-16T11:25:02.000Z"
+                },
+                {
+                    "note": "Amended information on COVID-19 regulations (\u2018Coronavirus\u2019 page). Updated information on PCR test requirements for entry into Namibia ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-15T15:19:40.000Z"
+                },
+                {
+                    "note": "Updated information on COVID and entry restrictions for Namibia  ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-03-17T10:46:11.000Z"
+                },
+                {
+                    "note": "Updated information on the age that children need to have a negative PCR test result to enter Namibia ('Entry requirements' page)",
+                    "public_timestamp": "2022-06-20T09:29:26.000Z"
+                },
+                {
+                    "note": "Updated information on the removal of testing requirements for children under 12.   Addition of  advice for travellers to check with airlines before travel in case regulations differ ('Entry requirements' page)",
+                    "public_timestamp": "2022-07-01T14:15:42.000Z"
+                },
+                {
+                    "note": "Removal of all COVID-19 restrictions within Namibia; requirement for all visitors to Namibia to present a valid COVID-19 vaccination certificate in order to enter the country (\u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-07-16T14:01:40.000Z"
+                },
+                {
+                    "note": "Amendment to requirements for unvaccinated travellers and residents to enter Namibia (\u2019Entry requirements' page)",
+                    "public_timestamp": "2022-07-16T18:52:49.000Z"
+                },
+                {
+                    "note": "Updated information on the removal of all COVID-19 requirements for entry into Namibia ('Entry requirements' page).",
+                    "public_timestamp": "2022-08-26T09:22:30.000Z"
+                },
+                {
+                    "note": "Updated statistics on HIV prevalence (\u2018Health\u2019 page) ",
+                    "public_timestamp": "2023-04-06T10:09:37.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:48:39.000Z"
+                }
+            ],
+            "country": {
+                "name": "Namibia",
+                "slug": "namibia",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/namibia/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/namibia/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Namibia\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check your cover. See the FCDO\u2019s <a href=\"https://www.gov.uk/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Avoid driving outside towns at night as wildlife and stray livestock pose a serious hazard. See <a href=\"/foreign-travel-advice/namibia/safety-and-security#road-travel\">Road travel</a></p>\n\n<p>Violent street crime can affect foreign tourists, particularly in Windhoek. See <a href=\"/foreign-travel-advice/namibia/safety-and-security#crime\">Crime</a></p>\n\n<p>If travelling along the Zambezi region, stick to the well-travelled routes. See <a href=\"/foreign-travel-advice/namibia/safety-and-security#local-travel\">Local travel</a></p>\n\n<p>You should carry identification with you at all times. Unless you need to have your passport with you for immigration purposes or passing through security checkpoints, leave it in your hotel safe and carry a photocopy for ID.</p>\n\n<p>Although there\u2019s no recent history of terrorism in Namibia, attacks can\u2019t be ruled out. See <a href=\"/foreign-travel-advice/namibia/terrorism\">Terrorism</a></p>\n\n<p>Most visits to Namibia are trouble-free.</p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for Namibia on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/157/namibia#COVID-19\">TravelHealthPro website</a></p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<p>You should <a rel=\"external\" href=\"https://mhss.gov.na/corona\">contact local authorities</a> for information on testing facilities.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>Hosea Kutako International airport is open and flights are operating normally.  Check with your travel company for the latest information.</p>\n\n<p>Other countries may restrict movement or bring in new quarantine rules with little warning.  You should <a href=\"/foreign-travel-advice\">check the travel advice</a> for the countries on your route for the latest information.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n<p>See <a href=\"/foreign-travel-advice/namibia/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Namibia.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-namibia\">Travel in Namibia</h2>\n\n<p>The Government of Namibia is no longer providing statistics on COVID-19 case numbers.</p>\n\n<p>All COVID-19 restrictions have been removed. Voluntary compliance to public health and social measures is encouraged.</p>\n\n<h2 id=\"healthcare-in-namibia\">Healthcare in Namibia</h2>\n\n<p>For contact details for English speaking doctors visit our <a href=\"/government/publications/namibia-list-of-medical-facilitiespractitioners\">list of healthcare providers</a>.</p>\n\n<p>If you think you have COVID-19 symptoms, you should call the Government of Namibia\u2019s COVID-19 hotline on 0800 100 100.</p>\n\n<p>View <a href=\"/foreign-travel-advice/namibia/health\">Health</a> for further details on healthcare in Namibia.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"help-and-support\">Help and support</h2>\n\n<p>If you need urgent consular assistance, you can contact the British High Commission on +264 61 274800.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h3 id=\"crime\">Crime</h3>\n<p>Muggers in Windhoek often target foreign tourists. Attacks can take place even in busy city centre locations in broad daylight. Be alert to your surroundings if you are returning to your guest house or hotel, especially after dark.</p>\n\n<p>Keep car doors locked and windows shut, especially in heavy traffic. Keep valuables off the seats and out of sight. Gangs sometimes try to gain entry to vehicles at busy intersections in Windhoek, including during the day. Theft from vehicles, particularly at service stations, is common. If possible don\u2019t leave your vehicle unattended at fuel stops. \u00a0</p>\n\n<p>There have been reports of thefts from mail by Post Office workers in Namibia. Any valuable parcels or documents (eg bank and credit cards) should be sent by registered mail, and preferably by a reputable commercial courier company.</p>\n\n<p>Don\u2019t hail taxis from the street, particularly in Windhoek, as these have been involved in thefts from foreign tourists. Ask your hotel, guest house or tour operator to recommend a reputable taxi company. Don\u2019t enter townships at night unless you are accompanied by someone with local knowledge.</p>\n\n<p>Safeguard your valuables and cash. Use a hotel safe if possible. Keep large amounts of money, expensive jewellery, cameras and cell phones out of sight. Don\u2019t change large sums of money in busy public areas. Keep copies of important documents, including passports, in a separate place. Beware of pickpockets in town centres.</p>\n\n<p>There have been cases of credit card skimming at some hotels and lodges around the country. When paying by credit card, keep the card in full view at all times and always check your statement carefully.</p>\n\n<p>In case of a police emergency or to report a crime in Windhoek, you can contact the Windhoek City Police Service on 061-2902911 or toll-free 302302.</p>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you\u2019ll be driving in Namibia, an <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">International Driving Permit (IDP)</a> is recommended. Since 1 February 2019, you can only get IDPs over the counter from 2,500 UK Post Offices. You will not be able to buy an IDP outside the UK, so get one before you travel.</p>\n\n<p>You must carry your UK photo driving licence at all times and produce it on request at the police check points leading in and out of Windhoek and other major towns and cities. If you\u2019re planning to hire a car, check with your car hire company for information on their requirements before you travel. If you hire a car, pay particular attention to the insurance cover provided. Most policies will not cover accidents that do not involve other vehicles or animals. Given the higher than normal probability of an accident on a gravel road because of its condition, you should take out fully comprehensive insurance on any hired vehicle. You are not allowed to use a mobile phone whilst driving.</p>\n\n<p>There have been a number of fatal accidents on gravel/dirt roads. \u00a0Don\u2019t exceed 80kmh on gravel. Punctures are common. If possible, carry 2 spare tyres and plenty of water.</p>\n\n<p>During the rainy season (normally January to April) many gravel roads deteriorate. Check with your destination on the local road conditions before setting off. \u00a0Avoid driving at night outside towns as wildlife and stray livestock pose a serious hazard.</p>\n\n<h3 id=\"adventure-sports\">Adventure sports</h3>\n<p>Make sure your travel insurance covers you for any adventure activities you plan to undertake (eg quad biking, dune boarding and hot air ballooning).</p>\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Although there\u2019s no recent history of terrorism in Namibia, attacks can\u2019t be ruled out.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Drug taking and smuggling is an offence. Punishments can be severe.</p>\n\n<p>Homosexuality is not illegal in Namibia. Some sexual relations between men are criminalised, but generally not enforced. There are no legal protections against discrimination based on sexual orientation. Conservative attitudes towards LGBT individuals persist, especially in rural regions, and many people in Namibia consider LGBT relationships to be taboo. It is advisable to avoid public displays of affection such as kissing and hand-holding and avoid discussing LGBT topics in public. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT community before you travel.</p>\n\n<p>It\u2019s illegal to buy, sell, kill or capture any protected wild animal or trade its parts without a licence. Namibia is a signatory to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), which bans trade in ivory and rhino horn. Anyone caught buying or trafficking these goods will be prosecuted and could receive a prison sentence or fine.</p>\n\n<p>There are no formal rules limiting photography by tourists in Namibia, but some people have been detained for taking pictures of State House and properties where the President is residing. Parts of Namibia require a permit to enter (eg the Cape Cross Seal Colony) and you should check about photography when applying for permits. If the army or police are protecting a building or place, check before taking any photographs. If in doubt, don\u2019t take pictures.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/namibia/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a>\nof the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h3 id=\"medical-treatment\">Medical treatment</h3>\n\n<p>There are good medical facilities in Windhoek. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation. Even with fully comprehensive travel insurance, private hospitals in Namibia may insist on proof of payment (cash or credit card) before starting treatment. They may also insist you pay up front, reclaiming from your insurer at a later date. Some travel insurance policies are not recognised by some Namibian hospitals, you should check with your provider if their product is accepted in Namibia before you travel and seek alternative coverage where necessary. Medical evacuation from remote areas can take time.</p>\n\n<h3 id=\"health-risks\">Health risks</h3>\n\n<p>There is a high risk of malaria throughout the year in the Caprivi Strip, Kavango and Kunene regions.  For further information see <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/157/namibia#Malaria\">NaTHNaC\u2019s</a> information sheet.</p>\n\n<p>Cholera is known to occur in Namibia.</p>\n\n<p>Some people suffer skin problems and/or dehydration due to Namibia\u2019s hot and dry climate. Make sure you carry a good supply of drinkable water.</p>\n\n<p>Namibia has one of the highest prevalence rates of HIV in the world. In 2021, the UNAIDS Report on the Global AIDS Epidemic estimated that around 210,000 adults aged 15 or over in Namibia were living with HIV; the prevalence percentage was estimated at around 11.8% of the adult population compared to the prevalence percentage in adults in the UK of around 0.2%. You should exercise normal precautions to avoid exposure to HIV/AIDS.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 211111 (in Windhoek) or 10111 (elsewhere) and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Namibia.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Namibia set and enforce entry rules. If you\u2019re unsure how Namibia\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>All travellers should familiarise themselves with the entry rules for Namibia before travel.</p>\n\n<h2 id=\"if-youre-fully-vaccinated\">If you\u2019re fully vaccinated</h2>\n\n<p>Fully vaccinated travellers are not required to produce a negative PCR test result on arrival.</p>\n\n<h3 id=\"proof-of-vaccination-status\">Proof of vaccination status</h3>\n\n<p>You do not need to show a vaccination card or certificate to enter Namibia.</p>\n\n<h3 id=\"residents-of-namibia\">Residents of Namibia</h3>\n\n<p>Namibians and permanent residence permit holders do not need to show proof of vaccination or a negative PCR test result in order to enter Namibia. You should check with your airline for any regulations they might have for a negative test result in order to travel.</p>\n\n<h2 id=\"if-youre-not-fully-vaccinated\">If you\u2019re not fully vaccinated</h2>\n\n<p>You do not need to show a negative PCR test result in order to enter Namibia.</p>\n\n<h2 id=\"if-youve-had-covid-19-in-the-past-year\">If you\u2019ve had COVID-19 in the past year</h2>\n\n<p>No special requirements are in place for any person who was previously infected with COVID-19.</p>\n\n<h2 id=\"children-and-young-people\">Children and young people</h2>\n\n<p>Children, aged 11 and under, do not need to show a valid vaccination certificate in order to enter Namibia. See Travelling with children (under 18) section below for more information.</p>\n\n<h2 id=\"if-youre-transiting-through-namibia\">If you\u2019re transiting through Namibia</h2>\n\n<p>Transiting is when you pass through one country on the way to your final destination.</p>\n\n<p>The rules for transiting Namibia are the same as for entry into Namibia.</p>\n\n<h2 id=\"exemptions\">Exemptions</h2>\n\n<p>There are no exemptions to Namibia\u2019s entry requirements.</p>\n\n<h3 id=\"hgv-drivers\">HGV drivers</h3>\n\n<p>There are no special requirements for HGV drivers.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>Your passport should be valid for a minimum period of 6 months from the date of entry into Namibia and have at least 1 completely blank page for Namibian immigration to use. If you are also going to travel in South Africa, you should be aware that although South African authorities state they require 1 blank passport page for entry, some officials insist on 2 blank pages. If you plan to take this route, make sure you have a total of 3 blank pages.</p>\n\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>Although British nationals can enter Namibia for a holiday or private visit of up to 90 days without a visa, there have been cases where visitors have only been given permission to stay for periods much shorter than 90 days, sometimes as short as only 7 or 10 days. Before leaving the immigration desk in the airport arrivals hall, check that you have been given permission to stay in Namibia for the duration of your intended visit up to the maximum allowable of 90 days and that you have been given a correctly dated entry stamp by Namibian Immigration officials, as this will be checked on departure.\nOverstaying the time granted or an incorrect or missing entry stamp could lead to detention, arrest and a fine. If you intend to work (which includes volunteering) or stay in Namibia for a period of more than 90 days, you must get a visa from the <a rel=\"external\" href=\"http://www.namibiahc.org.uk/\">Namibian High Commission</a> in London before you travel.</p>\n\n<h3 id=\"travelling-with-children-under-18\">Travelling with children (under 18)</h3>\n\n<p>Namibia introduced new immigration rules in 2016 relating to travel with children. In addition to valid passports, parents travelling with children (under 18) should at all times carry the original or certified copy of the unabridged birth certificate. The full unabridged birth certificate should list the child\u2019s details and both parents\u2019 details. The abridged (short) birth certificate which only lists the child\u2019s particulars won\u2019t be accepted by the Namibian Ministry of Home Affairs and Immigration.</p>\n\n<p>Adults travelling with children where they are not the biological or legal guardians of those children, should be in possession of an affidavit statement from the child\u2019s parents giving consent for their travel. If a child is travelling with only one parent, the other parent should give consent for travel in the form of an affidavit.</p>\n\n<p>Unaccompanied children may be required to provide in addition to a valid passport:</p>\n\n<ul>\n  <li>proof of consent from one or both parents/legal guardians in the form of an affidavit</li>\n  <li>a letter from the person receiving the child including their residential address where the child will be staying</li>\n</ul>\n\n<p>Contact your nearest Namibian High Commission if you have any specific questions about your trip.</p>\n\n<p>If your child was born in the UK, you can order a full unabridged birth certificate online via <a href=\"https://www.gov.uk/order-copy-birth-death-marriage-certificate\">GOV.UK</a>.</p>\n\n<h3 id=\"travelling-with-children-via-a-south-african-airport\">Travelling with children via a South African airport</h3>\n\n<p>If you\u2019re transiting through a South African airport with children, see our <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa\">South Africa travel advice page</a> for information and advice about the documents you\u2019ll need to carry.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/157/namibia#Vaccine_recommendations\">TravelHealthPro website</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>Credit cards and bankcards can be used in most Namibian cash machines although the charges for withdrawing cash can be expensive. The Namibian Dollar is tied to the South African Rand, which is also legal tender in Namibia.</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Namibia&amp;post=Namibia%20travel%20advice%20team\">send the Travel Advice Team a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Namibia&amp;post=Namibia%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-06-22T10:48:39Z",
+            "updated_at": "2023-06-22T10:48:39Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-01-10T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/namibia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/namibia",
+                    "base_path": "/foreign-travel-advice/namibia",
+                    "content_id": "5a2d153e-efc6-4dbc-b3ac-d81e51e4f1f7",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:48:39Z",
+                    "schema_name": "travel_advice",
+                    "title": "Namibia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/namibia",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/namibia",
+                    "api_url": "https://www.gov.uk/api/content/world/namibia",
+                    "base_path": "/world/namibia",
+                    "content_id": "7d31af7d-cf93-490f-96fc-82d59a1a3694",
+                    "description": "Services if you're visiting, studying, working or living in Namibia. Includes information about trading with and doing business in the UK and Namibia.",
+                    "details": {
+                        "internal_name": "UK help and services in Namibia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:07Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Namibia",
+                    "web_url": "https://www.gov.uk/world/namibia",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/south-africa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/south-africa",
+                    "base_path": "/foreign-travel-advice/south-africa",
+                    "content_id": "e4649806-d58a-40f7-b86d-09a4376c25a0",
+                    "details": {
+                        "change_description": "Information on 'smash and grab' attacks on vehicles ('Safety and security' page).\r\n\r\nInformation on the less secure areas around international airports in Johannesburg and Cape Town ('Safety and security' page).\r\n\r\nAdditional information on asking for a life-jacket when participating in water sports ('Safety and security' page).\r\n\r\n",
+                        "country": {
+                            "name": "South Africa",
+                            "slug": "south-africa",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T12:12:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "South Africa travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/south-africa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zimbabwe",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zimbabwe",
+                    "base_path": "/foreign-travel-advice/zimbabwe",
+                    "content_id": "d38db404-4291-4088-951a-1b8d5b696f1e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Zimbabwe",
+                            "slug": "zimbabwe",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T11:59:21Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zimbabwe travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zimbabwe",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/botswana",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/botswana",
+                    "base_path": "/foreign-travel-advice/botswana",
+                    "content_id": "72181a48-c553-45e4-aa5a-ebe232acea00",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Botswana",
+                            "slug": "botswana",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:31:33Z",
+                    "schema_name": "travel_advice",
+                    "title": "Botswana travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/botswana",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zambia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zambia",
+                    "base_path": "/foreign-travel-advice/zambia",
+                    "content_id": "7e2beff5-a1ee-4ed4-ad63-c9a72bb0dc17",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Zambia",
+                            "slug": "zambia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:43:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zambia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zambia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tanzania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tanzania",
+                    "base_path": "/foreign-travel-advice/tanzania",
+                    "content_id": "203432b1-e296-4ffe-9fc9-dcfe110c0d67",
+                    "details": {
+                        "change_description": "(CORRECTION) Terrorists are very likely to try to carry out attacks in Tanzania in the near future.",
+                        "country": {
+                            "name": "Tanzania",
+                            "slug": "tanzania",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T12:04:47Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tanzania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tanzania",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-namibia",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-namibia",
+                    "base_path": "/world/living-in-namibia",
+                    "content_id": "9fb5522b-f3f7-4f2a-8c6f-472c719688ec",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Namibia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/namibia",
+                                "api_url": "https://www.gov.uk/api/content/world/namibia",
+                                "base_path": "/world/namibia",
+                                "content_id": "7d31af7d-cf93-490f-96fc-82d59a1a3694",
+                                "description": "Services if you're visiting, studying, working or living in Namibia. Includes information about trading with and doing business in the UK and Namibia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Namibia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:07Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Namibia",
+                                "web_url": "https://www.gov.uk/world/namibia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:03Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Namibia",
+                    "web_url": "https://www.gov.uk/world/living-in-namibia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-namibia",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-namibia",
+                    "base_path": "/world/travelling-to-namibia",
+                    "content_id": "72d66b1e-809a-4fdf-8c95-028edbe461a7",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Namibia",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/namibia",
+                                "api_url": "https://www.gov.uk/api/content/world/namibia",
+                                "base_path": "/world/namibia",
+                                "content_id": "7d31af7d-cf93-490f-96fc-82d59a1a3694",
+                                "description": "Services if you're visiting, studying, working or living in Namibia. Includes information about trading with and doing business in the UK and Namibia.",
+                                "details": {
+                                    "internal_name": "UK help and services in Namibia",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:07Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Namibia",
+                                "web_url": "https://www.gov.uk/world/namibia",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:02Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Namibia",
+                    "web_url": "https://www.gov.uk/world/travelling-to-namibia",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-06-22T10:48:39Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1687430919.915-10.13.20.17-35498",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Namibia travel advice",
+        "updated_at": "2023-11-15T10:52:17Z",
+        "withdrawn_notice": {}
+    }
+}

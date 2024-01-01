@@ -1,0 +1,1288 @@
+{
+    "Country Slug": "philippines",
+    "Country Name": "Philippines",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/philippines",
+        "content_id": "9a7fcd1d-1be5-4342-89ff-a4bd8ecf93e3",
+        "description": "FCDO travel advice for the Philippines. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [
+                "avoid_all_travel_to_parts"
+            ],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary - removal of information on Typhoon Yutu and All Saint's Day; Health section - revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-11-13T12:16:39.609Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information to reflect extension of martial law in Mindanao by one year to 31 December 2019",
+                    "public_timestamp": "2018-12-13T10:33:41.418Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information about the availability of consular support",
+                    "public_timestamp": "2018-12-21T17:08:05.563Z"
+                },
+                {
+                    "note": "Latest Update: Summary - On 26 December 2018, the United States Transport Security Administration issued a public notice highlighting poor aviation security at Manila Ninoy Aquino International Airport.",
+                    "public_timestamp": "2018-12-27T01:27:55.116Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section - addition of factual information; on 31 December 2018 an IED exploded at the entrance to the South Seas shopping mall in Cotabato City; another IED was found at the same shopping mall with authorities carrying out a controlled explosion",
+                    "public_timestamp": "2018-12-31T13:40:33.399Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information and advice on the annual procession of the Black Nazarene, which will be held in Manila on Wednesday 9 January 2019; Natural disasters section and summary - editorial amendments",
+                    "public_timestamp": "2019-01-07T13:34:27.919Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information; national and local elections will be held across the Philippines on 13 May 2019; the official election period runs from 13 January to 12 June; the Philippines Bureau of Immigration have specifically warned foreign nationals against participating in any protests and political rallies; you should avoid any demonstrations and follow the advice of local authorities ",
+                    "public_timestamp": "2019-01-16T15:28:30.474Z"
+                },
+                {
+                    "note": "Summary: On 27 January 2019, at least 27 people were killed and many more injured as a result of bomb attacks at a Roman Catholic cathedral on Jolo Island in Sulu Province.",
+                    "public_timestamp": "2019-01-27T08:09:37.343Z"
+                },
+                {
+                    "note": "Latest update: change to advice against travel; the FCO no longer advise against all but essential travel to South Cebu ",
+                    "public_timestamp": "2019-02-07T14:51:57.477Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section (Kidnapping) - removal of information on Palawan  ",
+                    "public_timestamp": "2019-02-08T17:59:34.893Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) - addition of information on driving licences",
+                    "public_timestamp": "2019-03-07T16:06:31.110Z"
+                },
+                {
+                    "note": "Latest update: Summary - Easter is a major holiday in the Philippines; transport can be congested and Philippine security forces also routinely heighten their alert levels nationwide during this period; you should allow extra time if travelling, monitor media reporting and follow the advice of local authorities",
+                    "public_timestamp": "2019-04-17T10:52:41.738Z"
+                },
+                {
+                    "note": "Summary - On Monday 22 April at around 5pm local time a 6.3 magnitude earthquake struck north eastern Luzon. You should follow the advice of local security authorities and monitor local media reports.",
+                    "public_timestamp": "2019-04-22T10:35:44.935Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information and advice about a further earthquake of magnitude 6.2, which occurred in Eastern Samar province at 1.37pm local time on 23 April",
+                    "public_timestamp": "2019-04-23T09:03:05.645Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on Easter ",
+                    "public_timestamp": "2019-05-08T14:38:05.584Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section (Kidnapping) - factual update; a Dutch national was killed on 31 May 2019",
+                    "public_timestamp": "2019-05-31T16:00:53.759Z"
+                },
+                {
+                    "note": "Summary - removal of information on local and national elections",
+                    "public_timestamp": "2019-07-19T11:45:22.000Z"
+                },
+                {
+                    "note": "Summary and local travel (sea travel) updated - you should avoid travel on ferries and passenger boats if possible",
+                    "public_timestamp": "2019-08-05T11:13:59.000Z"
+                },
+                {
+                    "note": "Summary - updated information on dengue fever epidemic.  You should continue to take precautions to avoid being bitten by mosquitoes",
+                    "public_timestamp": "2019-08-08T11:51:26.000Z"
+                },
+                {
+                    "note": "Summary - removal of information about the US Transport Security Administration public notice on poor aviation security at Manila Ninoy Aquino International Airport\r\n\r\n",
+                    "public_timestamp": "2019-08-09T12:06:58.000Z"
+                },
+                {
+                    "note": "Summary - tropical storm Podul (local name Jenny) reached northern Luzon on 27 August, bringing high winds and heavy rainfall; you should monitor local news coverage and follow the advice of the local authorities if travelling in affected areas",
+                    "public_timestamp": "2019-08-27T14:47:44.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on tropical storm Podul",
+                    "public_timestamp": "2019-08-30T08:46:05.000Z"
+                },
+                {
+                    "note": "This advice has been reviewed in full and reissued with amendments throughout.  There has been no change to our advice against travel. The FCO continues to advise against all travel to western and central Mindanao and the Sulu archipelago. The FCO continues to advise against all but essential travel to the remainder of Mindanao (excluding Camiguin, Dinagat and Siargao Islands)",
+                    "public_timestamp": "2019-09-23T11:27:02.000Z"
+                },
+                {
+                    "note": "Removal of information on Zika virus from Summary",
+                    "public_timestamp": "2019-09-25T11:07:45.000Z"
+                },
+                {
+                    "note": "Terrorism (Kidnapping) - addition of factual information about recent kidnapping of British nationals in Western Mindanao",
+                    "public_timestamp": "2019-11-26T16:20:15.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on typhoon Kammuri",
+                    "public_timestamp": "2019-11-29T11:36:43.000Z"
+                },
+                {
+                    "note": "Summary - Typhoon Kammuri has made land fall in Northern Luzon and is expected to continue to affect the Philippines until 4 December. You should monitor local media and the Philippines Disaster Risk Reduction and Management Council for the latest updates. ",
+                    "public_timestamp": "2019-12-03T04:03:55.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with amendments across all sections",
+                    "public_timestamp": "2019-12-13T12:37:31.000Z"
+                },
+                {
+                    "note": "Summary update:- At  2.11pm (PHT) on 15 December, a Magnitude 6.9 earthquake occurred in Davao Del Sur province. A number of aftershocks have been reported. Transportation throughout the area may be disrupted. If you\u2019re in Davao Del Sur, or are planning to travel to the area, you should be careful of aftershocks, monitor local media for up-to-date information and follow the advice of local authorities. You should check with transportation companies for any changes or cancellations of schedule.",
+                    "public_timestamp": "2019-12-15T09:42:16.000Z"
+                },
+                {
+                    "note": "Natural disasters - addition of information on Typhoon Ursula; Safety and security (Mindanao and the Sulu archipelago) and Summary - factual update on the lifting of martial law across Mindanao on 1 January 2020",
+                    "public_timestamp": "2020-01-02T16:22:00.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on the procession of the Black Nazarene on Thursday 9 January in Manila",
+                    "public_timestamp": "2020-01-06T11:26:54.000Z"
+                },
+                {
+                    "note": "Summary - updated information on the procession of the Black Nazarene in Manila on 9 January; Terrorism section - full review",
+                    "public_timestamp": "2020-01-08T17:30:49.000Z"
+                },
+                {
+                    "note": "Summary - The lake Taal volcano 60km south of Manila is experiencing a level four eruption;  Philippines\u2019 authorities are currently recommending evacuation of an area within 14km radius of the Taal main crater; flights in and out of Manila international airport are subject to disruption; you should consult your carrier",
+                    "public_timestamp": "2020-01-12T13:04:39.000Z"
+                },
+                {
+                    "note": "Summary - removal of information and advice about the annual procession of the Black Nazarene on 9 January",
+                    "public_timestamp": "2020-01-15T14:12:23.000Z"
+                },
+                {
+                    "note": "Health section and Summary - updated information and advice following an outbreak of coronavirus in China and elsewehere in the region",
+                    "public_timestamp": "2020-01-22T16:03:27.000Z"
+                },
+                {
+                    "note": "Summary and Health section - updated information and advice following an outbreak of coronavirus in China and elsewhere in the region.",
+                    "public_timestamp": "2020-01-28T05:52:02.000Z"
+                },
+                {
+                    "note": "Summary - updated information on the lake Taal volcano; on 26 January the authorities reduced the alert level from 4 down to 3",
+                    "public_timestamp": "2020-01-30T16:33:22.000Z"
+                },
+                {
+                    "note": "Summary and Health section - update of information on coronavirus",
+                    "public_timestamp": "2020-01-31T08:51:56.000Z"
+                },
+                {
+                    "note": "Health and Entry requirements sections and summary - addition of information on temporary restrictions on entry to the Philippines for people who have recently been in China",
+                    "public_timestamp": "2020-02-04T13:42:27.000Z"
+                },
+                {
+                    "note": "Health section (Coronavirus) and summary - updated information on entry restrictions announced by the Philippine government",
+                    "public_timestamp": "2020-02-11T18:25:18.000Z"
+                },
+                {
+                    "note": "Health - updated information on entry restrictions",
+                    "public_timestamp": "2020-02-14T16:27:05.000Z"
+                },
+                {
+                    "note": "Natural disasters (Volcanoes) - updated information on the lake Taal volcano",
+                    "public_timestamp": "2020-02-17T15:14:47.000Z"
+                },
+                {
+                    "note": "Health (Coronavirus - COVID-19) - updated information on travel restriction on foreign nationals who have been in or travelled via mainland China, Hong Kong, or Macao",
+                    "public_timestamp": "2020-02-21T16:42:20.000Z"
+                },
+                {
+                    "note": "Update to information on entry restrictions in response to coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-10T16:18:51.000Z"
+                },
+                {
+                    "note": "Update to information on entry restrictions in response to coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-13T01:12:04.000Z"
+                },
+                {
+                    "note": "As of 15 March, we advise against all but essential travel to the Philippines. This is due to impacts on British nationals of domestic travel restrictions, plans to impose conditions on entry from the UK and possible curfews, as part of the Philippine Government\u2019s response to coronavirus (COVID-19).",
+                    "public_timestamp": "2020-03-14T15:52:27.000Z"
+                },
+                {
+                    "note": "As of 16 March \u2018Enhanced community quarantine\u2019 has been imposed across Luzon Island. This is an evolving situation, and you are advised to follow the announcements of local authorities across Luzon. (\u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-16T16:05:21.000Z"
+                },
+                {
+                    "note": "Addition of information relating to flight restrictions announced by the Philippine Authorities as part of their enhanced community quarantine measures, in response to the coronavirus (Covid-19) pandemic ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-17T06:10:38.000Z"
+                },
+                {
+                    "note": "Updated information on easing certain travel restrictions for foreign nationals ('Summary' and 'Health')",
+                    "public_timestamp": "2020-03-18T04:29:28.000Z"
+                },
+                {
+                    "note": "Updated information on easing certain travel restrictions for foreign nationals ('Summary' and 'Health')",
+                    "public_timestamp": "2020-03-19T07:52:40.000Z"
+                },
+                {
+                    "note": "Updated information on entry restrictions for foreign national and quarantines ('Summary', \u2018Entry requirements\u2019 and 'Health')",
+                    "public_timestamp": "2020-03-22T06:21:29.000Z"
+                },
+                {
+                    "note": "Update of British Embassy contact email for those who need assistance ('Return to the UK')",
+                    "public_timestamp": "2020-03-31T11:22:09.000Z"
+                },
+                {
+                    "note": "Information on the UK operated special flights from Manila, Cebu, Bohol, Puerto Princesa and Siargao for British tourists, short term visitors and their direct dependants to return to the UK on 7 April 2020, and how to make a booking. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-04T06:06:13.000Z"
+                },
+                {
+                    "note": "Removal of information regarding UK special flights on 7 April 2020. ('Return to the UK' Pages)",
+                    "public_timestamp": "2020-04-10T14:24:00.000Z"
+                },
+                {
+                    "note": "Addition of information on UK special flights from Iloilo, Tacloban and Davao to Manila, and coaches across mainland Luzon ahead of a special flight from Manila to London Heathrow on 28 April 2020 (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-21T03:55:21.000Z"
+                },
+                {
+                    "note": "Updated information on transport to departure airports for UK special flights on 28 April, and update on commercial flight options from Manila airport, including a flight operated by Philippine Airlines on 24 April ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-23T16:56:08.000Z"
+                },
+                {
+                    "note": "British Nationals in Cebu are now able to book tickets for a special flight from Manila to London. A sweeper flight will depart from Mactan Cebu International Airport early on Tuesday 28 April to connect with the international flight from Manila (via Tacloban). Please register for tickets on the CTM website, choosing Cebu as your departure airport. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-24T02:33:19.000Z"
+                },
+                {
+                    "note": "Addition of information on travel to Cebu airport for UK special flight ('Return to the UK' page) and updated information on Enhanced Community Quarantine in place until 15 May in many areas of Luzon, including Metro Manila ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-24T20:35:24.000Z"
+                },
+                {
+                    "note": "Revised information on flights and how to reach airports. Addition of information on visas and immigration. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-25T13:49:03.000Z"
+                },
+                {
+                    "note": "The CTM website for the special flight to the UK on 28 April will close to new bookings at 7pm (local time) on 26 April. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-26T05:12:35.000Z"
+                },
+                {
+                    "note": "Addition of information on what to expect at Manila Ninoy Aquino International Airport (NAIA).  ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-27T09:39:07.000Z"
+                },
+                {
+                    "note": "Updated information about flights ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-01T15:45:35.000Z"
+                },
+                {
+                    "note": "Airport authorities have announced a temporary suspension of commercial passenger flights beginning on 3 May. You should check whether your flight has been affected with your airline before travelling to the airport. ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-03T06:13:22.000Z"
+                },
+                {
+                    "note": "Philippine authorities have announced a temporary suspension of commercial passenger flights beginning 0800 (local) on 3 May until 0759 (local) on 10 May. ('Return to UK' page)",
+                    "public_timestamp": "2020-05-03T12:30:53.000Z"
+                },
+                {
+                    "note": "Updated information on flight options and addition of information on mandatory quarantine/testing on arrival ('Return to the UK' and 'Entry Requirments' pages) ",
+                    "public_timestamp": "2020-05-11T17:52:22.000Z"
+                },
+                {
+                    "note": "Addition to information on an extension of the 'Enhanced Community Quarantine' until 31 May ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-05-12T11:06:52.000Z"
+                },
+                {
+                    "note": "Addition of information on Typhoon Vongfong ('Natural Disasters' page)",
+                    "public_timestamp": "2020-05-13T17:38:13.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-15T11:25:32.000Z"
+                },
+                {
+                    "note": "Addition of information to Commercial flights section on (Return to the UK page).",
+                    "public_timestamp": "2020-05-15T13:05:36.000Z"
+                },
+                {
+                    "note": "Addition of information regarding Community Quarantine changes from 1 June ('Staying during the coronavirus' page)",
+                    "public_timestamp": "2020-05-29T11:36:17.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:45:46.000Z"
+                },
+                {
+                    "note": "Updated information on community quarantine ('Staying during coronavirus' page) and updated routes for returning to the UK ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-19T10:12:23.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-13T13:57:36.000Z"
+                },
+                {
+                    "note": "Updated information on entry for foreign nationals in summary and 'entry requirements' sections",
+                    "public_timestamp": "2020-07-17T17:36:45.000Z"
+                },
+                {
+                    "note": "Updated information on valid visa categories for foreign nationals permitted to enter the Philippines ('Entry Requirements' page)",
+                    "public_timestamp": "2020-07-21T15:54:08.000Z"
+                },
+                {
+                    "note": "Addition of  information on certification required by some airlines for those departing the Philippines and measures imposed by the government to prevent the spread of coronavirus ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-04T16:51:36.000Z"
+                },
+                {
+                    "note": "Addition of information on the wearing of face shields on public transport and on new categories of foreign nationals permitted to enter the Philippines ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-08-11T15:57:33.000Z"
+                },
+                {
+                    "note": "Updated information on measures imposed across the Philippines to prevent the spread of coronavirus ('Coronavirus' page) and removal of information relating to the suspension of Government of Philippines services regarding the replacement of the Alien Certificate of Registration Identity Card ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-18T15:39:49.000Z"
+                },
+                {
+                    "note": "Addition of information on explosions in Jolo, Sulu on 24 August ('Terrorism' page)",
+                    "public_timestamp": "2020-08-24T14:39:54.000Z"
+                },
+                {
+                    "note": "Updated information on areas of the Philippines subject to quarantine measures, travel between regions, curfew hours in Metro Manila and age restrictions on leaving the home ('Coronavirus' page). Removal of references to Typhoon Vongfong and 2019 earthquakes (Natural Disasters page)",
+                    "public_timestamp": "2020-10-21T09:40:30.000Z"
+                },
+                {
+                    "note": "Typhoon Goni is expected to impact Central and Southern Luzon, particularly the provinces of Quezon and Aurora, on 31 October or 1 November ('Natural disasters' page). ",
+                    "public_timestamp": "2020-10-29T22:15:01.000Z"
+                },
+                {
+                    "note": "Super Typhoon Goni (local name Rolly) made landfall in the Philippines on the morning of 1 November. It is expected to reach Central and Southern Luzon, including Manila, on 1 November. Intense winds and rain are forecast ('Natural disasters' page)",
+                    "public_timestamp": "2020-11-01T03:15:58.000Z"
+                },
+                {
+                    "note": "Addition of information on Typhoon Ulysses which made landfall in the Philippines on 12 November.  Updated to information on entry requirements ('Summary','Natural disasters' and  'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-12T12:06:38.000Z"
+                },
+                {
+                    "note": "Addition of information on visa categories permitted entry to the Philippines and the mandatory use of Traze Contact Tracing in some airports. Removal of information on Typhoon Ulysses.  ('Coronavirus,\u2019 'Natural disasters' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-11-27T10:44:43.000Z"
+                },
+                {
+                    "note": "New information and advice on getting prescribed medication in the Philippines ('Health' page). Removal of information on typhoon Ulysses ('Summary' page).",
+                    "public_timestamp": "2020-12-01T15:46:53.000Z"
+                },
+                {
+                    "note": "Addition of information on visa categories permitted entry to the Philippines ('Entry requirements' pages)",
+                    "public_timestamp": "2020-12-04T11:27:35.000Z"
+                },
+                {
+                    "note": "Addition of information on temporary suspension of flights from UK to the Philippines and an entry ban for passengers who have been in the UK in the last 14 days. (Summary' \u2018Coronavirus pages\u2019) ",
+                    "public_timestamp": "2020-12-23T05:21:24.000Z"
+                },
+                {
+                    "note": "Addition of information on the extension of the suspension of flights from UK to the Philippines and an entry ban for passengers who have been in the UK in the last 14 days. (See 'Summary' and \u2018Coronavirus' pages)",
+                    "public_timestamp": "2020-12-28T07:54:25.000Z"
+                },
+                {
+                    "note": "Additional information on travel restrictions to the Philippines, imposed in response to the new variant COVID-19 ('Summary' and \u2018Coronavirus' pages)",
+                    "public_timestamp": "2020-12-30T09:43:55.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions to the Philippines imposed in response to the new  COVID-19 variant ('Summary' and \u2018Coronavirus' pages)",
+                    "public_timestamp": "2021-01-06T11:16:21.000Z"
+                },
+                {
+                    "note": "Updated information on extension to travel restrictions to the Philippines imposed in response to the new COVID-19 variant ('Summary' and \u2018Coronavirus' pages)",
+                    "public_timestamp": "2021-01-15T10:32:10.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in the Philippines (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-01T12:47:12.000Z"
+                },
+                {
+                    "note": "Updated information on categories of visa permitted to enter the Philippines (\u2018Entry requirements' page). Additional information on how to contact the Philippine Department of Health and updated information on measures imposed across the Philippines to prevent the spread of coronavirus ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-02T12:01:54.000Z"
+                },
+                {
+                    "note": "Updated information on categories of visa permitted to enter the Philippines (\u2018Entry requirements' page). ",
+                    "public_timestamp": "2021-02-15T15:46:17.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in the Philippines ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-17T15:45:11.000Z"
+                },
+                {
+                    "note": "Update to information on COVID-19 vaccines and areas subject to General Community Quarantine ('Coronavirus' page).  Addition of information on travel passes (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-03-02T14:20:01.000Z"
+                },
+                {
+                    "note": "Addition of information on new alert status for Taal Volcano (See 'Summary' and \u2018Natural Disasters\u2019 pages)",
+                    "public_timestamp": "2021-03-09T20:08:00.000Z"
+                },
+                {
+                    "note": "Additional information on curfew in Metro Manila ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-12T09:48:01.000Z"
+                },
+                {
+                    "note": "Updated information on curfew in Metro Manila ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-03-15T16:43:00.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of entry into the Philippines ('Summary\u2019 and \u2018Entry requirements' pages) ",
+                    "public_timestamp": "2021-03-19T10:40:42.000Z"
+                },
+                {
+                    "note": "Updated information on the imposition of General Community Quarantine and additional restrictions  (\u2018Coronavirus' page) ",
+                    "public_timestamp": "2021-03-22T11:07:46.000Z"
+                },
+                {
+                    "note": "Updated information on the imposition of Enhanced Community Quarantine (ECQ) in the National Capital Region, Bulacan, Cavite, Laguna and Rizal from Monday 29 March until Sunday 4 April ('Coronavirus' page) ",
+                    "public_timestamp": "2021-03-27T12:22:14.000Z"
+                },
+                {
+                    "note": "Updated information on the different quarantine measures introduced across the Philippines for the month of April in response to Coronavirus ('Coronavirus' page) ",
+                    "public_timestamp": "2021-03-30T09:27:32.000Z"
+                },
+                {
+                    "note": "From 4am on 9 April, visitors who have been in or transited through the Philippines in the previous 10 days cannot enter the UK. British and Irish nationals, and third country nationals with residence rights in the UK arriving in England from the Philippines will be required to quarantine in a hotel. (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-04-02T09:12:32.000Z"
+                },
+                {
+                    "note": "The National Capital Region, Bulacan, Cavite, Laguna and Rizal provinces will remain Enhanced Community Quarantine (ECQ) until at least Sunday 11 April ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-03T12:58:27.000Z"
+                },
+                {
+                    "note": "Changes to quarantine level in some areas of the Philippines ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-11T13:21:05.000Z"
+                },
+                {
+                    "note": "Information on the extension of arrival restrictions ('Summary' and 'Entry requirements' pages) and removal of curfew hours that were in effect during Modified Enhanced Community Quarantine period  ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-20T08:30:09.000Z"
+                },
+                {
+                    "note": "Addition of information on entry to the Philippines (\u2018Summary\u2019 and \u2018Entry Requirements\u2019 pages) and information on the current quarantine levels across the Philippines ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-01T10:45:07.000Z"
+                },
+                {
+                    "note": "Updated  information on entry requirements to the Philippines (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-05-11T08:35:43.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus restrictions and community quarantine status for parts of the Philippines ('Coronavirus' page) and information on the validity of entry exemption documents for 9(a) visa holders (Entry requirements' page)",
+                    "public_timestamp": "2021-05-14T08:44:58.000Z"
+                },
+                {
+                    "note": "Additional information on the travel ban for all travellers coming from Oman and UAE (Entry requirements' page)",
+                    "public_timestamp": "2021-05-17T09:16:07.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in the Philippines ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-19T13:49:40.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine levels across the country ('Coronavirus' page)",
+                    "public_timestamp": "2021-06-01T11:26:58.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine levels for areas within the Philippines and entry rules for passengers that are fully vaccinated ('Summary', 'Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-06-07T10:47:51.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine levels for areas within the Philippines ('Coronavirus' pages)",
+                    "public_timestamp": "2021-06-16T15:08:04.000Z"
+                },
+                {
+                    "note": "Updated information on alert status for Taal Volcano (\u2018Summary\u2019 and \u2018Natural Disasters\u2019 pages) and quarantine levels for areas within the Philippines ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-01T12:46:58.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Philippines ('Coronavirus' page)\r\n",
+                    "public_timestamp": "2021-07-21T15:50:40.000Z"
+                },
+                {
+                    "note": "Updated information about Community Quarantine restrictions across the Philippines; \u2018travel ban\u2019 countries; and entry permission for families of Filipino nationals ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-23T10:10:06.000Z"
+                },
+                {
+                    "note": "Updated information about the imposition of Enhanced Community Quarantine in Metro Manila  ('Coronavirus' page)",
+                    "public_timestamp": "2021-08-02T16:02:45.000Z"
+                },
+                {
+                    "note": "Removal of information regarding the imposition of Enhanced Community Quarantine in Metro Manila ('Coronavirus' page)",
+                    "public_timestamp": "2021-08-24T08:48:56.000Z"
+                },
+                {
+                    "note": "Removal of information regarding travel ban for Bangladesh, India, Malaysia, Nepal, Oman, Pakistan, Sri Lanka, Thailand and the United Arab Emirates ('Entry Requirements' page)",
+                    "public_timestamp": "2021-09-08T10:46:39.000Z"
+                },
+                {
+                    "note": "Updated information on driving conditions, entry restrictions to the Philippines and information on Emigration Clearance Certificate (ECC) (\u2018Safety and security\u2019 and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-09-21T14:17:31.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine arrangements for international arrivals into the Philippines (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-09-23T14:27:53.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Philippines will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland. ('Summary' and 'Coronavirus' pages)\r\n",
+                    "public_timestamp": "2021-10-07T17:01:55.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the Philippines, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-11T09:40:17.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine requirements for fully vaccinated and unvaccinated travellers ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-12T09:50:46.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements for vaccinated and unvaccinated travellers; travelling from Green and Yellow List countries ('Entry requirements' page)",
+                    "public_timestamp": "2021-10-14T13:01:06.000Z"
+                },
+                {
+                    "note": "Update on demonstrating your COVID-19 status; the Philippines will accept the UK\u2019s proof of COVID-19 recovery and vaccination record ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-05T11:39:31.000Z"
+                },
+                {
+                    "note": "Information on upcoming Presidential election's ('Safety and security' page) and additional information on vaccines included in Philippines' national vaccination programme ('Coronavirus' page)",
+                    "public_timestamp": "2021-11-10T11:42:23.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine requirements for fully vaccinated travellers ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-23T09:35:26.000Z"
+                },
+                {
+                    "note": "Updated link for the Philippines\u2019 traffic light system ('Entry requirements' page)",
+                    "public_timestamp": "2021-11-26T14:57:44.000Z"
+                },
+                {
+                    "note": "Updated quarantine requirements for travellers from Green and Yellow list countries ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-03T11:22:52.000Z"
+                },
+                {
+                    "note": "Information on Typhoon Odette/Rai  ('Summary' and \u2018Natural disasters\u2019 pages)",
+                    "public_timestamp": "2021-12-16T09:24:43.000Z"
+                },
+                {
+                    "note": "Updated information on Typhoon Odette/Rai ('Summary' and 'Natural disasters' pages) ",
+                    "public_timestamp": "2021-12-20T11:20:12.000Z"
+                },
+                {
+                    "note": "Information on safety and security during the Presidential election period ('Terrorism\u2019 page)",
+                    "public_timestamp": "2021-12-23T11:14:10.000Z"
+                },
+                {
+                    "note": "Information on visa on arrival not being issued  ('Summary\u2019 and \u2018Entry requirements\u2019 pages). Removal of information regarding the wearing of face shields (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2022-01-04T10:46:26.000Z"
+                },
+                {
+                    "note": "Updated information on quarantine and isolation requirements ('Entry requirements' page)",
+                    "public_timestamp": "2022-01-14T16:30:12.000Z"
+                },
+                {
+                    "note": "Updated information on only fully vaccinated persons allowed on Metro Manila public transport, ban on unvaccinated persons entering the Philippines and the requirement for a PCR test to be taken (48 hours) before entering the Philippines ('Coronavirus' and\u2019 Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-01-17T09:41:45.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for the Philippines. Removal of Information on visa renewal process during ECQ plus updated information on elections (See 'Summary' 'Safety and security' and 'Entry requirements\u2019 pages)",
+                    "public_timestamp": "2022-01-29T07:57:37.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for the Philippines and elections ('Summary,' 'Entry requirements' and 'Safety and Security' pages).",
+                    "public_timestamp": "2022-01-29T10:02:30.000Z"
+                },
+                {
+                    "note": "Updates to: Summary, Coronavirus, Entry Requirements and Natural Disasters pages.",
+                    "public_timestamp": "2022-02-02T10:04:58.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to the Philippines ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-07T11:17:54.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for the Philippines ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-24T10:20:33.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for entry to the Philippines ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-14T16:13:46.000Z"
+                },
+                {
+                    "note": "Updated information on alert status for Taal volcano  ('Natural disasters' page)",
+                    "public_timestamp": "2022-03-28T14:14:22.000Z"
+                },
+                {
+                    "note": "Updated information on national elections and alert status for Taal Volcano  ('Summary\u2019, \u2018Safety and security\u2019 and Natural disasters' pages)",
+                    "public_timestamp": "2022-04-12T10:25:52.000Z"
+                },
+                {
+                    "note": "Updated information on rallies to mark the end of the national election campaign period on 7 May ('Summary\u2019 and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2022-05-06T11:11:43.000Z"
+                },
+                {
+                    "note": "Removal of information on national elections in the Philippines ('Summary\u2019 and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2022-05-18T13:53:49.000Z"
+                },
+                {
+                    "note": "Updated information on exemptions to the pre-COVID testing requirement for certain categories of traveller ('Entry requirements' page)",
+                    "public_timestamp": "2022-05-27T09:49:41.000Z"
+                },
+                {
+                    "note": "Updated link to entry requirement rules and removal of information on the requirement to have travel insurance for COVID-19 treatment costs ('Entry requirements' page).",
+                    "public_timestamp": "2022-05-30T14:28:41.000Z"
+                },
+                {
+                    "note": "Addition of information on a 7.0 magnitude earthquake reported on 27 July  ('Summary' and \u2018Natural disasters\u2019 pages).",
+                    "public_timestamp": "2022-07-27T09:14:04.000Z"
+                },
+                {
+                    "note": "Updated information on transiting the Philippines and removal of information on the July 2022 earthquake ('Entry requirements' and 'Natural disasters' pages)",
+                    "public_timestamp": "2022-08-19T13:36:31.000Z"
+                },
+                {
+                    "note": "Information on Super Typhoon Karding (Noru)",
+                    "public_timestamp": "2022-09-25T05:07:51.000Z"
+                },
+                {
+                    "note": "Removal of information about Super Typhoon Karding (Noru) and updated information for international transit passengers ('Entry requirements' page). ",
+                    "public_timestamp": "2022-09-30T11:20:00.000Z"
+                },
+                {
+                    "note": "Updated information on registering for eARRIVAL prior to entering the Philippines ('Entry requirements' page).",
+                    "public_timestamp": "2022-11-03T13:19:46.000Z"
+                },
+                {
+                    "note": "Updated information on entry protocols for vaccinated and unvaccinated travellers entering the Philippines ('Entry requirements' page).",
+                    "public_timestamp": "2022-11-07T10:41:47.000Z"
+                },
+                {
+                    "note": "Updated information on registering for an e-TRAVEL Pass prior to arrival ('Entry requirements' page).",
+                    "public_timestamp": "2022-12-02T15:59:17.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to the Philippines if fully vaccinated ('Entry requirements' page).",
+                    "public_timestamp": "2022-12-28T09:35:08.000Z"
+                },
+                {
+                    "note": "Removal of information about community quarantine restrictions (\u2018Coronavirus\u2019 page). Additional information on armed hold-ups in Manila and other large cities ('Safety and security' page), and editorial changes throughout.",
+                    "public_timestamp": "2023-06-05T13:25:25.000Z"
+                },
+                {
+                    "note": "Additional of information on increased Alert Level status at Mayon Volcano ('Natural disasters' page).",
+                    "public_timestamp": "2023-06-08T10:05:15.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T08:21:48.000Z"
+                },
+                {
+                    "note": "Updated information on proof of onward travel and the requirement to sign up for the \u2018e-travel\u2019 system (\u2018Entry requirements\u2019 page). ",
+                    "public_timestamp": "2023-08-09T13:07:51.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-10-25T14:07:51.000Z"
+                }
+            ],
+            "country": {
+                "name": "Philippines",
+                "slug": "philippines",
+                "synonyms": []
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "dd88b5fe-7d76-41fb-9ae7-29dc32ba4942",
+                "url": "https://assets.publishing.service.gov.uk/media/61640677e90e071976488ec3/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/philippines/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/616406778fa8f52980d9301c/FCDO__TA__033_-_Philippines_Travel_Advice_Ed2__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"areas-where-fcdo-advises-against-travel\">Areas where <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against travel</h2>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Your travel insurance could be invalidated if you travel against FCDO advice.</p>\n</div>\n\n<h3 id=\"western-and-central-mindanao-and-the-sulu-archipelago\">Western and central Mindanao and the Sulu archipelago</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to western and central Mindanao and the Sulu archipelago because of terrorist activity and clashes between the military and insurgent groups.</p>\n\n<h3 id=\"northern-and-eastern-mindanao\">Northern and eastern Mindanao</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the remainder of Mindanao, excluding Camiguin, Dinagat and Siargao Islands, due to the threat of terrorism.</p>\n\n<p>Find out more about <a href=\"/foreign-travel-advice/philippines/safety-and-security\">why <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against travel</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/philippines/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in the Philippines set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"https://londonpe.dfa.gov.ph/\">Embassy of the Philippines in the UK</a>.</p>\n\n<p>To enter the Philippines as a visitor, you must have a ticket for your departure. Most airlines will not carry you if you cannot produce your departure ticket.\u00a0\u00a0</p>\n\n<p>You must also <a rel=\"external\" href=\"https://etravel.gov.ph/\">register with the \u2018e-travel\u2019 system</a> 72 hours or less prior to your arrival.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering the Philippines.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>Your passport must have an \u2018expiry date\u2019 at least 6 months after the date you arrive.</p>\n\n<p>Check with your travel provider that your passport and other travel documents meet requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<p>You will be denied entry if you do not have a valid travel document or try to use a passport that has been reported lost or stolen.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>UK passport holders do not need a visa to visit the Philippines for 30\u00a0days.</p>\n\n<p>If you overstay your visa-free 30 days without <a rel=\"external\" href=\"https://immigration.gov.ph/visa-requirements/non-immigrant-visa/temporary-visitor-visa/visa-waiver\">getting an extension</a>, or if you overstay any visa without authority, it is a serious matter. You\u00a0could face fees and fines, and detention if you cannot pay them, or\u00a0you could be deported at your own expense.</p>\n\n<p>If you want a visa to live, work, or study in the Philippines, you\u2019ll need to meet the requirements of the <a rel=\"external\" href=\"http://immigration.gov.ph/\">Philippine immigration regulations</a>. This includes having certain UK documents (birth certificates, marriage certificates, UK police certificates, school documents) <a href=\"https://www.gov.uk/get-document-legalised\">legalised by the Legalisation Office</a> (not by the Philippine Embassy in London). \u00a0\u00a0</p>\n\n<h3 id=\"children-travelling-without-their-parents\">Children travelling without their parents</h3>\n\n<p>If your non-Filipino children aged 14 or under are travelling without either parent, you must apply for a <a rel=\"external\" href=\"https://londonpe.dfa.gov.ph/consular-matters/forms\">waiver of exclusion ground for entry into the Philippines</a>. \u00a0\u00a0\u00a0\u00a0</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/178/philippines\">vaccinations and certificates you need in TravelHealthPro\u2019s Philippines guide</a>.</p>\n\n<p>Depending on your circumstances this may include:</p>\n\n<ul>\n  <li>a yellow fever vaccination certificate</li>\n  <li>a polio vaccination certificate</li>\n</ul>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://customs.gov.ph/home/traveler-homepage/\">goods you can take into or out of the Philippines</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<h3 id=\"taking-money-into-the-philippines\">Taking money into the Philippines\u00a0</h3>\n\n<p>You cannot bring in more than 50,000 Philippine pesos. If you are bringing in foreign currency (cash or cheques) worth more than 10,000 US dollars, you must complete a foreign currency declaration form on arrival.</p>\n\n<h2 id=\"exit-requirements\">Exit requirements</h2>\n\n<p>If you have stayed in the Philippines for 6 months or more on a tourist visa, you must get an <a rel=\"external\" href=\"https://immigration.gov.ph/faqs/emigration-clearance-certificate-ecc\">emigration clearance certificate</a> (<abbr title=\"emigration clearance certificate\">ECC</abbr>) during the 72 hours before you leave the country. \u00a0\u00a0\u00a0</p>\n\n<p>If you were in the Philippines on a visa issued by the Department of Justice (<abbr title=\"Department of Justice\">DoJ</abbr>), the Board of Investments (<abbr title=\"Board of Investments\">BoI</abbr>), the Philippine Retirement Authority (<abbr title=\"Philippine Retirement Authority\">PRA</abbr>) or the Philippine Economic Zone Authority (<abbr title=\"Philippine Economic Zone Authority\">PEZA</abbr>), you will need a travel pass from the department that issued your visa to leave the Philippines. If you have \u00a0an <abbr title=\"emigration clearance certificate\">ECC</abbr>, you do not need a travel pass.</p>\n\n<h3 id=\"airport-tax\">Airport tax</h3>\n\n<p>If you\u2019re leaving the country from Cebu Mactan airport you must pay a departure tax of 850 Philippine pesos in local currency or the equivalent in US dollars. There\u2019s no longer a departure tax at Manila airport. This information can change and you should check with local authorities before you travel.\u00a0\u00a0</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. Stay aware of your surroundings at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-the-philippines\">Terrorism in the Philippines</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are very likely to try to carry out attacks in the Philippines.</p>\n</div>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to western and central Mindanao and the Sulu archipelago because of terrorist activity and clashes between the military and insurgent groups. <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the remainder of Mindanao (excluding Camiguin, Dinagat and Siargao Islands) due to the threat of terrorism.</p>\n\n<p>There are multiple terrorist and militant groups operating in the Philippines, including the Abu Sayyaf Group (<abbr title=\"Abu Sayyaf Group\">ASG</abbr>), Islamic State Philippines (IS-Philippines), the Bangsamoro Islamic Freedom Fighters (<abbr title=\"Bangsamoro Islamic Freedom Fighters\">BIFF</abbr>), and other associated groups.</p>\n\n<p>Terrorist attacks occur frequently in Mindanao and the Sulu Archipelago in particular. While these attacks primarily target Filipino security forces, certain groups operating in these regions have pledged allegiance to Daesh and may consider Westerners legitimate targets for an attack.</p>\n\n<p>Previous clashes have resulted in bystanders being injured.</p>\n\n<p>Multiple terrorist groups have the intent to carry out attacks anywhere in the Philippines, including in the capital Manila and in places visited by foreigners, such as:</p>\n\n<ul>\n  <li>shopping malls</li>\n  <li>entertainment establishments</li>\n  <li>public transport, including airports and the metro system</li>\n  <li>places of worship</li>\n</ul>\n\n<p>Previous significant incidents include:</p>\n\n<ul>\n  <li>in August 2020, dual explosions in Jolo, Sulu resulting in a number of deaths and injuries</li>\n  <li>in 2019, a dual suicide attack on a military base in Indanan in Sulu Province killed 3 civilians and 3 military personnel as well as the 2 attackers. A further 22 people were injured</li>\n  <li>in 2019, 27 people were killed and many more injured as a result of bomb attacks at a Roman Catholic cathedral on Jolo Island in Sulu Province</li>\n</ul>\n\n<h3 id=\"terrorist-kidnap\">Terrorist kidnap</h3>\n\n<p>There is a threat of kidnap by terrorist groups operating in the Philippines, including the targeting of foreign nationals in rural, urban and coastal areas.</p>\n\n<p>Kidnap for ransom operations continue to represent a potential source of revenue for both criminal and terrorist groups operating in the southern Philippines, specifically on Mindanao and the Sulu archipelago.</p>\n\n<p>The primary threat in the Philippines has historically been posed by the Abu Sayyaf Group (<abbr title=\"Abu Sayyaf Group\">ASG</abbr>), who kidnapped a number of Westerners over the 2010s, including British nationals as recently as 2019. <abbr title=\"Abu Sayyaf Group\">ASG</abbr> has, in more recent years, targeted local fishermen in kidnap operations, but may still consider Westerners desirable targets.</p>\n\n<p>British nationals are seen as legitimate targets, including tourists, humanitarian aid workers, journalists and business travellers. If you are kidnapped, the reason for your presence is unlikely to protect you or secure your safe release.\u00a0</p>\n\n<p>The long-standing policy of the British government policy is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.\u00a0</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>The Philippines Bureau of Immigration has warned foreign nationals against participating in public protests and political rallies. If you participate, you may be detained and deported. Avoid demonstrations and large gatherings of people.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"robbery\">Robbery</h3>\n\n<p>There are high levels of street crime and robbery, sometimes involving weapons and firearms.</p>\n\n<p>Be vigilant when travelling on public transport and avoid displaying cash or jewellery. Armed hold-ups on \u2018jeepneys\u2019 and buses can happen, particularly in Manila and other large cities. In some cases these have resulted in fatalities.</p>\n\n<p>If you\u2019re travelling by taxi, including to or from the airport, only use taxis from a reputable company. Some taxi drivers and their accomplices have robbed and harmed passengers. Consider arranging to be met at the airport or using a hotel transfer service.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences\u00a0</h2>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>You must be able to show some identification if requested by the police. If you want to keep your passport in a safe place, such as in a hotel safe, you should carry a photocopy of the photo page containing your personal details.</p>\n\n<h2 id=\"public-offences\">Public offences</h2>\n\n<p>Violating local laws may result in a jail sentence, served in a local prison. Sentences are severe. The judicial system allows long-term detention until a court hearing takes place. Foreign nationals have been known to spend several years in prison on remand while their cases are processed. The <a href=\"https://www.gov.uk/government/publications/philippines-prisoner-pack\">detention facilities and prison conditions</a> are far below UK standards.</p>\n\n<h3 id=\"drugs-and-prison-sentences\">Drugs and prison sentences</h3>\n\n<p>Do not become involved with drugs of any kind. Penalties for importing and using illegal drugs are particularly severe. A conviction for possession of even a small amount of any illicit drug in the Philippines means a mandatory jail sentence. Police and other authorities have been publicly encouraged to kill suspected drug traffickers who resist arrest.</p>\n\n<h3 id=\"laws-on-child-abuse-and-rape\">Laws on child abuse and rape</h3>\n\n<p>Child abuse and rape are punished with extremely long prison sentences. Be cautious about strangers offering friendship. There have been cases where women, single or sometimes with children, have befriended single male tourists and then threatened to report rape or abuse in an apparent attempt to extort money. A child is defined in Philippine law as a person aged 17 and under.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>The Philippines is generally a tolerant and progressive place for LGBT+ travellers, although some stigma exists outside urban centres. Current legislation does not recognise same-sex marriage. Same-sex relationships are not illegal in the Philippines, but overt public displays of affection may be considered a \u2018grave scandal\u2019 under the Revised Penal Code\u00a0, and you could get a fine or a 6-month jail sentence.</p>\n\n<p>Read more <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h3 id=\"recruiting-filipinos-for-employment\">Recruiting Filipinos for employment</h3>\n\n<p>If you\u2019re planning to recruit Filipinos for employment in the UK or elsewhere, you must be licensed by the relevant government authority. The laws relating to illegal recruitment are strict.</p>\n\n<h2 id=\"independent-travel-and-adventure-tourism\">Independent travel and adventure tourism</h2>\n\n<p>If you\u2019re planning to travel within the Philippines, away from the main resort areas and tourist spots, contact the <a rel=\"external\" href=\"https://dilg.gov.ph/\">authorities in the local area</a> as part of your preparation.</p>\n\n<p>Always leave travel plans, passport details \u00a0and credit cards with friends, colleagues or relatives. Carry identification such as a driving licence or passport copy at all times, and make sure the emergency contact details in your passport are up to date. \u00a0</p>\n\n<h3 id=\"water-safety\">Water safety</h3>\n\n<p>Swimming and surfing beaches are unlikely to have lifeguards or warning signs, so get advice from your hotel or local residents before starting any activities. The seas can be extremely dangerous and British nationals are regularly in trouble in the water, or even drown.</p>\n\n<h3 id=\"scuba-diving\">Scuba diving\u00a0</h3>\n\n<p>Diving school standards are not always as high as in the UK. You should:</p>\n\n<ul>\n  <li>check a dive operator\u2019s credentials</li>\n  <li>make sure you\u2019re covered by insurance</li>\n  <li>make sure safety equipment is available on the boat, particularly oxygen</li>\n  <li>ask about safety precautions, including the ability to transfer divers to a hyperbaric chamber</li>\n</ul>\n\n<p>If you have not had any previous diving experience:</p>\n\n<ul>\n  <li>ask your dive instructor to explain what cover they offer before signing up</li>\n  <li>check what to do if something goes wrong, including how to call for help while at sea</li>\n</ul>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>You can drive in the Philippines on a UK driving licence for up to 90 days. If you\u2019re planning to hire a car, check their requirements before you travel. If you\u2019re staying longer than 90 days, you should <a rel=\"external\" href=\"http://www.lto.gov.ph/\">apply for a Philippine driving licence</a>.</p>\n\n<p>Accidents happen frequently, mainly due to poor road conditions, dangerous driving and non-enforcement of traffic laws. Observe the speed limit and be cautious around motorbikes and scooters. Avoid driving at night or during dangerous weather conditions if possible. Make sure you have adequate insurance.</p>\n\n<p>Safety standards on taxis and buses can be low. \u00a0</p>\n\n<p>When travelling by private car, taxi or any shared transport, you can expect a routine security presence with random checkpoints along the roads. Always co-operate with officials and allow extra time to pass through security checks.</p>\n\n<h2 id=\"sea-travel\">Sea travel</h2>\n\n<p>There is a high level of <a href=\"https://www.gov.uk/guidance/sea-river-and-piracy-safety\">piracy and armed robbery against ships</a> in and around the Sulu and Celebes seas. Boats travelling to and from offshore islands and dive sites are also possible targets.</p>\n\n<p>The ferry and passenger boat network has a poor record of maritime safety. Boats sometimes lack lifesaving equipment, and maritime rescue services may be limited. You should be cautious when using ferries and avoid overcrowded boats. Accidents are more frequent during the rainy season between June and December when storms can develop quickly.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<p>See <a href=\"https://www.gov.uk/guidance/tropical-cyclones\">extreme weather and natural hazards</a> for information about how to prepare, and how to react if there is a warning.</p>\n\n<h3 id=\"typhoons\">Typhoons</h3>\n\n<p>Around 20 typhoons hit the Philippines each year. Most typhoons occur from June to November. Follow the advice of local authorities, and monitor the progress of storms on the <a rel=\"external\" href=\"http://www.pagasa.dost.gov.ph/\">Philippines state weather agency</a>, the <a rel=\"external\" href=\"http://www.ndrrmc.gov.ph/index.php\">Philippines Disaster Risk Reduction and Management Council</a> and <a rel=\"external\" href=\"http://www.typhoon2000.ph/\">typhoon.com</a>, or follow <a rel=\"external\" href=\"https://twitter.com/Typhoon2k\">@Typhoon2k</a> on Twitter.</p>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>Earthquakes are a risk in the Philippines. The US Federal Emergency Management Agency website has advice about <a rel=\"external\" href=\"https://www.ready.gov/earthquakes\">what to do before, during and after an earthquake</a>. You can find more information on the <a rel=\"external\" href=\"http://www.phivolcs.dost.gov.ph/\">Philippine Institute for Volcanology and Seismology (<abbr title=\"Philippine Institute for Volcanology and Seismology\">PHIVOLCS</abbr>) website</a>.</p>\n\n<h3 id=\"volcanoes\">Volcanoes</h3>\n\n<p>There are numerous volcanoes in the Philippines, any of which can erupt without warning. Sudden steam and ash explosions may happen at any time.</p>\n\n<p>On 8 June 2023, the Philippine authorities raised the alert level of Mayon Volcano from level 2 (increasing unrest) to level 3 (increased tendency towards a hazardous eruption).</p>\n\n<p>Check news reports and follow local advice before travelling to any areas around volcanoes. Avoid volcanic areas during and immediately after heavy rainfall when there\u2019s increased risk of lava flows.</p>\n\n<p>You can find more information about volcanoes on the <a rel=\"external\" href=\"http://www.phivolcs.dost.gov.ph/\">Philippine Institute for Volcanology and Seismology (<abbr title=\"Philippine Institute for Volcanology and Seismology\">PHIVOLCS</abbr>)</a> website.</p>\n\n<p>Entry into Taal Volcano Island and Taal\u2019s Permanent Danger Zone is prohibited. You should follow updates on the <a rel=\"external\" href=\"https://www.phivolcs.dost.gov.ph/index.php/taal-volcano-bulletin-menu/\">PhiVolcs official website</a>.</p>\n\n<p>Ash plumes can <a rel=\"external\" href=\"http://www.ivhhn.org/\">affect air quality and have an impact on health</a>. If you have any pre-existing respiratory conditions, you might be at increased risk of triggering or worsening your symptoms. A properly fitted face mask may provide some protection.</p>\n\n<p>The Philippine emergency and rescue services have a limited capacity to deal with large natural disasters.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Call 911 and ask for an ambulance.</p>\n\n<p>Contact your insurance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check the latest information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/178/philippines\">vaccinations and health risks in TravelHealthPro\u2019s Philippines guide</a>. Risks include:</p>\n\n<ul>\n  <li>dengue</li>\n  <li>tick-borne encephalitis</li>\n  <li>zika virus</li>\n</ul>\n\n<p>Find out where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>.</p>\n\n<p>Mosquito-borne diseases are a risk all year round. However, there\u2019s a heightened risk of dengue during the rainy season (June to October). You should take precautions to <a rel=\"external\" href=\"http://travelhealthpro.org.uk/factsheet/38/insect-and-tick-bite-avoidance\">avoid being bitten by mosquitoes</a>.</p>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-the-philippines\">Healthcare facilities in the Philippines</h2>\n\n<p>The availability of medical care varies across the Philippines and may not meet the standards of care in the UK, particularly in rural and remote areas. Many places, including some tourist destinations, do not have easy access to emergency medical care.</p>\n\n<p>Private hospital treatment and medical transport is expensive \u2013 the daily cost in intensive care units can be more than \u00a31,000. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment, including repatriation.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-the-philippines\">Emergency services in the Philippines</h2>\n\n<p>Telephone: 911\u00a0(ambulance, fire, police)</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Philippines\">lawyers</a>,\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Philippines\">funeral directors</a> and\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Philippines\">translators and interpreters</a>\u00a0in the Philippines</li>\n  <li>dealing with a\u00a0<a href=\"https://www.gov.uk/government/publications/philippines-bereavement-pack/philippines-bereavement-guide\">death in the Philippines</a>\n</li>\n  <li>being\u00a0<a href=\"https://www.gov.uk/government/publications/philippines-prisoner-pack\">arrested or imprisoned in the Philippines</a>\n</li>\n  <li>getting help if you\u2019re a\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re\u00a0<a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/philippines/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Philippines&amp;post=Philippines%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a>.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you\u2019re in the Philippines and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-manila\">British Embassy in Manila</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The\u00a0<a href=\"https://www.gov.uk/government/publications/overseas-business-risk-philippines\">Overseas Business Risk service</a>\u00a0offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-10-25T14:07:51Z",
+            "updated_at": "2023-10-25T14:07:52Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-06T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/philippines",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/philippines",
+                    "base_path": "/foreign-travel-advice/philippines",
+                    "content_id": "9a7fcd1d-1be5-4342-89ff-a4bd8ecf93e3",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-25T14:07:51Z",
+                    "schema_name": "travel_advice",
+                    "title": "Philippines travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/philippines",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/philippines",
+                    "api_url": "https://www.gov.uk/api/content/world/philippines",
+                    "base_path": "/world/philippines",
+                    "content_id": "21278731-6c3c-455c-93bf-3cd6fc891b7e",
+                    "description": "Services if you're visiting, studying, working or living in Philippines. Includes information about trading with and doing business in the UK and Philippines.",
+                    "details": {
+                        "internal_name": "UK help and services in Philippines",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:14Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Philippines",
+                    "web_url": "https://www.gov.uk/world/philippines",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/thailand",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/thailand",
+                    "base_path": "/foreign-travel-advice/thailand",
+                    "content_id": "724a37c1-2f81-40b2-8640-d3d06e74d2bb",
+                    "details": {
+                        "change_description": "Advice on avoiding protests following Thailand\u2019s general election ('Safety and security' page).",
+                        "country": {
+                            "name": "Thailand",
+                            "slug": "thailand",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-14T11:43:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "Thailand travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/thailand",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/indonesia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/indonesia",
+                    "base_path": "/foreign-travel-advice/indonesia",
+                    "content_id": "e2c44bf1-0b96-4034-9ac8-96f6e0181a80",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Indonesia",
+                            "slug": "indonesia",
+                            "synonyms": [
+                                "Borneo",
+                                "Bali"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T08:44:56Z",
+                    "schema_name": "travel_advice",
+                    "title": "Indonesia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/indonesia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/vietnam",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/vietnam",
+                    "base_path": "/foreign-travel-advice/vietnam",
+                    "content_id": "8f6e7323-3d10-46da-a1a7-c50b5fc5a5ea",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Vietnam",
+                            "slug": "vietnam",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-21T11:21:29Z",
+                    "schema_name": "travel_advice",
+                    "title": "Vietnam travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/vietnam",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/malaysia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/malaysia",
+                    "base_path": "/foreign-travel-advice/malaysia",
+                    "content_id": "126d47f7-5fd2-41ff-af17-b23564355e03",
+                    "details": {
+                        "change_description": "Information about political situation and demonstrations ('Safety and security' page).",
+                        "country": {
+                            "name": "Malaysia",
+                            "slug": "malaysia",
+                            "synonyms": [
+                                "Borneo"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-03T14:04:49Z",
+                    "schema_name": "travel_advice",
+                    "title": "Malaysia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/malaysia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/singapore",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/singapore",
+                    "base_path": "/foreign-travel-advice/singapore",
+                    "content_id": "06ffd544-1097-41b1-90b6-b9a74f78669e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Singapore",
+                            "slug": "singapore",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-07T13:49:30Z",
+                    "schema_name": "travel_advice",
+                    "title": "Singapore travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/singapore",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-philippines",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-philippines",
+                    "base_path": "/world/living-in-philippines",
+                    "content_id": "d05e26a8-1db6-48a2-9205-febbfadba2ee",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Philippines",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/philippines",
+                                "api_url": "https://www.gov.uk/api/content/world/philippines",
+                                "base_path": "/world/philippines",
+                                "content_id": "21278731-6c3c-455c-93bf-3cd6fc891b7e",
+                                "description": "Services if you're visiting, studying, working or living in Philippines. Includes information about trading with and doing business in the UK and Philippines.",
+                                "details": {
+                                    "internal_name": "UK help and services in Philippines",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:14Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Philippines",
+                                "web_url": "https://www.gov.uk/world/philippines",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:28Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Philippines",
+                    "web_url": "https://www.gov.uk/world/living-in-philippines",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-philippines",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-philippines",
+                    "base_path": "/world/travelling-to-philippines",
+                    "content_id": "31149f5e-c33c-400d-9794-01fb98cbe556",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Philippines",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/philippines",
+                                "api_url": "https://www.gov.uk/api/content/world/philippines",
+                                "base_path": "/world/philippines",
+                                "content_id": "21278731-6c3c-455c-93bf-3cd6fc891b7e",
+                                "description": "Services if you're visiting, studying, working or living in Philippines. Includes information about trading with and doing business in the UK and Philippines.",
+                                "details": {
+                                    "internal_name": "UK help and services in Philippines",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:14Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Philippines",
+                                "web_url": "https://www.gov.uk/world/philippines",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:28Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Philippines",
+                    "web_url": "https://www.gov.uk/world/travelling-to-philippines",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-25T14:07:51Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698242871.937-10.13.22.216-32823",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Philippines travel advice",
+        "updated_at": "2023-11-15T11:01:21Z",
+        "withdrawn_notice": {}
+    }
+}

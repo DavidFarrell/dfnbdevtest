@@ -1,0 +1,678 @@
+{
+    "Country Slug": "western-sahara",
+    "Country Name": "Western Sahara",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/western-sahara",
+        "content_id": "18d6ade3-900d-44ab-b251-ee5f791ba4b4",
+        "description": "Latest FCDO travel advice for Western Sahara including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel\r\n",
+                    "public_timestamp": "2018-12-20T09:09:50.618Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information about the availability of consular support",
+                    "public_timestamp": "2018-12-21T12:58:52.375Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Western Sahara ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-01T16:57:48.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Western Sahara ('Coronavirus' page)",
+                    "public_timestamp": "2021-09-02T11:30:38.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Western Sahara, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-10-08T14:18:33.000Z"
+                },
+                {
+                    "note": "Updated information about Ramadan ('Local laws and customs' page).",
+                    "public_timestamp": "2023-03-22T12:53:23.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                    "public_timestamp": "2023-06-22T10:19:14.000Z"
+                }
+            ],
+            "country": {
+                "name": "Western Sahara",
+                "slug": "western-sahara",
+                "synonyms": [
+                    "Sahel"
+                ]
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "ce642e0b-30c1-48f3-b812-cc470bba093b",
+                "url": "https://assets.publishing.service.gov.uk/media/6160542b8fa8f529777ffb70/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed3__1_.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/western-sahara/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/616053d5e90e071977182943/FCDO__TA__046_-_Western_Sahara_Travel_Advice_Ed3__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth-and-development-office-advises-against-all-travel-to\">The Foreign, Commonwealth and Development Office advises against all travel to:</h3>\n\n<ul>\n  <li>areas of Western Sahara within 30km north/west of the Berm</li>\n  <li>areas of Western Sahara south/east of the Berm</li>\n</ul>\n\n<div class=\"example\">\n<p>Before you travel, <a href=\"https://www.gov.uk/foreign-travel-advice/western-sahara/entry-requirements\">check the \u2018Entry requirements\u2019 section</a> for Western Sahara\u2019s current entry restrictions and requirements. Due to COVID-19, these may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides appropriate cover. See the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>There is no British diplomatic presence in Western Sahara and consular support is severely limited. If you need consular assistance you should contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-rabat\">British Embassy in Rabat, Morocco</a>.  If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n\n<p>If your return journey to the UK transits another country, you should check whether it is subject to a <a href=\"https://www.gov.uk/guidance/transport-measures-to-protect-the-uk-from-variant-strains-of-covid-19\">travel ban</a> or any other additional requirements. If so, contact your travel provider.</p>\n\n<p>Western Sahara is a disputed territory and the UK regards its status as undetermined. See <a href=\"/foreign-travel-advice/western-sahara/safety-and-security#Political-situation\">Political situation</a></p>\n\n<p>Terrorists are likely to try to carry out attacks in Western Sahara. You should be vigilant at all times. See <a href=\"/foreign-travel-advice/western-sahara/terrorism\">Terrorism</a></p>\n\n<p>The level of road safety is poor. There is a high risk of unexploded mines in remote areas. See <a href=\"/foreign-travel-advice/western-sahara/safety-and-security#Road-travel\">Road travel</a></p>\n\n<p>Take out comprehensive <a href=\"https://www.gov.uk/foreign-travel-insurance\">travel and medical insurance</a> before you travel.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"entry-and-borders\">Entry and borders</h2>\n<p>See <a href=\"/foreign-travel-advice/western-sahara/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Western Sahara.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<p>Terrorists are likely to try to carry out attacks in Western Sahara. Attacks could be indiscriminate, including in places visited by foreigners. You should be vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>The Moroccan authorities have warned of a threat linked to the growing number of Moroccans sympathetic or belonging to international terrorist organisations operating in Syria, Iraq and Libya.</p>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Local laws reflect the fact that the territory is predominantly Muslim. Respect local traditions, customs, laws and religion at all times and be aware of your actions, especially during the holy month of\u00a0Ramadan or if you intend to visit religious areas.</p>\n\n<p>In 2023, the holy month of Ramadan is expected to start around 22 March and finish around 21 April. See <a href=\"https://www.gov.uk/travelling-during-ramadan\">Travelling during Ramadan</a></p>\n\n<p>Women, especially those travelling alone, may attract attention. To minimise hassle, dress respectfully and avoid wearing clothes that could be regarded as provocative.</p>\n\n<p>Homosexuality is considered a criminal offence. Sexual relations outside marriage are also punishable by law. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT community before you travel.</p>\n\n<p>The penalties for possession of even small amounts of drugs are severe; up to 10 years\u2019 imprisonment, with no remission for good behaviour, heavy fines and confiscation of your vehicle/vessel.</p>\n\n<p>It is against the law to carry bibles in Arabic, to attempt to distribute any non-Muslim or evangelical literature, or to be involved in any such activity.\u00a0</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Western Sahara.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport, for the most common types of travel.</p>\n\n<p>The authorities in the Western Sahara set and enforce entry rules. If you\u2019re unsure how Western Sahara\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<p>You should also consider checking with your transport provider or travel company to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>Travel is restricted and while organised groups are generally permitted, independent travellers should be aware that they could be turned back at the border.</p>\n\n<p>British nationals visiting as tourists for up to three months do not need a visa.\u00a0Make sure your passport is stamped when you enter the territory.\u00a0Some tourists have experienced difficulties leaving the country because their passports had no entry stamp.\u00a0\u00a0</p>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>Your passport should be valid for the proposed duration of your stay in Western Sahara.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/western-sahara/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a>\nof the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<p>Medical facilities are adequate in the main cities (Laayoune, Dhakla and Smara) all of which have hospitals, clinics and pharmacies. For more sophisticated medical treatment (scans etc) you will need to go to a major centre in Morocco or the Canary Islands. Medical facilities are almost non-existent in desert areas. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 150 and ask for an ambulance. Contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.\u00a0\u00a0</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>Credit cards are accepted in larger hotels. Banking and ATM facilities beyond the main cities of Laayoune, Dhakla and Smara are very limited. The Moroccan dirham, the local currency, is non-convertible and cannot be exported.</p>\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, send the Travel Advice team <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Western%20Sahara&amp;post=Western%20Sahara%20travel%20advice%20team\">a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Western%20Sahara&amp;post=Western%20Sahara%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-06-22T10:19:14Z",
+            "updated_at": "2023-06-22T10:19:14Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-05T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/western-sahara",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/western-sahara",
+                    "base_path": "/foreign-travel-advice/western-sahara",
+                    "content_id": "18d6ade3-900d-44ab-b251-ee5f791ba4b4",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:19:14Z",
+                    "schema_name": "travel_advice",
+                    "title": "Western Sahara travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/western-sahara",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/western-sahara",
+                    "api_url": "https://www.gov.uk/api/content/world/western-sahara",
+                    "base_path": "/world/western-sahara",
+                    "content_id": "130ea241-b9be-45a6-b75c-2f9ec92c253f",
+                    "description": "Services if you're visiting, studying, working or living in Western Sahara. Includes information about trading with and doing business in the UK and Western Sahara.",
+                    "details": {
+                        "internal_name": "UK help and services in Western Sahara",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:43Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Western Sahara",
+                    "web_url": "https://www.gov.uk/world/western-sahara",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/yemen",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/yemen",
+                    "base_path": "/foreign-travel-advice/yemen",
+                    "content_id": "73891fe3-3a92-4c2e-a1a6-b63f00186ce8",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                        "country": {
+                            "name": "Yemen",
+                            "slug": "yemen",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:22:58Z",
+                    "schema_name": "travel_advice",
+                    "title": "Yemen travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/yemen",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zimbabwe",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zimbabwe",
+                    "base_path": "/foreign-travel-advice/zimbabwe",
+                    "content_id": "d38db404-4291-4088-951a-1b8d5b696f1e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Zimbabwe",
+                            "slug": "zimbabwe",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T11:59:21Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zimbabwe travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zimbabwe",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/mauritania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/mauritania",
+                    "base_path": "/foreign-travel-advice/mauritania",
+                    "content_id": "15469fdc-d0d1-4a9f-a59e-b3d3acdea226",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Mauritania",
+                            "slug": "mauritania",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:10:34Z",
+                    "schema_name": "travel_advice",
+                    "title": "Mauritania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/mauritania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zambia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zambia",
+                    "base_path": "/foreign-travel-advice/zambia",
+                    "content_id": "7e2beff5-a1ee-4ed4-ad63-c9a72bb0dc17",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Zambia",
+                            "slug": "zambia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:43:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zambia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zambia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/morocco",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/morocco",
+                    "base_path": "/foreign-travel-advice/morocco",
+                    "content_id": "7584a0dd-accf-4901-a8a6-bc964dc1412f",
+                    "details": {
+                        "change_description": "Updated information regarding potential for demonstrations ('Safety and security' page).",
+                        "country": {
+                            "name": "Morocco",
+                            "slug": "morocco",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T09:40:24Z",
+                    "schema_name": "travel_advice",
+                    "title": "Morocco travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/morocco",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-western-sahara",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-western-sahara",
+                    "base_path": "/world/living-in-western-sahara",
+                    "content_id": "ad11c8a0-07d4-405e-8c27-cb1c0b61a2b9",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Western Sahara",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/western-sahara",
+                                "api_url": "https://www.gov.uk/api/content/world/western-sahara",
+                                "base_path": "/world/western-sahara",
+                                "content_id": "130ea241-b9be-45a6-b75c-2f9ec92c253f",
+                                "description": "Services if you're visiting, studying, working or living in Western Sahara. Includes information about trading with and doing business in the UK and Western Sahara.",
+                                "details": {
+                                    "internal_name": "UK help and services in Western Sahara",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:43Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Western Sahara",
+                                "web_url": "https://www.gov.uk/world/western-sahara",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:21:55Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Western Sahara",
+                    "web_url": "https://www.gov.uk/world/living-in-western-sahara",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-western-sahara",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-western-sahara",
+                    "base_path": "/world/travelling-to-western-sahara",
+                    "content_id": "b904ece2-cdcd-4d6f-ba7b-8f4fd9dd2d53",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Western Sahara",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/western-sahara",
+                                "api_url": "https://www.gov.uk/api/content/world/western-sahara",
+                                "base_path": "/world/western-sahara",
+                                "content_id": "130ea241-b9be-45a6-b75c-2f9ec92c253f",
+                                "description": "Services if you're visiting, studying, working or living in Western Sahara. Includes information about trading with and doing business in the UK and Western Sahara.",
+                                "details": {
+                                    "internal_name": "UK help and services in Western Sahara",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:43Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Western Sahara",
+                                "web_url": "https://www.gov.uk/world/western-sahara",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:21:54Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Western Sahara",
+                    "web_url": "https://www.gov.uk/world/travelling-to-western-sahara",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-06-22T10:19:14Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1687429154.477-10.13.21.65-24381",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Western Sahara travel advice",
+        "updated_at": "2023-11-15T10:45:49Z",
+        "withdrawn_notice": {}
+    }
+}

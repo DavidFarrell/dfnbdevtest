@@ -1,0 +1,1086 @@
+{
+    "Country Slug": "egypt",
+    "Country Name": "Egypt",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/egypt",
+        "content_id": "52e41c89-6f2c-4db6-9370-6d41fb44fd0f",
+        "description": "FCDO travel advice for Egypt. Includes safety and security, insurance, entry requirements and legal differences.  ",
+        "details": {
+            "alert_status": [
+                "avoid_all_travel_to_parts"
+            ],
+            "change_description": "Addition of information to reflect the opening of the Rafah border crossing with Egypt on 1 November ('Warnings and insurance' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Terrorism section - addition of factual reference to an incident in Minya province on 2 November 2018",
+                    "public_timestamp": "2018-11-08T16:29:05.211Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information about the availability of consular support",
+                    "public_timestamp": "2018-12-20T11:59:21.152Z"
+                },
+                {
+                    "note": "Latest update: Health section - revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-12-20T16:17:08.789Z"
+                },
+                {
+                    "note": "Terrorism Section -  On 28 December a roadside blast killed two Vietnamese tourists and wounded 12 other people on a bus near the Giza pyramids. ",
+                    "public_timestamp": "2018-12-28T21:13:03.279Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section - factual update to information about a roadside blast near the Giza pyramids on 28 December 2018; Summary section - amendment to existing wording about aviation security, reflecting the lifting of restrictions on large electronic devices in 2018 ",
+                    "public_timestamp": "2019-01-17T16:17:24.437Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section - factual update to information about a suicide bomb in Central Cairo\u2019s Darb al-ahmar district on 18 February 2019",
+                    "public_timestamp": "2019-02-25T15:52:56.957Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Rail travel) - addition of factual information; on 27 February 2019, a train collided with a platform in Cairo, killing at least 22 people",
+                    "public_timestamp": "2019-03-04T09:50:57.432Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section - factual update: on 19 May 2019, at least 16 people were injured after an IED attack on a tourist bus near the Giza pyramids",
+                    "public_timestamp": "2019-05-20T16:03:48.024Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section - addition of information on consular assistance in Hala\u2019ib Triangle and Bir Tawil Trapezoid\r\n",
+                    "public_timestamp": "2019-05-30T16:20:32.783Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with amendments throughout",
+                    "public_timestamp": "2019-07-19T18:47:43.000Z"
+                },
+                {
+                    "note": "Latest Update: Summary - On 20 July 2019, British Airways announced that it was suspending its flights to Cairo for seven days. If you are due to travel with British Airways, you should contact the airline on 0844 493 0787 for further information.",
+                    "public_timestamp": "2019-07-20T17:51:30.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information about 20 July British Airways announcement on flights to Cairo ",
+                    "public_timestamp": "2019-07-26T15:46:36.000Z"
+                },
+                {
+                    "note": "Summary - factual update to the Terrorism section",
+                    "public_timestamp": "2019-08-06T14:59:17.000Z"
+                },
+                {
+                    "note": "Terrorism section \u2013 factual update to information; on 4 August 2019, at least 20 people were killed by a car bomb in Central Cairo\u2019s Manial district",
+                    "public_timestamp": "2019-08-06T15:36:09.000Z"
+                },
+                {
+                    "note": "Summary - advice following the announcement that Thomas Cook has ceased trading",
+                    "public_timestamp": "2019-09-23T01:54:29.000Z"
+                },
+                {
+                    "note": "Safety and security (Political and security situation) section - there is a heightened risk of demonstrations in Cairo and other cities",
+                    "public_timestamp": "2019-09-25T14:35:00.000Z"
+                },
+                {
+                    "note": "Safety and security (Political and security situation) section - removal of information about previous heightened risk of demonstrations in Cairo and other cities",
+                    "public_timestamp": "2019-10-09T13:10:47.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Thomas Cook ceasing to trade",
+                    "public_timestamp": "2019-10-21T10:01:24.000Z"
+                },
+                {
+                    "note": "The FCO no longer advise against all but essential travel by air to/from Sharm el Sheikh; Summary - addition of information on the lifting of restrictions on flights between the UK and Sharm el Sheikh",
+                    "public_timestamp": "2019-10-22T10:06:12.000Z"
+                },
+                {
+                    "note": "Summary - editorial amendments to information on the threat from terrorism.",
+                    "public_timestamp": "2019-12-21T00:02:48.000Z"
+                },
+                {
+                    "note": "Latest update: Summary - Following the death of Iranian General Qasem Soleimani in a US strike in Baghdad on 3 January, British nationals in the region should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice.",
+                    "public_timestamp": "2020-01-05T12:53:02.000Z"
+                },
+                {
+                    "note": "Summary - amendments to existing information on increased tensions in the region",
+                    "public_timestamp": "2020-01-06T17:09:37.000Z"
+                },
+                {
+                    "note": "Health - addition of information and advice on coronavirus",
+                    "public_timestamp": "2020-02-17T17:28:53.000Z"
+                },
+                {
+                    "note": "Update to information on health measures and travel restrictions in response to coronavirus ('Health' page)",
+                    "public_timestamp": "2020-03-09T17:12:15.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus ('Health', 'Entry Requirements' and 'Summary' pages",
+                    "public_timestamp": "2020-03-12T16:45:58.000Z"
+                },
+                {
+                    "note": "Summary - Following the attack on the coalition base at Taji in Iraq on 11 March, and subsequent US airstrikes, tensions may be raised across the region. There is a possibility of an increased threat against Western interests, including against UK citizens. You should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice. ",
+                    "public_timestamp": "2020-03-14T20:09:56.000Z"
+                },
+                {
+                    "note": "The FCO now advise against all but essential travel to Egypt due to the suspension of flights to and from Egypt from 19 March until 31 March",
+                    "public_timestamp": "2020-03-16T20:58:17.000Z"
+                },
+                {
+                    "note": "Addition of links to British Embassy Cairo social media for further information on options to depart Egypt ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-20T19:02:39.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions ('Coronavirus' and 'Returning to the UK' pages)",
+                    "public_timestamp": "2020-03-25T13:16:54.000Z"
+                },
+                {
+                    "note": "Update to information about travel restrictions ('Returning to the UK' page)",
+                    "public_timestamp": "2020-04-02T11:52:46.000Z"
+                },
+                {
+                    "note": "There are a limited number of seats available on an Air Cairo flight departing from Cairo to London Heathrow on Thursday, 16 April. Bookings can be made on the Air Cairo website. ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-13T12:17:59.000Z"
+                },
+                {
+                    "note": "There are currently no scheduled direct flight options to return to the UK. ('Return to the UK'page)",
+                    "public_timestamp": "2020-04-13T16:38:42.000Z"
+                },
+                {
+                    "note": "Air Cairo flight from Cairo to Frankfurt on Thursday, 23 April ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-16T13:52:24.000Z"
+                },
+                {
+                    "note": "Air Cairo flight from Cairo to London Heathrow on Wednesday, 22 April and from Cairo to Frankfurt on Thursday, 23 April ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-17T10:17:48.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flight from Cairo to Frankfurt on Sunday 26 April ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-20T17:03:21.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flight from Cairo to Paris on Wednesday 29 April ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-22T10:59:30.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flight from Cairo to Frankfurt on Sunday 3 May ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-27T16:14:43.000Z"
+                },
+                {
+                    "note": "Information on flight availability ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-28T10:29:44.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flight from Cairo to Frankfurt on Sunday 3 May ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-29T15:11:11.000Z"
+                },
+                {
+                    "note": "Addition of information on Lufthansa flight from Cairo to Frankfurt on Monday, 11 May ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-03T11:34:59.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flight from Cairo to Paris on Saturday, 9 May ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-04T14:14:18.000Z"
+                },
+                {
+                    "note": "Addition of information on Egypt Air flights from Cairo to London on Sunday, 10 May and Tuesday, 12 May ('Return to the UK' page).",
+                    "public_timestamp": "2020-05-06T13:42:26.000Z"
+                },
+                {
+                    "note": "The EgyptAir flight from Cairo to London on 12 May has been put on hold; there is still a flight on 10 May (Return to the UK)",
+                    "public_timestamp": "2020-05-08T16:23:02.000Z"
+                },
+                {
+                    "note": "New information on EgyptAir flight from Cairo to London on 12 May ('Return to the UK')",
+                    "public_timestamp": "2020-05-09T12:20:48.000Z"
+                },
+                {
+                    "note": "New information on Air Cairo flight from Cairo to Frankfurt on 17 May (Return to the UK page).\r\n\r\n",
+                    "public_timestamp": "2020-05-12T15:11:47.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-14T11:40:02.000Z"
+                },
+                {
+                    "note": "Addition of information on a Lufthansa flight from Cairo to Frankfurt on 27 May ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-18T14:29:29.000Z"
+                },
+                {
+                    "note": "Addition of information on local measures (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:27:10.000Z"
+                },
+                {
+                    "note": "Addition of information on Lufthansa flights from Cairo to Frankfurt ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-21T12:14:46.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flights from Cairo to Frankfurt and Paris (Return to the UK)",
+                    "public_timestamp": "2020-05-23T14:15:23.000Z"
+                },
+                {
+                    "note": "Addition of information on Air France flights from Cairo to Paris. ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-25T09:12:30.000Z"
+                },
+                {
+                    "note": "Removal of information about Air Cairo flights to Paris and Frankfurt on 26 May ('Return to the UK' page)",
+                    "public_timestamp": "2020-05-26T13:59:27.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flights from Cairo to London ('Return to the UK' page).",
+                    "public_timestamp": "2020-05-29T08:34:01.000Z"
+                },
+                {
+                    "note": "Removal of information on Eid Al Fitr restrictions. Clarification of advice on the wearing of face masks. ('Return to the UK' and 'Staying during coronavirus' pages)",
+                    "public_timestamp": "2020-05-31T13:57:20.000Z"
+                },
+                {
+                    "note": "Addition of information about a flight from Cairo to London on Sunday 7 June ('Return to the UK' page).",
+                    "public_timestamp": "2020-06-01T16:26:16.000Z"
+                },
+                {
+                    "note": "Updated information on flight options including a flight from Cairo to Amsterdam on Friday 12 June ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-03T12:38:31.000Z"
+                },
+                {
+                    "note": "Updated information on flight options to various destinations including London ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-04T15:56:41.000Z"
+                },
+                {
+                    "note": "Removal of details for the Air Cairo flight on Sunday 7 June as seats are no longer available ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-05T13:29:15.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:35:33.000Z"
+                },
+                {
+                    "note": "Addition of information on Air Cairo flight from Cairo to London Heathrow on 19 June and Lufthansa flights to Frankfurt on 17 and 19 June ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-09T14:25:31.000Z"
+                },
+                {
+                    "note": "Removal of details for EgyptAir flight from Cairo to London Heathrow on 13 June as seats are no longer available (\u2018Return to the UK\u2019 page) ",
+                    "public_timestamp": "2020-06-10T15:50:21.000Z"
+                },
+                {
+                    "note": "Update to information on flights; change in curfew hours from 14 June (Returning to the UK; Staying during coronavirus)",
+                    "public_timestamp": "2020-06-11T17:10:20.000Z"
+                },
+                {
+                    "note": "Addition of information on EgyptAir flight from Cairo to London Heathrow on Thursday 18 June and on opening of Egyptian airports to international flights from 1 July ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-16T13:27:49.000Z"
+                },
+                {
+                    "note": " Removal of information relating to flights that have departed (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-06-24T09:28:50.000Z"
+                },
+                {
+                    "note": "Updated information on flights, local movement restrictions and entry requirements ('Return to the UK', 'Staying during coronavirus' and 'Entry Requirements' page)\r\n",
+                    "public_timestamp": "2020-06-30T16:16:15.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules in response to coronavirus ('Entry Requirements' page) ",
+                    "public_timestamp": "2020-07-09T17:59:17.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-17T15:40:36.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules in response to coronavirus following new government announcements (\"Entry requirements\" section)",
+                    "public_timestamp": "2020-08-07T17:18:53.000Z"
+                },
+                {
+                    "note": "Updated information about all foreign travellers to obtain a negative PCR test certificate from 15 August prior to travelling to Egypt ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-10T12:37:08.000Z"
+                },
+                {
+                    "note": "Updated information about requirement for all overseas travellers to obtain a negative PCR test certificate from 1 September prior to travelling to Egypt ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-25T16:52:55.000Z"
+                },
+                {
+                    "note": "Updated information about PCR test requirements and timeframes prior to travelling to Egypt ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-28T15:41:25.000Z"
+                },
+                {
+                    "note": "Removal of outdated information on PCR tests ('Entry requirements' page).",
+                    "public_timestamp": "2020-09-01T15:55:27.000Z"
+                },
+                {
+                    "note": "Updated information on PCR tests on arrival in coastal governorates ('Entry requirements' page)",
+                    "public_timestamp": "2020-09-10T15:30:04.000Z"
+                },
+                {
+                    "note": "Updated information on PCR test time frames from London Heathrow \r\n('Entry requirements' page)",
+                    "public_timestamp": "2020-09-18T10:18:30.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on pre-departure COVID-19 testing facilities in Egypt (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-13T14:30:49.000Z"
+                },
+                {
+                    "note": "Updated information on adventure travel in Egypt (\u2018Safety and security' page)",
+                    "public_timestamp": "2021-01-20T09:48:30.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Egypt (\u2018Coronavirus\u2019 page) \r\n",
+                    "public_timestamp": "2021-02-12T17:04:29.000Z"
+                },
+                {
+                    "note": "Information on registration for COVID-19 vaccines in Egypt (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-03-04T12:43:22.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Egypt ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-08T16:56:20.000Z"
+                },
+                {
+                    "note": "Information about \u2018Public spaces and services\u2019 ('Coronavirus' page)",
+                    "public_timestamp": "2021-05-01T09:42:13.000Z"
+                },
+                {
+                    "note": "Information for passengers arriving from countries where COVID-19 variants of concern ('Entry requirements' page)",
+                    "public_timestamp": "2021-05-12T10:40:03.000Z"
+                },
+                {
+                    "note": "From 4am on Tuesday 8 June Egypt will move to the red list for entering England. ('Summary' page)",
+                    "public_timestamp": "2021-06-04T09:41:15.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Egypt ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-26T15:26:54.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 22 September Egypt will move to the amber list for entering England. Check what you must do to enter England, Scotland, Wales or Northern Ireland. ('Summary' page)",
+                    "public_timestamp": "2021-09-17T16:33:15.000Z"
+                },
+                {
+                    "note": "Updated information on Egypt\u2019s vaccination programme and certification ('Coronavirus' page), and vaccination evidence for entry to Egypt ('Entry requirements' page) ",
+                    "public_timestamp": "2021-09-22T12:55:52.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Egypt, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-09-28T11:54:50.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full with editorial amendments throughout ",
+                    "public_timestamp": "2021-10-08T15:41:35.000Z"
+                },
+                {
+                    "note": "Added link to PCR testing facilities;  addition of Moderna in Egypt\u2019s vaccination programme and information on digital app ('Coronavirus' page).  Updated information on issuance of health declaration form and update on payment preferences for visas ('Entry requirements' page).",
+                    "public_timestamp": "2021-12-15T10:19:00.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirement exemptions for children under the age of 12 ('Entry requirements' page) ",
+                    "public_timestamp": "2022-01-26T12:08:31.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirement for antigen rapid tests ('Entry requirements' page)",
+                    "public_timestamp": "2022-02-28T13:10:45.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the southern part of South Sinai governorate or Faiyum governorate \r\n\r\n",
+                    "public_timestamp": "2022-03-17T14:00:07.000Z"
+                },
+                {
+                    "note": "Updated entry requirements. Non-vaccinated passengers arriving from London Heathrow are no longer permitted 96 hours for conducting PCR tests before arrival in Egypt. COVID-19 tests must be taken no more than 72 hours before arrival ('Entry requirements' page)",
+                    "public_timestamp": "2022-03-21T11:18:37.000Z"
+                },
+                {
+                    "note": "Updated entry requirements. Covid-19 entry restrictions removed as of 17 June 2022. All arrivals no longer need to complete any tests or show proof of vaccination. ",
+                    "public_timestamp": "2022-06-20T17:38:05.000Z"
+                },
+                {
+                    "note": "Updated information on shark attacks in the Red Sea region ('Safety and security' page)",
+                    "public_timestamp": "2022-07-05T11:11:30.000Z"
+                },
+                {
+                    "note": "Addition of information following new regulations on photography and advice about sharing discussions of a sexual nature or sexual acts on social media ('Local laws and customs' page). ",
+                    "public_timestamp": "2022-08-24T09:03:59.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all travel to within 20km of the Egyptian and Libyan border. This excludes the town of El Salloum (where FCDO continues to advise against all but essential travel) and advises against all but essential travel to the Marsa Matruh-Siwa Road, and the oasis town of Siwa ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-09-01T15:27:00.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all travel to within 20km of the Egyptian and Libyan border. This excludes the town of El Salloum where FCDO continues to advise against all but essential travel. The FCDO has lifted all restrictions on travel along the Marsa Matruh-Siwa Road and to the oasis town of Siwa ('Summary' and 'Safety and security' pages).\r\n",
+                    "public_timestamp": "2022-09-01T16:09:11.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all but essential travel to the Hala\u2019ib Triangle and Bir Tawil Trapezoid.",
+                    "public_timestamp": "2022-10-18T15:43:29.000Z"
+                },
+                {
+                    "note": "Addition of information relating to the UNFCCC COP27 Summit ('Summary' page).",
+                    "public_timestamp": "2022-10-31T16:54:10.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all but essential travel to the eastern part of Ismailiyah governorate  east of the Suez canal and no longer advises against all but essential travel to for the towns of Taba and Nuweiba on the eastern part of the South Sinai peninsula and the Nuweiba-Taba coastal road (road number 55) which connects them ('Summary' page) and ('Safety and security' page).",
+                    "public_timestamp": "2022-11-03T17:10:37.000Z"
+                },
+                {
+                    "note": "Updated information on an attack to the west of the Suez Canal ('Summary' and 'Terrorism' pages).",
+                    "public_timestamp": "2023-01-06T17:01:18.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to the Giza Governate northeast of the Bahariya Oasis and the road between Giza and Farafra, and within 50km either side of this road (not including the road between Bahariya Oasis and Siwa). ('Summary' and 'Safety and security' pages).\r\n",
+                    "public_timestamp": "2023-04-04T12:31:52.000Z"
+                },
+                {
+                    "note": "Updated information on Egypt-Sudan border crossing ('Summary' and 'Entry requirements' page).",
+                    "public_timestamp": "2023-04-27T09:29:31.000Z"
+                },
+                {
+                    "note": "Updated with information for arriving into Egypt from Sudan ('Summary')",
+                    "public_timestamp": "2023-05-02T18:18:25.000Z"
+                },
+                {
+                    "note": "Updated with information for arriving into Egypt from Sudan ",
+                    "public_timestamp": "2023-05-03T17:52:13.000Z"
+                },
+                {
+                    "note": "Updated with information about how to contact FCDO if you are travelling into Egypt from Sudan ('Summary' page).",
+                    "public_timestamp": "2023-05-05T12:04:50.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                    "public_timestamp": "2023-06-22T09:44:20.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand.",
+                    "public_timestamp": "2023-08-24T15:37:43.000Z"
+                },
+                {
+                    "note": "Information regarding sexual assault ('Safety and security' page).",
+                    "public_timestamp": "2023-09-01T14:59:18.000Z"
+                },
+                {
+                    "note": "Information on crossing from Gaza into Egypt through the Rafah crossing. ('Summary' and \u2018Regional risks\u2019 pages).",
+                    "public_timestamp": "2023-10-10T15:21:35.000Z"
+                },
+                {
+                    "note": "Information relating to incidents in South Sinai. ('Warnings and insurance' page).\r\n",
+                    "public_timestamp": "2023-10-27T15:53:42.000Z"
+                },
+                {
+                    "note": "Addition of information to reflect the opening of the Rafah border crossing with Egypt on 1 November ('Warnings and insurance' page).",
+                    "public_timestamp": "2023-11-02T11:14:53.000Z"
+                }
+            ],
+            "country": {
+                "name": "Egypt",
+                "slug": "egypt",
+                "synonyms": []
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "22868e9b-8b44-4543-b428-c7cb3b8dda2f",
+                "url": "https://assets.publishing.service.gov.uk/media/642d62307de82b000c3136b0/FCDO__TA__015_-_Egypt_Travel_Advice_Ed9_Rev2.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/egypt/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/642d62307de82b000c3136af/FCDO__TA__015_-_Egypt_Travel_Advice_Ed9_Rev2__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"areas-where-fcdo-advises-against-travel\">Areas where <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against travel</h2>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Your travel insurance could be invalidated if you travel against FCDO advice. Consular support is also severely limited where FCDO advises against travel.</p>\n</div>\n\n<h3 id=\"egypt-libya-border\">Egypt-Libya border</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to within 20km of the Egypt-Libya border, except for the town of El Salloum (where we advise against all but essential travel).</p>\n\n<h3 id=\"north-sinai\">North Sinai</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to the Governorate of North Sinai.</p>\n\n<h3 id=\"northern-part-of-south-sinai\">Northern part of South Sinai</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the northern part of the Governorate of South Sinai, beyond the St Catherine-Nuweibaa road, except for the coastal areas along the west and east of the peninsula.</p>\n\n<h3 id=\"the-eastern-part-of-ismailiyah-governorate\">The eastern part of Ismailiyah Governorate</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the Ismailiyah Governorate east of the Suez Canal.</p>\n\n<h3 id=\"western-desert\">Western Desert</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the area west of the Nile Valley and Nile Delta regions, except for:</p>\n\n<ul>\n  <li>Luxor, Qina, Aswan, Abu Simbel and the Valley of the Kings</li>\n  <li>the Governorate of Faiyum</li>\n  <li>the coastal areas between the Nile Delta and Marsa Matruh</li>\n  <li>the Marsa Matruh-Siwa Road</li>\n  <li>the oasis town of Siwa</li>\n  <li>the Giza Governorate north-east of the Bahariya Oasis</li>\n  <li>the road between Giza and Farafra (but we advise against all but essential travel on the road between Bahariya and Siwa)</li>\n  <li>Bahariya Oasis, Farafra, the White Desert and Black Desert</li>\n</ul>\n\n<h3 id=\"halaib-triangle-and-bir-tawil-trapezoid\">Hala\u2019ib Triangle and Bir Tawil Trapezoid</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the Hala\u2019ib Triangle and the Bir Tawil Trapezoid.</p>\n\n<div class=\"example\">\n<p>Find out more about <a href=\"/foreign-travel-advice/egypt/regional-risks\">why FCDO advises against travel</a>.</p>\n</div>\n\n<h2 id=\"conflict-in-neighbouring-israel-and-the-occupied-palestinian-territories-opts\">Conflict in neighbouring Israel and the Occupied Palestinian Territories (OPTs)</h2>\n\n<p>The Israeli government has declared a state of emergency across the whole country. International borders in Israel and the Occupied Palestinian Territories (OPTs) could close at short notice. As a result, the land border into Israel from Egypt at Taba could close with little notice. Check with local authorities and consult the travel advice for\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/israel\">Israel</a>\u00a0and the\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories\">Occupied Palestinian Territories</a>\u00a0before trying to cross the border.</p>\n\n<p>In response to events in Israel and the OPTs, a number of demonstrations have taken place in Egypt and protests have been planned, including after Friday prayers. Demonstrations could take place at short notice, with a heavy security presence in place. You should avoid large gatherings, demonstrations and protests. See\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/egypt/safety-and-security\">Safety and security</a></p>\n\n<h2 id=\"entering-egypt-from-gaza\">Entering Egypt from Gaza</h2>\n\n<p>The Rafah border crossing partially opened on 1 November. This is primarily to facilitate the evacuation of seriously wounded Palestinians and some foreign nationals. We understand that the crossing will continue to be open for controlled and time-limited periods to allow specific groups of foreign nationals, including British nationals, to cross. It is for the Egyptian and Israeli authorities to determine who is permitted to cross, and when. The Egyptian Ministry of Foreign Affairs will contact Embassies to let them know when their foreign nationals can cross. Should we receive notification from the Israeli and Egyptian authorities that individuals are permitted to cross, we will notify those people individually.</p>\n\n<p>Movement to the Rafah crossing and beyond is at your own risk. You should only travel if you judge it is safe to do so. Check the\u202f<a href=\"https://www.gov.uk/foreign-travel-advice/israel\">Israel</a> and <a href=\"https://www.gov.uk/foreign-travel-advice/the-occupied-palestinian-territories\">The Occupied Palestinian Territories</a> travel advice.</p>\n\n<p>The Egyptian authorities have said all aid going into Gaza from Egypt must be channelled through the Egyptian Red Crescent:</p>\n\n<ul>\n  <li>telephone: + 20 226 703 979, + 20 226 703 983</li>\n  <li>fax: + 20 226 703 967</li>\n</ul>\n\n<p>They are unlikely to consider requests for humanitarian access made in Egypt at short notice.</p>\n\n<h3 id=\"concern-for-friends-and-family\">Concern for friends and family</h3>\n\n<p>If you are concerned about friends or family, or need consular assistance call:</p>\n\n<ul>\n  <li>British Embassy Cairo on + 20 (0)2 2791 6000</li>\n  <li>+44 1767 667 600 \u00a0(UK number) if you experience technical difficulties with the above number</li>\n</ul>\n\n<h2 id=\"incidents-in-south-sinai-\">Incidents in South Sinai \u00a0</h2>\n\n<p>On 27 October, an Egyptian Armed Forces spokesperson confirmed that an unidentified drone fell near a medical facility in the Egyptian Red Sea resort town of Taba next to the Israeli border, injuring six people. An additional unidentified drone also struck outside the town of Nuweiba, though no casualties have been confirmed. The authorities are conducting ongoing investigations.</p>\n\n<h2 id=\"incident-in-alexandria\">Incident in Alexandria</h2>\n\n<p>On 8 October 2023, an Egyptian police officer is reported to have shot and killed two Israeli tourists and an Egyptian tour guide in Alexandria. A third tourist was injured. Remain vigilant and exercise caution at tourist and religious sites, as well as public gatherings. Find out more information on current risks on the\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/egypt/safety-and-security\">Safety and security</a>.</p>\n\n<h2 id=\"border-crossings-from-sudan\">Border crossings from Sudan</h2>\n\n<p>There are still people trying to cross the border into Egypt at Argeen and Qustul. Our ability to provide consular assistance is very limited.</p>\n\n<p>If you are a British national and have crossed the border without valid documentation, contact the British Embassy in Cairo for consular assistance on + 20 (0)2 2791 6000.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/egypt/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": " Warnings and insurance "
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Egypt set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact <a rel=\"external\" href=\"https://egyptconsulate.co.uk/\">the Consulate General for Egypt in the UK</a>.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>Your passport must be valid for 6 months from the date you arrive. Check with your travel provider to make sure your passport and other travel documents meet their requirements. <a href=\"https://www.gov.uk/renew-adult-passport/renew\">Renew your passport</a> if you need to.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>British passport holders travelling to Egypt normally need a visa. Visa processing fees are non-refundable.</p>\n\n<p>We advise you to get a visa before you travel, particularly if travelling for work or business. You can apply for a visa from the official <a rel=\"external\" href=\"https://visa2egypt.gov.eg/eVisa/Home?VISTK=AMEV-QAST-XKKB-4X4J-LYML-KSS1-J4VF-B3V5-GO2U-AYIZ-4F82-1WR5-RW7O-0L87-4CZ8-9CFV\">Visa2Egypt portal</a> or at your nearest <a rel=\"external\" href=\"https://egyptconsulate.co.uk/visas/\">Egyptian Consulate</a>. Tourist visas granted using the e-visa system are valid for a maximum of 3 months.</p>\n\n<p>The online e-visa portal (Visa2Egypt) does not currently accept applications from variant British passport holders (those from British Overseas Territories and Crown Dependencies).</p>\n\n<p>All British passport holders can get a visa in advance by submitting an application in person or by post to the <a rel=\"external\" href=\"https://egyptconsulate.co.uk/visas/\">Egyptian Consulate in London</a>. The specific requirements for the visa are listed on the website.</p>\n\n<p>Alternatively, if you wish to get a visa on arrival, you can do so at approved bank kiosks within airport arrival halls, before reaching immigration counters. The visa fee is 25  US dollars, payable in dollars as the preferred currency, although you may also be able to pay in pounds sterling or euros. Visas granted on arrival are valid for a maximum of 30 days. There\u2019s no need to buy a visa from an agent. In many cases agents will charge more than US$25 for a visa. If you\u2019re harassed by an agent, report the incident to the tourist police in the airport terminal.</p>\n\n<p>If you\u2019re travelling to Sharm el Sheikh, Dahab, Nuweiba and Taba resorts for up to 15 days, you will receive a free entry permission stamp on arrival. If you intend to travel out of these areas or stay longer than 15 days, you must get a visa.</p>\n\n<p>If you have travelled to one of the South Sinai Red Sea resorts, entered without a visa and your plans have changed, you can normally purchase a visa at Sharm el Sheikh airport to allow you to travel elsewhere.</p>\n\n<p>Applications for visa extensions should be made at Egyptian Passport and Immigration Offices. You may have difficulties leaving Egypt with an out of date visa. You will normally have to pay a fine if your visa is out of date by more than 14 days.</p>\n\n<p>For further information and enquiries, contact the <a rel=\"external\" href=\"https://egyptconsulate.co.uk/visas/\">Egyptian Consulate in London</a>.</p>\n\n<h3 id=\"visa-extensions\">Visa extensions</h3>\n\n<p>Apply for visa extensions at the Egyptian Passport and Immigration Offices. You may face difficulties if you try to leave Egypt on an expired visa. You may be fined if your visa has expired by more than 14 days.</p>\n\n<p>Contact the <a rel=\"external\" href=\"https://egyptconsulate.co.uk/\">Egyptian Consulate in London</a> for more information.</p>\n\n<h3 id=\"visas-at-the-egypt-sudan-border-crossing\">Visas at the Egypt-Sudan Border Crossing</h3>\n\n<p>If you\u2019re crossing the border from Sudan, the Egyptian authorities have advised it is still possible to get a visa on arrival for the regular cost of 25 US dollars.</p>\n\n<h2 id=\"hiv-test-for-work-permits\">HIV test for work permits</h2>\n\n<p>You will need to show your result from a HIV test to apply for a work permit.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/71/egypt\">vaccinations and certificates you need on TravelHealthPro\u2019s Egypt guide</a>. Depending on the country you\u2019re arriving from, this may include a yellow fever vaccination certificate.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.cairo-airport.com/en-us/Services/Passenger-Guide/Customs-Regulations\">goods that can be brought into and taken out of Egypt</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<p>You\u2019re allowed to bring in or take out up to 5,000 Egyptian pounds. There is no limit to the amount of hard currency that you can bring in, but you must declare it when you arrive if it\u2019s worth more than 10,000 US dollars.</p>\n\n<p>You must also declare certain valuables, including electrical equipment or video cameras, when you arrive. These will be noted in your passport. You may be asked to show these items again when you leave the country. If you do not have them on you, you may have to pay a high rate of customs duty.</p>\n\n<p>Officials are likely to confiscate satellite phones or radio communications equipment unless you have prior clearance from the Ministry of Telecommunications.</p>\n\n<p>Contact the Egyptian embassy in your country of residence for further information on customs requirements</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>You should also read <a href=\"/foreign-travel-advice/egypt/warnings-and-insurance\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a> and <a href=\"/foreign-travel-advice/egypt/regional-risks\">regional risks advice</a>.</p>\n\n<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/staysafe/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out more about the <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">global threat from terrorism</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-egypt\">Terrorism in Egypt</h3>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Terrorists are very likely to try to carry out attacks in Egypt.</p>\n</div>\n\n<p>Terrorism is a risk across Egypt, particularly in North Sinai. Attacks could be indiscriminate. Targets might include:</p>\n\n<ul>\n  <li>Egyptian security forces</li>\n  <li>religious sites</li>\n  <li>large public gatherings</li>\n  <li>places visited by foreigners</li>\n</ul>\n\n<p>The authorities in Egypt have a significant security presence across the country, including armed security officers at important sites, critical infrastructure and road checkpoints. Extra measures are in place at tourist sites. Recent attacks include:</p>\n\n<ul>\n  <li>in 2022, an attack to the west of the Suez Canal targeting security forces within the city of Ismailiyah</li>\n  <li>in 2019, at least 20 people killed by a car bomb in Central Cairo\u2019s Manial district</li>\n  <li>in 2019, at least 16 people injured after an IED attack on a tourist bus near the Giza pyramids</li>\n  <li>in 2019, 3 security personnel killed by a suicide bomber in Central Cairo\u2019s Darb al-ahmar district</li>\n  <li>in 2018, a roadside blast killed 4 people on a bus near the Giza pyramids</li>\n  <li>in 2018, gunmen opened fire on a bus carrying Coptic Christians in Minya province killing 7 people. Daesh (formally ISIL) claimed responsibility for the attack</li>\n</ul>\n\n<h3 id=\"terrorism-during-holiday-periods\">Terrorism during holiday periods</h3>\n\n<p>There is a heightened threat of terrorism in and around religious sites and during religious festivals, such as the month of Ramadan and the Christmas period (including Coptic Christmas in January). Terrorist attacks have occurred over local holiday weekends. See a list of public holidays on the <a rel=\"external\" href=\"https://www.presidency.eg/en/%D9%85%D8%B5%D8%B1/%D8%A7%D9%84%D8%B9%D8%B7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9/\">Egyptian Presidency website</a>.</p>\n\n<p>You should:</p>\n\n<ul>\n  <li>follow the advice of Egyptian authorities</li>\n  <li>be vigilant in crowds and large gatherings</li>\n</ul>\n\n<h3 id=\"airports-and-airlines\">Airports and airlines</h3>\n\n<p>Terrorists in Egypt have the intent and capability to target airport buildings and planes.</p>\n\n<p>The main threat is on the North Sinai Peninsula where Daesh operate with greater freedom, but terrorists are active throughout Egypt.</p>\n\n<p>Co-operate fully with security officials at airports and pay attention to security measures on flights from Egypt to the UK.</p>\n\n<h3 id=\"terrorist-kidnap\">Terrorist kidnap</h3>\n\n<p>There is a threat of kidnapping by groups operating in North Africa, particularly from Libya and groups originating in the Sahel. This includes Al Qaeda and Daesh-affiliated groups, who may travel across the region\u2019s porous border. There is a heightened risk of kidnap in border and remote desert areas of North Africa. Terrorist groups have taken foreigners, government officials and civilians hostage for financial gain and for political leverage. Further kidnappings are likely.</p>\n\n<p>British nationals are viewed as legitimate targets, including those engaged in tourism, humanitarian aid work, journalism or business sectors. If you are kidnapped, the reason for your presence is unlikely to serve as a protection or secure your safe release.</p>\n\n<p>The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Since 2011 there has been significant political turmoil. The political environment remains restrictive. There have been violent protests and disturbances, resulting in a number of deaths.</p>\n\n<p>Protests, marches and demonstrations occur across Egypt, particularly in cities. Avoid protests, marches or demonstrations as the situation could change quickly and without warning. Police have used water cannons, tear gas, birdshot and live ammunition as crowd control.</p>\n\n<p>The authorities may close public spaces, including parks and beaches, at short notice, particularly around the holidays. Follow the guidance of the local authorities. You could be fined or arrested if you do not do as you are told.</p>\n\n<p>Foreigners involved in any political activity or activities critical of the government may be at risk of detention or other measures.</p>\n\n<p>There are reports that personal electronic devices are being checked by security personnel, particularly around places of public gathering, such as Tahrir Square.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<p>The crime rate is generally low, but visitors have reported armed robberies, muggings (including in taxis), sexual assaults, and break-ins to accommodation and cars. Take extra care when travelling alone, particularly at night, in taxis and microbuses.</p>\n\n<p>If you want to report a crime, contact the tourist police on 122. If you do not report a crime before you leave, it will be difficult to ask for a prosecution at a later date.</p>\n\n<h3 id=\"sexual-assaults-and-harassment\">Sexual assaults and harassment</h3>\n\n<p>There are a number of sexual assaults reported to the British Embassy, including cases involving minors.</p>\n\n<p>The majority of cases that have been reported took place in tourist resorts in the Red Sea region, often\u00a0committed by someone the victim had already met, including hotel workers and excursion staff.\u00a0There have also been reports of hotel staff discouraging incidents being reported to local police.</p>\n\n<p>Female travellers should exercise caution when travelling alone, particularly at night, in buses, taxis and microbuses. If you are travelling on public transport including microbuses, avoid being the last passenger left on board.</p>\n\n<p>Take extra precautions, including:</p>\n\n<ul>\n  <li>\n    <p>make sure children and young people are always accompanied by known and trusted people and not left alone with hotel or excursion staff</p>\n  </li>\n  <li>\n    <p>don\u2019t allow hotel staff to enter your room when you are alone. Try to ensure a friend or relative is present</p>\n  </li>\n  <li>\n    <p>avoid travelling in a taxi alone. If this isn\u2019t possible, apply extra security to your trip by sharing the details of your driver and trip with a friend, and using live location on WhatsApp</p>\n  </li>\n  <li>\n    <p>use reputable providers for any services and excursions, and carry out research beforehand, including by consulting your tour operator where you have one</p>\n  </li>\n  <li>\n    <p>avoid sharing personal contact or social media details</p>\n  </li>\n</ul>\n\n<p>You may also want to read:</p>\n\n<ul>\n  <li>\n    <p><a href=\"https://www.gov.uk/guidance/advice-for-women-travelling-abroad\">advice for women travelling abroad</a></p>\n  </li>\n  <li>\n    <p><a href=\"https://www.gov.uk/guidance/victim-of-rape-and-sexual-assault-abroad\">information for British nationals affected by rape or sexual assault abroad</a></p>\n  </li>\n</ul>\n\n<p>If you experience sexual harassment or assault, or anything you see doesn\u2019t feel right, report it to the hotel or local authorities - Tourist Police on 126 or if you are resident in Egypt you should call the Police on 122 and contact the British Embassy at +20 2 27916000 as soon as possible for advice and support.</p>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>Keep a copy of your passport, visa and flight ticket separately from originals when travelling. Leave copies at home where others can access them, and also store them electronically so you can access them easily. If your passport is lost or stolen, tell the police immediately and get a police report.</p>\n\n<p>Take particular care of your possessions on buses, trains and in crowds. Criminals may ride past on bikes and snatch valuables.</p>\n\n<p>Be cautious in tourist areas, where scammers and touts target foreigners.</p>\n\n<h3 id=\"staying-safe-at-tourist-sites\">Staying safe at tourist sites</h3>\n\n<p>Tourists at popular tourist sites, such as the Giza Pyramids, may be confronted aggressively for money or business, even while travelling by car or taxi. Visitors using a pre-booked guide, or taking an organised tour to visit the Giza Pyramids, are likely to face fewer difficulties.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<p>Egypt is predominantly an Islamic country. It is illegal to encourage conversion to the Christian faith.</p>\n\n<p>Respect local traditions, customs, laws and religions at all times. Make sure your actions do not cause offence, especially during Ramadan or when you visit religious areas.</p>\n\n<p>Dress modestly, especially in rural areas, mosques and souqs (markets). Public displays of affection are frowned on. What may be acceptable in the tourist resort areas may not be in other areas.</p>\n\n<h3 id=\"ramadan\">Ramadan</h3>\n\n<p>Ramadan is a holy month for Muslims. Ramadan in Egypt in 2024 will likely begin in March and end in April and will last for 30 days. Get more advice when you arrive from your tour guide, hotel or business contacts.</p>\n\n<p>You should also:</p>\n\n<ul>\n  <li>check opening hours of shops and restaurants</li>\n  <li>be aware that if hotels and restaurants are providing food or drink in fasting hours, they may separate you from Islamic guests, for example with screens</li>\n  <li>follow local dress codes \u2013 clothing that does not meet local dress codes may cause more offence at this time</li>\n  <li>be aware that driving may be erratic, particularly when people are trying to get home at dusk</li>\n  <li>be patient and show tolerance</li>\n</ul>\n\n<h3 id=\"personal-id\">Personal ID</h3>\n\n<p>Police regularly carry out ID checks. Keep valid photo ID with you at all times.</p>\n\n<h3 id=\"alcohol-laws-and-bans\">Alcohol laws and bans</h3>\n\n<p>Drinking alcohol anywhere other than a licensed restaurant or bar is illegal and can lead to arrest.</p>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Possession, use or trafficking of illegal drugs is a serious offence and can, even for small amounts, lead to lengthy prison sentences (25 years), life imprisonment or the death penalty. Those sentenced to life imprisonment on drugs charges will normally spend the rest of their life in prison with no possibility of parole or pardon.</p>\n\n<p>Khat is illegal in Egypt.</p>\n\n<h3 id=\"criticising-the-egyptian-government\">Criticising the Egyptian government</h3>\n\n<p>Making political or negative comments about the Egyptian government, including about the President or security forces, can cause trouble with the authorities. People have faced prison sentences for making insulting comments on social media.</p>\n\n<h3 id=\"restrictions-on-photography\">Restrictions on photography</h3>\n\n<p>You need a permit for professional photography or film equipment. This includes photography umbrellas, artificial outdoor lighting gear, and any equipment that occupies or blocks public roads.</p>\n\n<p>You are not allowed to take or share photographs that could be considered damaging to the country\u2019s image. You can only take photographs of Egyptian citizens can if you have their written permission. Do not photograph officials without their consent. Taking pictures of children is not allowed.</p>\n\n<p>Photography of, or near, military property is strictly banned. This includes the Suez Canal. There are sensitivities about taking photographs of embassies, government buildings, churches and religious buildings. British nationals have been arrested for photographing churches, electricity stations, train stations and bridges. If you are in any doubt, get permission before taking photographs.</p>\n\n<h3 id=\"drones\">Drones</h3>\n\n<p>Do not use radio controlled helicopters or \u2018drones\u2019 to take photographs.</p>\n\n<p>The import, production or use of drones is banned in Egypt unless you have prior authorisation from the <a rel=\"external\" href=\"https://www.mod.gov.eg/ModWebSite/Default.aspx\">Egyptian Ministry of Defence</a>. Anyone who uses or imports drones without authorisation could be sent to prison for up to 7 years or fined 5,000 to 50,000 Egyptian pounds.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Same-sex sexual activity is not explicitly criminalised in Egypt, but LGBT+ people have been prosecuted under the law of \u2018debauchery\u2019. People have been arrested for flying rainbow flags at public events on debauchery charges.</p>\n\n<p>There is little public acceptance of homosexuality in Egypt. Public expressions of homosexuality or displays of affection between same-sex couples are likely to get negative attention. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page for the LGBT+ community</a> before you travel.</p>\n\n<p>Be cautious about sharing content or having discussions of a sexual nature on social media, especially about sexual acts that are considered illegal. Some travellers have been arrested and imprisoned for this.</p>\n\n<h3 id=\"children-and-young-people\">Children and young people</h3>\n\n<p>Egyptian family law is very different from UK law, particularly around child custody. See <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> <a href=\"https://www.gov.uk/guidance/international-parental-child-abduction\">guidance for those affected by international parental child abduction</a> and how to get assistance.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<h3 id=\"insurance-for-adventure-activities\">Insurance for adventure activities</h3>\n\n<p>Make sure your travel insurance, or the tour or dive company, covers the costs for any air or sea rescue. The current fee can exceed 4,000 US dollars per hour. The Egyptian authorities will only undertake rescue operations when there\u2019s a guarantee of payment. Book excursions for activities at your resort or through approved agents or tour operators.</p>\n\n<p>See <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> <a href=\"http://www.gov.uk/guidance/foreign-travel-insurance\">travel insurance guidance</a>  for more information on travel insurance.</p>\n\n<h3 id=\"hot-air-balloons\">Hot air balloons</h3>\n\n<p>Some UK tour operators have not been able to verify the safety standards for balloon flight operators and have stopped selling balloon flights. There have been a number of injuries and fatal accidents. Speak to your tour company before booking.</p>\n\n<h3 id=\"diving-and-snorkelling\">Diving and snorkelling</h3>\n\n<p>Safety standards of diving operators in Red Sea resorts vary considerably. Never dive or snorkel unaccompanied. Where possible make bookings through your tour representative. Very cheap operators may not provide adequate safety and insurance standards. Diving beyond the depth limit of your insurance policy will invalidate your cover.</p>\n\n<p>Shark attacks are rare, but there have been a number involving tourists in the Red Sea region. Monitor any updates from local authorities or your tour operator.</p>\n\n<h3 id=\"quad-bikes-and-desert-visits\">Quad bikes and desert visits</h3>\n\n<p>There have been several serious quad bike accidents involving British nationals in resort areas. Take the same precautions as you would in the UK. Safety standards can vary considerably. Always wear a crash helmet.</p>\n\n<p>There is a small risk from unexploded landmines in some desert areas, including:</p>\n\n<ul>\n  <li>in the north west of Egypt near to Alamein</li>\n  <li>on some limited stretches of the Mediterranean coast near Marsa Matrouh</li>\n  <li>on the Red Sea coast south of Suez</li>\n</ul>\n\n<p>Dangerous areas are usually well marked with signs and barbed wire fencing. Take care and follow local advice, especially if planning trips off marked roads.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Egypt, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a>.</p>\n\n<p>You can drive in Egypt on an <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">International Driving Permit</a> for up to 6 months. If you intend to stay in Egypt for a longer period you must apply for an Egyptian driving licence.</p>\n\n<p>You may not be allowed to import a vehicle into Egypt. If you want to bring in a vehicle temporarily, you will need a \u2018carnet de passage\u2019 from the Automobile Association.</p>\n\n<p>Accidents are common because of poor road conditions, dangerous driving and poor enforcement of traffic laws. Do not drive outside main cities and resorts at night. Make sure you have adequate insurance.</p>\n\n<p>If you\u2019re travelling off-road, employ a qualified guide and get a permit from the Ministry of Interior.</p>\n\n<p>You must wear a seatbelt in the front of a vehicle.</p>\n\n<h3 id=\"rail-and-bus-travel\">Rail and bus travel</h3>\n\n<p>There have been serious bus crashes in recent years with large numbers of fatalities, including tourists.</p>\n\n<p>There have also been fatal train collisions and derailments.</p>\n\n<p>Suspect devices have been found at train stations and on the rail network. Although some have been hoaxes or false alarms you should be vigilant.</p>\n\n<h3 id=\"river-and-sea-travel\">River and sea travel</h3>\n\n<p>Overcrowding and poor safety standards have led to several accidents on Red Sea ferries and Nile cruisers.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>This section has safety advice for regions of Egypt. It only covers regions where <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has specific advice.</p>\n\n<p>You should also read <a href=\"/foreign-travel-advice/egypt/warnings-and-insurance\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s overall travel advice</a> and <a href=\"/foreign-travel-advice/egypt/safety-and-security\">safety and security advice</a>.</p>\n\n<h3 id=\"egypt-libya-border\">Egypt-Libya Border</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to within 20km of the Egyptian-Libyan border, due to active military operations that target criminal activity, except for the border town of El Salloum (where we advise against all but essential travel).</p>\n\n<h3 id=\"north-sinai\">North Sinai</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all travel to the Governorate of North Sinai, due to continuing criminal activity and terrorist attacks on police and security forces that have resulted in deaths.</p>\n\n<p>There are frequent reports of terrorist attacks in North Sinai. Most attacks are in the northeast corner of the governorate between Al-Arish city and the border with Gaza, but the whole of the North Sinai Governorate is at risk. A state of emergency in North Sinai is in effect and a curfew is in place.</p>\n\n<p>Most attacks in North Sinai are against the Egyptian government and military installations and personnel. However attacks have been carried out against civilians suspected of working with the authorities and local religious minority groups.</p>\n\n<h3 id=\"the-northern-part-of-south-sinai\">The northern part of South Sinai</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the northern part of the Governorate of South Sinai, beyond the St Catherine-Nuweibaa road, except for the coastal areas along the west and east of the peninsula.</p>\n\n<p>If you plan to travel in a 4x4 vehicle from mainland Egypt through the Suez crossing, you need a permit from the Travel Permits Department of the Egyptian Ministry of the Interior. You should book any activities outside of resort areas through approved agents or tour operators.</p>\n\n<p>Additional security measures are in place to protect the resorts of Sharm el Sheikh, Hurghada and Marsa Alam and other tourist areas on the Red Sea. Security forces carry out routine security checks on vehicles and at airports. These are in the southern part of the Sinai Peninsula and further south. These areas do not have a travel advice warning.</p>\n\n<h3 id=\"ismailiyah-governorate\">Ismailiyah Governorate</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the eastern part of the Ismailiyah Governorate east of the Suez Canal due to ongoing military operations against terrorists and criminals. Egyptian authorities at checkpoints may prevent onward travel to this region.</p>\n\n<h3 id=\"western-desert\">Western Desert</h3>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all but essential travel to the area west of the Nile Valley and Nile Delta regions, except for:</p>\n\n<ul>\n  <li>Luxor, Qina, Aswan, Abu Simbel and the Valley of the Kings</li>\n  <li>the Governorate of Faiyum</li>\n  <li>the coastal areas between the Nile Delta and Marsa Matruh</li>\n  <li>the Marsa Matruh-Siwa Road</li>\n  <li>the oasis town of Siwa</li>\n  <li>the Giza Governorate north-east of the Bahariya Oasis</li>\n  <li>the road between Giza and Farafra (but we advise against all but essential travel on the road between Bahariya and Siwa)</li>\n  <li>Bahariya Oasis, Farafra, the White Desert and Black Desert</li>\n</ul>\n\n<p>Tourists who enter the Western Desert areas of Bahariya Oasis, Farafra, the White Desert and Black Desert must apply for permits in advance and use an official guide. There is limited phone reception and poor medical facilities. Monitor travel advice and follow guidance from official guides and local authorities.</p>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel on the road between Al Bawiti and Siwa, including the desert areas near the start of the road in Bahariya. The road is closed and there are military checkpoints.</p>\n\n<p>If you travel to the south west corner of Egypt near the border with Sudan or Libya you will need a permit from the <a rel=\"external\" href=\"https://emoves.moi.gov.eg/en\">Travel Permits Department of the Egyptian Ministry of the Interior</a>. Bandits and armed groups operate in these areas.</p>\n\n<p>Act with extreme caution in all border areas.</p>\n\n<h3 id=\"halaib-triangle-and-bir-tawil-trapezoid\">Hala\u2019ib Triangle and Bir Tawil Trapezoid</h3>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all but essential travel to the Hala\u2019ib Triangle and Bir Tawil Trapezoid.</p>\n\n<p>The Hala\u2019ib Triangle remains disputed territory between Egypt and Sudan. If you\u2019re in the Hala\u2019ib Triangle and need urgent consular assistance, you should contact the <a href=\"https://www.gov.uk/world/organisations/british-embassy-cairo\">British Embassy Cairo</a>.</p>\n\n<p>The Bir Tawil Trapezoid is unclaimed by either Egypt or Sudan. If you\u2019re in this area and need urgent consular assistance, contact the British Embassy in the country you last travelled through (either the <a href=\"https://www.gov.uk/world/organisations/british-embassy-cairo\">British Embassy Cairo</a> or the <a href=\"https://www.gov.uk/world/organisations/british-embassy-khartoum\">British Embassy Khartoum</a>.</p>\n\n<h2 id=\"egypt-sudan-border\">Egypt-Sudan border</h2>\n\n<p>There are large numbers of people trying to cross the border into Egypt. There are 2 main land border crossings between Egypt and Sudan - Qustul and Argeen. The nearest town in Sudan to the crossings is Wadi Halfa (30km from border).</p>\n\n<p>Travel in and from Sudan is taken at your own risk. There is almost no infrastructure at these border crossings. People are waiting several days to cross the border, with very limited access to food and water.\nThe British Embassy in Egypt does not have staff at the border.  Our ability to provide consular assistance is very limited.</p>\n\n<p>If you are a British national planning to cross into Egypt at Argeen or Qustul, and you do not have valid documentation with you, contact the British Embassy in Cairo on + 20 (0)2 2791 6000.</p>\n\n<p>If you are have crossed the border into Egypt, and need consular assistance, contact the British Embassy in Cairo on + 20 (0)2 2791 6000.</p>\n\n<p>Read <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s <a href=\"https://www.gov.uk/foreign-travel-advice/sudan\">Sudan travel advice</a>.</p>\n\n<p>If you are in Egypt and need consular assistance, such as an emergency travel document, contact the British Embassy in Cairo on + 20 (0)2 2791 6000.</p>\n\n",
+                    "slug": "regional-risks",
+                    "title": "Regional risks "
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 123 and ask for an ambulance.</p>\n\n<p>Contact your insurance or medical assistance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>\n    <p>the latest information on vaccinations and health risks in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/71/egypt\">TravelHealthPro\u2019s Egypt guide</a></p>\n  </li>\n  <li>\n    <p>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\"><abbr title=\"National Health Service\">NHS</abbr> travel vaccinations page</a></p>\n  </li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The <abbr title=\"National Health Service\">NHS</abbr> has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<p>Some prescribed and over-the-counter medicines may be controlled substances in Egypt. You may need permission from <a rel=\"external\" href=\"https://www.visitegypt.gov.eg/\">Egypt\u2019s Ministry of Health</a> before you arrive. If you do not have prior permission or the required documentation, the medication will not be allowed in and you may be prosecuted under Egyptian law.</p>\n\n<p>If you\u2019re travelling with prescription medication, carry a letter from your GP that specifies:</p>\n\n<ul>\n  <li>your condition</li>\n  <li>the quantity of medication you will be carrying</li>\n  <li>that the medication is for your personal use only</li>\n</ul>\n\n<p>For further information, contact the Egyptian Embassy in London.</p>\n\n<h2 id=\"healthcare-facilities-in-egypt\">Healthcare facilities in Egypt</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/egypt-list-of-medical-facilities-practitioners\">English speaking doctors in Egypt</a>.</p>\n\n<p>Some hotel doctors have overcharged for treatment and medicines. Review your bill closely for excessive charges. Pharmacies outside hotels will often supply medication at lower prices.</p>\n\n<p>Access to specialised treatment for psychiatric illness is limited and may not be available outside major cities.</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-egypt\">Emergency services in Egypt</h2>\n\n<p>Ambulance: 123</p>\n\n<p>Fire: 180</p>\n\n<p>Police: 122</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking\u00a0<a href=\"https://www.gov.uk/government/publications/egypt-list-of-lawyers\">lawyers</a>,\u00a0<a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find?country=Egypt&amp;serviceType=funeralDirectors\">funeral directors</a>\u00a0and\u00a0<a href=\"https://www.gov.uk/government/publications/list-of-translators-and-interpreters-in-egypt\">translators and interpreters</a>\u00a0in Egypt</li>\n  <li>dealing with a\u00a0<a href=\"https://www.gov.uk/government/publications/egypt-bereavement-information-pack\">death in Egypt</a>\n</li>\n  <li>being\u00a0<a href=\"https://www.gov.uk/government/publications/egypt-prisoner-pack\">arrested in Egypt</a>\n</li>\n  <li>getting help if you\u2019re a\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re\u00a0<a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you are <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/egypt/email-signup\">get email notifications</a>  when this travel advice is updated.</p>\n\n<p>You can also <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Egypt&amp;post=Egypt%20travel%20advice%20team\">contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> online</a></p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you are abroad and you need emergency help from the UK government, contact the nearest <a href=\"https://www.gov.uk/world/embassies\">British embassy, consulate or high commission</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n<h2 id=\"risk-information-for-british-companies\">Risk information for British companies</h2>\n\n<p>The <a href=\"https://www.gov.uk/government/publications/overseas-business-risk-egypt\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-11-02T11:14:53Z",
+            "updated_at": "2023-11-02T11:14:53Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-18T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/egypt",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/egypt",
+                    "base_path": "/foreign-travel-advice/egypt",
+                    "content_id": "52e41c89-6f2c-4db6-9370-6d41fb44fd0f",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T11:14:53Z",
+                    "schema_name": "travel_advice",
+                    "title": "Egypt travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/egypt",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/egypt",
+                    "api_url": "https://www.gov.uk/api/content/world/egypt",
+                    "base_path": "/world/egypt",
+                    "content_id": "925f7893-20f1-46ba-9369-31dbd353c576",
+                    "description": "Services if you're visiting, studying, working or living in Egypt. Includes information about trading with and doing business in the UK and Egypt.",
+                    "details": {
+                        "internal_name": "UK help and services in Egypt",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:34Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Egypt",
+                    "web_url": "https://www.gov.uk/world/egypt",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/turkey",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/turkey",
+                    "base_path": "/foreign-travel-advice/turkey",
+                    "content_id": "385d62b6-1fb3-4b29-80f3-cef2efa73cce",
+                    "details": {
+                        "change_description": "Removal of information about disruption to Turkish Airlines flights on 1 November.",
+                        "country": {
+                            "name": "Turkey",
+                            "slug": "turkey",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T15:12:12Z",
+                    "schema_name": "travel_advice",
+                    "title": "Turkey travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/turkey",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/morocco",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/morocco",
+                    "base_path": "/foreign-travel-advice/morocco",
+                    "content_id": "7584a0dd-accf-4901-a8a6-bc964dc1412f",
+                    "details": {
+                        "change_description": "Updated information regarding potential for demonstrations ('Safety and security' page).",
+                        "country": {
+                            "name": "Morocco",
+                            "slug": "morocco",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T09:40:24Z",
+                    "schema_name": "travel_advice",
+                    "title": "Morocco travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/morocco",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tunisia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tunisia",
+                    "base_path": "/foreign-travel-advice/tunisia",
+                    "content_id": "29351cb7-7523-4ab7-8adf-8d2e2c8768b1",
+                    "details": {
+                        "change_description": "Removal of information about escape of prisoners ('Summary' page).",
+                        "country": {
+                            "name": "Tunisia",
+                            "slug": "tunisia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T13:12:29Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tunisia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tunisia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/jordan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/jordan",
+                    "base_path": "/foreign-travel-advice/jordan",
+                    "content_id": "a03f9a35-51a9-47a8-95b5-2e4bcdaa5dd8",
+                    "details": {
+                        "change_description": "Addition of information relating to an unmanned aerial vehicle (UAV), which fell in  southern Jordan ('Safety and security' page).",
+                        "country": {
+                            "name": "Jordan",
+                            "slug": "jordan",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T09:25:28Z",
+                    "schema_name": "travel_advice",
+                    "title": "Jordan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/jordan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/israel",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/israel",
+                    "base_path": "/foreign-travel-advice/israel",
+                    "content_id": "250a060b-d764-4e0c-b131-dc2d10c3160e",
+                    "details": {
+                        "change_description": "Addition of information to reflect the opening of the Rafah border crossing with Egypt on 1 November, and further information on rocket attacks in Eilat and the Red Sea area (\u2018Summary\u2019 page).",
+                        "country": {
+                            "name": "Israel",
+                            "slug": "israel",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-02T14:34:39Z",
+                    "schema_name": "travel_advice",
+                    "title": "Israel travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/israel",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-egypt",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-egypt",
+                    "base_path": "/world/living-in-egypt",
+                    "content_id": "40cc91fe-db2d-4733-b38d-d5fec0be1b4e",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Egypt",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/egypt",
+                                "api_url": "https://www.gov.uk/api/content/world/egypt",
+                                "base_path": "/world/egypt",
+                                "content_id": "925f7893-20f1-46ba-9369-31dbd353c576",
+                                "description": "Services if you're visiting, studying, working or living in Egypt. Includes information about trading with and doing business in the UK and Egypt.",
+                                "details": {
+                                    "internal_name": "UK help and services in Egypt",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:34Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Egypt",
+                                "web_url": "https://www.gov.uk/world/egypt",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:03Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Egypt",
+                    "web_url": "https://www.gov.uk/world/living-in-egypt",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-egypt",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-egypt",
+                    "base_path": "/world/travelling-to-egypt",
+                    "content_id": "7bf48521-bf37-4602-a18f-35c1e779a7b8",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Egypt",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/egypt",
+                                "api_url": "https://www.gov.uk/api/content/world/egypt",
+                                "base_path": "/world/egypt",
+                                "content_id": "925f7893-20f1-46ba-9369-31dbd353c576",
+                                "description": "Services if you're visiting, studying, working or living in Egypt. Includes information about trading with and doing business in the UK and Egypt.",
+                                "details": {
+                                    "internal_name": "UK help and services in Egypt",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:34Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Egypt",
+                                "web_url": "https://www.gov.uk/world/egypt",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:02Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Egypt",
+                    "web_url": "https://www.gov.uk/world/travelling-to-egypt",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-11-02T11:14:53Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698923693.403-10.13.21.84-49572",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Egypt travel advice",
+        "updated_at": "2023-11-15T10:51:35Z",
+        "withdrawn_notice": {}
+    }
+}

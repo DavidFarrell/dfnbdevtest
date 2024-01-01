@@ -1,0 +1,755 @@
+{
+    "Country Slug": "libya",
+    "Country Name": "Libya",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/libya",
+        "content_id": "83ed7690-9249-41c3-8525-12a15e46f6ba",
+        "description": "Latest FCDO travel advice for Libya including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information on Storm Daniel and severe flooding ('Summary' page).",
+            "change_history": [
+                {
+                    "note": "Latest update: Safety and security section and summary - revised information on heavy clashes between militia groups in late August and September 2018; Terrorism section - addition of information about an attack on the central Libyan town of Tazerbo on 24 November 2018, responsibility for which was claimed by Daesh",
+                    "public_timestamp": "2018-12-03T16:10:46.262Z"
+                },
+                {
+                    "note": "Summary and Terrorism section - update to factual information following attack on the Ministry of Foreign Affairs in Tripoli on 25 December",
+                    "public_timestamp": "2018-12-26T14:05:46.211Z"
+                },
+                {
+                    "note": "Latest update: Summary - update to information about the availability of consular support",
+                    "public_timestamp": "2019-01-11T16:53:09.078Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security section (Political situation) - \r\nSince 3 April 2019 there has been a significant build-up of militarised forces in the west of Libya; sporadic armed clashes have taken place to the south and west of Tripoli; forces opposed to the recognised government have reportedly gained control over a number of towns; Prime Minister Serraj has announced a state of emergency and full mobilisation of military and security units loyal to the government\r\n",
+                    "public_timestamp": "2019-04-05T16:31:33.362Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security (Political situation) - on 8 April 2019, Mitiga airport closed temporarily following an airstrike; flights are likely to be cancelled at short notice",
+                    "public_timestamp": "2019-04-09T10:37:27.745Z"
+                },
+                {
+                    "note": "Latest update: Summary - editorial amendments to existing information about consular support",
+                    "public_timestamp": "2019-04-17T15:59:15.616Z"
+                },
+                {
+                    "note": "Safety and security (Air travel), Terrorism section and Summary - factual update on closure of Tripoli Mitiga Airport; factual update on a car bomb explosion in the city of Benghazi in August 2019",
+                    "public_timestamp": "2019-10-16T15:51:32.000Z"
+                },
+                {
+                    "note": "Summary - Following the attack on the coalition base at Taji in Iraq on 11 March, and subsequent US airstrikes, tensions may be raised across the region. There is a possibility of an increased threat against Western interests, including against UK citizens. You should remain vigilant and keep up to date with the latest developments, including via the media and this travel advice. ",
+                    "public_timestamp": "2020-03-14T20:16:20.000Z"
+                },
+                {
+                    "note": "Summary - On 15 March, Libyan Authorities announced that due to the ongoing coronavirus (COVID-19) pandemic all air, ground and maritime Libyan borders would close on 16 March for 3 weeks (with potential extension).",
+                    "public_timestamp": "2020-03-15T12:36:47.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed in full. The 'Summary' and 'Safety and security' pages have updated information on air travel and border closures due to the coronavirus pandemic",
+                    "public_timestamp": "2020-05-15T17:09:58.000Z"
+                },
+                {
+                    "note": "Updated information on organising repatriation flights ('Summary' page)",
+                    "public_timestamp": "2020-05-21T11:46:49.000Z"
+                },
+                {
+                    "note": "Updated information on coronavirus and the security situation. ('Summary', 'Coronavirus' and \u2018Safety and Security\u2019 pages)",
+                    "public_timestamp": "2020-10-08T10:48:29.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-29T17:11:51.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Libya ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-25T12:10:30.000Z"
+                },
+                {
+                    "note": "Information on emergency travel documents ('Entry requirements' page)",
+                    "public_timestamp": "2021-04-14T10:14:03.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Libya ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-23T15:13:27.000Z"
+                },
+                {
+                    "note": "Update to information and advice on what to do if you test positive for COVID-19 in Libya before returning to the UK (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-08-17T13:51:38.000Z"
+                },
+                {
+                    "note": "Update to information on the political situation following postponed elections ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-01-05T11:37:56.000Z"
+                },
+                {
+                    "note": "Update to information on the provision of limited consular support and the serious risks of being detained ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2022-04-01T11:02:30.000Z"
+                },
+                {
+                    "note": "Update to consular contact form web link ('Summary' and \u2018Travel advice help and support\u2019 pages)",
+                    "public_timestamp": "2022-06-13T15:40:02.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                    "public_timestamp": "2023-06-22T10:15:52.000Z"
+                },
+                {
+                    "note": "Updated information on 'Summary', 'Coronavirus', 'Safety and security', 'Terrorism', 'Local laws and customs' and 'Money' pages.",
+                    "public_timestamp": "2023-06-28T15:20:00.000Z"
+                },
+                {
+                    "note": "Information on clashes between armed groups in central Tripoli and the disruption to Mitiga Airport ('Summary' page).",
+                    "public_timestamp": "2023-08-15T14:30:06.000Z"
+                },
+                {
+                    "note": "Information on roads are open and there is no further disruption to Mitiga Airport ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-08-17T15:13:03.000Z"
+                },
+                {
+                    "note": "Information on Storm Daniel and severe flooding ('Summary' page).",
+                    "public_timestamp": "2023-09-12T09:59:43.000Z"
+                }
+            ],
+            "country": {
+                "name": "Libya",
+                "slug": "libya",
+                "synonyms": [
+                    "Sahel"
+                ]
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "d42f30b7-66e2-499e-8a3c-e1cde1a47c5a",
+                "url": "https://assets.publishing.service.gov.uk/media/5f4e73ed8fa8f57fc445cfd0/FCDO__TA__024_-_Libya_Travel_Advice_Ed1.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/libya/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/5f4e73ed8fa8f57fc445cfcf/FCDO__TA__024_-_Libya_Travel_Advice_Ed1__WEB_.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth--development-office-fcdo-advise-against-all-travel-to-libya-this-advice-has-been-in-place-consistently-since-2014-if-youre-in-libya-against-this-advice-you-should-seek-to-leave-immediately-by-any-practical-means\">The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) advise against all travel to Libya. This advice has been in place consistently since 2014. If you\u2019re in Libya against this advice, you should seek to leave immediately by any practical means.</h3>\n\n<p>All travel to, from and within Libya is at the traveller\u2019s risk. Local security situations are fragile and can quickly deteriorate into intense fighting and clashes without warning.</p>\n\n<p>On 10 September Storm Daniel struck Eastern Libya resulting in severe flooding and causing significant damage to critical infrastructure, including hospitals and telecommunications networks. You should follow the advice of local authorities and keep up to date with media coverage.</p>\n\n<p>On 14 August, clashes between armed groups in central Tripoli broke out, resulting in temporary roadblocks and Mitiga airport closure. Tensions have calmed, with roads now open and no further disruption to air travel from Tripoli\u2019s Mitiga Airport.</p>\n\n<p>Consular support is severely limited in Libya and the British Embassy in Tripoli does not provide consular services. If you are in Libya and need urgent help from the UK government (e.g. if you have been detained) you can <a href=\"https://www.gov.uk/world/organisations/british-embassy-tunis\">contact the British Embassy in Tunis</a> on +216 71 108 700 or <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Libya&amp;post=British%20Embassy%20Tripoli\">contact us online</a>. If you are in the UK and are concerned about a British national in Libya, you can call the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London on +44 (0)20 7008 5000.</p>\n\n<div class=\"example\">\n<p>If you plan to travel against FCDO advice, <a href=\"/foreign-travel-advice/libya/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Libya\u2019s current entry restrictions and requirements. These may change with little warning.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Localised violence between armed groups in the capital and surrounding region can break out at short notice with little to no warning. Foreign forces and mercenaries retain a presence across the country.</p>\n\n<p>Protests  and civil unrest can also occur at short notice, including demonstrations\u00a0against deteriorating living conditions, corruption, and ongoing political instability.\u00a0Local security forces\u2019 response can be unpredictable and there is a high risk of civilians being detained or wounded if caught up in local demonstrations.\u00a0\u00a0See <a href=\"https://www.gov.uk/foreign-travel-advice/libya/safety-and-security\">Safety and security</a></p>\n\n<p>Fighting between armed groups poses significant risks to air travel in Libya. It has periodically caused the temporary suspension or closure of airports. All airports are vulnerable to closure due to armed clashes. See <a href=\"https://www.gov.uk/foreign-travel-advice/libya/safety-and-security#air-travel\">Air travel</a></p>\n\n<p>Terrorists are very likely to try to carry out attacks in Libya. There remains a high threat throughout the country of terrorist attacks and kidnap against foreigners, including from Daesh-affiliated extremists (formerly referred to as ISIL) and Al Qaida, as well as armed militias. See <a href=\"https://www.gov.uk/foreign-travel-advice/libya/terrorism\">Terrorism</a></p>\n\n<p>If you choose to travel to Libya against\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advice, you should get the right visa, or risk deportation. See <a href=\"https://www.gov.uk/foreign-travel-advice/libya/entry-requirements\">Entry requirements</a></p>\n\n<p>If you\u2019re entering Libya as a media representative, you should get press accreditation from the relevant Libyan authorities.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"covid-19-rules\">COVID-19 Rules</h2>\n\n<p>Countries may restrict travel or bring in rules at short notice. Check with your travel company or airline for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Visit TravelHealthPro (from the UK\u2019s National Travel Health Network and Centre) for <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">general COVID-19 advice for travellers</a>.</p>\n\n<h3 id=\"entry-into-libya\">Entry into Libya</h3>\n\n<p>To enter Libya you must:</p>\n\n<ul>\n  <li>Be fully vaccinated (have received two doses in the last 6 months, or have had three doses)</li>\n  <li>Have a negative certificate from an RT-PCR test taken within 72 hours of arrival</li>\n  <li>Commit to self-isolate in the residence hotel for a period of 10 days (or 5 days if a rapid test of an RT-PCR test taken on the fifth day shows negative).</li>\n</ul>\n\n<p>Children aged 12 or under are exempt from these rules.</p>\n\n<p>You may be screened on arrival. If you show symptoms, you will be asked to take a rapid test.</p>\n\n<p>For more details <a rel=\"external\" href=\"https://ncdc.org.ly/Ar/the-protocol-for-those-coming-from-traveling-to-libya-through-the-libyan-ports/\">see the National Centre for Disease Control Libya website</a> (only in Arabic).</p>\n\n<h3 id=\"travel-within-libya\">Travel within Libya</h3>\n\n<p>Many COVID-19 restrictions have been eased. You are still encouraged to take precautions such as maintaining social distance, wearing face masks, washing hands and avoiding crowds.</p>\n\n<p>Additional COVID-19 restrictions might be imposed at short notice including mask mandates, localised lockdowns and curfews. Monitor local media and follow the advice of the local authorities and your travel company.</p>\n\n<h2 id=\"finance\">Finance</h2>\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h3 id=\"political-situation\">Political situation</h3>\n<p>The political situation in Libya remains fragile and the security situation remains dangerous and unpredictable.  A UN-facilitated ceasefire in 2020 ended militarised clashes between eastern and western armed groups, which led to an estimated 1,000 civilian casualties. While the risk of renewed fighting between eastern and western forces has decreased, the risk of localised violence between competing armed groups remains high. Outbreaks of violence between armed groups can occur with little warning. In August 2022, clashes between armed groups in Tripoli killed 32 people and injured over 150. Clashes again broke out between 14 and 15 August 2023  in central Tripoli.</p>\n\n<p>Foreign forces and mercenaries continue to operate in Libya.\u00a0 The Interim Government of National Unity has limited control of security provision across the country. The lack of political stability has led to security incidents, road and airport closures, and oil blockades. There have been protests throughout Libya against the continued political deadlock, lack of basic service provision and corruption.</p>\n\n<p>If you choose to travel to Libya against\u202f<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u202fadvice, you should monitor the local security situation carefully, remain vigilant, and have robust security arrangements and contingency plans in place.</p>\n\n<h3 id=\"public-infrastructure-and-services\">Public infrastructure and services</h3>\n\n<p>The provision of basic services across Libya varies. Petrol can be difficult to access and there are regularly long queues at fuel stations. There can also be power outages in Tripoli and the south and east, particularly in the summer months.</p>\n\n<h3 id=\"crime\">Crime</h3>\n\n<p>Crime is widespread across Libya and violent robbery, carjacking and smuggling of fuel, drugs, weapons and people are common across the country.  Armed groups and local security services regularly carry out operations against criminal gangs.</p>\n\n<p>If you choose to travel to Libya against <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advice, take sensible precautions to protect yourself and your belongings. Foreign nationals may be a target for criminals operating in Libya and should exercise caution when travelling throughout the country, particularly at night. Consider your route and vary daily routines. Conceal expensive looking items which could draw unwanted attention.</p>\n\n<h3 id=\"detention\">Detention</h3>\n\n<p>Libya\u2019s intelligence services and armed groups have detained British nationals in the past 12 months. You are at an elevated risk of detention if you are working in a field likely to be of suspicion to the intelligence services and armed groups, including but not limited to, private security, journalism or for NGOs. You should be aware that if you are detained in Libya by any of these groups, your health and welfare may be put at serious risk, especially if you have an existing medical condition. The British Embassy will have extremely limited capability to assist you or intervene on your behalf. Any assistance will be even more limited for dual nationals of Libyan origin as you will be in your home country and dual nationality is not recognised by the Libyan authorities.</p>\n\n<p>Foreign nationals have been arrested for failing to provide the correct documentation when requested.</p>\n\n<h3 id=\"local-travel\">Local travel</h3>\n\n<p>In the event of a further deterioration of the security situation, routes in and out of major cities and towns may become blocked and airports closed or inaccessible at little or no notice.</p>\n\n<p>Don\u2019t advertise your travel or other plans through social media. Avoid routine, vary your travel routes, and keep a low profile at all times.</p>\n\n<p>Road traffic accidents are common.\u00a0 Facilities or services available to help in the case of a road traffic accident may be limited.</p>\n\n<h3 id=\"travel-for-mediajournalism-purposes\">Travel for media/journalism purposes</h3>\n\n<p>If you\u2019re entering Libya as a media representative, you should get press accreditation from the relevant Libyan authorities.</p>\n\n<p>There are often complex bureaucratic procedures in place when operating in Libya, so it is important to ensure you follow all relevant protocols and procedures and be sensitive to local customs.</p>\n\n<p>Journalists, including foreign nationals, are vulnerable to harassment, intimidation and detention by armed groups and Libya\u2019s intelligence services. There is a real risk of hostility from those who object to media reporting. Journalism and media activity are likely to attract attention from armed groups and Libya\u2019s intelligence services who may treat foreign media with suspicion. International and local journalists have previously been detained in Libya.</p>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>Road travel within Libya remains highly dangerous. There continues to be a risk of being caught up in outbreaks of localised violence between armed groups. There is also a high risk of carjacking, robbery and of striking unexploded ordnance off-road. The coastal road between Zawiyah and Tripoli presents an elevated risk.  Road traffic accidents are frequent and often result in fatalities. All land borders into Libya are subject to closure at short notice.</p>\n\n<h3 id=\"air-travel\">Air travel</h3>\n\n<p>Flights to and from all airports in Libya are likely to be cancelled at short notice.</p>\n\n<p>Tripoli International Airport has been closed since July 2014, following clashes that broke out between armed groups in the area surrounding the airport. Other airports may change their flight schedule without notice. Mitiga airport is Tripoli\u2019s only currently functioning civilian airport. Fighting between armed groups in the area caused Mitiga Airport to temporarily close on 23 February 2023.</p>\n\n<p>The <a href=\"https://www.gov.uk/guidance/uk-air-safety-list\">UK Air Safety List</a> (ASL) lists all known airlines in Libya that do not meet international safety standards and are banned from operating commercial air services to, from, and within the UK. Check the UK Air Safety List when considering which airlines to fly with. The list is maintained by the\u00a0Department for Transport, based on advice from the <a rel=\"external\" href=\"https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates\">UK Civil Aviation Authority</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>There is a high threat of terrorist attack globally affecting UK interests and British Nationals, including from groups and individuals who view the UK and British Nationals as targets. You should remain vigilant at all times.</p>\n\n<p>Terrorists are very likely to try to carry out attacks in Libya. British and nationals of other Western countries are considered high value targets. Government buildings and security checkpoints have also been targeted in recent years, resulting in loss of lives.</p>\n\n<p>Extremist groups including Daesh in Libya (formerly referred to as ISIL) are responsible for the majority of attacks, which have targeted foreign and diplomatic personnel and premises, international hotels, commercial and oil installations, and government and other official security institutions.</p>\n\n<p>Although government-aligned forces, supported by US airstrikes, declared the end of operations against Daesh in Sirte in January 2016, Daesh remain a serious threat to security in Libya.</p>\n\n<p>On 7 and 14 June 2021 Daesh claimed responsibility for two separate bomb attacks on Libyan security forces in Fezzan province in southern Libya. These attacks killed at least four people.</p>\n\n<p>Attacks could be indiscriminate, including in places visited by foreigners. While there is a greater concentration of terrorist groups in the Fezzan Province, it is highly likely smaller numbers of terrorists can move relatively freely to facilitate activity outside of the Fezzan Province to other towns and regions.</p>\n\n<p>Due to increased security pressure against terrorist groups it is likely both Daesh and Al Qaida in the Islamic Maghreb (AQIM), are prioritising facilitation activity (such as weapons and people smuggling), to support terrorist operations in West Africa and are focused on maintaining their operating environment in the Fezzan Province. It is likely the threat from armed group violence has also helped to mitigate the terrorist threat in the north of Libya by further reducing the freedom of movement of terrorist groups.</p>\n\n<p>Travel in border regions presents an elevated risk.\u00a0 Extremist groups operating in the region, including AQIM and Daesh, conduct operations in the border areas of northern Mali, Niger and Algeria. They have a proven capability of travelling long distances to carry out attacks, including in neighbouring countries and Libya.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"kidnap\">Kidnap</h3>\n\n<p>Terrorist groups including Daesh, Al Qaeda and their affiliates routinely use kidnapping as a tactic and are capable of conducting kidnapping across borders. Terrorist groups within Libya have both intent and capability to carry out further kidnappings. It\u2019s a realistic possibility that they will target foreign nationals. Criminal gangs also carry out kidnappings, and there is\u00a0a realistic possibility that they would sell hostages on to terrorist groups. Foreign nationals have been kidnapped in Libya in the past, including four foreign nationals in south-east Libya in July 2018.</p>\n\n<p>It is likely that any Kidnap for Ransom (KfR) attempt by a terrorist group in Libya would occur in the south of the country, whereas a KfR by militias would occur in a northern coastal city.</p>\n\n<p>There is a realistic possibility that a terrorist group, most likely Daesh-Libya or Al Qaeda in the Islamic Maghreb, will kidnap a Western national in Libya. In recent months, the importance of oil and natural gas production in Libya has increased, and any Western nationals working for oil and natural gas companies in Libya are highly likely viewed as high value targets. See our <a href=\"https://www.gov.uk/guidance/the-threat-from-terrorism-in-the-sahel-region\">Sahel</a> page for information on the regional threat.</p>\n\n<p>Those engaged in tourism, humanitarian aid work, journalism or business sectors are viewed as legitimate targets. If you are kidnapped, the reason for your presence is unlikely to serve as a protection or secure your safe release. The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners increases the risk of further hostage taking. The Terrorism Act (2000) also makes payments to terrorists illegal.</p>\n\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Local laws reflect that Libya is an Islamic country. You should respect local traditions, customs, laws and religious customs at all times, especially during the holy month of Ramadan.</p>\n\n<h3 id=\"religion\">Religion</h3>\n\n<p>Local laws in Libya strictly prohibit proselytising, evangelising and any attempts to convert Muslims to another religion.</p>\n\n<h3 id=\"lgbt\">LGBT+</h3>\n\n<p>Homosexual acts (applying to both sexes) are illegal in Libya. Be sensitive to local laws and customs and avoid public displays of affection. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT+ community before you travel.</p>\n\n<h3 id=\"alcohol-laws-and-bans\">Alcohol laws and bans</h3>\n\n<p>Drug and alcohol offences, including consumption, possession and trafficking, are treated seriously in Libya and are punishable by law.</p>\n\n<p>There are often complex bureaucratic procedures needed to travel for work in Libya. It is important you ensure you have followed all relevant protocols and procedures if you intend to travel for work or business. You are likely to be at risk of intimidation, harassment and detention if you fail to comply with local customs.</p>\n\n<h3 id=\"using-cameras-near-military-facilities\">Using cameras near military facilities</h3>\n\n<p>You must get permission before taking any photographs or interviewing at or near military facilities.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Libya.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport, for the most common types of travel.</p>\n\n<p>The authorities in Libya set and enforce entry rules. If you\u2019re unsure how Libya\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<p>You should also consider checking with your transport provider or travel company to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"visas\">Visas</h3>\n<p>If you choose to travel to Libya against\u202fFCDO\u202fadvice, you should ensure you have the right visa or risk deportation. To ensure you have the correct visa you should contact the Libyan Embassy in London for further information on the visa you require, should you choose to travel to Libya. You may require a specific type of visa depending on the nature of your trip.</p>\n\n<p>A Libyan visa issued overseas may not be recognised in some areas or at certain ports of entry, due to the current political situation.</p>\n\n<h3 id=\"previous-travel-to-israel\">Previous travel to Israel</h3>\n\n<p>Passports showing previous travel to Israel are not accepted for travel to Libya.</p>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>Your passport should be valid for the proposed duration of your stay. No additional period of validity beyond this is required.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"http://travelhealthpro.org.uk/country/129/libya#Vaccine_recommendations\">Travel Health Pro website</a></p>\n\n<h3 id=\"registering-with-the-libyan-authorities\">Registering with the Libyan authorities</h3>\n\n<p>All short stay visitors must register with the police within a week of arrival. This is usually arranged by the company you\u2019re visiting or the local travel agency you\u2019re travelling with. If you don\u2019t register, you may be fined when you leave the country.</p>\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/libya/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>If you choose to travel to Libya against <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advice, at least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a> of the country or territory you\u2019re travelling to.</p>\n\n<p>There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<p>Healthcare in Libya is on the whole below the standard available in the UK and suffers from acute shortages in skilled personnel and medical supplies, particularly for chronic conditions such as diabetes. COVID-19 has put further pressures on the healthcare system, with hospitals struggling to cope with the influx of patients. There are private clinics in Tripoli. If you need treatment you may be evacuated to Malta or mainland Europe. Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>Medical help in remote areas may not be available. Even if your travel or insurance company has arrangements with an international air ambulance provider, they may not be allowed to carry out a rescue operation within Libya. The current status of Libyan rescue services is uncertain.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>Libya is a cash society. There are severe shortages of cash and restrictions on bank withdrawals throughout the country. International credit cards are not accepted due to local financial restrictions.</p>\n\n<p>The exchange of foreign currency into Libyan dinar is tightly controlled by the Libyan central bank. It is illegal to take Libyan dinar out of Libya. Accessing Libyan dinar through formal methods is difficult for travellers. Informal methods of currency exchange exist though their use carries the risk of arrest.</p>\n\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Consular support is severely limited in Libya and the British Embassy in Tripoli does not provide consular services. If you are in Libya and need urgent help from the UK government (e.g. if you have been detained) you can <a href=\"https://www.gov.uk/world/organisations/british-embassy-tunis\">contact the British Embassy in Tunis</a> on +216 71 108 700 or <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Libya&amp;post=British%20Embassy%20Tripoli\">contact us online</a>.  If you are in the UK and are concerned about a British national in Libya, you can call the FCDO in London on +44 (0)20 7008 5000.</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"finance\">Finance</h3>\n<p>There is a range of <a href=\"/guidance/financial-support-for-when-you-are-unable-to-return-to-the-uk-during-coronavirus-covid-19\">financial support from the government</a> that you can access while you are unable to return due to coronavirus restrictions.</p>\n\n<div class=\"call-to-action\">\n\n  <p>For further UK government guidance on support you can access whilst abroad, visit our <a href=\"/guidance/coronavirus-covid-19-staying-where-you-are-if-you-cannot-return-to-the-uk\">waiting to return guidance</a>. This includes guidance on finance, health, and staying connected.</p>\n\n</div>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, send the Travel Advice team <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Libya&amp;post=Libya%20travel%20advice%20team\">a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Libya&amp;post=Libya%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-09-12T09:59:43Z",
+            "updated_at": "2023-09-12T09:59:43Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-03T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/libya",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/libya",
+                    "base_path": "/foreign-travel-advice/libya",
+                    "content_id": "83ed7690-9249-41c3-8525-12a15e46f6ba",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-12T09:59:43Z",
+                    "schema_name": "travel_advice",
+                    "title": "Libya travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/libya",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/libya",
+                    "api_url": "https://www.gov.uk/api/content/world/libya",
+                    "base_path": "/world/libya",
+                    "content_id": "e1513a83-7a9d-41d0-971b-3d758f63be7c",
+                    "description": "Services if you're visiting, studying, working or living in Libya. Includes information about trading with and doing business in the UK and Libya.",
+                    "details": {
+                        "internal_name": "UK help and services in Libya",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:55Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Libya",
+                    "web_url": "https://www.gov.uk/world/libya",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/syria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/syria",
+                    "base_path": "/foreign-travel-advice/syria",
+                    "content_id": "85c16f75-3380-497e-a915-4d77256cde37",
+                    "details": {
+                        "change_description": "Information on a 7.8 major earthquake that hit the Gazientep region of Southeast Turkey on 6 February 2023 which has also severely impacted cities in Northern Syria including Idlib and Aleppo ('Summary' page).",
+                        "country": {
+                            "name": "Syria",
+                            "slug": "syria",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-02-06T15:30:45Z",
+                    "schema_name": "travel_advice",
+                    "title": "Syria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/syria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tunisia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tunisia",
+                    "base_path": "/foreign-travel-advice/tunisia",
+                    "content_id": "29351cb7-7523-4ab7-8adf-8d2e2c8768b1",
+                    "details": {
+                        "change_description": "Removal of information about escape of prisoners ('Summary' page).",
+                        "country": {
+                            "name": "Tunisia",
+                            "slug": "tunisia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-08T13:12:29Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tunisia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tunisia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/algeria",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/algeria",
+                    "base_path": "/foreign-travel-advice/algeria",
+                    "content_id": "b5c8e64b-3461-4447-9144-1588e4a84fe6",
+                    "details": {
+                        "change_description": "\"Updated information on wildfires across some parts of northern Algeria, including in populated areas (Summary page)\"",
+                        "country": {
+                            "name": "Algeria",
+                            "slug": "algeria",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-07-25T17:50:02Z",
+                    "schema_name": "travel_advice",
+                    "title": "Algeria travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/algeria",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/yemen",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/yemen",
+                    "base_path": "/foreign-travel-advice/yemen",
+                    "content_id": "73891fe3-3a92-4c2e-a1a6-b63f00186ce8",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                        "country": {
+                            "name": "Yemen",
+                            "slug": "yemen",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:22:58Z",
+                    "schema_name": "travel_advice",
+                    "title": "Yemen travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/yemen",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/morocco",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/morocco",
+                    "base_path": "/foreign-travel-advice/morocco",
+                    "content_id": "7584a0dd-accf-4901-a8a6-bc964dc1412f",
+                    "details": {
+                        "change_description": "Updated information regarding potential for demonstrations ('Safety and security' page).",
+                        "country": {
+                            "name": "Morocco",
+                            "slug": "morocco",
+                            "synonyms": [
+                                "Sahel"
+                            ]
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T09:40:24Z",
+                    "schema_name": "travel_advice",
+                    "title": "Morocco travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/morocco",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-libya",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-libya",
+                    "base_path": "/world/living-in-libya",
+                    "content_id": "b7239157-083c-4e5b-8f1d-f23875df38bf",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Libya",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/libya",
+                                "api_url": "https://www.gov.uk/api/content/world/libya",
+                                "base_path": "/world/libya",
+                                "content_id": "e1513a83-7a9d-41d0-971b-3d758f63be7c",
+                                "description": "Services if you're visiting, studying, working or living in Libya. Includes information about trading with and doing business in the UK and Libya.",
+                                "details": {
+                                    "internal_name": "UK help and services in Libya",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:55Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Libya",
+                                "web_url": "https://www.gov.uk/world/libya",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:23Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Libya",
+                    "web_url": "https://www.gov.uk/world/living-in-libya",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-libya",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-libya",
+                    "base_path": "/world/travelling-to-libya",
+                    "content_id": "782fa3aa-6591-42ff-b40e-2c64e7d69140",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Libya",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/libya",
+                                "api_url": "https://www.gov.uk/api/content/world/libya",
+                                "base_path": "/world/libya",
+                                "content_id": "e1513a83-7a9d-41d0-971b-3d758f63be7c",
+                                "description": "Services if you're visiting, studying, working or living in Libya. Includes information about trading with and doing business in the UK and Libya.",
+                                "details": {
+                                    "internal_name": "UK help and services in Libya",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:55Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Libya",
+                                "web_url": "https://www.gov.uk/world/libya",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:16:22Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Libya",
+                    "web_url": "https://www.gov.uk/world/travelling-to-libya",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-09-12T09:59:43Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1694512782.999-10.13.22.74-39578",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Libya travel advice",
+        "updated_at": "2023-11-15T10:57:49Z",
+        "withdrawn_notice": {}
+    }
+}

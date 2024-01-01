@@ -1,0 +1,947 @@
+{
+    "Country Slug": "fiji",
+    "Country Name": "Fiji",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/fiji",
+        "content_id": "4b79ee8f-0217-486b-bcc9-5f0ef9c16b54",
+        "description": "FCDO travel advice for Fiji. Includes safety and security, insurance, entry requirements and legal differences. ",
+        "details": {
+            "alert_status": [],
+            "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary and Safety and security section (Political situation) - factual update on general elections held in November 2018",
+                    "public_timestamp": "2018-11-20T16:55:35.455Z"
+                },
+                {
+                    "note": "Summary - A 7.6 magnitude earthquake has struck off New Caledonia triggering a Tsunami warning. There is a risk the Tsunami could reach Fiji. Anyone on low lying coastal areas should be prepared to move to higher ground. Please follow the advice of the local authorities and monitor media channels.\r\n",
+                    "public_timestamp": "2018-12-05T06:50:56.344Z"
+                },
+                {
+                    "note": "Summary: Removal of advice about earthquake and tsunami warning",
+                    "public_timestamp": "2018-12-05T22:50:33.969Z"
+                },
+                {
+                    "note": "Summary: Removal of advice about earthquake and tsunami warning on 5 December",
+                    "public_timestamp": "2018-12-05T22:54:35.031Z"
+                },
+                {
+                    "note": "Latest Update: Summary - The Fiji Meteorological Service has issued a cyclone alert for Fiji. The weather system is due to affect Fiji from 31 December 2018.",
+                    "public_timestamp": "2018-12-30T03:34:58.937Z"
+                },
+                {
+                    "note": "Latest update: Summary - The Fiji Meteorological Service has issued a cyclone alert. Tropical Cyclone Mona is approaching Fiji and may strengthen to a category 2 cyclone by 5 January, bringing strong winds and heavy rain.",
+                    "public_timestamp": "2019-01-04T00:19:47.646Z"
+                },
+                {
+                    "note": "Latest update: Summary - removal of information on Tropical Cyclone Mona",
+                    "public_timestamp": "2019-01-29T10:47:48.784Z"
+                },
+                {
+                    "note": "Latest Update:\r\n\r\nHealth: The Ministry of Health and Medical Services has declared an outbreak of leptospirosis in the Central Division.  There have been 4 deaths in the Central Division from the outbreak.  Please exercise caution should you be travelling to the Central Division and visit the nearest hospital or healthcare facility if suffering from the symptoms of leptospirosis.  See link: https://www.health.gov.fj/?p=7516",
+                    "public_timestamp": "2019-01-30T04:08:16.950Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full ",
+                    "public_timestamp": "2019-03-04T15:23:10.763Z"
+                },
+                {
+                    "note": "Latest update: This advice has been reviewed in full with editorial amendments throughout; Safety and security section - addition of sub-section on sea travel",
+                    "public_timestamp": "2019-06-20T13:18:06.475Z"
+                },
+                {
+                    "note": "Health \u2013 updated information and advice on measles; Safety and security (Road travel) \u2013 factual update on road conditions in Fiji",
+                    "public_timestamp": "2019-12-03T16:18:51.000Z"
+                },
+                {
+                    "note": "Summary: Update regarding Tropical Cyclone Sarai.",
+                    "public_timestamp": "2019-12-26T22:28:55.000Z"
+                },
+                {
+                    "note": "Removal of advice regarding Tropical Cyclone Sarai",
+                    "public_timestamp": "2019-12-30T02:45:29.000Z"
+                },
+                {
+                    "note": "Summary - Tropical Cyclone Tino is approaching Fiji; it is forecast to pass the Northern, Central and Eastern Divisions on 17 to 18 January 2020; you should follow the advice and direction of local authorities and monitor local media; weather updates are available on the Fiji Meteorological website",
+                    "public_timestamp": "2020-01-16T22:58:35.000Z"
+                },
+                {
+                    "note": "Summary - removal of information on Tropical Cyclone Tino",
+                    "public_timestamp": "2020-01-19T22:01:50.000Z"
+                },
+                {
+                    "note": "Summary and Health section - updated information and advice following an outbreak of coronavirus in China and elsewhere in the region",
+                    "public_timestamp": "2020-01-28T05:49:33.000Z"
+                },
+                {
+                    "note": "Entry requirements (Entry restrictions) - updated information on travel restrictions relating to coronavirus",
+                    "public_timestamp": "2020-02-11T16:42:26.000Z"
+                },
+                {
+                    "note": "Entry requirements (Entry restrictions) - updated information on travel restrictions relating to coronavirus (COVID-19).  ",
+                    "public_timestamp": "2020-02-28T06:32:25.000Z"
+                },
+                {
+                    "note": "Health - updated information on travel restrictions relating to coronavirus (COVID-19).",
+                    "public_timestamp": "2020-03-15T11:24:07.000Z"
+                },
+                {
+                    "note": "The Government of Australia has announced that from 9pm local time on 21 March, entry to the country will only be permitted to Australian citizens or permanent residents. This follows a similar announcement by New Zealand from 20 March. As many flight connections to and from Fiji connect in Australia and New Zealand, options to depart Fiji are likely to reduce. If you\u2019re currently a visitor in Fiji, you\u2019re advised to prepare to leave as soon as possible. If you\u2019re resident in Fiji, you should be aware of the potential impact of the border closures and flight restrictions on future travel plans. (Summary)",
+                    "public_timestamp": "2020-03-19T22:23:39.000Z"
+                },
+                {
+                    "note": "The Government of Australia has announced that from 9pm local time on 20 March, entry to the country will only be permitted to Australian citizens or permanent residents. This follows a similar announcement by New Zealand from 19 March. As many flight connections to and from Fiji connect in Australia and New Zealand, options to depart Fiji are likely to reduce. If you\u2019re currently a visitor in Fiji, you\u2019re advised to prepare to leave as soon as possible. If you\u2019re resident in Fiji, you should be aware of the potential impact of the border closures and flight restrictions on future travel plans.\r\n",
+                    "public_timestamp": "2020-03-19T23:15:29.000Z"
+                },
+                {
+                    "note": "Fiji has confirmed its first case of coronavirus. The situation may change rapidly, including in neighbouring countries. Follow local guidance at all times. (Summary and Health)",
+                    "public_timestamp": "2020-03-20T01:45:22.000Z"
+                },
+                {
+                    "note": "Addition of information if transiting Australia or New Zealand during coronavirus restrictions ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2020-03-22T14:22:25.000Z"
+                },
+                {
+                    "note": "Update of information on travel restrictions in relation to coronavirus (COVID-19) ('Coronavirus' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-03-25T18:02:24.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on measures to limit internal travel including the suspension of all passenger travel to Fiji\u2019s outer islands from 29 March. ('Summary' Page)",
+                    "public_timestamp": "2020-03-26T01:52:51.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on measures to impose a national curfew form Monday 30 March, from 10pm to 5am. ",
+                    "public_timestamp": "2020-03-28T08:01:50.000Z"
+                },
+                {
+                    "note": "Addition of information and advice for British nationals in Fiji to register their details with the British High Commission ('Summary' and 'Return to UK' pages)",
+                    "public_timestamp": "2020-03-30T17:22:47.000Z"
+                },
+                {
+                    "note": "Update to information on local measures introduced to limit the spread of coronavirus (COVID-19) (\u2018Coronavirus\u2019 and 'Summary' pages)",
+                    "public_timestamp": "2020-04-02T12:16:52.000Z"
+                },
+                {
+                    "note": "Tropical Cyclone Harold is expected to impact parts of Fiji on 8-9 April. You should monitor weather updates ('Summary' page)",
+                    "public_timestamp": "2020-04-07T10:38:19.000Z"
+                },
+                {
+                    "note": "Removal of information about Cyclone Harold ",
+                    "public_timestamp": "2020-04-10T07:37:53.000Z"
+                },
+                {
+                    "note": "Removal of information about Suva lockdown ('Summary' page)",
+                    "public_timestamp": "2020-04-16T12:50:10.000Z"
+                },
+                {
+                    "note": "Updating of information on staffing at British High Commission Suva ('Summary' page)",
+                    "public_timestamp": "2020-04-20T13:43:26.000Z"
+                },
+                {
+                    "note": "On 29 April the UK will operate a special flight from Nadi to Melbourne; British nationals may then connect with a commercial flight (within 72 hours) from Melbourne to London (Return to the UK)",
+                    "public_timestamp": "2020-04-22T23:04:48.000Z"
+                },
+                {
+                    "note": "Additional information about the booking deadline for Nadi to Melbourne flight on Wednesday 29 April ('Return to the UK' page)",
+                    "public_timestamp": "2020-04-27T00:08:17.000Z"
+                },
+                {
+                    "note": "Removal of information on 29 April special flight that has now departed ('Return to the UK' page)\r\n",
+                    "public_timestamp": "2020-04-29T12:00:05.000Z"
+                },
+                {
+                    "note": "Changes to domestic travel and curfew on the (Summary page) .   ",
+                    "public_timestamp": "2020-05-05T09:24:10.000Z"
+                },
+                {
+                    "note": "Addition of Fiji Airways repatriation flight from Nadi-Sydney-Nadi on 22 May 2020 ('Return to the UK' pages).",
+                    "public_timestamp": "2020-05-20T06:58:25.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T15:13:23.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T11:48:54.000Z"
+                },
+                {
+                    "note": "Addition of information on Air New Zealand flight from Nadi International Airport to Auckland on 12 June ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T14:12:13.000Z"
+                },
+                {
+                    "note": "Addition of information on Air New Zealand flights between Auckland and Nadi ('Summary' and 'Return to the UK' pages) and update to information and advice on curfew hours, domestic travel ('Staying during coronavirus' page) and closure of borders to non-Fijian citizens ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-18T11:44:51.000Z"
+                },
+                {
+                    "note": "From Monday 22 June, the national curfew will operate from 11pm to 4am.  Social restrictions have also been relaxed ('Staying during coronavirus' page)",
+                    "public_timestamp": "2020-06-22T20:00:24.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-13T15:23:30.000Z"
+                },
+                {
+                    "note": "From 24 July, Fiji is exempt from the FCO advice against all non-essential international travel.  This is based on the current assessment of COVID-19 risks.    ",
+                    "public_timestamp": "2020-07-24T12:21:48.000Z"
+                },
+                {
+                    "note": "Update to information on entry requirements for returning residents and Fijian citizens ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-30T11:55:45.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for returning residents and Fijian citizens ('Summary' and 'Entry requirements' pages), information about nationwide curfew from 11pm-4am every night ('Coronavirus' and Local laws and customs' pages) and updated information about travelling in Fiji ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-07T15:59:57.000Z"
+                },
+                {
+                    "note": "Updated information on Fiji Tropical Cyclone season ('Summary' page)",
+                    "public_timestamp": "2020-12-14T10:50:59.000Z"
+                },
+                {
+                    "note": "Updated information on Fiji's Tropical Cyclone season ('Summary' page)",
+                    "public_timestamp": "2020-12-14T10:55:47.000Z"
+                },
+                {
+                    "note": "New information on Fiji's tropical Cyclone season; Fiji Meteorological Service are warning that Severe Cyclone Yasa is expected to impact Fiji on 17-19 December ('Summary' and 'Natural Disasters' pages)",
+                    "public_timestamp": "2020-12-15T10:51:19.000Z"
+                },
+                {
+                    "note": "Update to information on Severe Cyclone Yasa ('Summary' and 'Natural Disasters' pages)",
+                    "public_timestamp": "2020-12-18T17:20:41.000Z"
+                },
+                {
+                    "note": "The Fijian Government has announced a suspension of all inbound passenger flights to Fiji between 24 December and 28 December 2020 (\u2018Summary\u2019 and \u2018Entry requirements\u2019 pages).  ",
+                    "public_timestamp": "2020-12-23T17:05:19.000Z"
+                },
+                {
+                    "note": "Removal of information about Fiji Government's suspension of incoming flights (Summary and Entry requirements)",
+                    "public_timestamp": "2020-12-28T23:09:30.000Z"
+                },
+                {
+                    "note": "If you are arriving in the UK from Fiji on or after 4am on 18 January you will need to self-isolate on your arrival, unless you have a valid exemption (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-01-16T00:49:35.000Z"
+                },
+                {
+                    "note": "Update to information on the process for returning residents and non-Fiji citizens to request approval to travel ('Entry requirements' page).",
+                    "public_timestamp": "2021-01-21T12:27:38.000Z"
+                },
+                {
+                    "note": "Information regarding a potential cyclone forecast to impact Fiji on 30-31 January (\"Summary\" and \"Natural Hazards\" pages).",
+                    "public_timestamp": "2021-01-28T20:48:23.000Z"
+                },
+                {
+                    "note": "Information regarding a potential cyclone forecast to impact Fiji on 1-2 February ('Summary' and 'Natural Hazards' pages)",
+                    "public_timestamp": "2021-01-31T23:52:06.000Z"
+                },
+                {
+                    "note": "Removal of information on Cyclone Bina ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2021-02-03T10:32:41.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Fiji ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-22T14:59:08.000Z"
+                },
+                {
+                    "note": "Information on Fiji's 14-day restriction period due to a identification of a COVID-19 case outside quarantine; restrictions have been put in place for international flights and public places and services. New information on how to get a COVID-19 vaccine if you live in Fiji ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-22T15:06:48.000Z"
+                },
+                {
+                    "note": "Updated information on Fiji entering a 14-day restriction period from 26 April following identification of a number of COVID-19 cases outside quarantine and suspension of international passenger flights. Additional information on how to get a COVID-19 vaccine if you live in Fiji ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-28T14:16:23.000Z"
+                },
+                {
+                    "note": "New information on COVID-19 containment areas that have been established in Viti Levu ('Summary' and 'Coronavirus' pages). ",
+                    "public_timestamp": "2021-05-17T10:04:32.000Z"
+                },
+                {
+                    "note": "Updated information on international and domestic flights; they have been suspended till 30 May and likely the suspension will be extended. Fiji's nationwide curfew time has been amended ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-05-24T08:56:35.000Z"
+                },
+                {
+                    "note": "Updated information on international and domestic flights; they have been suspended until further notice. Fiji Airways is operating a number of Special Flights between Sunday 13th June and Wednesday 30th June 2021, to enable foreigners and approved persons to depart Fiji. These special flights will replace previously scheduled international passenger repatriation flights that are now cancelled. Anyone wishing to travel on these flights should check availability and passenger requirements for travel on the Fiji Airways website. Fiji's nationwide curfew time has been amended ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-06-16T15:23:28.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Fiji (\u2018Coronavirus\u2019 page) ",
+                    "public_timestamp": "2021-07-16T14:02:56.000Z"
+                },
+                {
+                    "note": "New information on how to get a COVID-19 vaccine if you live in Fiji. Updated information on local restrictions and 'Special flights' operated by Fiji Airways (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-30T16:36:25.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all but essential travel to Fiji based on the current assessment of COVID-19 risks (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-08-06T10:54:39.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Fiji, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-06T16:46:36.000Z"
+                },
+                {
+                    "note": "Addition of information on the upcoming changes to Fiji\u2019s entry requirements from 11 November, and further changes expected on 1 December ('Entry requirements' page) ",
+                    "public_timestamp": "2021-11-01T17:06:40.000Z"
+                },
+                {
+                    "note": "Updated information on travel in Fiji and requirements for international travel ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-11-23T14:07:59.000Z"
+                },
+                {
+                    "note": "Updated information on requirements for international travel to Fiji ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-12-13T16:23:06.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for entry to Fiji ('Entry requirements' page)",
+                    "public_timestamp": "2021-12-22T14:32:24.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 restrictions and testing requirements for entry to Fiji  (\u2018Coronavirus\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-02-22T15:37:09.000Z"
+                },
+                {
+                    "note": "Updated information on the relaxation of some COVID-19 restrictions ('Coronavirus' page).  Updated information on conditions for entry ('Entry requirements' page). ",
+                    "public_timestamp": "2022-05-03T15:28:58.000Z"
+                },
+                {
+                    "note": "Removal of information on the pre-arrival negative COVID-19 test requirement that has been lifted ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-05-25T10:25:52.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements for Fiji ('Entry requirements' page)",
+                    "public_timestamp": "2022-08-17T15:07:29.000Z"
+                },
+                {
+                    "note": "Updated information on persons arriving in Fiji no longer requiring to pre-book a COVID-19 test (\u2018Coronavirus\u2019 and 'Entry requirements' pages).",
+                    "public_timestamp": "2022-09-07T12:31:18.000Z"
+                },
+                {
+                    "note": "Updated information on Parliamentary elections in Fiji ('Summary' page and 'Safety and security' page), the reopening of businesses and public places ('Coronavirus' page), and information on the recent outbreaks of leptospirosis, Dengue Fever and Typhoid ('Health' page)",
+                    "public_timestamp": "2022-11-28T13:04:02.000Z"
+                },
+                {
+                    "note": "Updated information on Parliamentary elections in Fiji ('Summary' page and 'Safety and security' page",
+                    "public_timestamp": "2022-12-16T15:36:25.000Z"
+                },
+                {
+                    "note": "Updated information on Parliamentary elections in Fiji ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-12-22T15:31:06.000Z"
+                },
+                {
+                    "note": " Updated information on COVID-19 entry restrictions being lifted ('Coronavirus' and 'Entry requirement' pages).",
+                    "public_timestamp": "2023-03-03T10:53:40.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T08:24:48.000Z"
+                },
+                {
+                    "note": "This travel advice has been rewritten to make it easier to read and understand. ",
+                    "public_timestamp": "2023-09-27T15:18:36.000Z"
+                }
+            ],
+            "country": {
+                "name": "Fiji",
+                "slug": "fiji",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/fiji/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) provides advice about risks of travel to help British nationals make informed decisions. Find out <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">more about <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</a>.</p>\n\n<h2 id=\"before-you-travel\">Before you travel</h2>\n\n<p>No travel can be guaranteed safe. Read all the advice in this guide as well as <a href=\"https://www.gov.uk/government/collections/support-for-british-nationals-abroad\">support for British nationals abroad</a> which includes:</p>\n\n<ul>\n  <li>advice on preparing for travel abroad and reducing risks</li>\n  <li>information for women, LGBT+ and disabled travellers</li>\n</ul>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/fiji/email-signup\">get email notifications</a> when this advice is updated.</p>\n\n<h3 id=\"travel-insurance\">Travel insurance</h3>\n\n<p>If you choose to travel, research your destinations and <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">get appropriate travel insurance</a>. Insurance should cover your itinerary, planned activities and expenses in an emergency.</p>\n\n",
+                    "slug": "warnings-and-insurance",
+                    "title": "Warnings and insurance"
+                },
+                {
+                    "body": "<p>This advice reflects the UK government\u2019s understanding of current rules for people travelling on a full <a href=\"https://www.gov.uk/types-of-british-nationality\">\u2018British citizen\u2019 passport</a> from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Fiji set and enforce entry rules. If you\u2019re not sure how these requirements apply to you, contact the <a rel=\"external\" href=\"http://fijihighcommission.org.uk/\">Fiji High Commission in the UK</a>.</p>\n\n<h2 id=\"covid-19-rules\">COVID-19 rules</h2>\n\n<p>There are no COVID-19 testing or vaccination requirements for travellers entering Fiji.</p>\n\n<h2 id=\"passport-validity-requirements\">Passport validity requirements</h2>\n\n<p>Your passport must have an \u2018expiry date\u2019 at least 6 months after the date you arrive in Fiji.</p>\n\n<h2 id=\"visa-requirements\">Visa requirements</h2>\n\n<p>You do not need a visa for visits of up to 4 months. If you plan to stay for longer than 4 months, apply for a visa from the <a rel=\"external\" href=\"http://fijihighcommission.org.uk/\">Fiji High Commission in the UK</a>.</p>\n\n<p>At Fiji border control, you must also show:</p>\n\n<ul>\n  <li>an onward or return ticket</li>\n  <li>a valid visa for the next country you\u2019re travelling to</li>\n</ul>\n\n<p>If you\u2019re visiting Fiji on business, you must apply for a <a rel=\"external\" href=\"https://www.immigration.gov.fj/\">business visitors permit</a>, which is valid for 21 days.</p>\n\n<h2 id=\"yacht-entry\">Yacht entry</h2>\n\n<p>Yachts can only enter Fiji through Suva, Lautoka, Savusavu and Levuka. For other ports, such as Nadi and Denarau, you <a rel=\"external\" href=\"https://www.frcs.org.fj/our-services/customs/yachts-and-vessels/\">must have prior agreement from the Fijian authorities</a>.</p>\n\n<h2 id=\"vaccination-requirements\">Vaccination requirements</h2>\n\n<p>At least 8 weeks before your trip, check the vaccinations and certificates you need in <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/79/fiji\">TravelHealthPro\u2019s Fiji guide</a>.</p>\n\n<p>Depending on your circumstances, this may include a yellow fever certificate.</p>\n\n<h2 id=\"customs-rules\">Customs rules</h2>\n\n<p>There are strict rules about <a rel=\"external\" href=\"https://www.frcs.org.fj/our-services/customs/visiting-fiji/arriving-in-fiji/\">goods you can take into or out of Fiji</a>. You must declare anything that may be prohibited or subject to tax or duty.</p>\n\n<p>Fiji customs has strict quarantine regulations and they X-ray all luggage arriving at Nadi airport. Customs officers will confiscate most fresh foodstuffs, unless you\u2019re arriving from a country with quarantine agreements with Fiji.</p>\n\n<h2 id=\"taking-money-into-fiji\">Taking money into Fiji</h2>\n\n<p>You must declare if you have more than 10,000 Fijian dollars in cash, or the same amount in other currencies.</p>\n\n<p>Most tourist hotels and many restaurants accept credit cards. Not all ATMs accept the full range of credit cards. The Australian and New Zealand Bank (ANZ) and Westpac ATMs accept cards with the Visa, Mastercard, Maestro and Cirrus symbols.</p>\n\n<h2 id=\"travelling-with-children\">Travelling with children</h2>\n\n<p>If you are entering Fiji on a work or residency permit, and are travelling as a lone parent, you may need to have evidence of your parental responsibility. For further information contact the <a rel=\"external\" href=\"http://fijihighcommission.org.uk/\">Fiji High Commission in the UK</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<h2 id=\"terrorism\">Terrorism</h2>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on <a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a> and what to do in the event of a terrorist attack. Find out <a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from terrorism while abroad</a>.</p>\n</div>\n\n<h3 id=\"terrorism-in-fiji\">Terrorism in Fiji</h3>\n\n<p>Although there\u2019s no recent history of terrorism in Fiji, attacks cannot be ruled out.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>There can be political instability and there is the potential for civil unrest. Avoid demonstrations, rallies or street gatherings. Avoid any areas of obvious military or police activity.</p>\n\n<h2 id=\"crime\">Crime</h2>\n\n<h3 id=\"protecting-your-belongings\">Protecting your belongings</h3>\n\n<p>The risk of serious crime is generally low, but petty theft is quite common. Be careful of your belongings in cities and other popular tourist destinations. You should:</p>\n\n<ul>\n  <li>avoid carrying everything in one bag</li>\n  <li>keep copies of important documents and passports in a safe place</li>\n  <li>avoid leaving your belongings unattended</li>\n  <li>be alert when withdrawing money from cash machines</li>\n</ul>\n\n<p>There have been thefts from motor vehicles in Suva. Keep windows and doors locked when driving.</p>\n\n<h3 id=\"sexual-assault\">Sexual assault</h3>\n\n<p>Take care when walking at night in cities, towns and isolated areas, particularly if you are a woman travelling alone. There have been serious sexual assaults against foreign nationals in Fiji, including British women.</p>\n\n<p>See <a href=\"https://www.gov.uk/guidance/advice-for-women-travelling-abroad\">advice for women travelling abroad</a>.</p>\n\n<h3 id=\"scams\">Scams</h3>\n\n<p>There has been an increase in credit card fraud. This may include credit card skimming devices or other types of data theft. Take care when paying with credit cards or withdrawing money from ATMs.</p>\n\n<h2 id=\"mobile-phone-coverage\">Mobile phone coverage</h2>\n\n<p>Phone coverage in rural areas and outlying islands can be limited or non-existent. Many UK mobile phones do not work, as your provider may not have an international roaming agreement in Fiji.</p>\n\n<p>You can buy a Fiji SIM card at Nadi International Airport and at convenience stores and supermarkets. You must register your SIM card if you buy it locally.</p>\n\n<h2 id=\"laws-and-cultural-differences\">Laws and cultural differences</h2>\n\n<h3 id=\"illegal-drugs-and-prison-sentences\">Illegal drugs and prison sentences</h3>\n\n<p>Avoid all recreational drugs. Possession of even small quantities can lead to imprisonment and a large fine. Possession of any amount of marijuana carries a 3-month prison sentence.</p>\n\n<h3 id=\"kava-drinking-ceremonies\">Kava drinking ceremonies</h3>\n\n<p>Kava is a traditional drink in Fiji used in kava ceremonies. If you\u2019re invited to take part in a kava drinking ceremony, be aware of the potential risks of liver toxicity.</p>\n\n<h3 id=\"nudity\">Nudity</h3>\n\n<p>Topless bathing and nudity in public is illegal. Cover your shoulders and knees in rural villages and during kava ceremonies.</p>\n\n<h3 id=\"lgbt-travellers\">LGBT+ travellers</h3>\n\n<p>Homosexuality was decriminalised in February 2010, but there can be local sensitivities, particularly when visiting rural communities.</p>\n\n<p>Read more <a href=\"https://www.gov.uk/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">advice for LGBT+ travellers</a>.</p>\n\n<h2 id=\"outdoor-activities-and-adventure-tourism\">Outdoor activities and adventure tourism</h2>\n\n<h3 id=\"water-based-activities\">Water-based activities</h3>\n\n<p>There are dangerous rip tides along reefs and river estuaries. Always follow the warning signs, especially red flags, and only swim from approved beaches.</p>\n\n<p>If you visit the reefs or take part in any water activities, make sure you use a reputable, fully licensed company with up-to-date equipment and necessary safety features.</p>\n\n<p>There\u2019s only one hyperbaric (decompression) chamber in Fiji, at the Colonial War Memorial Hospital in Suva. It is not always working. Check its status before scuba diving and change your dive depth accordingly. Make sure your insurance covers diving and medical evacuation costs.</p>\n\n<p>Be aware of jellyfish and follow local advice.</p>\n\n<h2 id=\"transport-risks\">Transport risks</h2>\n\n<h3 id=\"road-travel\">Road travel</h3>\n\n<p>If you are planning to drive in Fiji, see information on <a href=\"https://www.gov.uk/driving-abroad\">driving abroad</a>.</p>\n\n<p>You can use a UK driving licence\u00a0to drive in Fiji.</p>\n\n<p>Many roads in Fiji are in poor condition and can be dangerous. Roads can be particularly dangerous at night due to a lack of street lighting and the chance of pedestrians or stray animals on the road. Avoid road travel outside of urban areas at night. Vehicle safety regulations are rarely enforced and driving standards are poor.</p>\n\n<p>Severe weather can lead to roads becoming damaged, blocked or washed away. Seek local advice before you set out.</p>\n\n<h3 id=\"taxis-and-minibuses\">Taxis and minibuses</h3>\n\n<p>Only use licensed taxis that have a yellow registration plate.</p>\n\n<p>Not all minibuses are licensed. Only use those with yellow number plates. Unlicensed minibuses are probably not insured.</p>\n\n<h3 id=\"sea-travel\">Sea travel</h3>\n\n<p>Check the boat operator\u2019s credentials and safety equipment before boarding boats or vessels travelling between islands. Overloaded vessels are in danger of capsizing or sinking, particularly in poor weather conditions. They may not have enough life-saving equipment for everyone on board.</p>\n\n<h2 id=\"extreme-weather-and-natural-disasters\">Extreme weather and natural disasters</h2>\n\n<h3 id=\"earthquakes\">Earthquakes</h3>\n\n<p>Fiji is in an earthquake zone. There can be occasional tremors, which could trigger tsunami alerts. Make sure you understand the local safety procedures for earthquakes and tsunamis.</p>\n\n<p>The US Federal Emergency Management Agency has advice about  <a rel=\"external\" href=\"http://www.ready.gov/earthquakes\">what to do before, during and after an earthquake</a> or <a rel=\"external\" href=\"http://www.ready.gov/tsunamis\">tsunami</a>.</p>\n\n<h3 id=\"tropical-cyclones\">Tropical cyclones</h3>\n\n<p>Tropical cyclone season normally runs from November to April, but cyclones can occur throughout the year. During this period there is a greater risk of strong winds, heavy rains, flooding, landslides and road closures.</p>\n\n<p>Follow weather updates from <a rel=\"external\" href=\"http://www.met.gov.fj/index.php\">Fiji Meteorological Service</a>, local newspapers and Radio Fiji GOLD. The <a rel=\"external\" href=\"http://www.ndmo.gov.fj/index.php\">National Disaster Management Office</a> has information on how to prepare.</p>\n\n<p>Read more <a href=\"https://www.gov.uk/guidance/tropical-cyclones\">advice on extreme weather and natural disasters</a>.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Before you travel check that:</p>\n\n<ul>\n  <li>your destination can provide the healthcare you may need</li>\n  <li>you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for local treatment or unexpected medical evacuation</li>\n</ul>\n\n<p>This is particularly important if you have a health condition or are pregnant.</p>\n\n<h2 id=\"emergency-medical-number\">Emergency medical number</h2>\n\n<p>Dial 911 and ask for an ambulance.</p>\n\n<p>Contact your insurance company promptly if you\u2019re referred to a medical facility for treatment.</p>\n\n<h2 id=\"vaccinations-and-health-risks\">Vaccinations and health risks</h2>\n\n<p>At least 8 weeks before your trip check:</p>\n\n<ul>\n  <li>the latest information on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/79/fiji\">vaccination recommendations and health risks in TravelHealthPro\u2019s Fiji guide</a>\n</li>\n  <li>where to get vaccines and whether you have to pay on the <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">NHS travel vaccinations page</a>\n</li>\n</ul>\n\n<p>Health risks include:</p>\n\n<ul>\n  <li>dengue</li>\n  <li>Zika virus</li>\n  <li>chikungunya</li>\n</ul>\n\n<h2 id=\"medication\">Medication</h2>\n\n<p>The legal status and regulation of some medicines prescribed or bought in the UK can be different in other countries.</p>\n\n<p>Read <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines on TravelHealthPro</a>.</p>\n\n<p>The NHS has information on <a rel=\"external\" href=\"https://www.nhs.uk/common-health-questions/medicines/can-i-take-my-medicine-abroad/\">whether you can take your medicine abroad</a>.</p>\n\n<h2 id=\"healthcare-facilities-in-fiji\">Healthcare facilities in Fiji</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has a list of <a href=\"https://www.gov.uk/government/publications/fiji-doctors-and-medical-facilities/list-of-english-speaking-doctors-and-medical-facilities-in-fiji\">English-speaking doctors in Fiji</a>.</p>\n\n<p>There is also <a href=\"https://www.gov.uk/guidance/living-in-fiji--2\">guidance on healthcare</a> if you\u2019re living in Fiji.</p>\n\n<p>Healthcare facilities are limited in range and availability. In serious medical emergencies, people are often evacuated to another country for treatment. Hospitals usually ask for immediate cash payment for health services</p>\n\n<h2 id=\"travel-and-mental-health\">Travel and mental health</h2>\n\n<p>Read <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\"><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> guidance on travel and mental health</a>. There is also <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">mental health guidance on TravelHealthPro</a>.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) cannot provide tailored advice for individual trips. Read this travel advice and carry out your own research before deciding whether to travel.</p>\n\n<h2 id=\"emergency-services-in-fiji\">Emergency services in Fiji</h2>\n\n<p>Telephone: 911 (ambulance, fire, police)</p>\n\n<p>Fire: 910</p>\n\n<h2 id=\"contact-your-travel-provider-and-insurer\">Contact your travel provider and insurer</h2>\n\n<p>Contact your travel provider and your insurer if you are involved in a serious incident or emergency abroad. They will tell you if they can help and what you need to do.</p>\n\n<h3 id=\"refunds-and-changes-to-travel\">Refunds and changes to travel</h3>\n\n<p>For refunds or changes to travel, contact your travel provider. You may also be able to make a claim through insurance. However, insurers usually require you to talk to your travel provider first.</p>\n\n<p>Find out more about <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice#changing-or-cancelling-travel-plans\">changing or cancelling travel plans</a>, including:</p>\n\n<ul>\n  <li>where to get advice if you are in a dispute with a provider</li>\n  <li>how to access previous versions of travel advice to support a claim</li>\n</ul>\n\n<h2 id=\"support-from-fcdo\">Support from <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p><abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has guidance on staying safe and what to do if you need help or support abroad, including:</p>\n\n<ul>\n  <li>finding English-speaking <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/lawyers?country=Fiji\">lawyers</a>, <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/funeral-directors?country=Fiji\">funeral directors</a> and <a rel=\"external\" href=\"https://find-a-professional-service-abroad.service.csd.fcdo.gov.uk/find/translators-interpreters?country=Fiji\">translators and interpreters</a> in Fiji</li>\n  <li>dealing with a\u00a0<a href=\"https://www.gov.uk/government/publications/fiji-bereavement-information-pack\">death in Fiji</a>\n</li>\n  <li>being\u00a0<a href=\"https://www.gov.uk/government/publications/fiji-prisoner-pack\">arrested or imprisoned in Fiji</a>\n</li>\n  <li>getting help if you\u2019re a\u00a0<a href=\"https://www.gov.uk/victim-crime-abroad\">victim of crime</a>\n</li>\n  <li>what to do if you\u2019re\u00a0<a href=\"https://www.gov.uk/guidance/in-hospital-abroad\">in hospital</a>\n</li>\n  <li>if you\u2019re <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">affected by a crisis</a>, such as a terrorist attack</li>\n</ul>\n\n<h2 id=\"contacting-fcdo\">Contacting <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\n</h2>\n\n<p>Follow and contact <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel on <a rel=\"external\" href=\"https://twitter.com/fcdotravelgovuk\">Twitter</a>, <a rel=\"external\" href=\"https://www.facebook.com/fcdotravel\">Facebook</a> and <a rel=\"external\" href=\"https://www.instagram.com/travelaware/\">Instagram</a>. You can also sign up to <a href=\"https://www.gov.uk/foreign-travel-advice/fiji/email-signup\">get email notifications</a> when this travel advice is updated.</p>\n\n<h3 id=\"help-abroad-in-an-emergency\">Help abroad in an emergency</h3>\n\n<p>If you\u2019re in Fiji and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/world/organisations/british-high-commission-suva\">British High Commission in Suva</a>.</p>\n\n<h3 id=\"fcdo-in-london\">\n<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London</h3>\n\n<p>You can call <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> in London if you need urgent help because something has happened to a friend or relative abroad.</p>\n\n<p>Telephone: 020 7008 5000 (24 hours)</p>\n\n<p><a href=\"https://www.gov.uk/call-charges\">Find out about call charges</a></p>\n\n",
+                    "slug": "getting-help",
+                    "title": "Getting help"
+                }
+            ],
+            "reviewed_at": "2023-09-27T15:18:36Z",
+            "updated_at": "2023-09-27T15:18:36Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-15T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/fiji",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/fiji",
+                    "base_path": "/foreign-travel-advice/fiji",
+                    "content_id": "4b79ee8f-0217-486b-bcc9-5f0ef9c16b54",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-27T15:18:36Z",
+                    "schema_name": "travel_advice",
+                    "title": "Fiji travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/fiji",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/fiji",
+                    "api_url": "https://www.gov.uk/api/content/world/fiji",
+                    "base_path": "/world/fiji",
+                    "content_id": "ca5e3001-2628-4799-b2c9-edb846b2e411",
+                    "description": "Services if you're visiting, studying, working or living in Fiji. Includes information about trading with and doing business in the UK and Fiji.",
+                    "details": {
+                        "internal_name": "UK help and services in Fiji",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:37:37Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Fiji",
+                    "web_url": "https://www.gov.uk/world/fiji",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/new-zealand",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/new-zealand",
+                    "base_path": "/foreign-travel-advice/new-zealand",
+                    "content_id": "9221e19e-95ea-4045-bafa-1b22671e227c",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "New Zealand",
+                            "slug": "new-zealand",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-03T11:48:31Z",
+                    "schema_name": "travel_advice",
+                    "title": "New Zealand travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/new-zealand",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/french-polynesia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/french-polynesia",
+                    "base_path": "/foreign-travel-advice/french-polynesia",
+                    "content_id": "8dae3061-8bc3-4deb-8ac5-723957597716",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "French Polynesia",
+                            "slug": "french-polynesia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T08:38:20Z",
+                    "schema_name": "travel_advice",
+                    "title": "French Polynesia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/french-polynesia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/hong-kong",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/hong-kong",
+                    "base_path": "/foreign-travel-advice/hong-kong",
+                    "content_id": "78fe3dfe-d561-434d-9db6-970c70597b3d",
+                    "details": {
+                        "change_description": "Removal of information about storm warning signal for Typhoon Saola  ('Natural disasters' page). ",
+                        "country": {
+                            "name": "Hong Kong",
+                            "slug": "hong-kong",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-03T07:15:11Z",
+                    "schema_name": "travel_advice",
+                    "title": "Hong Kong (SAR of China) travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/hong-kong",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/samoa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/samoa",
+                    "base_path": "/foreign-travel-advice/samoa",
+                    "content_id": "c3c1f5ef-9041-46ab-a8e2-400d183e8c59",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Samoa",
+                            "slug": "samoa",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T08:33:51Z",
+                    "schema_name": "travel_advice",
+                    "title": "Samoa travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/samoa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tonga",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tonga",
+                    "base_path": "/foreign-travel-advice/tonga",
+                    "content_id": "96f71287-395b-435b-94ef-855b0f14e2c6",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                        "country": {
+                            "name": "Tonga",
+                            "slug": "tonga",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T09:19:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tonga travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tonga",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-fiji",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-fiji",
+                    "base_path": "/world/living-in-fiji",
+                    "content_id": "feea9b68-73d3-4b67-a710-b80b9ec91ba7",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Fiji",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/fiji",
+                                "api_url": "https://www.gov.uk/api/content/world/fiji",
+                                "base_path": "/world/fiji",
+                                "content_id": "ca5e3001-2628-4799-b2c9-edb846b2e411",
+                                "description": "Services if you're visiting, studying, working or living in Fiji. Includes information about trading with and doing business in the UK and Fiji.",
+                                "details": {
+                                    "internal_name": "UK help and services in Fiji",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:37Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Fiji",
+                                "web_url": "https://www.gov.uk/world/fiji",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:12Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Fiji",
+                    "web_url": "https://www.gov.uk/world/living-in-fiji",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-fiji",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-fiji",
+                    "base_path": "/world/travelling-to-fiji",
+                    "content_id": "406a71da-a2a2-44ec-b901-1346eb6fe1d1",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Fiji",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/fiji",
+                                "api_url": "https://www.gov.uk/api/content/world/fiji",
+                                "base_path": "/world/fiji",
+                                "content_id": "ca5e3001-2628-4799-b2c9-edb846b2e411",
+                                "description": "Services if you're visiting, studying, working or living in Fiji. Includes information about trading with and doing business in the UK and Fiji.",
+                                "details": {
+                                    "internal_name": "UK help and services in Fiji",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:37:37Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Fiji",
+                                "web_url": "https://www.gov.uk/world/fiji",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:15:11Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Fiji",
+                    "web_url": "https://www.gov.uk/world/travelling-to-fiji",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-09-27T15:18:36Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1695827916.525-10.13.20.237-23450",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Fiji travel advice",
+        "updated_at": "2023-11-15T10:50:38Z",
+        "withdrawn_notice": {}
+    }
+}

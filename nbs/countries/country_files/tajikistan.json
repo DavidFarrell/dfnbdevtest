@@ -1,0 +1,820 @@
+{
+    "Country Slug": "tajikistan",
+    "Country Name": "Tajikistan",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/tajikistan",
+        "content_id": "1a06c5d2-9457-477a-a3ea-1ce3b8b44fc1",
+        "description": "Latest FCDO travel advice for Tajikistan including on entry requirements, safety and security and local laws and customs",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+            "change_history": [
+                {
+                    "note": "Latest update: Summary and Terrorism section - updated information and advice on the threat from terrorism in Tajikistan, reflecting an increased threat",
+                    "public_timestamp": "2018-11-26T16:16:32.909Z"
+                },
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel",
+                    "public_timestamp": "2018-12-27T16:42:37.316Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Gorno Badakhshan Autonomous Oblast (GBAO)) -  on 13 January a clash in Khorog between local youths and security forces resulted in the use of non-lethal weapons and 1 person was hospitalised; there's the possibility of further unrest; if you're travelling in the region, you should remain vigilant in public places and be alert to any security announcements by the Tajik authorities",
+                    "public_timestamp": "2019-01-15T14:13:00.784Z"
+                },
+                {
+                    "note": "Latest update: Safety and security section (Road travel) \u2013 addition of information about International Driving Permits ",
+                    "public_timestamp": "2019-03-18T16:43:03.951Z"
+                },
+                {
+                    "note": "Latest update: Summary - All commercial passenger flights operating to and from Istanbul Ataturk Airport are due to be transferred to the new Istanbul Airport between 5 to 7 April 2019; during the transition period there will be a short period of time where no flights will operate from either airport, and thereafter restrictions of the frequency airlines can operate at, until the transfer is completed; passengers may be affected by delays and cancellations during the transition period and for a limited period after the transfer, and should contact their airline for further information",
+                    "public_timestamp": "2019-04-01T10:47:25.636Z"
+                },
+                {
+                    "note": "Latest update: Summary \u2013 removal of information on transfer of airports on 5 to 7 April; all Turkish Airlines flights to Tajikistan are now from the new Istanbul Airport ",
+                    "public_timestamp": "2019-05-07T11:43:19.376Z"
+                },
+                {
+                    "note": "Latest update: Summary and Safety and security (Local travel) section - addition of information on recent security incidents along the Tajik-Kyrgyz border; you should remain vigilant in border areas and check local media reports before you travel",
+                    "public_timestamp": "2019-07-25T15:22:16.000Z"
+                },
+                {
+                    "note": "Safety and security section, Terrorism section and summary - addition of information and advice following an armed attack on a Tajik security checkpoint on the Tajik/Uzbek border on 6 November 2019",
+                    "public_timestamp": "2019-11-06T18:45:12.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on precautionary measures in place in response to coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-02-28T14:03:16.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on measures taken by the Tajik Civil Aviation Agency to restrict the sales of airline tickets to citizens of coronavirus affected affected countries, including the UK ('Health' and 'Summary' page)",
+                    "public_timestamp": "2020-03-03T16:18:47.000Z"
+                },
+                {
+                    "note": "Update to information following the annulment of the decision by the Tajik Civil Aviation Agency to restrict the sales of airline tickets in response to coronavirus ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-04T16:11:19.000Z"
+                },
+                {
+                    "note": "Update to information on travel restrictions in relation to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-16T10:02:49.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) advise against all but essential travel to Tajikistan  (\u2018Health\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2020-03-17T18:49:06.000Z"
+                },
+                {
+                    "note": "Update of information on advice and travel restrictions in relation to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-18T17:08:55.000Z"
+                },
+                {
+                    "note": "Addition of information on the temporary suspension of all flights to and from Tajikistan  from 20 March in response to coronavirus (COVID-19) ('Summary' and 'Health' pages)",
+                    "public_timestamp": "2020-03-20T10:45:54.000Z"
+                },
+                {
+                    "note": "Update to Summary and Return to UK - information on flight options from Tajikistan",
+                    "public_timestamp": "2020-03-29T12:00:11.000Z"
+                },
+                {
+                    "note": "Updated information to the 'Summary' 'Coronavirus' and 'Return to the UK' pages.",
+                    "public_timestamp": "2020-04-24T14:42:56.000Z"
+                },
+                {
+                    "note": "Updated information ('Summary' and 'Return to the UK' pages).",
+                    "public_timestamp": "2020-04-28T10:58:41.000Z"
+                },
+                {
+                    "note": "Update to information and advice on coronavirus (COVID-19) local measures ('Coronavirus page) and returning to the UK ('Summary' and 'Return to the UK' pages)",
+                    "public_timestamp": "2020-05-04T13:34:21.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T12:51:14.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T13:05:07.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section",
+                    "public_timestamp": "2020-07-09T14:49:35.000Z"
+                },
+                {
+                    "note": "Updated information on international travel ('Coronavirus' and 'Entry requirements' pages).",
+                    "public_timestamp": "2020-07-24T13:24:47.000Z"
+                },
+                {
+                    "note": "Updated information on international travel ('Coronavirus' ).",
+                    "public_timestamp": "2020-10-06T09:01:38.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-01-29T15:05:37.000Z"
+                },
+                {
+                    "note": "Updated information on international travel (\u2018Summary\u2019, 'Coronavirus' and \u2018Entry Requirements\u2019 pages).",
+                    "public_timestamp": "2021-01-29T17:21:49.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Tajikistan ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-22T13:08:28.000Z"
+                },
+                {
+                    "note": "Updated information on international travel and entry requirements to Tajikistan; travellers will be screened and be required to have a PCR test on arrival and most destinations and transits require travellers to have a negative PCR test before departing Tajikistan ('Coronavirus' and \u2018Entry requirements\u2019 pages)",
+                    "public_timestamp": "2021-07-01T08:56:19.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Tajikistan ('Coronavirus' page)",
+                    "public_timestamp": "2021-08-04T15:20:33.000Z"
+                },
+                {
+                    "note": "Amendment to details on border crossings (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2021-08-26T08:37:07.000Z"
+                },
+                {
+                    "note": "Update to highlight that the land border between Tajikistan and Afghanistan is closed ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-09-08T15:44:40.000Z"
+                },
+                {
+                    "note": "Update on the land border between Tajikistan and Afghanistan, which remains closed ('Summary' pages)",
+                    "public_timestamp": "2021-09-22T14:06:54.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Tajikistan, based on the current assessment of COVID-19 risks",
+                    "public_timestamp": "2021-10-08T14:15:05.000Z"
+                },
+                {
+                    "note": "Confirmation of requirement to complete a PCR test before boarding flights departing Dushanbe (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2021-11-19T09:58:54.000Z"
+                },
+                {
+                    "note": "Information relating to unrest in the Gorno Badakhshan Autonomous Oblast (GBAO) (\u2018Safety and security\u2019 page)",
+                    "public_timestamp": "2021-12-06T12:36:31.000Z"
+                },
+                {
+                    "note": "Republished with stylistic edits to the 'Entry requirements' section.",
+                    "public_timestamp": "2022-02-21T13:18:46.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-related arrival procedures and land border crossings (\u2018Entry requirements\u2019 page)",
+                    "public_timestamp": "2022-03-25T17:21:12.000Z"
+                },
+                {
+                    "note": "Updated information on terrorist threat (\u2018Terrorism\u2019 page)",
+                    "public_timestamp": "2022-04-28T14:12:44.000Z"
+                },
+                {
+                    "note": "Updated information on unrest in the Gorno-Badakshan Autonomous Region ('Summary' and \u2018Safety and security\u2019 pages)",
+                    "public_timestamp": "2022-05-18T15:44:09.000Z"
+                },
+                {
+                    "note": "Updated with information in Air Travel about how UK sanctions affect purchases of flight tickets on Russian owned airlines ('Safety and security' page)",
+                    "public_timestamp": "2022-05-19T15:36:14.000Z"
+                },
+                {
+                    "note": "Updated information on entry rules in relation to COVID-19 and removal of information on an armed attack in November 2019 ('Coronavirus', 'Safety and security' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-07-22T14:42:08.000Z"
+                },
+                {
+                    "note": "Addition of information on checking the UK Air Safety List when flying with foreign air carriers (\u2018Safety and Security\u2019 page).",
+                    "public_timestamp": "2022-09-05T08:49:38.000Z"
+                },
+                {
+                    "note": "Updated information on skirmishes along the Tajik-Kyrgyz border ('Summary' and 'Safety and Security' pages).",
+                    "public_timestamp": "2022-09-27T09:56:07.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                    "public_timestamp": "2023-06-22T08:57:48.000Z"
+                }
+            ],
+            "country": {
+                "name": "Tajikistan",
+                "slug": "tajikistan",
+                "synonyms": []
+            },
+            "email_signup_link": "/foreign-travel-advice/tajikistan/email-signup",
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<p>The land border between Tajikistan and Afghanistan currently remains closed.</p>\n\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/tajikistan/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Tajikistan\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>)\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Terrorists are likely to try and carry out attacks in Tajikistan.</p>\n\n<p>You should exercise caution and vigilance, particularly if travelling near or across the Tajik/Uzbek border. See <a href=\"/foreign-travel-advice/tajikistan/safety-and-security#local-travel\">Local travel</a> and <a href=\"/foreign-travel-advice/tajikistan/terrorism\">Terrorism</a>.</p>\n\n<p>On 29 July 2018, 4 tourists were killed in a deliberate attack while cycling in the south of the country.  You should exercise extreme caution and vigilance, particularly if hiking or cycling in the countryside. See <a href=\"/foreign-travel-advice/tajikistan/terrorism\">Terrorism</a>.</p>\n\n<p>Caution should be exercised along and close to the border with Afghanistan where armed clashes can erupt without notice.  This border is also known to be used by drug smugglers and there have been reports of armed clashes with Tajik security forces.</p>\n\n<p>Check local advice before travelling to the Gorno-Badakhshan Autonomous Oblast in the East, as the area may be closed to visitors at short notice. Tensions in the regional capital, Khorog, have risen since September 2018, and there have been violent clashes in this area in May 2022.  See <a href=\"/foreign-travel-advice/tajikistan/safety-and-security#gorno-badakhshan-autonomous-oblast\">Gorno-Badakhshan Autonomous Oblast</a>.</p>\n\n<p>Skirmishes regularly occur along the disputed Tajik-Kyrgyz border and previous incidents have involved both civilians and border guards with the use of firearms and sometimes heavy artillery. On 14-16 September clashes escalated into armed conflict between the Tajik and Kyrgyz military which resulted in over 100 dead, including civilians, and significant destruction of civilian property and infrastructure. There is a risk of further violence and border closures at any time. You should remain vigilant in border areas and check local media reports before you travel.</p>\n\n<p>See <a href=\"/foreign-travel-advice/tajikistan/safety-and-security#border-areas\">Border areas</a>.</p>\n\n<p>Tourism, health and transport infrastructure is poor and travel requires careful planning. See <a href=\"/foreign-travel-advice/tajikistan/safety-and-security\">Local travel</a></p>\n\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for Tajikistan on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/219/tajikistan\">TravelHealthPro website</a>.</p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>Scheduled commercial flights to and from Dushanbe have resumed but are sometimes subject to change or cancellation at short notice.</p>\n\n<p>Travellers should check with the airlines for up to date flight information.</p>\n\n<p>A \u2018fit-to-fly\u2019 negative PCR result is no longer required to enable travellers to board flights at Dushanbe Airport. Travellers should check the regulations at their destination and any transit points and obtain the required tests before travel. Travellers may be screened by having their temperature taken and assessed for other COVID-19 symptoms on departure from Tajikistan.</p>\n\n<p><a href=\"https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19\">Check what you must do to return to the UK</a>.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n<p>See <a href=\"/foreign-travel-advice/tajikistan/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Tajikistan.</p>\n\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>Travelling from and returning to the UK</p>\n</div>\n\n<p>Check what you must do to <a href=\"https://www.gov.uk/guidance/travel-abroad-from-england-during-coronavirus-covid-19\">travel abroad</a> and <a href=\"https://www.gov.uk/guidance/travel-to-england-from-another-country-during-coronavirus-covid-19\">return to England, Scotland, Wales or Northern Ireland</a>.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n\n<h2 id=\"be-prepared-for-your-plans-to-change\">Be prepared for your plans to change</h2>\n\n<p>No travel is risk-free during COVID-19. Countries may further restrict travel or bring in new rules at short notice, for example due to a new COVID-19 variant. Check with your travel company or airline for any transport changes which may delay your journey home.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<p>Plan ahead and make sure you:</p>\n\n<ul>\n  <li>can access money</li>\n  <li>understand what your insurance will cover</li>\n  <li>can make arrangements to extend your stay and be away for longer than planned</li>\n</ul>\n\n<h2 id=\"travel-in-tajikistan\">Travel in Tajikistan</h2>\n\n<p>Currently, there are no local restrictions or localised lockdowns in place but you should monitor updates by the Tajikistan Government and should comply with any restrictions, health or screening measures introduced by the authorities.</p>\n\n<p>Breaches of regulations can result in fines or eventually imprisonment.</p>\n\n<h2 id=\"accommodation\">Accommodation</h2>\n\n<p>Hotels and private rentals are generally open. Travellers should check with the accommodation provider to confirm availability and regulations.</p>\n\n<h2 id=\"public-places-and-services\">Public places and services</h2>\n\n<p>Public places and services in Tajikistan are open. Local regulations, including wearing of face masks if applicable, should be observed at all times.</p>\n\n<h2 id=\"healthcare-in-tajikistan\">Healthcare in Tajikistan</h2>\n\n<p>For contact details for English speaking doctors <a href=\"https://www.gov.uk/government/publications/tajikistan-list-of-medical-facilities\">visit our list of healthcare providers</a>.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"https://www.gov.uk/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a>.</p>\n\n<p>If you think you have COVID-19 symptoms, you should contact your medical or travel insurance provider for guidance and advice. In an emergency, contact the Ambulance Services on 03 (from landlines) or 103 (from mobiles).</p>\n\n<p>Testing for COVID-19 is carried out for severe cases only in Tajikistan.</p>\n\n<p>View <a href=\"https://www.gov.uk/foreign-travel-advice/tajikistan/health\">Health</a> for further details on healthcare in Tajikistan.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n<h2 id=\"further-information\">Further information</h2>\n\n<p>Everyone should comply with the measures put in place in Tajikistan to limit the spread of coronavirus (COVID-19).</p>\n\n<p>If you need urgent consular assistance, you should contact your <a href=\"https://www.gov.uk/world/organisations/british-embassy-dushanbe\">local British embassy, high commission or consulate</a>. All telephones numbers are available 24/7.</p>\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<h2 id=\"crime\">Crime</h2>\n\n<p>Dushanbe is relatively secure, but there have been occasional muggings and petty crime against foreigners. Women should avoid going out alone at night, and may suffer harassment even during the day.</p>\n\n<p>There have been instances of sexual assault, including rape, reported to the British Embassy. This has included suspected use of \u2019date-rape\u2019 drugs targeting foreigners. Don\u2019t accept drinks from strangers or leave drinks unattended.</p>\n\n<p>You should maintain at least the same level of personal security awareness as in the UK. Alcohol and drugs can lead to you being less alert, less in control and less aware of your environment. If you are going to drink, know your limit. Don\u2019t accept lifts from strangers or passing acquaintances at any time.</p>\n\n<p>There are sporadic clashes between border forces and drug traffickers along the Afghan border, particularly in the Gorno-Badakhshan Autonomous Oblast. The most recent incidents during 2018 resulted in a number of injuries.</p>\n\n<h2 id=\"local-travel\">Local travel</h2>\n\n<p>Tourist facilities are under-developed and goods and services taken for granted in the UK may not be available.</p>\n\n<h3 id=\"border-areas\">Border areas</h3>\n\n<p>You should exercise caution and vigilance, particularly if travelling near or across the Tajik/Uzbek border.</p>\n\n<p>The Tajik-Kyrgyz border is disputed. There are regular security incidents along the Kyrgyz/Tajik border with exchanges of gunfire and heavy weapons. The border can be closed at short notice, particularly near the Vorukh enclave. There were clashes between Tajik and Kyrgyz border guards and civilians in June 2018 and in April 2021, and most recently 14-16 September 2022 where clashes escalated into armed conflict between the Tajik and Kyrgyz military which resulted in over 100 dead, including civilians, and significant destruction of civilian property and infrastructure. There\u2019s a risk of further localised violence and border closures at any time. You should remain vigilant in border areas and check local media reports before travelling.</p>\n\n<p>Don\u2019t venture off-road in areas immediately adjoining the Afghan, Uzbek and Kyrgyz borders, as there are both marked and unmarked minefields.</p>\n\n<h3 id=\"border-crossings\">Border crossings</h3>\n\n<p>Tajikistan\u2019s borders with neighbouring countries are subject to closure without notice.</p>\n\n<p>If you\u2019re planning to cross into Tajikistan through one of the land borders you should check ahead that the border crossing you\u2019re planning to use will allow British citizens to cross and for any additional Coronavirus restrictions, and delays they may cause.</p>\n\n<p>The land border with Afghanistan is currently closed.</p>\n\n<h3 id=\"gorno-badakhshan-autonomous-oblast\">Gorno Badakhshan Autonomous Oblast</h3>\n\n<p>The government of Tajikistan sometimes suspends issuing permits for travel to the Gorno Badakhshan Autonomous Oblast (GBAO) by foreign nationals who enter Tajikistan on a tourist visa. This can happen at short notice, depending on the security situation in the area. If you\u2019re considering travel to the GBAO you should contact the <a rel=\"external\" href=\"http://www.tajembassy.org.uk/\">Embassy of Tajikistan</a> for up to date information on whether permits are being issued.</p>\n\n<p>Tensions in Khorog have increased in recent years.  There were serious disturbances in November 2021 and there have been violent clashes in and around Khorog since 16 May 2022 with a number of reported casualties.  There is an increased security presence on the ground and some roads around the city, in Rushan and other parts of GBAO have been temporarily closed to traffic. Especially in the light of instability in Afghanistan, the security situation is liable to change at short notice, with the possibility of further unrest.</p>\n\n<p>If you\u2019re travelling in the region, you should remain vigilant in public places and be alert to any security announcements by the Tajik authorities.</p>\n\n<p>Several areas of the GBAO and other parts of the country are damaged by flooding in the spring and winter seasons and roads are often closed. Most of the infrastructure has been repaired, but many roads, including the Pamir Highway, are currently open but not fully repaired.</p>\n\n<h3 id=\"tavildara-region\">Tavildara region</h3>\n\n<p>Take local advice in the Tavildara region of central Tajikistan as there are a few minefields dating from the civil war in the mountains. Medical and rescue facilities are unreliable where they exist at all.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n\n<p>You need to have a 1968 <a href=\"https://www.gov.uk/driving-abroad/international-driving-permit\">International Driving Permit (IDP)</a> to drive in Tajikistan. You can only get IDPs over the counter from 2,500 UK Post Offices. You will not be able to buy an IDP outside the UK, so get one before you travel.</p>\n\n<p>Roads outside the main towns are poorly-maintained and often only accessible by 4-wheel drive vehicles. Conditions are particularly treacherous in spring due to the risk of avalanches and landslides. Many interior roads are only open in the summer months. It is possible to drive from Dushanbe to the north and Tajikistan\u2019s second city, Khujand, via a tunnel, but this road is particularly dangerous in winter due to icy conditions and drivers can be trapped for a long time if caught in an avalanche because of the remoteness. The roads to GBAO are often closed in the winter.  Check local road conditions prior to travel.</p>\n\n<p>Local vehicles are poorly-maintained and driving standards are basic. Petrol stations are rare outside towns and there are no breakdown companies. Make sure you take all you need for your journey, allowing for delays. Emergency communications such as satellite phones are advisable for travel outside towns. Neighbouring countries may close borders temporarily.</p>\n\n<h2 id=\"air-travel\">Air travel</h2>\n\n<p>On 19 May 2022, the UK sanctioned Aeroflot, Rossiya Airlines and Ural Airlines. It is now illegal under UK law for any British national or British company to do business with these airlines. This includes the purchasing of flight tickets.</p>\n\n<p>Flights in Tajikistan may be cancelled at short notice or substantially delayed. Overloading on local flights is not uncommon.</p>\n\n<p>Instances of harassment by officials at Dushanbe International Airport have been reported to the British Embassy. This typically involves requests for payment for allegedly incorrect documentation or other offences. Some reports state that airport officials have acted in an intimidating manner. You should ensure, through your hotel or directly with the Tajikistan Office of Visas and Registration (OVIR) that your documentation and papers are in order before passing through border control at the airport. If you suffer harassment or intimidation at the airport you should report this to your travel agent and/or the consular bureau at the airport.</p>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> can\u2019t offer advice on the safety of individual airlines. However, the International Air Transport Association publishes <a rel=\"external\" href=\"http://www.iata.org/whatwedo/safety/audit/Pages/index.aspx\">a list of registered airlines</a> that have been audited and found to meet a number of operational safety standards and recommended practices. This list is not exhaustive and the absence of an airline from this list does not necessarily mean that it is unsafe.</p>\n\n<p>You are advised to check the UK Air Safety List when flying with foreign air carriers. \u00a0The Civil Aviation Authority <a rel=\"external\" href=\"https://www.caa.co.uk/Commercial-Industry/Airlines/Licensing/Requirements-and-guidance/Third-Country-Operator-Certificates\">UK Air Safety List (ASL)</a> identifies foreign airlines which do not meet international safety standards. These airlines are banned from operating commercial air services to, from, and within the UK. You should:</p>\n\n<ul>\n  <li>use the list to inform your decisions on which air carriers to use when flying overseas.</li>\n  <li>consult local travel providers to find alternative air routes or other means of travel, e.g. road or rail.</li>\n</ul>\n\n<p>The International Civil Aviation Organisation carried out an <a rel=\"external\" href=\"http://www.icao.int/safety/Pages/USOAP-Results.aspx\">audit</a> of the level of implementation of the critical elements of safety oversight in Tajikistan.</p>\n\n<p>A list of incidents and accidents in Tajikistan can be found on the website of the <a rel=\"external\" href=\"http://aviation-safety.net/database/country/country.php?id=EY\">Aviation Safety network.</a></p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n\n<p>Tajikistan\u2019s civil war ended in 1997.  The political situation is generally stable, but you should remain vigilant in public places and be alert to any security announcements by the Tajik authorities.</p>\n\n<p>You should avoid any demonstrations or large gatherings of people.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorists are likely to try to carry out further attacks in Tajikistan. Attacks could be indiscriminate, with little or no warning, targeting tourist locations including in places visited by foreigners, diplomatic premises, and foreign nationals.</p>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>On 6 November 2019, it was reported that 17 people were killed in an armed attack on a Tajik security check-point in Rudaki District on the Tajik/Uzbek border, approximately 60km south-west of Dushanbe. The Tajik Government has said that Daesh/ISIS is responsible. In light of this incident, you should exercise caution and vigilance, particularly if travelling near or across the Tajik/Uzbek border.</p>\n\n<p>On 29 July 2018, 7 tourists from western countries were cycling near Dangara in southern Tajikistan when a local man drove into them. This was a deliberate attack. Four of the 7 cyclists were killed by the vehicle\u2019s impact and wounds sustained in a subsequent knife attack carried out by the occupants of the car. This is the first incident of its kind in Tajikistan.  While the motives are not clear, the terrorist group Daesh (formerly referred to as ISIL) claimed responsibility.  In light of this incident, you should exercise extreme caution and vigilance, particularly if hiking or cycling in the countryside.</p>\n\n<p>There\u2019s a threat of kidnapping in Tajikistan. The long-standing policy of the British government is not to make substantive concessions to hostage-takers. The British government considers that paying ransoms and releasing prisoners increases the risk of further hostage taking.</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>Tajikistan has a secular constitution. Most Tajik citizens are Muslims. Some, particularly in rural areas, may be conservative in outlook. You should respect local traditions, customs, laws and religions at all times.</p>\n\n<p>Women travelling alone may not be shown respect.</p>\n\n<p>Homosexuality is not illegal under Tajik law but local attitudes are conservative, particularly outside the main cities. You should take care over public displays of affection.See <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">our information and advice page</a> for the LGBT community before you travel.</p>\n\n<p>Possession and use of drugs is illegal and, if found guilty, you could face a lengthy prison sentence in very basic conditions.</p>\n\n<p>Carry a photocopy of your passport at all times. Requests to produce an ID are frequent.</p>\n\n<p>Taking photos of anything that could be perceived as being of military or security interest may get you into trouble with the authorities.</p>\n\n<p>Although rarely enforced smoking whilst walking on the street is illegal and punishable by a fine.</p>\n\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Tajikistan.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Tajikistan set and enforce entry rules. If you\u2019re unsure how Tajikistan\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>British nationals need a visa to enter or travel through Tajikistan. The <a rel=\"external\" href=\"https://mfa.tj/en/london\">Embassy of the Republic of Tajikistan</a> in London offers an online e-visa service.</p>\n\n<p>Make sure you are travelling on the correct type of visa, particularly if staying with friends or family rather than at a hotel. If you have been issued any visa other than a \u201cTourist\u201d visa, you will be required to register with the Consular Department of the Ministry of Foreign Affairs within 10 days of arrival. Hotels may only carry out registration for the duration of your stay with that particular establishment; if your visit also includes travel to other parts of the country you may need to register again for the remaining part of your travel.</p>\n\n<p>The Embassy of the Republic of Tajikistan in London also processes applications for travel permits to the Gorno-Badakhshan Autonomous Region of Tajikistan. Entry into the region, both from inside and from outside Tajikistan, requires a special permit in advance in addition to a valid Tajik visa. You can also get a permit from the Ministry of Foreign Affairs or Office of Visas and Registrations once in Tajikistan.</p>\n\n<p>If you plan to travel to areas in the Khatlon Region bordering Afghanistan (eg Panj, Kumsangir) you will need to apply for a permit from the Consular Department of the Ministry of Foreign Affairs in Dushanbe prior to travel.</p>\n\n<p>Once you arrive in Tajikistan you can apply for visa extensions at the Consular Department of the Tajik Ministry of Foreign Affairs on +992 227-6363 or +992 227-3838 and located on 34 Pushkin Street, Dushanbe.</p>\n\n<p>You will not be permitted to leave the country if your visa has expired and you may be fined.</p>\n\n<p>Land border crossings between Tajikistan and Kyrgyzstan, China and Afghanistan are officially closed to foreign travellers. A number of border points with Uzbekistan are open to foreign travellers with visas as well as Tajik and Uzbek citizens. Some border points with Uzbekistan, China and Kyrgyzstan are open for local citizens or cargo only.  You should check for current information on border crossings with the local authorities or the British Embassy.  Flights are operating from several destinations.  See <a href=\"/foreign-travel-advice/tajikistan/coronavirus#international-travel\">International Travel</a> for further details.</p>\n\n<h2 id=\"if-youre-fully-vaccinated\">If you\u2019re fully vaccinated</h2>\n\n<p>Travellers arriving in Tajikistan must provide a  vaccination certificate. A negative PCR test, issued within 72 hours of arrival, is also acceptable. The test must be a COVID-19 PCR swab test.</p>\n\n<p>COVID-19 entry requirements may change at short notice, and travellers to Tajikistan are strongly encouraged to check the specifics with their airline, including the timeframes for undertaking COVID-19 PCR tests, before travel.</p>\n\n<p>Travellers arriving in Tajikistan may be screened and may be required to have a PCR test on arrival.</p>\n\n<h2 id=\"if-youre-not-fully-vaccinated\">If you\u2019re not fully vaccinated</h2>\n\n<p>Travellers arriving in Tajikistan may be asked for confirmation of a negative PCR test, issued within 72 hours of arrival. The test must be a COVID-19 PCR swab test.</p>\n\n<p>COVID-19 entry requirements may change at short notice, and travellers to Tajikistan are strongly encouraged to check the specifics with their airline, including the timeframes for undertaking COVID-19 PCR tests, before travel.</p>\n\n<p>Travellers arriving in Tajikistan may be screened and may be required to have a PCR test on arrival.</p>\n\n<h2 id=\"children-and-young-people\">Children and young people</h2>\n\n<p>Children aged 3 and older should follow the rules for other travellers to enter Tajikistan.</p>\n\n<h2 id=\"if-youre-transiting-through-tajikistan\">If you\u2019re transiting through Tajikistan</h2>\n\n<p>Transiting is when you pass through one country on the way to your final destination.</p>\n\n<p>Transiting through Tajikistan is permitted. Transit visas for Tajikistan are required and usually valid for three days. If you wish to stay longer, you must get a longer-term visa through Intourist Tajikistan or at the Ministry of Foreign Affairs after arrival.</p>\n\n<p>Travellers transiting through Tajikistan must provide a vaccination certificate. A negative PCR test, issued within 72 hours of arrival, is also acceptable.</p>\n\n<p>Travellers to Tajikistan are strongly encouraged to check the specifics with their airline, including the timeframes for undertaking COVID-19 PCR tests, before travel. If you are travelling back to another country (eg <a href=\"https://www.gov.uk/foreign-travel-advice/russia/entry-requirements\">Russia</a>, you should ensure you have the relevant re-entry visa before travelling.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n<p>If you are visiting Tajikistan, your passport should be valid for a minimum of three months from the date you arrive and have two blank pages.</p>\n\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/tajikistan/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/countries\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a> of the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance page</a>. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre (NaTHNaC)</a>.</p>\n\n<h3 id=\"other-health-risks\">Other health risks</h3>\n<p>TB (including multi-drug-resistant TB), typhoid and cholera occur in Tajikistan. There are occasional cases of malaria in summer in the Khatlon region and in the south of Gorno-Badakhshan.</p>\n\n<p>Don\u2019t drink tap water and take particular care over food and drink preparation. If you plan to stay for more than 90 days you must present a medical certificate that you are HIV-free, or take a test. The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advise against taking the test in Tajikistan, due to the poor quality of medical facilities.</p>\n\n<h3 id=\"local-medical-care\">Local medical care</h3>\n\n<p>There is no reciprocal healthcare agreement between the UK and Tajikistan.</p>\n\n<p>Tajikistan has poor medical facilities and a shortage of basic medical supplies. Medical facilities outside Dushanbe are quite basic and in some locations almost non-existent. You should be aware that brand name drugs may not be genuine.</p>\n\n<p>Make sure you have adequate travel health insurance including evacuation by air ambulance, and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 03 (non-English speaking) and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>Tajikistan is located in an active seismic zone.  There\u2019s been an increase in the number of earthquakes in Tajikistan during 2016 and 2017; most are small but affect remote areas of the country, particularly the east in Badakhshan province.  Avalanches and landslides often block roads in the spring and early summer.</p>\n\n<p>You should familiarise yourself with safety procedures in the event of an earthquake and follow the advice of the local authorities. The US Federal Emergency Management Agency has advice about what to do <a rel=\"external\" href=\"http://www.ready.gov/earthquakes\">before, during and after an earthquake.</a></p>\n\n<p>In late spring and summer Tajikistan is prone to seasonal flooding and mudslides caused by melting glaciers.  Take care, follow local advice and be aware that conditions can change suddenly.</p>\n\n<p>Heavy snowfall in winter can cause delays and cancellations at airports, and can disrupt local travel, particularly in mountainous regions where there is an increased risk of avalanches. Take local advice on road conditions during or following severe weather.</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "<p>Tajikistan is mostly a cash-only economy. Only change money at officially authorised currency exchanges. Very few establishments accept credit cards and none accept travellers\u2019 cheques. There is an increasing number of ATMs in Dushanbe and other larger towns, but none in rural areas. US dollars are the most widely accepted foreign currency; other currencies, apart from Euros or Russian roubles, may be difficult to exchange.</p>\n\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the FCDO in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice,</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>. Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, send the Travel Advice team <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Tajikistan&amp;post=Tajikistan%20travel%20advice%20team\">a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Tajikistan&amp;post=Tajikistan%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>.  We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-06-22T08:57:48Z",
+            "updated_at": "2023-07-31T16:01:41Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-02-07T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tajikistan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tajikistan",
+                    "base_path": "/foreign-travel-advice/tajikistan",
+                    "content_id": "1a06c5d2-9457-477a-a3ea-1ce3b8b44fc1",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T08:57:48Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tajikistan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tajikistan",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/tajikistan",
+                    "api_url": "https://www.gov.uk/api/content/world/tajikistan",
+                    "base_path": "/world/tajikistan",
+                    "content_id": "63ba74b5-a5fc-49da-955d-66db29c46ca3",
+                    "description": "Services if you're visiting, studying, working or living in Tajikistan. Includes information about trading with and doing business in the UK and Tajikistan.",
+                    "details": {
+                        "internal_name": "UK help and services in Tajikistan",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:33Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Tajikistan",
+                    "web_url": "https://www.gov.uk/world/tajikistan",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/uzbekistan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/uzbekistan",
+                    "base_path": "/foreign-travel-advice/uzbekistan",
+                    "content_id": "2f79a772-583b-4f01-adc1-5dc832eddcec",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Uzbekistan",
+                            "slug": "uzbekistan",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-18T15:11:28Z",
+                    "schema_name": "travel_advice",
+                    "title": "Uzbekistan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/uzbekistan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/kyrgyzstan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/kyrgyzstan",
+                    "base_path": "/foreign-travel-advice/kyrgyzstan",
+                    "content_id": "6cd1bdd0-0afc-492f-bae9-6cc219213b87",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Kyrgyzstan",
+                            "slug": "kyrgyzstan",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-09T14:33:36Z",
+                    "schema_name": "travel_advice",
+                    "title": "Kyrgyzstan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/kyrgyzstan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/turkmenistan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/turkmenistan",
+                    "base_path": "/foreign-travel-advice/turkmenistan",
+                    "content_id": "ac173bb7-97ce-4dc3-b8a9-dae920d595db",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand.",
+                        "country": {
+                            "name": "Turkmenistan",
+                            "slug": "turkmenistan",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-06T10:42:06Z",
+                    "schema_name": "travel_advice",
+                    "title": "Turkmenistan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/turkmenistan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/kazakhstan",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/kazakhstan",
+                    "base_path": "/foreign-travel-advice/kazakhstan",
+                    "content_id": "172402e4-e1c9-4739-bae5-80bf1d1005c3",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Kazakhstan",
+                            "slug": "kazakhstan",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T09:33:35Z",
+                    "schema_name": "travel_advice",
+                    "title": "Kazakhstan travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/kazakhstan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/yemen",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/yemen",
+                    "base_path": "/foreign-travel-advice/yemen",
+                    "content_id": "73891fe3-3a92-4c2e-a1a6-b63f00186ce8",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages",
+                        "country": {
+                            "name": "Yemen",
+                            "slug": "yemen",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:22:58Z",
+                    "schema_name": "travel_advice",
+                    "title": "Yemen travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/yemen",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-tajikistan",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-tajikistan",
+                    "base_path": "/world/living-in-tajikistan",
+                    "content_id": "8362d817-57b1-4925-9885-6a5c10cf052d",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Tajikistan",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/tajikistan",
+                                "api_url": "https://www.gov.uk/api/content/world/tajikistan",
+                                "base_path": "/world/tajikistan",
+                                "content_id": "63ba74b5-a5fc-49da-955d-66db29c46ca3",
+                                "description": "Services if you're visiting, studying, working or living in Tajikistan. Includes information about trading with and doing business in the UK and Tajikistan.",
+                                "details": {
+                                    "internal_name": "UK help and services in Tajikistan",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:33Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Tajikistan",
+                                "web_url": "https://www.gov.uk/world/tajikistan",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:18:28Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Tajikistan",
+                    "web_url": "https://www.gov.uk/world/living-in-tajikistan",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-tajikistan",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-tajikistan",
+                    "base_path": "/world/travelling-to-tajikistan",
+                    "content_id": "ba4c4f17-31cd-4ba4-923a-a32a31edfff2",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Tajikistan",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/tajikistan",
+                                "api_url": "https://www.gov.uk/api/content/world/tajikistan",
+                                "base_path": "/world/tajikistan",
+                                "content_id": "63ba74b5-a5fc-49da-955d-66db29c46ca3",
+                                "description": "Services if you're visiting, studying, working or living in Tajikistan. Includes information about trading with and doing business in the UK and Tajikistan.",
+                                "details": {
+                                    "internal_name": "UK help and services in Tajikistan",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:33Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Tajikistan",
+                                "web_url": "https://www.gov.uk/world/tajikistan",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:18:27Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Tajikistan",
+                    "web_url": "https://www.gov.uk/world/travelling-to-tajikistan",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-06-22T08:57:48Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1690819301.784-10.13.20.122-45851",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Tajikistan travel advice",
+        "updated_at": "2023-11-15T10:45:57Z",
+        "withdrawn_notice": {}
+    }
+}

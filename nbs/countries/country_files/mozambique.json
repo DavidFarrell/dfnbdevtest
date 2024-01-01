@@ -1,0 +1,1194 @@
+{
+    "Country Slug": "mozambique",
+    "Country Name": "Mozambique",
+    "countryInfo": {
+        "analytics_identifier": null,
+        "base_path": "/foreign-travel-advice/mozambique",
+        "content_id": "eb77a950-bd40-4a8d-8f3b-1f92d126930d",
+        "description": "Latest FCDO travel advice for Mozambique including on entry requirements, safety and security and local laws and customs.",
+        "details": {
+            "alert_status": [],
+            "change_description": "Information on protests in various parts of the country following the municipal elections ('Summary' and 'Safety and security' page).\r\n\r\n",
+            "change_history": [
+                {
+                    "note": "Latest update: Health Section \u2013 revised guidance on sources of health information before travel\r\n",
+                    "public_timestamp": "2018-11-30T06:55:39.068Z"
+                },
+                {
+                    "note": "Latest update: Summary - addition of information about the availability of consular support",
+                    "public_timestamp": "2019-01-10T17:52:00.696Z"
+                },
+                {
+                    "note": "Latest update: Summary - The FCO now advise against all but essential travel to the districts of Nangade, Quissanga and Ibo in Cabo Delgado province;  Terrorism section and summary - addition of information on the recent increase in attacks by groups with links to Islamic extremism",
+                    "public_timestamp": "2019-02-18T16:57:32.123Z"
+                },
+                {
+                    "note": "Latest update: Summary - Tropical Cyclone Idai is expected to make landfall near the port of Beira in Mozambique late Thursday 14 March or early Friday 15 March; you should monitor local and international weather updates and follow any advice from local authorities",
+                    "public_timestamp": "2019-03-12T15:13:41.273Z"
+                },
+                {
+                    "note": "Latest update: Summary - Update on Tropical Cyclone Idai which made landfall at the port city of Beira on the evening of Thursday 14 March; you should continue to monitor local and international weather updates and follow advice of local authorities",
+                    "public_timestamp": "2019-03-15T13:19:54.227Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section - updated information and advice on the threat from terrorism in Mozambique, reflecting an increased threat; Summary - revised information on Tropical Cyclone Idai",
+                    "public_timestamp": "2019-03-19T13:22:25.260Z"
+                },
+                {
+                    "note": "Latest update: Summary - The FCO now advise against all but essential travel to the Provinces of Sofala, Zambezia, Manica and Tete",
+                    "public_timestamp": "2019-03-20T17:32:17.693Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised information on areas affected by Tropical Cyclone Idai; access to the affected areas remains challenging; many roads and bridges in the affected areas are impassable; extensive flooding still exists; you should continue to monitor local and international weather updates from the World Meteorological Organisation",
+                    "public_timestamp": "2019-03-27T11:14:25.307Z"
+                },
+                {
+                    "note": "Latest update: Summary - Following Tropical Cyclone Idai there's an increased risk of typhoid fever and cholera in a number of areas of the country; you should familiarise yourself with the symptoms and follow the advice of the National Travel Health Network and Centre",
+                    "public_timestamp": "2019-03-27T13:01:32.667Z"
+                },
+                {
+                    "note": "Latest update: Summary \u2013 Change in advice against travel; the FCO no longer advises against all but essential travel to the Provinces of Sofala, Zambezia, Manica and Tete; the advice for the districts of Cabo Delgado province remain unchanged",
+                    "public_timestamp": "2019-04-16T09:24:02.494Z"
+                },
+                {
+                    "note": "Latest update: Summary - Tropical Storm Kenneth is forecast to make landfall as a tropical cyclone in northern Mozambique on Thursday 25 April; you should monitor local and international weather updates from the World Meteorological Organisation and follow the advice of local authorities",
+                    "public_timestamp": "2019-04-24T09:49:52.540Z"
+                },
+                {
+                    "note": "Latest update: Summary - revised information following Tropical Storm Kenneth; you should monitor local and international weather updates from the World Meteorological Organisation",
+                    "public_timestamp": "2019-04-26T13:32:51.978Z"
+                },
+                {
+                    "note": "Latest update: Summary - Cyclone Kenneth made landfall on Thursday 25 April; Cabo Delgado and Nampula continue to experience rain and flash flooding; travel to and through the affected region is likely to be extremely difficult for some time; you should monitor local and international weather updates from the World Meteorological Organisation and follow the advice of local authorities\r\n",
+                    "public_timestamp": "2019-05-01T15:53:32.338Z"
+                },
+                {
+                    "note": "Latest update: Summary and Terrorism section \u2013 change to advice against travel; the FCO now advise against all but essential travel to Meluco in Cabo Delgado province; advice against all but essential travel to the districts of Nangade, Quissanga, Ibo, Macomia, Mocimboa da Praia and Palma remains unchanged",
+                    "public_timestamp": "2019-05-23T15:56:37.272Z"
+                },
+                {
+                    "note": "Latest update: Summary and Terrorism section \u2013 additional information about attacks in north-eastern districts of Cabo Delgado Province",
+                    "public_timestamp": "2019-06-05T14:56:21.120Z"
+                },
+                {
+                    "note": "Latest update: Summary - updated information on impact of tropical cyclones Idai and Kenneth; Summary and Terrorism section \u2013 updated information about attacks in north-eastern districts of Cabo Delgado Province",
+                    "public_timestamp": "2019-06-17T14:49:59.800Z"
+                },
+                {
+                    "note": "Latest update: Terrorism section (Kidnap) - addition of section on kidnap",
+                    "public_timestamp": "2019-06-28T14:11:16.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice for the papal visit to Maputo from 4 to 6 September 2019",
+                    "public_timestamp": "2019-09-03T10:18:22.000Z"
+                },
+                {
+                    "note": "Summary - there have been recent demonstrations directed at commercial trucks from South Africa in Matola, south of Maputo; if you're travelling in the area, you should exercise caution, avoid all demonstrations and follow instructions of local authorities",
+                    "public_timestamp": "2019-09-04T16:08:28.000Z"
+                },
+                {
+                    "note": "Summary - updated information on presidential, legislative and provincial elections on 15 October; the electoral campaign period will run from 31 August to 12 October; you should exercise caution whilst travelling around the country and avoid travelling to unfamiliar places during the week of the elections (from 13 to 20 October); you should avoid large gatherings, demonstrations and political rallies; removal of information on visit of His Holiness Pope Francis ",
+                    "public_timestamp": "2019-09-10T11:56:32.000Z"
+                },
+                {
+                    "note": "Summary: Presidential, legislative and provincial elections on 15 October; you should exercise caution whilst travelling around the country and avoid travelling to unfamiliar places during the week of the elections (from 13 to 20 October); you should avoid large gatherings, demonstrations and political rallies; US Embassy Maputo issued a security alert on 11 October.",
+                    "public_timestamp": "2019-10-12T17:07:43.000Z"
+                },
+                {
+                    "note": "Summary: Presidential, legislative and provincial elections took place in Mozambique on 15 October; you should continue to exercise caution whilst travelling around the country and avoid travelling to unfamiliar places after elections; you should avoid large gatherings, demonstrations and political rallies",
+                    "public_timestamp": "2019-10-15T23:04:27.000Z"
+                },
+                {
+                    "note": "Safety and security section (Road travel) and summary - addition of information and advice following a number of armed attacks on police and commercial vehicles on roads in Sofala province since August 2019",
+                    "public_timestamp": "2019-10-31T17:05:21.000Z"
+                },
+                {
+                    "note": "Natural disasters section and Summary - factual update on a tropical storm forecast to make landfall in Cabo Delgado and Nampula Provinces on 4 December",
+                    "public_timestamp": "2019-11-29T16:23:27.000Z"
+                },
+                {
+                    "note": "Summary - change to advice against travel; the FCO now advise against all but essential travel on the EN1 between Inchope and the town of Gorongoza and the EN6 between Tica and Inchope",
+                    "public_timestamp": "2019-12-04T10:16:50.000Z"
+                },
+                {
+                    "note": "Natural disasters section and Summary - editorial amendments to existing information on tropical cyclones; removal of information on a tropical storm on 4 December",
+                    "public_timestamp": "2019-12-06T12:15:29.000Z"
+                },
+                {
+                    "note": "Terrorism section and summary - editorial amendments to existing information about risk of kidnap, which is particularly acute in northern districts of Cabo Delgado province",
+                    "public_timestamp": "2019-12-16T11:20:41.000Z"
+                },
+                {
+                    "note": "Summary - addition of information and advice on heavy rains and flooding; removal of information on demonstrations directed at commercial trucks from South Africa",
+                    "public_timestamp": "2019-12-30T15:44:08.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on potential changes to South African Airways timetable",
+                    "public_timestamp": "2020-01-17T17:00:56.000Z"
+                },
+                {
+                    "note": "Summary - addition of information on cancellations to some international and domestic South African Airways flights",
+                    "public_timestamp": "2020-01-21T15:14:14.000Z"
+                },
+                {
+                    "note": "Summary \u2013 update to information on South African Airways international and domestic flight schedules",
+                    "public_timestamp": "2020-01-31T15:38:38.000Z"
+                },
+                {
+                    "note": "The area of Cabo Delgado province where the FCO advise against all but essential travel has been expanded to include Mueda and Muidumbe districts. The 'Summary' and 'Terrorism' pages have updated information.",
+                    "public_timestamp": "2020-02-25T12:24:25.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) ('Entry requirements', 'Health' and 'Summary' pages)\r\n\r\n",
+                    "public_timestamp": "2020-03-13T11:21:38.000Z"
+                },
+                {
+                    "note": "Updated information on local measures taken to limit the spread of coronavirus (COVID-19) ('Health' and 'Summary' pages)",
+                    "public_timestamp": "2020-03-15T18:46:35.000Z"
+                },
+                {
+                    "note": "Addition of advice to check travel advice for Kenya and South Africa if travelling via those countries to Mozambique ('Health' page)",
+                    "public_timestamp": "2020-03-16T18:03:07.000Z"
+                },
+                {
+                    "note": "Addition of advice to check airline schedules or suspension of flights for any coronavirus related changes (\u2018Health\u2019 page)  ",
+                    "public_timestamp": "2020-03-17T14:02:59.000Z"
+                },
+                {
+                    "note": "Given the rapidly changing situation in Mozambique we are temporarily withdrawing a limited number of UK staff and their dependents from our High Commission.  The High Commission will continue to carry out essential work including providing 24/7 consular assistance and support to British people in Mozambique (Summary).",
+                    "public_timestamp": "2020-03-20T00:26:44.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) now advise against all travel to Mocimboa de Praia district in Cabo Delgado Province. This is due to recent attacks by groups with links to Islamic extremism ( changes to \u2018Summary\u2019 and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2020-03-24T13:01:55.000Z"
+                },
+                {
+                    "note": "The Foreign and Commonwealth Office (FCO) now advise against all travel to Mocimboa da Praia district in Cabo Delgado Province. This is due to recent attacks by groups with links to Islamic extremism ( 'Summary\u2019 and \u2018Terrorism\u2019 pages)",
+                    "public_timestamp": "2020-03-24T17:12:33.000Z"
+                },
+                {
+                    "note": "Update on entry and borders ('Coronavirus' page)",
+                    "public_timestamp": "2020-03-27T14:35:36.000Z"
+                },
+                {
+                    "note": "Updated information on measures introduced by the Government of Mozambique and neighbouring countries (\u2018Coronavirus\u2019 page).  ",
+                    "public_timestamp": "2020-03-27T18:41:46.000Z"
+                },
+                {
+                    "note": "Updated information on measures introduced by the Mozambican Government  and contact details to use if you are looking for a flight to return to the UK (\u2018Coronavirus\u2019 and \u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-03-31T15:34:10.000Z"
+                },
+                {
+                    "note": "Update to information on returning to the UK (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-06T10:56:44.000Z"
+                },
+                {
+                    "note": "Updated information on returning to the UK (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-06T13:14:50.000Z"
+                },
+                {
+                    "note": "Updated information on returning to the UK. (\u2018Return to the UK\u2019 page)",
+                    "public_timestamp": "2020-04-26T16:35:46.000Z"
+                },
+                {
+                    "note": "Updated information on State of Emergency. ('Coronavirus' page)",
+                    "public_timestamp": "2020-04-30T16:15:55.000Z"
+                },
+                {
+                    "note": "This travel advice has been reviewed and reissued without amendment",
+                    "public_timestamp": "2020-05-10T11:00:30.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of international commercial passenger flights to and from Mozambique until 31 May, future travel options and what to do if you cannot leave Mozambique. (\u2018Staying during coronavirus\u2019, \u2018Return to the UK\u2019 and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-05-12T18:17:21.000Z"
+                },
+                {
+                    "note": "Addition of information and advice on financial support (\u2018Staying during coronavirus\u2019 page)",
+                    "public_timestamp": "2020-05-20T11:31:03.000Z"
+                },
+                {
+                    "note": "The FCO now advise against all travel to the districts of Mueda, Nangade, Palma Muidumbe, Meluco, Macomia, Quissanga and Ibo and against all but essential travel to Ancuabe and Metuge (with the exception of the city of Pemba) in Cabo Delgado province ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2020-05-29T13:47:41.000Z"
+                },
+                {
+                    "note": "Full review and re-issued without amendment",
+                    "public_timestamp": "2020-06-05T13:01:47.000Z"
+                },
+                {
+                    "note": "New information on rules for entering the UK from 8 June.  ('Return to the UK' page)",
+                    "public_timestamp": "2020-06-08T12:37:33.000Z"
+                },
+                {
+                    "note": "This page has been reviewed in full and reissued without amendment.",
+                    "public_timestamp": "2020-06-12T15:17:09.000Z"
+                },
+                {
+                    "note": "Updated information on the suspension of all international commercial passenger flights ('Entry requirements' page)",
+                    "public_timestamp": "2020-06-25T11:07:57.000Z"
+                },
+                {
+                    "note": "Update to information on limited commercial flights, extension of visas and State of Emergency ('Return to the UK', 'Staying during coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-07-01T13:08:28.000Z"
+                },
+                {
+                    "note": "Editorial review to remove \u2018Return to the UK\u2019 section and improve \u2018Coronavirus\u2019 section.",
+                    "public_timestamp": "2020-07-13T14:35:02.000Z"
+                },
+                {
+                    "note": "Update to information on quarantine and testing requirements ('Summary' and 'Entry requirements' pages) and State of Emergency period ('Coronavirus' page)",
+                    "public_timestamp": "2020-08-18T15:42:09.000Z"
+                },
+                {
+                    "note": "Updated information on terror related activity in the district of Mocimboa da Praia ('Terrorism' page)",
+                    "public_timestamp": "2020-08-21T14:58:22.000Z"
+                },
+                {
+                    "note": "Update on permission for the entry and departure of holders of certain visa and residency documents ('Entry requirements' page)",
+                    "public_timestamp": "2020-08-25T11:35:17.000Z"
+                },
+                {
+                    "note": "Additional information on travel in Mozambique and extensions to visas\r\n('Coronavirus','Safety and security' and 'Entry requirements' pages)",
+                    "public_timestamp": "2020-09-10T15:23:12.000Z"
+                },
+                {
+                    "note": "Updated information on commercial flights to and from Maputo ('Coronavirus' page)",
+                    "public_timestamp": "2020-09-18T12:55:59.000Z"
+                },
+                {
+                    "note": "Updated information on locations of attacks (\u2018Summary\u2019 and 'Terrorism' page).",
+                    "public_timestamp": "2020-09-22T16:09:24.000Z"
+                },
+                {
+                    "note": "Updated information on public places and services in Mozambique\r\n('Coronavirus' page)",
+                    "public_timestamp": "2020-09-30T09:34:47.000Z"
+                },
+                {
+                    "note": "Update to information on entry rules in response to coronavirus ('Entry requirements' page).",
+                    "public_timestamp": "2020-10-30T16:38:55.000Z"
+                },
+                {
+                    "note": "Update to information on entry rules for travel to Mozambique ('Summary' page)",
+                    "public_timestamp": "2020-11-02T12:33:56.000Z"
+                },
+                {
+                    "note": "Update to information on entry rules for travel to Mozambique and Coronavirus travel health ('Summary', 'Coronavirus' and 'Entry requirements' pages) .",
+                    "public_timestamp": "2020-12-23T10:37:54.000Z"
+                },
+                {
+                    "note": "Tropical Storm Chalane is projected to make landfall in Sofala province. See \u2019Natural disasters\u2019 page.",
+                    "public_timestamp": "2020-12-29T11:28:51.000Z"
+                },
+                {
+                    "note": " Removal of reference to Tropical Storm Chalane which has now passed (\u2019Natural disasters\u2019 page)",
+                    "public_timestamp": "2020-12-31T10:08:09.000Z"
+                },
+                {
+                    "note": "From 4am on Saturday 9 December, visitors arriving into the UK who have been in or transited through Mozambique in the previous 10 days will not be permitted entry. British and Irish nationals, longer-term visa holders and permanent residents arriving in the UK from Mozambique, need to self-isolate on their return.",
+                    "public_timestamp": "2021-01-07T20:50:23.000Z"
+                },
+                {
+                    "note": "From 4am on Saturday 9 January, visitors arriving into the UK who have been in or transited through Mozambique in the previous 10 days will not be permitted entry. British and Irish nationals, longer-term visa holders and permanent residents arriving in the UK from Mozambique, need to self-isolate on their return. ",
+                    "public_timestamp": "2021-01-08T09:49:12.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Mozambique ('Summary' page)",
+                    "public_timestamp": "2021-01-13T10:58:24.000Z"
+                },
+                {
+                    "note": "Updated information on entry requirements to Mozambique ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-13T17:08:36.000Z"
+                },
+                {
+                    "note": "New information on COVID-19 restrictions in Mozambique ('Coronavirus' page)",
+                    "public_timestamp": "2021-01-14T13:02:38.000Z"
+                },
+                {
+                    "note": "Update information on testing before arrival; you will need proof of a valid negative COVID-19 test issued within 96 hours of your arrival ('Summary' page)",
+                    "public_timestamp": "2021-01-18T10:28:01.000Z"
+                },
+                {
+                    "note": "New information on Tropical Storm Eloise possible weather conditions from Saturday 23 January ('Summary' and 'Natural disasters' page)",
+                    "public_timestamp": "2021-01-18T16:43:14.000Z"
+                },
+                {
+                    "note": "New information on Tropical Storm Eloise; possible weather conditions from Friday 22 January ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2021-01-21T12:08:17.000Z"
+                },
+                {
+                    "note": "Updated information on Tropical Storm Eloise; local authorities advice is to stay at home from 3pm on 22nd January 2020 ('Natural disasters' page)",
+                    "public_timestamp": "2021-01-22T12:45:48.000Z"
+                },
+                {
+                    "note": "Updated information on Tropical Cyclone Eloise ('Natural disasters' page)",
+                    "public_timestamp": "2021-01-23T11:30:43.000Z"
+                },
+                {
+                    "note": "Updated information on Tropical Cyclone Eloise ('Summary' page)",
+                    "public_timestamp": "2021-01-25T14:03:13.000Z"
+                },
+                {
+                    "note": "Updated information on tropical storm ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2021-02-11T17:45:07.000Z"
+                },
+                {
+                    "note": "Update to information on potential for a tropical cyclone to develop and make landfall in Mozambique from 19 February 2021 ('Summary' and 'Natural disasters' page)",
+                    "public_timestamp": "2021-02-16T12:50:45.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from Mozambique ('Summary' page)",
+                    "public_timestamp": "2021-02-16T17:23:37.000Z"
+                },
+                {
+                    "note": "Information on Tropical Storm Guambe ('Summary' and \u2018Natural disasters\u2019 pages)",
+                    "public_timestamp": "2021-02-18T15:16:44.000Z"
+                },
+                {
+                    "note": "Addition of information on the pre-departure COVID-19 testing requirement for travel to the UK  (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-02-19T12:33:16.000Z"
+                },
+                {
+                    "note": "Update of information on entry to the UK from Mozambique  ('Summary' page) ",
+                    "public_timestamp": "2021-02-19T15:36:27.000Z"
+                },
+                {
+                    "note": "Update to information on the extension of COVID-19 restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-02-25T13:03:01.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Mozambique ('Coronavirus' page)",
+                    "public_timestamp": "2021-03-01T15:17:41.000Z"
+                },
+                {
+                    "note": "Removal of information on tropical storm Guambe ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2021-03-01T16:16:48.000Z"
+                },
+                {
+                    "note": "New information on attack in Palma town ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-03-25T12:34:52.000Z"
+                },
+                {
+                    "note": "Information on attack in Palma town, Mozambique ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-03-25T21:01:32.000Z"
+                },
+                {
+                    "note": "Updated information on testing requirements for entry to Mozambique; travellers must present a negative COVID-19 test 72 hours prior to the time of arrival ('Summary' and 'Entry requirements' pages)",
+                    "public_timestamp": "2021-03-30T12:04:06.000Z"
+                },
+                {
+                    "note": "Updated information on state of emergency ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-04-12T07:01:52.000Z"
+                },
+                {
+                    "note": "Updated information on local COVID-19 restrictions ('Coronavirus' page)",
+                    "public_timestamp": "2021-04-28T14:44:11.000Z"
+                },
+                {
+                    "note": "Update to information on attacks in March and April 2021 ('Summary' and 'Terrorism' page)",
+                    "public_timestamp": "2021-05-06T15:22:47.000Z"
+                },
+                {
+                    "note": "Update to information on Coronavirus and entry requirements ",
+                    "public_timestamp": "2021-05-27T16:36:29.000Z"
+                },
+                {
+                    "note": "Update to information on the location of terrorist attacks in Mozambique (\u2018Terrorism\u2019 and \u2018Summary\u2019 pages)",
+                    "public_timestamp": "2021-06-01T09:18:04.000Z"
+                },
+                {
+                    "note": "Update to information on local COVID-19 restrictions (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-06-29T09:12:33.000Z"
+                },
+                {
+                    "note": "Information about COVID-19 vaccines if you live in Mozambique (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-07-13T15:31:07.000Z"
+                },
+                {
+                    "note": "Updated information on Mozambique's COVID-19 restrictions; curfew and public places/services restrictions and updated information for quarantine requirements when arriving into Mozambique (\u2018Coronavirus and Entry requirement\u2019 pages)",
+                    "public_timestamp": "2021-07-16T12:11:51.000Z"
+                },
+                {
+                    "note": "Information on what to do if you test positive for COVID-19 or develop COVID-19 symptoms in Mozambique ('Coronavirus' page)",
+                    "public_timestamp": "2021-07-23T10:34:12.000Z"
+                },
+                {
+                    "note": "Updated information on Mozambique's COVID-19 restrictions ('Coronavirus' page) and quarantine requirements ('Entry requirements' page)",
+                    "public_timestamp": "2021-08-18T11:55:25.000Z"
+                },
+                {
+                    "note": "Updated information on Mozambique's COVID-19 restrictions; the Mozambican government announced new COVID-19 restrictions starting at midnight on 21 September for a period of 30 days (ending 24 October) ('Coronavirus' page) ",
+                    "public_timestamp": "2021-09-27T10:40:37.000Z"
+                },
+                {
+                    "note": "From 4am on Monday 11 October, Mozambique will no longer be on the red list for entering England. Check what you must do to travel abroad and return to England, Scotland, Wales or Northern Ireland. ('Summary' and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-10-07T16:53:02.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Mozambique, based on the current assessment of COVID-19 risks ",
+                    "public_timestamp": "2021-10-11T09:31:58.000Z"
+                },
+                {
+                    "note": "Updated information on Mozambique's COVID-19 restrictions; changes in restrictions for travel around Mozambique and to access public places and services (\u2018Coronavirus\u2019 page)",
+                    "public_timestamp": "2021-10-27T08:57:26.000Z"
+                },
+                {
+                    "note": " The FCDO advises against all but essential travel to Mozambique, based on the current assessment of COVID-19 risks. From 04:00 on Sunday 28 November, Mozambique will be added to the red list for entering England ('Summary' page)",
+                    "public_timestamp": "2021-11-27T14:57:49.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Ancuabe and Metuge districts of Cabo Delgado province due to security reasons.  Advice against all but essential travel to the whole of Mozambique based on COVID-19 risks remains in place.  See the 'Summary' page for the list of areas where we advise against travel.  ('Summary' and 'Safety and security' pages)",
+                    "public_timestamp": "2021-12-03T11:06:55.000Z"
+                },
+                {
+                    "note": "From 4am on Wednesday 15 December, Mozambique will be removed from the red list (\u2018Summary\u2019 page)",
+                    "public_timestamp": "2021-12-14T15:45:33.000Z"
+                },
+                {
+                    "note": "The FCDO no longer advises against all but essential travel to Mozambique based on the current assessment of COVID-19 risks (\u2018Summary\u2019 and 'Coronavirus' pages)",
+                    "public_timestamp": "2021-12-15T04:09:44.000Z"
+                },
+                {
+                    "note": "The FCDO now advises against all but essential travel to the districts of Mecula, Mavago and Marrupa in Niassa Province due to attacks by groups with links to Islamic extremism  (\u2018Summary\u2019, 'Safety and security' and 'Terrorism' pages)",
+                    "public_timestamp": "2021-12-23T10:56:12.000Z"
+                },
+                {
+                    "note": "Updated information on Coronavirus measures within Mozambique and on arrival (\u2018Coronavirus\u2019 and \u2018Entry Requirements\u2019 pages); update on possible cyclone risk (\u2018Summary\u2019).",
+                    "public_timestamp": "2022-01-21T18:08:36.000Z"
+                },
+                {
+                    "note": "Updated to remove information on a specific cyclone risk on 23 January (\u2018Summary\u2019).",
+                    "public_timestamp": "2022-01-25T15:22:29.000Z"
+                },
+                {
+                    "note": "Update on the relaxation of Coronavirus restrictions in Mozambique (\u2018Coronavirus\u2019 page)  ",
+                    "public_timestamp": "2022-02-18T15:39:09.000Z"
+                },
+                {
+                    "note": "Added information and advice on Tropical cyclone Gombe ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2022-03-10T13:32:57.000Z"
+                },
+                {
+                    "note": "Updated information on Tropical cyclone Gombe ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2022-03-17T15:42:40.000Z"
+                },
+                {
+                    "note": "Updated information on visas ('Entry requirements' page)",
+                    "public_timestamp": "2022-04-12T09:23:30.000Z"
+                },
+                {
+                    "note": "Updated information on COVID-19 related entry requirements and restrictions ('Coronavirus' and 'Entry requirements' pages)",
+                    "public_timestamp": "2022-04-22T11:49:10.000Z"
+                },
+                {
+                    "note": "Update to information on tropical cyclones ('Summary' and 'Natural disasters' pages)",
+                    "public_timestamp": "2022-04-25T15:08:25.000Z"
+                },
+                {
+                    "note": "Changes to FCDO advice against travel.  The FCDO now advises against all but essential travel Ancuabe and Metuge districts.  We now advise against all but essential travel to Palma town and Afungi peninsula, having previously advised against all travel.  We no longer advise against all but essential travel to Niasss province and two roads in Sofala province. ('Summary' and 'Terrorism' pages)",
+                    "public_timestamp": "2022-06-16T10:23:15.000Z"
+                },
+                {
+                    "note": "Addition of information on the possibility of protests in Mozambique  ('Safety and security' page)",
+                    "public_timestamp": "2022-07-13T15:28:54.000Z"
+                },
+                {
+                    "note": " Updated information on new Coronavirus Measures ('Coronavirus' page).",
+                    "public_timestamp": "2022-09-02T15:13:32.000Z"
+                },
+                {
+                    "note": "Addition of information that advising against all but essential travel to the districts of Memba and Erati in Nampula province ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-09-30T15:38:48.000Z"
+                },
+                {
+                    "note": "Updated information that there are reports of an incident in Montepuez in Cabo Delgado - Mozambique.  Avoid the immediate area of the incident and follow the advice of the local authorities. If it\u2019s safe to do so, consider leaving the immediate area. If you\u2019re caught up in the incident, turn any mobile phones or other devices to silent and don\u2019t put your location on social media.",
+                    "public_timestamp": "2022-10-20T10:45:32.000Z"
+                },
+                {
+                    "note": "Updated information on the insurgency attack in Montepuez in Cabo Delgado - Mozambique.  On the morning of 20 October, approximately 10-20 insurgents carried out an attack in Montepuez, Cabo Delgado. The situation is now under control following the involvement of local security forces.  Avoid the immediate area of the incident and follow the advice of the local authorities. ",
+                    "public_timestamp": "2022-10-20T17:33:22.000Z"
+                },
+                {
+                    "note": "Updated information on the insurgency attack in Montepuez, Cabo Delgado - Mozambique ('Summary' page).",
+                    "public_timestamp": "2022-10-21T17:22:55.000Z"
+                },
+                {
+                    "note": "The FCDO continues to advise against all travel to the districts of Mueda, Nangade, Palma, Mocimboa da Praia, Muidumbe, Meluco, Macomia, Quissanga and Ibo in Cabo Delgado province, including the islands off the coast. The FCDO advises against all but essential travel to the rest of Cabo Delgado province and the districts of Memba and Erato in Nampula province ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2022-12-20T11:26:19.000Z"
+                },
+                {
+                    "note": "Updated information on applying for a visa through the visa e-portal ('Entry requirements' page).",
+                    "public_timestamp": "2023-02-09T14:10:32.000Z"
+                },
+                {
+                    "note": "Addition of information on tropical storm Freddy reaching Mozambique on 23rd or 24th February 2023 (\u2018Summary\u2019 page).",
+                    "public_timestamp": "2023-02-21T11:20:43.000Z"
+                },
+                {
+                    "note": "Updated information on tropical storm Freddy that reached Mozambique 24th February 2023 (\u2018Summary\u2019 page).",
+                    "public_timestamp": "2023-02-28T09:34:52.000Z"
+                },
+                {
+                    "note": "Updated information on Tropical storm (Cyclone Freddy) expect to return to Mozambique 10th and 11th March 2023 ('Summary' page).",
+                    "public_timestamp": "2023-03-08T16:39:50.000Z"
+                },
+                {
+                    "note": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                    "public_timestamp": "2023-06-22T10:46:08.000Z"
+                },
+                {
+                    "note": "Updated information on visa exemptions (\u2018Entry Requirements\u2019 page), COVID-19 Requirements and Maputo beach closure (\u2018Coronavirus\u2019 page).",
+                    "public_timestamp": "2023-07-05T13:49:26.000Z"
+                },
+                {
+                    "note": "Information on municipal elections on 11 October and the risk of protests (\u2018Summary\u2019 and \u2018Safety and security\u2019 pages).",
+                    "public_timestamp": "2023-10-10T13:28:37.000Z"
+                },
+                {
+                    "note": "Information on protests following municipal elections ('Summary' and 'Safety and security' pages).",
+                    "public_timestamp": "2023-10-17T09:00:10.000Z"
+                },
+                {
+                    "note": "Information on protests in various parts of the country following the municipal elections ('Summary' and 'Safety and security' page).\r\n\r\n",
+                    "public_timestamp": "2023-10-27T14:24:09.000Z"
+                }
+            ],
+            "country": {
+                "name": "Mozambique",
+                "slug": "mozambique",
+                "synonyms": []
+            },
+            "document": {
+                "attachment_type": "file",
+                "content_type": "application/pdf",
+                "id": "afec32d8-7627-4ddf-a41a-7ee775335966",
+                "url": "https://assets.publishing.service.gov.uk/media/64187f44e90e0769f0932851/FCDO_TA_028_-_Mozambique_Travel_Advice_Ed7.pdf"
+            },
+            "email_signup_link": "/foreign-travel-advice/mozambique/email-signup",
+            "image": {
+                "content_type": "image/jpeg",
+                "url": "https://assets.publishing.service.gov.uk/media/64187f44e90e0769f6228d4d/FCDO_TA_028_-_Mozambique_Travel_Advice_Ed7_WEB.jpg"
+            },
+            "max_cache_time": 10,
+            "parts": [
+                {
+                    "body": "<h3 id=\"the-foreign-commonwealth--development-office-fcdo-advises-against-all-travel-to\">The Foreign, Commonwealth &amp; Development Office (<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>) advises against all travel to:</h3>\n\n<ul>\n  <li>the districts of Mueda, Nangade, Palma (except Palma town), Mocimboa da Praia, Muidumbe, Meluco, Macomia, Quissanga and Ibo in Cabo Delgado province, including the islands off the coast.</li>\n</ul>\n\n<h3 id=\"the-fcdo-advises-against-all-but-essential-travel-to\">The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to:</h3>\n\n<ul>\n  <li>the rest of Cabo Delgado province, including Palma town</li>\n  <li>the districts of Memba and Erati in Nampula province.</li>\n</ul>\n\n<div class=\"example\">\n<p>Before you travel, <a href=\"/foreign-travel-advice/mozambique/entry-requirements#entry-rules-in-response-to-coronavirus-covid-19\">check the \u2018Entry requirements\u2019 section</a> for Mozambique\u2019s current entry restrictions and requirements. These may change with little warning. Monitor this advice for the latest updates and stay in contact with your travel provider.</p>\n\n<p>If you plan to pass through another country to return to the UK, check the travel advice for the country you\u2019re transiting.</p>\n</div>\n\n<p>It is more important than ever to get travel insurance and check it provides sufficient cover. See the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u2019s <a href=\"/guidance/foreign-travel-insurance\">guidance on foreign travel insurance</a>.</p>\n\n<p>Municipal elections passed largely peacefully on 11 October. Disputes over the subsequent results have seen almost daily demonstrations in multiple parts of the country including the capital, Maputo. While the majority of the protests have been peaceful they can turn violent without warning. Stay away from crowds, monitor local media and follow the advice of local authorities. See\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/mozambique/safety-and-security\">Safety and security</a></p>\n\n<p>Terrorists are very likely to try to carry out attacks in Mozambique. There has been an increasing intensity of attacks in areas of Cabo Delgado province dating back to January 2019. There was a large-scale attack on Palma in March/April 2021 in which dozens of people were killed. Since May/June 2022 there has been a series of attacks in the Ancuabe,Metuge and Chiure districts of Cabo Delgado and in the Memba and Erati districts of Nampula province just to the south. Although there have been no recent reports of attacks in the Mecula, Mavago and Marrupa districts of Niassa Province, you should remain vigilant in these areas, as the situation may change with no prior warning. Militants have used explosives, machetes and firearms to conduct lethal attacks, as well as burning vehicles and homes. Attacks have been carried out on the mainland and on islands off the coast, including in areas frequented by foreigners. There is an increased security presence in the province, including road blocks, and there are regular clashes between militants, armed vigilante groups and Mozambican security forces. There is also a threat of kidnap in Mozambique, which is particularly acute in northern districts of Cabo Delgado province. See <a href=\"https://www.gov.uk/foreign-travel-advice/mozambique/terrorism\">Terrorism</a>.</p>\n\n<p>Coastal areas are at risk from tropical cyclones during the rainy season (November to April). Widespread flooding can also occur around river basins, especially the Zambezi, Licungo, Pungue, Buzi, Limpopo and Save. The rainy season (November to April) will also make roads harder to pass, and make some areas impassable.</p>\n\n<p>There continues to be a risk of cyclone and tropical storm weather systems during the rainy season (November to April). These may lead to widespread damage to infrastructure as well as disruption to basic services including communications, power and water supplies.</p>\n\n<p>You should monitor the\u00a0<a rel=\"external\" href=\"https://www.inam.gov.mz/\">National Meterological Institute</a>\u00a0(in Portuguese) for the latest information and follow instructions from the local authorities. See\u00a0<a href=\"https://www.gov.uk/foreign-travel-advice/mozambique/natural-disasters\">Natural disasters</a>.</p>\n\n<p>Most visits to Mozambique are trouble-free, but violent crime does occur and there have been cases of criminal kidnappings. You should take extra care. See <a href=\"/foreign-travel-advice/mozambique/safety-and-security#crime\">Crime</a></p>\n\n<p>Traffic accidents are common due to the condition of the roads, poor driving and vehicle standards. Always drive carefully and be aware of pedestrians using the roads. If you\u2019re travelling by road make sure you have relevant documents with you at all times and monitor local media for traffic updates. See <a href=\"https://www.gov.uk/foreign-travel-advice/mozambique/safety-and-security#road-travel\">Road travel</a></p>\n\n<p>Piracy remains a significant threat in the Gulf of Aden and Indian Ocean. See <a href=\"/foreign-travel-advice/mozambique/safety-and-security#sea-travel\">Sea travel</a></p>\n\n<p>Consular support is limited in parts of Mozambique where the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> has existing advice against all but essential travel (see above). If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>.</p>\n\n<p>The <a href=\"https://www.gov.uk/government/collections/overseas-business-risk\">Overseas Business Risk service</a> offers information and advice for British companies operating overseas on how to manage political, economic, and business security-related risks.</p>\n\n",
+                    "slug": "summary",
+                    "title": "Summary"
+                },
+                {
+                    "body": "<h2 id=\"coronavirus-travel-health\">Coronavirus travel health</h2>\n\n<p>Check the latest information on risk from COVID-19 for Mozambique on the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/155/mozambique#COVID-19\">TravelHealthPro website</a></p>\n\n<p>See the TravelHealthPro website for further advice on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/news/499/novel-coronavirus-covid-19-general-advice-for-travellers\">travel abroad and reducing spread of respiratory viruses during the COVID-19 pandemic</a>.</p>\n\n<h2 id=\"international-travel\">International travel</h2>\n\n<p>Commercial flights to and from Maputo  are operating normally. Check with your travel company for the latest information.</p>\n\n<h2 id=\"entry-and-borders\">Entry and borders</h2>\n\n<p>See <a href=\"/foreign-travel-advice/mozambique/entry-requirements\">Entry requirements</a> to find out what you will need to do when you arrive in Mozambique.</p>\n\n<h2 id=\"travel-in-mozambique\">Travel in Mozambique</h2>\n\n<p>The Mozambican government has declared the end of the \u201cState of Calamity 2\u201d and removed COVID-19 restrictions.</p>\n\n<p>Wearing face coverings is no longer compulsory, but recommended in health facilities, doctor\u2019s office, laboratories, pharmacies, elderly care homes and inside commercial aircrafts.</p>\n\n<p>You do not need to self-isolate if you test positive or if you have been in areas with high incidence of coronavirus cases.</p>\n\n<p>All border posts are now open.</p>\n\n<h2 id=\"accommodation\">Accommodation</h2>\n\n<p>Most hotels and other accommodations are open. Please check with your accommodation provider before you travel.</p>\n\n<h2 id=\"public-places-and-services\">Public places and services</h2>\n\n<p>Most shopping centres, markets, restaurants, cafes and bars are open, with no restrictions on timings.</p>\n\n<p>Most public beaches are now open, however alcohol consumption on beaches is prohibited. In Maputo, the beach is closed from 7pm to 5am. Swimming pools, gyms and other areas for physical training activities are now open. Hotel swimming pools are open for guests only.</p>\n\n<h2 id=\"healthcare-in-mozambique\">Healthcare in Mozambique</h2>\n\n<p>For contact details of English speaking doctors, <a href=\"https://www.gov.uk/government/publications/mozambique-list-of-medical-facilties\">visit our list of healthcare providers</a>.</p>\n\n<p>Your emotional and mental wellbeing is important. Read <a href=\"/guidance/wellbeing-and-mental-health-during-the-coronavirus-covid-19-pandemic\">guidance on how to look after your mental wellbeing and mental health</a>.</p>\n\n<p>View <a href=\"/foreign-travel-advice/mozambique/health\">Health</a> for further details on healthcare in Mozambique.</p>\n\n<p>See also the guidance on <a href=\"/guidance/healthcare-support-for-when-you-are-unable-to-return-to-the-uk-during-coronavirus-covid-19\">healthcare if you\u2019re waiting to return to the UK</a>.</p>\n\n<h2 id=\"finance\">Finance</h2>\n\n<p>For information on financial support you can access whilst abroad, visit our <a href=\"/government/publications/financial-assistance-abroad/financial-assistance-abroad\">financial assistance guidance</a>.</p>\n\n",
+                    "slug": "coronavirus",
+                    "title": "Coronavirus"
+                },
+                {
+                    "body": "<p>Protests or demonstrations can occur with little notice. You should remain vigilant, avoid demonstrations, protests and marches, and carry ID with you at all times. Stay alert for signs of disturbances. In the event that unrest occurs, you should follow instructions from the local authorities.</p>\n\n<p>Some of the results of the municipal elections, held on 11 October, have been disputed and protests have been held almost daily in various parts of the country including in the capital, Maputo. Demonstrations and protests, which could turn violent, are likely to continue until early November when we expect the final results to be confirmed. Until then, pay more attention to your surroundings, stay away from crowds and monitor the local media.</p>\n\n<h2 id=\"crime\">Crime</h2>\n<p>Most visits to Mozambique are trouble-free, but street crime, sometimes involving knives and firearms, is common in Maputo and increasing in other cities and tourist destinations. There are some areas in cities which are more dangerous; seek local advice.</p>\n\n<p>Be vigilant at all times. Beaches or offshore islands are not policed. Avoid walking alone at night and don\u2019t display valuables or money. Use a hotel safe if possible. Avoid withdrawing cash from ATMs at night.</p>\n\n<p>Some visitors to Mozambique report being victims of police harassment, including robbery, or requests for bribes. If a police officer threatens you or asks for a bribe, you should <a href=\"https://www.gov.uk/government/world/organisations/british-high-commission-maputo\">report the incident to the British High Commission Maputo</a>.</p>\n\n<p>If you are a victim of any form of crime and wish to report it, contact the local police immediately and get a police report. If your passport is stolen you should also contact the British High Commission and inform the local immigration authorities.</p>\n\n<p>There have been criminal kidnappings reported in Mozambique, mainly in Maputo. While most victims have been Mozambicans, foreigners have also been targeted.</p>\n\n<h2 id=\"local-travel\">Local travel</h2>\n\n<p>If you\u2019re working in Mozambique, you should follow your employer\u2019s local security guidelines. Employers are strongly advised to take professional security advice, be vigilant at all times and review security measures regularly. Keep others informed of your travel plans and vary your routines. Make sure your accommodation is secure and consider pre-deployment training or travelling under close protection, particularly if working in Cabo Delgado. See <a href=\"/foreign-travel-advice/mozambique/terrorism\">Terrorism</a></p>\n\n<h3 id=\"cabo-delgado-province\">Cabo Delgado province</h3>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all travel to the districts of Mueda, Nangade, Palma, Mocimboa da Praia, Muidumbe, Meluco, Macomia, Quissanga and Ibo in Cabo Delgado province, including the islands off the coast, due to attacks by groups with links to Islamist extremism.</p>\n\n<p>The\u00a0<abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr>\u00a0advises against all but essential travel to the remainder of Cabo Delgado Province due to attacks by groups with links to Islamist extremism. There are no direct flights between Palma town and Maputo and we advise against travelling to there by road. See <a href=\"https://www.gov.uk/foreign-travel-advice/mozambique/terrorism\">Terrorism</a>.</p>\n\n<h3 id=\"nampula-province\">Nampula Province</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> advises against all but essential travel to the districts of Memba and Erati in Nampula province due to attacks by groups with links to Islamist extremism.</p>\n\n<h3 id=\"minefields\">Minefields</h3>\n<p>All known minefields in Mozambique have been cleared. In the central and southern provinces (Sofala, Tete, Manica, Gaza, Inhambane, Maputo), mines may still exist in remote areas away from main routes. Seek advice from district authorities if you\u2019re travelling in these areas.</p>\n\n<h2 id=\"road-travel\">Road travel</h2>\n<p>UK driving licences are valid for up to 90 days. If you intend to stay longer you should get an <a rel=\"external\" href=\"http://www.theaa.com/getaway/idp/index.html\">International Driving Permit</a> or apply for a Mozambican licence. The office which issues driving licences has now reopened. It is an offence not to carry your driving licence with you when driving. Be ready to present original car documentation when requested by the police.</p>\n\n<p>Third party insurance cover is compulsory. You can buy this at most land borders. You should carry two reflective triangles and a reflective vest in your vehicle at all times. You must wear the reflective vest when repairing, loading or unloading a vehicle. Police officers sometimes attempt to extract bribes from tourists. Don\u2019t pay a bribe to anyone. If you are stopped by the police, ask for a clear explanation of the offence and a written fine that can be paid at a police station.</p>\n\n<p>Only travel by road outside Maputo and other major cities during daylight. Where possible, keep to major roads and travel in convoy in rural areas. Fuel is often only available in larger towns.</p>\n\n<p>There have been reports of carjacking, particularly in Maputo but also between Boane and the Swaziland border crossing points of Namaacha and Goba. Keep your car doors locked while driving. Be particularly vigilant when arriving at or leaving residential properties after dark. Avoid driving alone at night.</p>\n\n<p>Don\u2019t pick up strangers or stop to help distressed motorists or pedestrians. Hijackers sometimes use these techniques to trick motorists into stopping their vehicle. If in doubt, drive directly to a police station.</p>\n\n<p>Traffic accidents are common in Mozambique due to the condition of the roads and poor driving and vehicle standards. Always drive carefully and be aware of pedestrians using the roads.</p>\n\n<p>Overland travel on public transport can be hazardous due to poor vehicle and road conditions. If you doubt a vehicle\u2019s condition, make alternative arrangements.</p>\n\n<p>Low-lying areas around major rivers flood regularly during the rainy season (November - April) making many roads impassable. Check local conditions before travelling. Make sure you have emergency supplies, including a first aid kit.</p>\n\n<h2 id=\"air-travel\">Air travel</h2>\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> can\u2019t offer advice on the safety of individual airlines. However, the International Air Transport Association publishes lists of registered airlines that have been audited and found to meet a number of operational safety standards and recommended practices \u2013 <a rel=\"external\" href=\"http://www.iata.org/whatwedo/safety/audit/iosa/Pages/registry.aspx\">IATA Operational Safety Audit</a> and <a rel=\"external\" href=\"http://www.iata.org/whatwedo/safety/audit/issa/Pages/registry.aspx?Query=all\">IATA Standard Safety Assessment</a>. These lists aren\u2019t exhaustive and the absence of an airline from this list doesn\u2019t necessarily mean that it\u2019s unsafe.</p>\n\n<p>The International Civil Aviation Organisation has <a rel=\"external\" href=\"http://www.icao.int/safety/Pages/USOAP-Results.aspx\">carried out an audit</a> of the level of implementation of the critical elements of safety oversight in Mozambique.</p>\n\n<p>You can find a list of recent incidents and accidents on the <a rel=\"external\" href=\"http://aviation-safety.net/database/country/country.php?id=C9\">website of the Aviation Safety network</a>.</p>\n\n<p>Flights operated by the Government-owned airline LAM are prone to cancellation without notice. Check your flight information between 24 and 48 hours before your scheduled departure.</p>\n\n<h2 id=\"sea-travel\">Sea travel</h2>\n<p>Recent piracy attacks off the coast of Somalia and in the Gulf of Aden highlight that the threat of piracy related activity and armed robbery in the Gulf of Aden and Indian Ocean remains significant. Reports of attacks on local fishing dhows in the area around the Gulf of Aden and Horn of Africa continue. The combined threat assessment of the international Naval Counter Piracy Forces remains that all sailing yachts under their own passage should remain out of the <a rel=\"external\" href=\"http://www.mschoa.org/on-shore/home\">designated High Risk Area</a> or face the risk of being hijacked and held hostage for ransom. For more information and advice, see <a href=\"/guidance/sea-river-and-piracy-safety\">Piracy and armed robbery at sea</a>.</p>\n\n<h2 id=\"political-situation\">Political situation</h2>\n<p>President Filipe Nyusi was re-elected for a second term in October 2019.</p>\n\n<p>Protests or demonstrations can occur with little notice. You should remain vigilant, monitor local media reports, avoid demonstrations and large crowds, and carry ID with you at all times. Make sure you have a means of communication with you at all times and that your mobile phone is charged.</p>\n\n",
+                    "slug": "safety-and-security",
+                    "title": "Safety and security"
+                },
+                {
+                    "body": "<p>Terrorists are very likely to try to carry out attacks in Mozambique. Attacks could be indiscriminate, including in places visited by foreigners. You should be vigilant at all times, especially in crowded areas and public places and you should follow the advice of local authorities.</p>\n\n<div class=\"example\">\n<p>UK Counter Terrorism Policing has information and advice on\u00a0<a rel=\"external\" href=\"https://www.counterterrorism.police.uk/safetyadvice/\">staying safe abroad</a>\u00a0and what to do in the event of a terrorist attack. Find out\u00a0<a href=\"https://www.gov.uk/guidance/reduce-your-risk-from-terrorism-while-abroad\">how to reduce your risk from\u00a0terrorism while abroad</a>.</p>\n</div>\n\n<p>Groups with links to Islamist extremism have carried out attacks in Cabo Delgado since late 2017, with attacks reported in the districts of Palma, Mocimboa da Praia, Macomia, Nangade, Quissanga, Muidumbe, Meluco, Ancuabe, Metuge, Chiure Ibo and Mueda, including the islands off the coast. Attacks may also take place outside of these areas. Militants have used explosives, machetes and firearms to conduct lethal attacks, including attacks on vehicles. In June 2019, Islamic State claimed responsibility for an attack for the first time. There was a large-scale attack on Palma in March/April 2021, also claimed by the Islamic State, in which dozens of people were killed. Since mid-2022, groups with links to Islamist extremism have also carried out attacks in the districts of Memba and Erati in Nampula province.</p>\n\n<p>Although there have been no recent reports of attacks in the Mecula, Mavago and Marrupa districts of Niassa Province, you should remain vigilant in these areas, as the situation may change with no prior warning.  There are heightened security measures in place throughout Cabo Delgado province, including road blocks and vehicle checks. There are regular clashes between insurgents, armed vigilante groups and Mozambican security forces in areas where we advise against all or all but essential travel.</p>\n\n<p>There is a high threat of terrorist attack globally affecting UK interests and British nationals, including from groups and individuals who view the UK and British nationals as targets. You should remain vigilant at all times.</p>\n\n<h2 id=\"kidnap\">Kidnap</h2>\n<p>Due to the presence of groups with links to Islamist extremism, there is a threat of kidnap in Mozambique. The threat is particularly acute in northern districts of Cabo Delgado province.</p>\n\n<p>British nationals are viewed as legitimate targets, including those engaged in tourism, humanitarian aid work, journalism or business sectors. If you\u2019re kidnapped, the reason for your presence is unlikely to serve as a protection or secure your safe release.</p>\n\n<p>If you\u2019re working in Mozambique, you should follow your employer\u2019s local security guidelines. Employers are strongly advised to take professional security advice, be vigilant at all times and review security measures regularly. Keep others informed of your travel plans and vary your routines. Make sure your accommodation is secure and consider pre-deployment training or travelling under close protection, particularly if working in Cabo Delgado.</p>\n\n<p>The long-standing policy of the British government is not to make substantive concessions to hostage takers. The British government considers that paying ransoms and releasing prisoners builds the capability of terrorist groups and finances their activities. This can, in turn, increase the risk of further hostage-taking. The Terrorism Act (2000) makes payments to terrorists illegal.</p>\n",
+                    "slug": "terrorism",
+                    "title": "Terrorism"
+                },
+                {
+                    "body": "<p>You must by law carry original identity documents at all times and present them on request to the authorities. Police patrols and checkpoints are common. Don\u2019t hand over your passport to anyone other than an official. Ask to see their ID if in doubt.</p>\n\n<p>Photographing government offices, airports, military establishments, residences and the police or officials is illegal without special permission from the Mozambique Information Office (Gabinete de Informa\u00e7\u00e3o \u2013 GABINFO). If in doubt, don\u2019t take pictures.</p>\n\n<p>Drug use, possession and trafficking are serious offences. Punishments can include long jail terms and heavy fines.</p>\n\n<p>Homosexuality is legal. Attitudes in Maputo tend to be more liberal than in more remote rural or religious areas of the country. See our <a href=\"https://www.gov.uk/guidance/lesbian-gay-bisexual-and-transgender-foreign-travel-advice\">information and advice page</a> for the LGBT+ community before you travel.</p>\n",
+                    "slug": "local-laws-and-customs",
+                    "title": "Local laws and customs"
+                },
+                {
+                    "body": "<div class=\"call-to-action\">\n\n  <p>This page has information on travelling to Mozambique.</p>\n\n</div>\n\n<p>This page reflects the UK government\u2019s understanding of current rules for people travelling on a full \u2018British Citizen\u2019 passport from the UK, for the most common types of travel.</p>\n\n<p>The authorities in Mozambique set and enforce entry rules. If you\u2019re unsure how Mozambique\u2019s entry requirements apply to you, contact its <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">UK embassy, high commission or consulate</a>.</p>\n\n<h2 id=\"all-travellers\">All travellers</h2>\n\n<p>See <a href=\"https://www.gov.uk/foreign-travel-advice/mozambique/entry-requirements#visas\">Visas</a> for more information.</p>\n\n<h2 id=\"covid-19\">COVID-19</h2>\n\n<p>You do not have to present a verifiable full vaccination certificate at the point of entry. If you have a COVID-19 certificate, it is always best to carry it with you.</p>\n\n<p>You do not have to to provide a negative PCR test if you have not been vaccinated against COVID-19.</p>\n\n<p>Check with your travel company or airline for changes.</p>\n\n<p>If you test positive for COVID-19, you may need to stay where you are until you test negative. You may also need to seek treatment there.</p>\n\n<h3 id=\"proof-of-vaccination-status\">Proof of vaccination status</h3>\n\n<p>Mozambique will accept the UK\u2019s <a href=\"https://www.gov.uk/guidance/demonstrating-your-covid-19-status\">proof of COVID-19 vaccination record</a> and proof of COVID-19 vaccination issued in the Crown Dependencies. Your final vaccine dose must have been administered at least 14 days prior to travel. Your NHS appointment card from vaccination centres is not designed to be used as proof of vaccination and should not be used to demonstrate your vaccine status.</p>\n\n<h2 id=\"if-youre-transiting-through-mozambique\">If you\u2019re transiting through Mozambique</h2>\n\n<p>Transiting is when you pass through one country on the way to your final destination.</p>\n\n<p>Transiting through Mozambique is permitted for all travellers who follow the entry requirements.</p>\n\n<h2 id=\"exemptions\">Exemptions</h2>\n\n<p>There are no exemptions to Mozambique\u2019s entry requirements.</p>\n\n<h2 id=\"check-your-passport-and-travel-documents-before-you-travel\">Check your passport and travel documents before you travel</h2>\n\n<h3 id=\"passport-validity\">Passport validity</h3>\n\n<p>If you are visiting Mozambique, your passport should be valid for 6 months from the date you arrive and have at least two blank pages.</p>\n\n<p>Check with your travel provider to make sure your passport and other travel documents meet their requirements.</p>\n\n<h3 id=\"visas\">Visas</h3>\n\n<p>If you are traveling to Mozambique for tourism or business on a normal passport and staying for less than 30 days, you are visa exempt.</p>\n\n<p>You must make a payment of 650 meticais equivalent to $10 with cash or card at the point of entry (airport or border post).</p>\n\n<p>You must present on entry a return air ticket (for air travellers) and an invitation from either family / friends or a confirmed hotel reservation.</p>\n\n<p>For all other visa types, you will need a visa to enter the country. You can now apply for a visa through the <a rel=\"external\" href=\"https://evisa.gov.mz/\">new e-visa portal online</a> by selecting the most appropriate visa for your travel.</p>\n\n<h3 id=\"travel-to-or-from-south-africa\">Travel to or from South Africa</h3>\n\n<p>If you\u2019re planning to enter South Africa before or after you visit Mozambique, you should refer to the <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements\">travel advice for South Africa</a>.</p>\n\n<h3 id=\"travelling-with-children-via-south-africa\">Travelling with children via South Africa</h3>\n\n<p>If you\u2019re transiting through South Africa with children, see our <a href=\"https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements\">South Africa travel advice page</a> for information and advice about the documents you\u2019ll need to carry.</p>\n\n<h3 id=\"border-formalities\">Border formalities</h3>\n\n<p>It can take a long time to clear border formalities at the Lebombo/Ressano Garcia land crossing with South Africa, especially during holiday periods and if you are travelling on public transport. Allow adequate time to arrive at your destination before nightfall.</p>\n\n<p>There have been reports of armed robberies close to the Lebombo border at Nelspruit. These often take place in queues for the border, when your vehicle is stationary, mainly after dark. When you stop at junctions or in queues, ensure you can see the tyres of the car in front of you, giving you space to escape if you need to.</p>\n\n<h3 id=\"yellow-fever-certificate-requirements\">Yellow fever certificate requirements</h3>\n\n<p>Check whether you need a yellow fever certificate by visiting the National Travel Health Network and Centre\u2019s <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/155/mozambique\">TravelHealthPro website</a>.</p>\n\n",
+                    "slug": "entry-requirements",
+                    "title": "Entry requirements"
+                },
+                {
+                    "body": "<p>If you have a health condition, or you are pregnant, you may need specialist healthcare abroad. Check whether your destination country can provide the healthcare you may need and ensure you have <a href=\"https://www.gov.uk/guidance/foreign-travel-insurance\">appropriate travel insurance</a> for unexpected medical evacuation or local treatment.</p>\n\n<div class=\"example\">\n<p>See the Coronavirus travel health and Healthcare sections in the\u00a0<a href=\"/foreign-travel-advice/mozambique/coronavirus\">Coronavirus page</a> for COVID-19 health information.</p>\n</div>\n\n<p>At least 8 weeks before your trip, check the latest country-specific health advice from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/country/155/mozambique\">National Travel Health Network and Centre (NaTHNaC)</a> on the TravelHealthPro website. Each country-specific page has information on vaccine recommendations, any current health risks or outbreaks, and factsheets with information on staying healthy abroad. Guidance is also available from NHS (Scotland) on the <a rel=\"external\" href=\"https://www.fitfortravel.nhs.uk/destinations.aspx\">FitForTravel website</a>.</p>\n\n<p>General information on <a rel=\"external\" href=\"https://www.nhs.uk/conditions/travel-vaccinations/\">travel vaccinations</a> and a <a rel=\"external\" href=\"https://www.nhs.uk/live-well/healthy-body/travel-health-checklist/\">travel health checklist</a> is available on the NHS website.  You may then wish to contact your health adviser or pharmacy for advice on other preventive measures and managing any pre-existing medical conditions while you\u2019re abroad.</p>\n\n<p>The legal status and regulation of some medicines prescribed or purchased in the UK can be different in other countries. If you\u2019re travelling with prescription or over-the-counter medicine, read this guidance from NaTHNaC on <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/43/medicines-abroad\">best practice when travelling with medicines</a>. For further information on the legal status of a specific medicine, you\u2019ll need to contact the <a href=\"https://www.gov.uk/government/publications/foreign-embassies-in-the-uk\">embassy, high commission or consulate</a> of the country or territory you\u2019re travelling to.</p>\n\n<p>While travel can be enjoyable, it can sometimes be challenging. There are clear links between mental and physical health, so looking after yourself during travel and when abroad is important. Information on travelling with mental health conditions is available in our <a href=\"https://www.gov.uk/guidance/foreign-travel-advice-for-people-with-mental-health-issues\">guidance</a> page. Further information is also available from the <a rel=\"external\" href=\"https://travelhealthpro.org.uk/factsheet/85/travelling-with-mental-health-conditions\">National Travel Health Network and Centre</a> (NaTHNaC).</p>\n\n<h3 id=\"healthcare\">Healthcare</h3>\n<p>Hospital facilities are of a lower standard compared to the UK, especially in the north of the country. In cases of serious illness or injury, medical evacuation to South Africa or the UK may be necessary.</p>\n\n<p>Make sure you have adequate travel health insurance and accessible funds to cover the cost of any medical treatment abroad and repatriation.</p>\n\n<p>If you need emergency medical assistance during your trip, dial 08911, 21313103 or 21322222 and ask for an ambulance. You should contact your insurance/medical assistance company promptly if you are referred to a medical facility for treatment.</p>\n",
+                    "slug": "health",
+                    "title": "Health"
+                },
+                {
+                    "body": "<p>Mozambique is regularly affected by natural disasters, including floods, drought and cyclones. Cyclones and floods are particularly common during the rainy season (November-April).</p>\n\n<p>Floods and landslides are likely in affected areas. Monitor local reports and international weather updates from the <a rel=\"external\" href=\"http://severe.worldweather.org/\">World Meteorological Organisation</a>, check your routes before travelling around the country and follow the advice of the local authorities.</p>\n\n<p>You should monitor the <a rel=\"external\" href=\"https://www.inam.gov.mz/\">National Meterological Institute website (in portuguese)</a> for the latest information and follow instructions from the local authorities.</p>\n\n<p>See our <a href=\"https://www.gov.uk/tropical-cyclones\">Tropical cyclones page</a> for advice about how to prepare effectively and what to do if you\u2019re likely to be affected by a tropical cyclone.</p>\n",
+                    "slug": "natural-disasters",
+                    "title": "Natural disasters"
+                },
+                {
+                    "body": "<p>The currency of Mozambique is the Metical (\u2018meticais\u2019 in plural).</p>\n\n<p>When entering or exiting the country, travellers must declare any physical amount of money above 10,000 meticais or $10,000 US dollars, or equivalent in other foreign currencies.</p>\n\n<p>Make sure you can access money in a variety of ways. Travellers\u2019 cheques are not commonly accepted. US dollars and South African rand are the main exchange currencies.</p>\n\n<p>Credit cards are increasingly accepted in the larger cities. You should tell your bank before using your card in Mozambique.</p>\n\n",
+                    "slug": "money",
+                    "title": "Money"
+                },
+                {
+                    "body": "\n<div role=\"note\" aria-label=\"Warning\" class=\"application-notice help-notice\">\n<p>If you\u2019re abroad and you need emergency help from the UK government, contact the <a href=\"https://www.gov.uk/government/world/embassies\">nearest British embassy, consulate or high commission</a>. If you need urgent help because something has happened to a friend or relative abroad, contact the Foreign, Commonwealth &amp; Development Office (FCDO) in London on 020 7008 5000 (24 hours).</p>\n</div>\n\n<h3 id=\"foreign-travel-checklist\">Foreign travel checklist</h3>\n\n<p>Read our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> to help you plan for your trip abroad and stay safe while you\u2019re there.</p>\n\n<h3 id=\"travel-safety\">Travel safety</h3>\n\n<p>The <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice helps you make your own decisions about foreign travel. Your safety is our main concern, but we can\u2019t provide tailored advice for individual trips. If you\u2019re concerned about whether or not it\u2019s safe for you to travel, you should read the travel advice for the country or territory you\u2019re travelling to, together with information from other sources you\u2019ve identified, before making your own decision on whether to travel. Only you can decide whether it\u2019s safe for you to travel.</p>\n\n<p>When we judge the level of risk to British nationals in a particular place has become unacceptably high, we\u2019ll state on the travel advice page for that country or territory that we advise against all or all but essential travel. <a href=\"https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice\">Read more about how the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> assesses and categorises risk in foreign travel advice</a>.</p>\n\n<p>Our <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggests additional things you can do before and during foreign travel to help you stay safe.</p>\n\n<h3 id=\"refunds-and-cancellations\">Refunds and cancellations</h3>\n\n<p>If you wish to cancel or change a holiday that you\u2019ve booked, you should contact your travel company. The question of refunds and cancellations is a matter for you and your travel company. Travel companies make their own decisions about whether or not to offer customers a refund. Many of them use our travel advice to help them reach these decisions, but we do not instruct travel companies on when they can or can\u2019t offer a refund to their customers.</p>\n\n<p>For more information about your rights if you wish to cancel a holiday, visit <a rel=\"external\" href=\"https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/cancelling-a-holiday/\">the Citizen\u2019s Advice Bureau website</a>. For help resolving problems with a flight booking, visit the <a rel=\"external\" href=\"https://www.caa.co.uk/Passengers/Resolving-travel-problems/\">website of the Civil Aviation Authority</a>. For questions about travel insurance, contact your insurance provider and if you\u2019re not happy with their response, you can complain to the <a rel=\"external\" href=\"http://www.financial-ombudsman.org.uk/consumer/complaints.htm\">Financial Ombudsman Service</a>.</p>\n\n<h3 id=\"registering-your-travel-details-with-us\">Registering your travel details with us</h3>\n\n<p>We\u2019re no longer asking people to register with us before travel. Our <a href=\"https://www.gov.uk/guidance/foreign-travel-checklist\">foreign travel checklist</a> and <a href=\"https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas\">crisis overseas page</a> suggest things you can do before and during foreign travel to plan your trip and stay safe.</p>\n\n<h3 id=\"previous-versions-of-fcdo-travel-advice\">Previous versions of <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice</h3>\n\n<p>If you\u2019re looking for a previous version of the <abbr title=\"Foreign, Commonwealth &amp; Development Office\">FCDO</abbr> travel advice, visit the <a rel=\"external\" href=\"http://webarchive.nationalarchives.gov.uk/*/http:/www.gov.uk/foreign-travel-advice\">National Archives website</a>.  Versions prior to 2 September 2020 will be archived as FCO travel advice. If you can\u2019t find the page you\u2019re looking for there, <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Mozambique&amp;post=Mozambique%20travel%20advice%20team\">send the Travel Advice Team a request</a>.</p>\n\n<h3 id=\"further-help\">Further help</h3>\n\n<p>If you\u2019re a British national and you have a question about travelling abroad that isn\u2019t covered in our foreign travel advice or elsewhere on GOV.UK, you can <a rel=\"external\" href=\"https://www.contact-embassy.service.gov.uk/?country=Mozambique&amp;post=Mozambique%20travel%20advice%20team\">submit an enquiry</a>, or contact us on <a rel=\"external\" href=\"https://twitter.com/FCDOtravelGovUK\">Twitter</a> or <a rel=\"external\" href=\"https://en-gb.facebook.com/FCDOTravel\">Facebook</a>. We\u2019re not able to provide tailored advice for specific trips.</p>\n\n",
+                    "slug": "travel-advice-help-and-support",
+                    "title": "Travel advice help and support"
+                }
+            ],
+            "reviewed_at": "2023-10-27T14:24:09Z",
+            "updated_at": "2023-10-27T14:24:09Z"
+        },
+        "document_type": "travel_advice",
+        "first_published_at": "2013-03-18T00:00:00Z",
+        "links": {
+            "available_translations": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/mozambique",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/mozambique",
+                    "base_path": "/foreign-travel-advice/mozambique",
+                    "content_id": "eb77a950-bd40-4a8d-8f3b-1f92d126930d",
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-27T14:24:09Z",
+                    "schema_name": "travel_advice",
+                    "title": "Mozambique travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/mozambique",
+                    "withdrawn": false
+                }
+            ],
+            "meets_user_needs": [
+                {
+                    "api_path": "/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "api_url": "https://www.gov.uk/api/content/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "base_path": "/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "content_id": "5118d7b4-215d-45e6-bd20-15d7bc21314f",
+                    "details": {
+                        "benefit": "I can adjust my travel insurance policy accordingly",
+                        "goal": "know what the government's official travel advice is to a country, or part of a country",
+                        "justifications": [
+                            "There is clear demand for it from users"
+                        ],
+                        "met_when": null,
+                        "role": "travel insurance provider"
+                    },
+                    "document_type": "need",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "need",
+                    "title": "As a travel insurance provider, I need to know what the government's official travel advice is to a country, or part of a country, so that I can adjust my travel insurance policy accordingly (101191)",
+                    "web_url": "https://www.gov.uk/needs/know-what-the-government-s-official-travel-advice-is-to-a-country-or-part-of-a-country",
+                    "withdrawn": false
+                }
+            ],
+            "ordered_related_items": [
+                {
+                    "api_path": "/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "base_path": "/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "content_id": "dd34d3a4-56bd-4cf5-b821-d76f9d997153",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-29T07:47:58Z",
+                    "schema_name": "detailed_guide",
+                    "title": "About Foreign, Commonwealth & Development Office travel advice",
+                    "web_url": "https://www.gov.uk/guidance/about-foreign-commonwealth-development-office-travel-advice",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/government/collections/support-for-british-nationals-abroad",
+                    "api_url": "https://www.gov.uk/api/content/government/collections/support-for-british-nationals-abroad",
+                    "base_path": "/government/collections/support-for-british-nationals-abroad",
+                    "content_id": "aad65646-964d-4f68-ac22-5bc6c8281336",
+                    "document_type": "document_collection",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2022-08-31T15:02:00Z",
+                    "schema_name": "document_collection",
+                    "title": "Support for British nationals abroad",
+                    "web_url": "https://www.gov.uk/government/collections/support-for-british-nationals-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/guidance/foreign-travel-checklist",
+                    "api_url": "https://www.gov.uk/api/content/guidance/foreign-travel-checklist",
+                    "base_path": "/guidance/foreign-travel-checklist",
+                    "content_id": "5d8baf93-7631-11e4-a3cb-005056011aef",
+                    "document_type": "detailed_guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-08-29T14:12:45Z",
+                    "schema_name": "detailed_guide",
+                    "title": "Foreign travel checklist",
+                    "web_url": "https://www.gov.uk/guidance/foreign-travel-checklist",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/mozambique",
+                    "api_url": "https://www.gov.uk/api/content/world/mozambique",
+                    "base_path": "/world/mozambique",
+                    "content_id": "e114ff21-0638-41c7-96d8-a9c0ab5bb31a",
+                    "description": "Services if you're visiting, studying, working or living in Mozambique. Includes information about trading with and doing business in the UK and Mozambique.",
+                    "details": {
+                        "internal_name": "UK help and services in Mozambique",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": false
+                    },
+                    "document_type": "taxon",
+                    "links": {},
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2018-02-13T09:38:06Z",
+                    "schema_name": "taxon",
+                    "title": "UK help and services in Mozambique",
+                    "web_url": "https://www.gov.uk/world/mozambique",
+                    "withdrawn": false
+                }
+            ],
+            "organisations": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "parent": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice",
+                    "base_path": "/foreign-travel-advice",
+                    "content_id": "08d48cdd-6b50-43ff-a53b-beab47f4aab0",
+                    "document_type": "travel_advice_index",
+                    "links": {
+                        "parent": [
+                            {
+                                "api_path": "/api/content/browse/abroad/travel-abroad",
+                                "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                                "base_path": "/browse/abroad/travel-abroad",
+                                "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                                "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                                "document_type": "mainstream_browse_page",
+                                "links": {
+                                    "parent": [
+                                        {
+                                            "api_path": "/api/content/browse/abroad",
+                                            "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                                            "base_path": "/browse/abroad",
+                                            "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                                            "description": "Includes renewing passports and travel advice by country",
+                                            "document_type": "mainstream_browse_page",
+                                            "links": {},
+                                            "locale": "en",
+                                            "public_updated_at": "2015-04-08T10:48:43Z",
+                                            "schema_name": "mainstream_browse_page",
+                                            "title": "Passports, travel and living abroad",
+                                            "web_url": "https://www.gov.uk/browse/abroad",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "public_updated_at": "2023-09-22T09:55:27Z",
+                                "schema_name": "mainstream_browse_page",
+                                "title": "Travel abroad",
+                                "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "public_updated_at": "2020-03-10T13:33:58Z",
+                    "schema_name": "travel_advice_index",
+                    "title": "Foreign travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice",
+                    "withdrawn": false
+                }
+            ],
+            "primary_publishing_organisation": [
+                {
+                    "analytics_identifier": "D1315",
+                    "api_path": "/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "api_url": "https://www.gov.uk/api/content/government/organisations/foreign-commonwealth-development-office",
+                    "base_path": "/government/organisations/foreign-commonwealth-development-office",
+                    "content_id": "f9fcf3fe-2751-4dca-97ca-becaeceb4b26",
+                    "details": {
+                        "acronym": "FCDO",
+                        "brand": "foreign-commonwealth-development-office",
+                        "default_news_image": {
+                            "high_resolution_url": "https://assets.publishing.service.gov.uk/media/621e4de4e90e0710be0354d7/s960_fcdo-main-building.jpg",
+                            "url": "https://assets.publishing.service.gov.uk/media/621e4de48fa8f5490aff83b4/s300_fcdo-main-building.jpg"
+                        },
+                        "logo": {
+                            "crest": "single-identity",
+                            "formatted_title": "Foreign, Commonwealth<br/>&amp; Development Office"
+                        },
+                        "organisation_govuk_status": {
+                            "status": "live",
+                            "updated_at": null,
+                            "url": null
+                        }
+                    },
+                    "document_type": "organisation",
+                    "links": {},
+                    "locale": "en",
+                    "schema_name": "organisation",
+                    "title": "Foreign, Commonwealth & Development Office",
+                    "web_url": "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office",
+                    "withdrawn": false
+                }
+            ],
+            "related": [
+                {
+                    "api_path": "/api/content/renew-adult-passport",
+                    "api_url": "https://www.gov.uk/api/content/renew-adult-passport",
+                    "base_path": "/renew-adult-passport",
+                    "content_id": "82248bb1-c4d6-41e0-9494-d98123475626",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-01-12T00:01:07Z",
+                    "schema_name": "guide",
+                    "title": "Renew or replace your adult passport",
+                    "web_url": "https://www.gov.uk/renew-adult-passport",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad",
+                    "base_path": "/browse/abroad",
+                    "content_id": "86eb717a-fb40-42e7-83fa-d031a03880fb",
+                    "description": "Includes renewing passports and travel advice by country",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-04-08T10:48:43Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Passports, travel and living abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/driving-abroad",
+                    "api_url": "https://www.gov.uk/api/content/driving-abroad",
+                    "base_path": "/driving-abroad",
+                    "content_id": "e4d06cb9-9e2e-4e82-b802-0aad013ae16c",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-07-09T08:31:23Z",
+                    "schema_name": "guide",
+                    "title": "Driving abroad",
+                    "web_url": "https://www.gov.uk/driving-abroad",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/hand-luggage-restrictions",
+                    "api_url": "https://www.gov.uk/api/content/hand-luggage-restrictions",
+                    "base_path": "/hand-luggage-restrictions",
+                    "content_id": "95f9c380-30bc-44c7-86b4-e9c9ef0fc272",
+                    "document_type": "guide",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2015-09-07T16:23:07Z",
+                    "schema_name": "guide",
+                    "title": "Hand luggage restrictions at UK airports",
+                    "web_url": "https://www.gov.uk/hand-luggage-restrictions",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/browse/abroad/travel-abroad",
+                    "api_url": "https://www.gov.uk/api/content/browse/abroad/travel-abroad",
+                    "base_path": "/browse/abroad/travel-abroad",
+                    "content_id": "b9849cd6-61a7-42dc-8124-362d2c7d48b0",
+                    "description": "Includes the latest travel advice by country, your rights at the airport and getting help abroad",
+                    "document_type": "mainstream_browse_page",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-09-22T09:55:27Z",
+                    "schema_name": "mainstream_browse_page",
+                    "title": "Travel abroad",
+                    "web_url": "https://www.gov.uk/browse/abroad/travel-abroad",
+                    "withdrawn": false
+                }
+            ],
+            "suggested_ordered_related_items": [
+                {
+                    "api_path": "/api/content/foreign-travel-advice/south-africa",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/south-africa",
+                    "base_path": "/foreign-travel-advice/south-africa",
+                    "content_id": "e4649806-d58a-40f7-b86d-09a4376c25a0",
+                    "details": {
+                        "change_description": "Information on 'smash and grab' attacks on vehicles ('Safety and security' page).\r\n\r\nInformation on the less secure areas around international airports in Johannesburg and Cape Town ('Safety and security' page).\r\n\r\nAdditional information on asking for a life-jacket when participating in water sports ('Safety and security' page).\r\n\r\n",
+                        "country": {
+                            "name": "South Africa",
+                            "slug": "south-africa",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-11-10T12:12:22Z",
+                    "schema_name": "travel_advice",
+                    "title": "South Africa travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/south-africa",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zimbabwe",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zimbabwe",
+                    "base_path": "/foreign-travel-advice/zimbabwe",
+                    "content_id": "d38db404-4291-4088-951a-1b8d5b696f1e",
+                    "details": {
+                        "change_description": "This travel advice has been rewritten to make it easier to read and understand. ",
+                        "country": {
+                            "name": "Zimbabwe",
+                            "slug": "zimbabwe",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-19T11:59:21Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zimbabwe travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zimbabwe",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/tanzania",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/tanzania",
+                    "base_path": "/foreign-travel-advice/tanzania",
+                    "content_id": "203432b1-e296-4ffe-9fc9-dcfe110c0d67",
+                    "details": {
+                        "change_description": "(CORRECTION) Terrorists are very likely to try to carry out attacks in Tanzania in the near future.",
+                        "country": {
+                            "name": "Tanzania",
+                            "slug": "tanzania",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-10-30T12:04:47Z",
+                    "schema_name": "travel_advice",
+                    "title": "Tanzania travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/tanzania",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/zambia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/zambia",
+                    "base_path": "/foreign-travel-advice/zambia",
+                    "content_id": "7e2beff5-a1ee-4ed4-ad63-c9a72bb0dc17",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Zambia",
+                            "slug": "zambia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:43:23Z",
+                    "schema_name": "travel_advice",
+                    "title": "Zambia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/zambia",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/foreign-travel-advice/namibia",
+                    "api_url": "https://www.gov.uk/api/content/foreign-travel-advice/namibia",
+                    "base_path": "/foreign-travel-advice/namibia",
+                    "content_id": "5a2d153e-efc6-4dbc-b3ac-d81e51e4f1f7",
+                    "details": {
+                        "change_description": "Information about the global terrorism risks to British nationals abroad on all FCDO travel advice pages.",
+                        "country": {
+                            "name": "Namibia",
+                            "slug": "namibia",
+                            "synonyms": []
+                        }
+                    },
+                    "document_type": "travel_advice",
+                    "links": {},
+                    "locale": "en",
+                    "public_updated_at": "2023-06-22T10:48:39Z",
+                    "schema_name": "travel_advice",
+                    "title": "Namibia travel advice",
+                    "web_url": "https://www.gov.uk/foreign-travel-advice/namibia",
+                    "withdrawn": false
+                }
+            ],
+            "taxons": [
+                {
+                    "api_path": "/api/content/world/living-in-mozambique",
+                    "api_url": "https://www.gov.uk/api/content/world/living-in-mozambique",
+                    "base_path": "/world/living-in-mozambique",
+                    "content_id": "120a3794-e62d-4aad-9ea6-cf3552c98d57",
+                    "description": "Includes how to access healthcare, get a document legalised, lists of lawyers and how to vote abroad.",
+                    "details": {
+                        "internal_name": "Living in Mozambique",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/mozambique",
+                                "api_url": "https://www.gov.uk/api/content/world/mozambique",
+                                "base_path": "/world/mozambique",
+                                "content_id": "e114ff21-0638-41c7-96d8-a9c0ab5bb31a",
+                                "description": "Services if you're visiting, studying, working or living in Mozambique. Includes information about trading with and doing business in the UK and Mozambique.",
+                                "details": {
+                                    "internal_name": "UK help and services in Mozambique",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:06Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Mozambique",
+                                "web_url": "https://www.gov.uk/world/mozambique",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:01Z",
+                    "schema_name": "taxon",
+                    "title": "Living in Mozambique",
+                    "web_url": "https://www.gov.uk/world/living-in-mozambique",
+                    "withdrawn": false
+                },
+                {
+                    "api_path": "/api/content/world/travelling-to-mozambique",
+                    "api_url": "https://www.gov.uk/api/content/world/travelling-to-mozambique",
+                    "base_path": "/world/travelling-to-mozambique",
+                    "content_id": "fb2c6e10-659a-4eda-b83b-6700611f9fdb",
+                    "description": "Includes travel advice and how to get married abroad.",
+                    "details": {
+                        "internal_name": "Travelling to Mozambique",
+                        "notes_for_editors": "",
+                        "visible_to_departmental_editors": true
+                    },
+                    "document_type": "taxon",
+                    "links": {
+                        "parent_taxons": [
+                            {
+                                "api_path": "/api/content/world/mozambique",
+                                "api_url": "https://www.gov.uk/api/content/world/mozambique",
+                                "base_path": "/world/mozambique",
+                                "content_id": "e114ff21-0638-41c7-96d8-a9c0ab5bb31a",
+                                "description": "Services if you're visiting, studying, working or living in Mozambique. Includes information about trading with and doing business in the UK and Mozambique.",
+                                "details": {
+                                    "internal_name": "UK help and services in Mozambique",
+                                    "notes_for_editors": "",
+                                    "visible_to_departmental_editors": false
+                                },
+                                "document_type": "taxon",
+                                "links": {
+                                    "parent_taxons": [
+                                        {
+                                            "api_path": "/api/content/world/all",
+                                            "api_url": "https://www.gov.uk/api/content/world/all",
+                                            "base_path": "/world/all",
+                                            "content_id": "91b8ef20-74e7-4552-880c-50e6d73c2ff9",
+                                            "description": "Help and services in a country",
+                                            "details": {
+                                                "internal_name": "Help and services around the world",
+                                                "notes_for_editors": "",
+                                                "url_override": "",
+                                                "visible_to_departmental_editors": false
+                                            },
+                                            "document_type": "taxon",
+                                            "links": {},
+                                            "locale": "en",
+                                            "phase": "live",
+                                            "public_updated_at": "2021-07-09T10:08:54Z",
+                                            "schema_name": "taxon",
+                                            "title": "Help and services around the world",
+                                            "web_url": "https://www.gov.uk/world/all",
+                                            "withdrawn": false
+                                        }
+                                    ]
+                                },
+                                "locale": "en",
+                                "phase": "live",
+                                "public_updated_at": "2018-02-13T09:38:06Z",
+                                "schema_name": "taxon",
+                                "title": "UK help and services in Mozambique",
+                                "web_url": "https://www.gov.uk/world/mozambique",
+                                "withdrawn": false
+                            }
+                        ]
+                    },
+                    "locale": "en",
+                    "phase": "live",
+                    "public_updated_at": "2017-06-29T08:17:00Z",
+                    "schema_name": "taxon",
+                    "title": "Travelling to Mozambique",
+                    "web_url": "https://www.gov.uk/world/travelling-to-mozambique",
+                    "withdrawn": false
+                }
+            ]
+        },
+        "locale": "en",
+        "phase": "live",
+        "public_updated_at": "2023-10-27T14:24:09Z",
+        "publishing_app": "travel-advice-publisher",
+        "publishing_request_id": "21-1698416649.722-10.13.21.84-45458",
+        "publishing_scheduled_at": null,
+        "rendering_app": "government-frontend",
+        "scheduled_publishing_delay_seconds": null,
+        "schema_name": "travel_advice",
+        "title": "Mozambique travel advice",
+        "updated_at": "2023-11-15T11:08:02Z",
+        "withdrawn_notice": {}
+    }
+}
