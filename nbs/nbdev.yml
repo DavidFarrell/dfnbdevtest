@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "dfnbdevtest"
-  site-url: "https://DavidFarrell.github.io/dfnbdevtest"
-  description: "This is a play repo to figure out how to put nbdev into practice"
-  repo-branch: main
-  repo-url: "https://github.com/DavidFarrell/dfnbdevtest"
